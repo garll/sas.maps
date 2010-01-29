@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=108
+GUID={E90A2F3E-45CE-4AF9-AC19-D372AC403CCB}
+asLayer=0
+name=Марс Выстоы (Google)
+name_9=Марс Выстоы (Google)
+NameInCache=MARS_elevation
+DefURLBase=http://mw1.google.com/mw-planetary/mars/visible/
+ContentType=image/jpeg
+ParentSubMenu=Космос
+ParentSubMenu_9=Space
+Ext=.jpg
+projection=1
+sradiusa=3396190
+sradiusb=3396190
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=82
+BanIfLen=0
+CacheType=1

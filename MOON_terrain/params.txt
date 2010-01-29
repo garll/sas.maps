@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=110
+GUID={82F76321-6574-4EE2-8DCD-654557134AD7}
+asLayer=0
+name=Луна Высоты (Google)
+NameInCache=MOON_terrain
+DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/terrain/
+ContentType=image/jpeg
+ParentSubMenu=Космос
+Ext=.jpg
+projection=1
+sradiusa=1737400
+sradiusb=1737400
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=83
+BanIfLen=0
+CacheType=1
