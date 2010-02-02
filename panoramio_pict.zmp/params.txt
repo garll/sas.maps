@@ -1,0 +1,25 @@
+[PARAMS]
+GUID={6B05E307-B1EF-4368-9080-83C6B1F437EA}
+asLayer=1
+pnum=113
+name=Panoramio Картинки
+name_9=Panoramio pictures
+NameInCache=Pano
+DefURLBase=http://mlt1.google.com/mapslt?lyrs=com.panoramio.all
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=0
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+
+
