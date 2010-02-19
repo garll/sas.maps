@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=108
+GUID={95D8062B-9122-4CCE-B4BE-2C8ABE80968A}
+name=Карта Украины (gis-center.com)
+name_9=Ukraine Map (gis-center.com)
+asLayer=0
+DefURLBase=http://www.gis-center.com/cgi-bin2/mapserv.exe?map=e:%5Cinetpub%5Cwwwroot%5Cukr_google%5Cukr.map&layers=kvart_city%20houses_obl%20houses_ukr%20houses_zap&mode=tile&tilemode=gmap&tile=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
+NameInCache=gis-center_com_ukr
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ContentType=image/png; mode=24bit
+MimeTypeSubst = """"image/png; mode=24bit""=""image/png""""

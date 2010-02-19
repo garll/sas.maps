@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=17
+pnum=107
 GUID={1765996B-95B8-46FD-9209-BC6B8689E2EC}
 name=Чебоксары (cheboksary.ws)
 name_9=Map (cheboksary.ws)
