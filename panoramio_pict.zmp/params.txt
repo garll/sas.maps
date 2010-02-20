@@ -5,7 +5,7 @@ pnum=113
 name=Panoramio Картинки
 name_9=Panoramio pictures
 NameInCache=Pano
-DefURLBase=http://mlt1.google.com/mapslt?lyrs=com.panoramio.all
+DefURLBase=http://mt.google.com/mapslt?lyrs=lmc:com.panoramio.p.all
 ContentType=image/png
 Ext=.png
 projection=1
