@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=108
 GUID={95D8062B-9122-4CCE-B4BE-2C8ABE80968A}
-name=Карта Украины (gis-center.com)
-name_9=Ukraine Map (gis-center.com)
+name=Гибрид Украины (gis-center.com)
+name_9=Ukraine Hybrid (gis-center.com)
 asLayer=1
 DefURLBase=http://www.gis-center.com/cgi-bin2/mapserv.exe?map=e:%5Cinetpub%5Cwwwroot%5Cukr_google%5Cukr.map&layers=kvart_city%20houses_obl%20houses_ukr%20houses_zap&mode=tile&tilemode=gmap&tile=
 projection=1
