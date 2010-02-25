@@ -1,13 +1,21 @@
+function addzero(i:integer):string;
+var rs:string;
+begin
+rs:=inttostr(i);
+while length(rs)<3 do rs:='0'+rs;
+result:=rs;
+end;
 var
 sx,sy,sz:string;
-
+dx,dy:integer;
+ty:integer;
 begin
-sx:=inttostr(Getx);
-sy:=inttostr(round(intpower(2,GetZ-1))-Gety);
+dx:=(getx div 1000);
+sx:=addzero(Getx-dx*1000);
+ty:=round(intpower(2,GetZ-1))-Gety;
+dy:=(ty div 1000);
+ty:=ty-dy*1000-1;
+sy:=addzero(ty);
 sz:=inttostr(Getz-1);
-while length(sx)<3 do sx:='0'+sx;
-while length(sy)<3 do sy:='0'+sy;
-while length(sz)<2 do sz:='0'+sz;
-
-ResultURL:=GetUrlBase+sz+'/00/000/000/'+sx+'/000/000/'+sy+'.png';
+ResultURL:=GetUrlBase+sz+'/00/000/'+addzero(dx)+'/'+sx+'/000/'+addzero(dy)+'/'+sy+'.png';
 end.
