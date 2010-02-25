@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=19
+GUID={714D22FC-40A0-41ED-A6E3-4DFFA1589CBA}
+name=Карта (pro-gorod.ru 1)
+name_9=Map (pro-gorod.ru 1)
+ParentSubMenu=Другие карты
+ParentSubMenu_9=Other maps
+asLayer=0
+DefURLBase=http://www.glekov.ru/lv
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=progorod1
+separator=1
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=32843
+ContentType=image/png
+BanIfLen=0

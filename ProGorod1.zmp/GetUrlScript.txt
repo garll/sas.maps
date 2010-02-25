@@ -1,0 +1,13 @@
+var
+sx,sy,sz:string;
+
+begin
+sx:=inttostr(Getx);
+sy:=inttostr(round(intpower(2,GetZ-1))-Gety);
+sz:=inttostr(Getz-1);
+while length(sx)<3 do sx:='0'+sx;
+while length(sy)<3 do sy:='0'+sy;
+while length(sz)<2 do sz:='0'+sz;
+
+ResultURL:=GetUrlBase+sz+'/00/000/000/'+sx+'/000/000/'+sy+'.png';
+end.
