@@ -1,0 +1,26 @@
+[PARAMS]
+GUID={4334AD70-75F3-476B-8D92-43BE9426C255}
+asLayer=0
+name=Карта (navigation.teleatlas.com)
+name_9=Map (navigation.teleatlas.com)
+NameInCache=teleatlas_com
+DefURLBase=http://wms03.lbs.tomtom.com/lbs/wms?LAYERS=basic&TRANSPARENT=false&REQUEST=GetMap&FORMAT=image%2Fpng&APIKEY=7093ecaa-c943-4a20-b1b0-c232388e708b&SERVICE=WMS&VERSION=1.1.1&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
+ContentType=image/png
+ParentSubMenu=Другие карты
+ParentSubMenu_9=Other maps
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=0
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+
+
