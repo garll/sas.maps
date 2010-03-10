@@ -2,7 +2,7 @@
 pnum=28
 GUID={EC9E8E65-9A06-4543-B03E-F4A9286F1BB6}
 asLayer=0
-name=Карта Молдовы (point.md)
+name=Карта Молдавии (point.md)
 name_9=Moldova map (point.md)
 NameInCache=Point_md
 DefURLBase=http://point.md/tilecache/1/
