@@ -5,3 +5,4 @@ syntax: glob
 *.bak
 *.~*
 *.orig
+*/Thumbs.db
