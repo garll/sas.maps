@@ -8,7 +8,7 @@ DefURLBase=http://gt3.google.com/mt/n=404&v=gwm.1285
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-NameInCache=map
+NameInCache=mapmaker
 separator=0
 Ext=.png
 UseDwn=1
