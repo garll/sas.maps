@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=103
+GUID={D8A2B03A-18B8-4127-936A-2D6A7AE0D89B}
+name=Ландшафт без названий (Google)
+name_9=Landscape w\o names (Google)
+asLayer=0
+DefURLBase=http://mt0.google.com/vt/lyrs=t@108&hl=ru&
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Google_land
+separator=1
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=1000
+DefHotKey=0
+ContentType=image/jpeg
+BanIfLen=1722
