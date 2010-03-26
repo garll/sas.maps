@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=194
+GUID={35FF2B84-774C-4D3F-85DB-5DBACB1AA69A}
+asLayer=0
+name=Троицк (Umap.ru)
+name_9=Троицк (Umap.ru)
+NameInCache=Umap_47074
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=47074
+ContentType=text/html , image/gif
+ParentSubMenu=Umap
+ParentSubMenu_9=Umap
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=0
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
