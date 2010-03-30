@@ -1,0 +1,13 @@
+var xx,yy,zz:string;
+begin
+
+xx:=inttostr(GetX);
+yy:=inttostr(round(intpower(2,getz-1)-GetY)-1);
+zz:=inttostr(GetZ-1);
+while length(xx)<8 do xx:='0'+xx;
+while length(yy)<8 do yy:='0'+yy;
+while length(zz)<2 do zz:='0'+zz;
+
+
+ ResultURL:=GetUrlBase+xx+','+yy+','+zz;
+end.
