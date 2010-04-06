@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=195
+GUID={4ED7D293-908D-456F-A830-61D6A8D6EA46}
+asLayer=0
+name=Новоуральск (Umap.ru)
+name_9=Новоуральск (Umap.ru)
+NameInCache=Umap_53066
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=53066
+ContentType=text/html , image/gif
+ParentSubMenu=Umap
+ParentSubMenu_9=Umap
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
