@@ -1,0 +1,18 @@
+гибрид
+http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Anno/MapServer/tile/13/2939/4982.png
+http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Anno/MapServer/tile/13/2939/4983.png
+
+http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Anno/MapServer/tile/13/2939/4983.png
+http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Anno/MapServer/tile/13/2939/4983.png
+
+
+
+
+карта
+
+http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Rus_Bing_MSD_wa500/MapServer/tile/13/2935/4981.jpg
+
+
+кадастровые границы
+
+http://maps.rosreestr.ru/ArcGIS/rest/services/Portal/Cadastre/MapServer/export?dpi=96&transparent=true&format=png&bbox=%7B%22xmin%22%3A980681.2066665133%2C%22ymin%22%3A2921431.52446047%2C%22xmax%22%3A9844930.502839476%2C%22ymax%22%3A10367009.575660938%2C%22spatialReference%22%3A%7B%22wkid%22%3A102113%7D%7D&bboxSR=102113&imageSR=102113&size=256%2C256&f=image
