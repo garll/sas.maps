@@ -4,7 +4,7 @@ GUID={D735B149-CD17-49BB-B246-678977A618FD}
 name=Карта (GoogleMapMaker)
 name_9=Map (GoogleMapMaker)
 asLayer=0
-DefURLBase=http://gt3.google.com/mt/n=404&v=gwm.1285
+DefURLBase=http://gt3.google.com/mt/n=404&v=gwm.1295
 projection=1
 sradiusa=6378137
 sradiusb=6378137
