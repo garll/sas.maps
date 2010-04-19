@@ -1,0 +1,25 @@
+[PARAMS]
+active=0
+asLayer=0
+GUID={F208EADF-63F1-41A8-ABE1-B1A265BBFF10}
+name=Карта (Eniro.com)
+name_9=Map (Eniro.com)
+DefURLBase=http://map01.eniro.com/geowebcache/service/tms1.0.0/map/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Eniro
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=79
+ContentType=image/png
+BanIfLen=0

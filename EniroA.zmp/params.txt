@@ -1,0 +1,25 @@
+[PARAMS]
+active=0
+asLayer=0
+GUID={0FA9C3D1-6A11-4384-AAED-0226B315DC03}
+name=Аэрофото (Eniro.com)
+name_9=Aerophoto (Eniro.com)
+DefURLBase=http://map02.eniro.com/geowebcache/service/tms1.0.0/aerial/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=EniroA
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/jpeg
+BanIfLen=0
