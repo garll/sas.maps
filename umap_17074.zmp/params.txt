@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=194
+GUID={D4BFDB5B-948B-4161-9215-C3E31B932DA8}
+asLayer=0
+name=Златоуст (Umap.ru)
+name_9=Златоуст (Umap.ru)
+NameInCache=Umap_17074
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=17074
+ContentType=text/html , image/gif
+ParentSubMenu=Umap
+ParentSubMenu_9=Umap
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
