@@ -1,0 +1,4 @@
+begin
+ if getz >=13 then GetURLBase:='http://s3.amazonaws.com/arbalet/z';
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetY)+'_'+inttostr(GetX)+'.png';
+end.

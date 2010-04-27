@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=140
+GUID={DE1F2034-CE45-4FD8-A6FF-7307687B308E}
+asLayer=0
+name=Москва + МО Генштаб (school2.ru)
+name_9=Moscow Genshtab (school2.ru)
+NameInCache=Gsh_moscow
+DefURLBase=http://dw.school2.ru/map/t
+ContentType=image/png
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
