@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=114
+GUID={380820C2-BB78-4203-896B-D4353C1EEAE6}
+asLayer=1
+name=Надписи (rosreestr.ru)
+name_9=Hybrid (rosreestr.ru)
+NameInCache=rosreestr_hyb
+DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Anno/MapServer/tile
+DefaultContentType=image/png
+ContentType=""
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
