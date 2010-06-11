@@ -2,8 +2,8 @@
 pnum=12
 GUID={DEE2AC2F-7649-415F-AFB3-E337CDAF3A5D}
 asLayer=0
-name=Карта Gurtam
-name_9=Map Gurtam
+name=Карта Gurtam (maps.cnord.ru)
+name_9=Map Gurtam (maps.cnord.ru)
 NameInCache=gumap
 DefURLBase=http://maps.cnord.ru/map_gmaps?
 ContentType=image/png
