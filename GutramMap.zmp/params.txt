@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=12
+GUID={DEE2AC2F-7649-415F-AFB3-E337CDAF3A5D}
+asLayer=0
+name=Карта Gurtam
+name_9=Map Gurtam
+NameInCache=gumap
+DefURLBase=http://maps.cnord.ru/map_gmaps?
+ContentType=image/png
+Ext=.PNG
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
