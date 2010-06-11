@@ -16,3 +16,4 @@ http://maps.rosreestr.ru/ArcGIS/rest/services/Data_2010/Rus_Bing_MSD_wa500/MapSe
 кадастровые границы
 
 http://maps.rosreestr.ru/ArcGIS/rest/services/Portal/Cadastre/MapServer/export?dpi=96&transparent=true&format=png&bbox=%7B%22xmin%22%3A980681.2066665133%2C%22ymin%22%3A2921431.52446047%2C%22xmax%22%3A9844930.502839476%2C%22ymax%22%3A10367009.575660938%2C%22spatialReference%22%3A%7B%22wkid%22%3A102113%7D%7D&bboxSR=102113&imageSR=102113&size=256%2C256&f=image
+http://maps.rosreestr.ru/ArcGIS/rest/services/Portal/Cadastre/MapServer/export?dpi=96&transparent=true&format=png&bbox={"xmin":4335951.445643137,"ymin":5654074.39491188,"xmax":4344607.939096422,"ymax":5661345.467227498,"spatialReference":{"wkid":102113}}&bboxSR=102113&imageSR=102113&size=256,256&f=image
