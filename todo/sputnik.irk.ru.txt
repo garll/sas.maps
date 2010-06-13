@@ -1,0 +1,4 @@
+http://www.sputnik.irk.ru/modis/ol/ol.php?fs=
+
+http://www.sputnik.irk.ru/modis/reg_set.html
+http://www.sputnik.irk.ru/modis/modis.html
