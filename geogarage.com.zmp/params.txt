@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=28
+GUID={822FDE8C-C357-47E6-ABA5-0D6BB8183838}
+asLayer=0
+name= Историческая карта (geogarage.com)
+name_9=history (geogarage.com)
+NameInCache=geogarage.com
+DefURLBase=http://tiles-proxy.geogarage.com/g4764015/
+ContentType=image/png
+ParentSubMenu=Исторические
+ParentSubMenu_9=history
+Ext=.png
+projection=1
+sradiusa=3396190
+sradiusb=3396190
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
