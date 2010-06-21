@@ -1,0 +1,18 @@
+var
+sh_x:array[0..24] of integer;
+sh_y:array[0..24] of integer;
+
+begin
+sh_x[0]:=301; sh_y[0]:=589;
+sh_x[1]:=301; sh_y[1]:=589;
+sh_x[2]:=301; sh_y[2]:=589;
+sh_x[3]:=301; sh_y[3]:=589;
+sh_x[4]:=0; sh_y[4]:=0;
+sh_x[5]:=0; sh_y[5]:=0;
+sh_x[6]:=0; sh_y[6]:=0;
+sh_x[7]:=0; sh_y[7]:=0;
+sh_x[8]:=0; sh_y[8]:=0;
+sh_x[9]:=0; sh_y[9]:=0;
+
+ ResultURL:=GetUrlBase+'/'+inttostr(Getz-3)+'/'+inttostr(GetY+sh_y[getz])+'/'+inttostr(GetX+sh_x[getz])+'.png';
+end.
