@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=48
+pnum=148
 GUID={4FCDC002-345B-4769-A271-FA58E1CBAC32}
 asLayer=0
 name=Карта Москвы (ggk.mos.ru)

@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=28
+pnum=128
 GUID={EC9E8E65-9A06-4543-B03E-F4A9286F1BB6}
 asLayer=0
 name=Карта Молдавии (point.md)

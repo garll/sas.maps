@@ -1,5 +1,6 @@
 [PARAMS]
 GUID={EDCF010A-359E-4CD1-9610-2F19A12C08C7}
+pnum=128
 asLayer=0
 name=Забайкальский край (zab-gis.ru)
 name_9=Baikal map(zab-gis.ru)

@@ -1,6 +1,7 @@
 [PARAMS]
 active=0
 asLayer=0
+pnum=110
 GUID={0FA9C3D1-6A11-4384-AAED-0226B315DC03}
 name=Аэрофото (Eniro.com)
 name_9=Aerophoto (Eniro.com)

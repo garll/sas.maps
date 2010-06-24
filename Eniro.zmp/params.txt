@@ -1,5 +1,6 @@
 [PARAMS]
 active=0
+pnum=110
 asLayer=0
 GUID={F208EADF-63F1-41A8-ABE1-B1A265BBFF10}
 name=Карта (Eniro.com)
