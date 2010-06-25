@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=30
+GUID={FB91E1F8-B9F4-4871-83A2-7AF3F1C76559}
+asLayer=1
+name=Слой созвездий (Google)
+name_9=Sozvezdiya (Google)
+NameInCache=sky_sozv
+DefURLBase=http://mt1.google.com/mapslt?lyrs=kml:cO3EGLN6FQYFEW7oRNPQIjRVuo4gH_FrckaqT9rW4I1UnwdxsZ8h80UGcIdINAg|kv:3|kp:&w=256&h=256&source=maps_api&hl=ru
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+
+
