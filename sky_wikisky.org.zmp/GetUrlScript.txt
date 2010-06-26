@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetUrlBase+roundex(320/intpower(2,(getz-1)),5)+'&x_shift='+inttostr(-128+(-GetX+((round(intpower(2,GetZ-1)))div 2))*256)+'&y_shift='+inttostr(-128+(-GetY+((round(intpower(2,GetZ-1)))div 2))*256);
+end.
