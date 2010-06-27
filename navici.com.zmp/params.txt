@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=148
+GUID={E1BB4A20-4D08-4A4F-B97D-AE77317652DA}
+asLayer=0
+name=Карта карелии (navici.com)
+name_9=Karelia map (navici.com)
+NameInCache=navici_com
+DefURLBase=http://ntile1.navici.com/karjala/?LAYERS=topo100k_group&BBOX=
+ContentType=image/jpeg,image/png
+Ext=.png
+projection=1
+sradiusa=6371000
+sradiusb=6371000
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+BanIfLen=0
+MimeTypeSubst = "image/jpeg=image/png"

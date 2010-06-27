@@ -1,0 +1,3 @@
+begin
+  ResultURL:=GetURLBase+RoundEx(GetLLon*100000,10)+','+RoundEx(GetBLat*100000,10)+','+RoundEx(GetRLon*100000,10)+','+RoundEx(GetTLat*100000,10);
+end.
