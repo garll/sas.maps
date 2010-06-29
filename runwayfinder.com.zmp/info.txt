@@ -1,0 +1,4 @@
+Для изменения типа карты изпользуйте в настройках(Ctrl-P) следующие URL
+http://www.runwayfinder.com/media/ifrcharts/?x=
+http://www.runwayfinder.com/media/ifrhicharts/?x=
+
