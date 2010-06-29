@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=114
+GUID={D9C067A9-5038-4465-BE4C-48E13EB7A086}
+asLayer=1
+name=Дороги (dataplus.ru)
+name_9=Roads (dataplus.ru)
+NameInCache=dataplus_roads
+DefURLBase=http://gis.dataplus.ru/ArcGIS/rest/services/EKO/Roads/MapServer/export?dpi=96&transparent=true&format=png&
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

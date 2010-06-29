@@ -2,12 +2,12 @@
 pnum=114
 GUID={380820C2-BB78-4203-896B-D4353C1EEAE6}
 asLayer=1
-name=Надписи (rosreestr.ru)
-name_9=Hybrid (rosreestr.ru)
-NameInCache=rosreestr_hyb
-DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/BaseMaps/Anno/MapServer/tile
+name=Надписи (dataplus.ru)
+name_9=Hybrid (dataplus.ru)
+NameInCache=dataplus_hyb
+DefURLBase=http://gis.dataplus.ru/ArcGIS/rest/services/EKO/Anno/MapServer/export?dpi=96&transparent=true&format=png&
 DefaultContentType=image/png
-ContentType=""
+ContentType="image/png"
 Ext=.png
 projection=1
 sradiusa=6378137

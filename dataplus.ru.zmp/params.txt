@@ -1,18 +1,18 @@
 [PARAMS]
 pnum=103
 GUID={F0E3F10C-0CA7-4EE2-A27E-95E704AABAEB}
-name= Карта (dataplus.ru)
+name=Карта (dataplus.ru)
 name_9=Map (dataplus.ru)
 asLayer=0
-DefURLBase=http://projectserver.dataplus.ru/ArcGIS/rest/services/Russia/Physical_Map/MapServer/tile
+DefURLBase=http://projectserver.dataplus.ru/ArcGIS/rest/services/Russia/Russia_AGS/MapServer/export?dpi=96&transparent=true&format=png&
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu=dataplus.ru
+ParentSubMenu_9=dataplus.ru
 NameInCache=dataplus.ru
 separator=1
-Ext=.jpg
+Ext=.png
 UseDwn=1
 Usestick=1
 UseGenPrevious=1
@@ -21,8 +21,4 @@ Usesave=1
 UseAntiBan=0
 Sleep=100
 DefHotKey=0
-ContentType=image/jpeg
-TILERLEFT=0
-TILERRIGHT=128
-TILERTOP=0
-TILERBOTTOM=128
+ContentType=image/png

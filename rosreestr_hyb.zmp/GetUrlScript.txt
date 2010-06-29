@@ -1,3 +1,0 @@
-begin
- ResultURL:=GetURLBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetY)+'/'+inttostr(GetX)+'.png';
-end.
