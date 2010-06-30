@@ -1,6 +1,7 @@
 [PARAMS]
 GUID={4334AD70-75F3-476B-8D92-43BE9426C255}
 asLayer=0
+pnum=100
 name=Карта (navigation.teleatlas.com)
 name_9=Map (navigation.teleatlas.com)
 NameInCache=teleatlas_com

@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=1
+GUID={3EBFF911-D074-4983-9346-2C03F68041A3}
+asLayer=0
+name= marine.geogarage.com/routes (geogarage.com)
+name_9=marine.geogarage.com/routes (geogarage.com)
+NameInCache=geogarage_com_route
+DefURLBase=http://publish3.geogarage.com/noaa/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=3396190
+sradiusb=3396190
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=Другие карты
+ParentSubMenu_9=Other maps
