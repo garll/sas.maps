@@ -38,13 +38,13 @@ begin
  if GetY <7 then insert('10',GetURLBase,13) else insert('8',GetURLBase,13);
 
  case GetY of
- 7: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 8: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 9: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 10: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 11: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 12: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 13: ResultURL:=GetURLBase+res+'/'+res+'.png';
+ 7: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 8: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 9: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 10: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 11: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 12: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
+ 13: ResultURL:=GetURLBase+COPY(res,1,6)+'/'+res+'.png';
  else
  ResultURL:=GetURLBase+res+'.png';
  end

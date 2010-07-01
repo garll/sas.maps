@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=114
+GUID={F12A0864-E8F1-45E4-834D-5A8C7E118DE6}
+asLayer=0
+name=Магнитогорск (magnitog.ru)
+name_9=Magnitogorsk (magnitog.ru)
+NameInCache=magnitog_ru
+DefURLBase=http://map.magnitog.ru/mgnfreelots/images/
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
