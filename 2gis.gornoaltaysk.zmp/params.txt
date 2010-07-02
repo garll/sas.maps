@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=170
+GUID={DD65D814-01A2-4788-BB1D-A1FBB6AF3B15}
+asLayer=0
+name=ГорноАлтайск (2gis.ru)
+name_9=Gornoaltaysk (2gis.ru)
+NameInCache=2gis_gornoaltaysk
+DefURLBase=http://tile4.maps.2gis.ru/tile/gornoaltaysk
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ДубльГис
+ParentSubMenu_9=2gis

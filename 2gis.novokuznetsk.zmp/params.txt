@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=170
+GUID={BA18658E-6271-45FC-8E72-0DB974470A34}
+name=Новокузнетск (2gis.ru)
+name_9=Novokuznetsk (2gis.ru)
+NameInCache=2gis_Novokuznetsk
+DefURLBase=http://tile4.maps.2gis.ru/tile/novokuznetsk
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ДубльГис
+ParentSubMenu_9=2gis

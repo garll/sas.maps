@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=170
+GUID={3FB1A44B-2713-4969-80F0-8EC0D52B2F7E}
+name=“юмень (2gis.ru)
+name_9=Tyumen (2gis.ru)
+NameInCache=2gis_Tyumen
+DefURLBase=http://tile4.maps.2gis.ru/tile/tyumen
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ƒубль√ис
+ParentSubMenu_9=2gis
