@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=158
+GUID={B55B2C70-7976-4A41-A6D1-FDCF35263EA6}
+asLayer=0
+name=Карта Ви-Тел (vi-tel.ru)
+name_9=Map Vi-Tel (vi-tel.ru)
+NameInCache=vi-tel
+DefURLBase=http://gps.vi-tel.ru/gmap/
+ContentType=image/png
+ParentSubMenu=
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+DefHotKey=0
