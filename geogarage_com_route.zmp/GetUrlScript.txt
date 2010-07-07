@@ -39,7 +39,7 @@ begin
 
  case GetZ of
  5: ResultURL:=GetURLBase+res+'/'+res+'.png';
- 5: ResultURL:=GetURLBase+res+'/'+res+'.png';
+ 6: ResultURL:=GetURLBase+res+'/'+res+'.png';
  7: ResultURL:=GetURLBase+copy(res,1,6)+'/'+res+'.png';
  8: ResultURL:=GetURLBase+copy(res,1,6)+'/'+res+'.png';
  9: ResultURL:=GetURLBase+copy(res,1,6)+'/'+res+'.png';
