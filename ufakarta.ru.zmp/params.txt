@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=117
+GUID={84020C09-ACE1-402A-8B59-07EF81D772FA}
+asLayer=0
+name=Карта Уфы (ufakarta.ru)
+name_9=Map Ufa (ufakarta.ru)
+NameInCache=ufakarta_ru
+DefURLBase=http://www.ufakarta.ru/tiles
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
