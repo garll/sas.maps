@@ -1,0 +1,16 @@
+var
+Step:integer;
+shiftx,shifty:integer;
+y:integer;
+begin
+shiftx:=225280;
+shifty:=5632000;
+
+step:=round(225280/round(intpower(2,getz-3)))
+if gety<3 then step:=0;
+
+y:=round(intpower(2,getz-1))-GetY-1;
+
+ResultURL:=GetURLBase+inttostr(shiftx+getx*step)+','+inttostr(shifty+Y*step)+','+inttostr(shiftx+getx*step+step)+','+inttostr(shifty+Y*step+step);
+end.
+
