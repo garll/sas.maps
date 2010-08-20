@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=139
+GUID={B5F81E9E-7354-45DC-8B42-5F3952C39039}
+asLayer=0
+name=Генштаб (TopoMapper.com)
+name_9=Genshtab (TopoMapper.com)
+NameInCache=topomapper.com
+DefURLBase=http://78.46.61.141/cgi-bin/tilecache-2.10/tilecache.py?LAYERS=topomapper_gmerc&FORMAT=image%2Fjpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
+ContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+
