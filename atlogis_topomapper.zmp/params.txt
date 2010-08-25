@@ -25,5 +25,5 @@ TILERLEFT=0
 TILERRIGHT=512
 TILERTOP=0
 TILERBOTTOM=512
-ParentSubMenu=Даг£®• ™†авл
+ParentSubMenu=ƒругие карты
 ParentSubMenu_9=Other maps
