@@ -1,0 +1,7 @@
+var
+shift:integer;
+begin
+
+ if getz < 4 then shift:=0 else shift:=round(intpower(2,getz-3))+1;
+ ResultURL:=GetURLBase+'/'+inttostr(GetZ-2)+'/'+inttostr(GetX)+'/'+inttostr(round(intpower(2,GetZ)div 2) - GetY -shift);
+end.
