@@ -9,7 +9,7 @@ IF ERRORLEVEL 0 goto ok
 goto err
 
 :ok
-        echo Забраем изменения из репозитория
+        echo Забираем изменения из репозитория
         hg pull "https://bitbucket.org/garl/plus.zmp/" -u -f
         IF ERRORLEVEL 1 goto err
         IF NOT ERRORLEVEL 0 goto err
