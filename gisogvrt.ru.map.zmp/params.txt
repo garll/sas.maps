@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=114
+GUID={8E4F4CDD-B5EB-45D0-AA13-F092E7B700A6}
+asLayer=0
+name=Татарстан карта (gisogvrt.ru)
+name_9=Tatarstan map (gisogvrt.ru)
+NameInCache=gisogvrt_ru_map
+DefURLBase=http://geo.gisogvrt.ru/geoserver/gwc/service/wms?FORMAT=image%2Fpng&LAYERS=worldmap&VERSION=1%2E1%2E1&SERVICE=WMS&WIDTH=256&SRS=EPSG%3A900913&REQUEST=GetMap&HEIGHT=256&BBOX=
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps

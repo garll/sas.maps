@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=114
+GUID={4E31FC44-D30D-495F-B0A5-18B00BF9C399}
+asLayer=0
+name=Татарстан снимок (gisogvrt.ru)
+name_9=Tatarstan sat (gisogvrt.ru)
+NameInCache=gisogvrt_ru_sat
+DefURLBase=http://geo.gisogvrt.ru/tms/?FORMAT=image%2Fjpeg&LAYERS=kosmosnimok&VERSION=1%2E1%2E1&SERVICE=WMS&WIDTH=256&SRS=EPSG%3A900913&REQUEST=GetMap&HEIGHT=256&BBOX=
+ContentType="image/jpeg"
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
