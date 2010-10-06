@@ -1,0 +1,26 @@
+[PARAMS]
+active=0
+asLayer=0
+pnum=130
+GUID={B84EAE41-BDDF-4FD6-844E-D2C34756F82B}
+name=Карта Крыма (crimea.ua)
+name_9=Krim Map(crimea.ua)
+DefURLBase=http://smc.crimea.ua/crimea/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=crimea_ua
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+ContentType=image/png
+BanIfLen=0
