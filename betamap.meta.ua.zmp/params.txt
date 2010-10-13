@@ -5,7 +5,7 @@ asLayer=0
 name=Карты Украины (betamap.meta.ua)
 name_9=Ukraine Map (betamap.meta.ua)
 NameInCache=betamap_meta_ua
-DefURLBase=http://betamap.meta.ua/cell_ol.php?x=
+DefURLBase=http://betamap.meta.ua/cell.php?x=
 ContentType=image/png
 ParentSubMenu=Локальные карты
 ParentSubMenu_9=Local maps
