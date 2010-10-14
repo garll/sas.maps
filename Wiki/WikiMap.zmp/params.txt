@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=14
+GUID={43696AD8-09A5-4555-9DFC-C7D4E6D8D790}
+asLayer=0
+name=Карта (WikiMapia)
+name_9=Map (WikiMapia)
+NameInCache=WikiMap
+DefURLBase=http://i.wikimapia.org/?lng=1&
+ContentType=image/png,text/plain
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+MimeTypeSubst = "text/plain=image/png"

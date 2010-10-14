@@ -1,0 +1,3 @@
+begin 
+ ResultURL:=GetURLBase+RoundEx(GetLMetr,8)+','+RoundEx(GetBMetr,8)+','+RoundEx(GetRMetr,8)+','+RoundEx(GetTMetr,8);
+end.

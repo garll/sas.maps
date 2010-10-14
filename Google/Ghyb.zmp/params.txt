@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=38
+GUID={F25E37ED-923B-41E7-8BA6-CC0CC3213B93}
+asLayer=1
+name=Гибрид (Google)
+name_9=Hybrid (Google)
+NameInCache=Both
+DefURLBase=http://mt.google.com/vt?v=w2t.999&hl=ru
+ContentType=image/png
+ParentSubMenu=
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UsePreloadPage=1
+Sleep=0
+DefHotKey=72
+BanIfLen=4321

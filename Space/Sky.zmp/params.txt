@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=30
+GUID={CDC2FCCD-DD7F-49A9-BB33-AB81B495409A}
+asLayer=0
+name=Звезды (Google)
+name_9=Sky (Google)
+NameInCache=sky
+DefURLBase=http://mw1.google.com/mw-planetary/sky/skytiles_v1/
+ContentType=image/jpeg
+ParentSubMenu=Космос
+ParentSubMenu_9=Space
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=90
+BanIfLen=0

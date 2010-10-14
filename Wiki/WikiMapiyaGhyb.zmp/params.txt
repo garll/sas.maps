@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=41
+GUID={B30B8F92-5680-410B-962D-E2C650B9CE45}
+asLayer=1
+name=Гибрид (Wikimapia)
+name_9=Hybrid (Wikimapia)
+NameInCache=WikiMapHyb
+DefURLBase=http://i.wikimapia.org/?
+ContentType=image/png,text/plain
+Ext=.png
+ParentSubMenu=
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+MimeTypeSubst = "text/plain=image/png"

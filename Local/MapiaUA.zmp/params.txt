@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=27
+GUID={4DD430E5-30CE-4184-B18F-0AFD82686007}
+asLayer=0
+name=Карта Украины (mapia.com.ua)
+name_9=Ukraine map (mapia.com.ua)
+NameInCache=mapiaua
+DefURLBase=http://mapia.com.ua/1.0.0/ru/
+ContentType=image/png
+ParentSubMenu=Локальные карты
+ParentSubMenu_9=Local maps
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

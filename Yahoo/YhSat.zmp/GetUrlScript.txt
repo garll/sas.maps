@@ -1,0 +1,3 @@
+begin 
+ ResultURL:=GetURLBase+'&x='+inttostr(GetX)+'&y='+inttostr(((round(intpower(2,GetZ-1))div 2)-1)-GetY)+'&z='+inttostr(GetZ);
+end.

@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=141
+GUID={3E2164BF-A302-4071-B212-8BE3B0C0E9FA}
+asLayer=0
+name=Генштаб 10 км
+name_9=Genshtab 10 km
+NameInCache=Genshtab10km
+DefURLBase=http://karta-genshtab.narod.ru/map10k
+ContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

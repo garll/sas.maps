@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=36
+GUID={5B8A5F51-214C-4A51-9AEF-59CECDAB6FEF}
+asLayer=0
+name=Санкт-Петербургская, 1в., 1866, центр (boxpis.ru)
+name_9=Sankt-Peterburg, 1v., 1866 (boxpis.ru)
+NameInCache=_SVG_SP_1866_1v_boxpis
+DefURLBase=http://boxpis.ru/sas/spg_1866_c/
+ContentType=image/jpeg
+ParentSubMenu=Исторические
+ParentSubMenu_9=history
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=100
+DefHotKey=0
+BanIfLen=0

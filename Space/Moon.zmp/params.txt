@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=29
+GUID={3B7C647C-E9DB-40A1-A21A-71BC6E9190C8}
+asLayer=0
+name=Луна (Google)
+name_9=Moon (Google)
+NameInCache=moon
+DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/apollo/
+ContentType=image/jpeg
+ParentSubMenu=Космос
+ParentSubMenu_9=Space
+Ext=.jpg
+projection=1
+sradiusa=1737400
+sradiusb=1737400
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=83
+BanIfLen=0

@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=8
+GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE6}
+name=Карта Navitel
+name_9=Navitel Map
+asLayer=0
+DefURLBase=http://maps.navitel.su/navitms.fcgi?t=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Navitel
+separator=1
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=10
+DefHotKey=16462
+ContentType=image/png

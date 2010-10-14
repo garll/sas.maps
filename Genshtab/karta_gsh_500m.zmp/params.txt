@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=145
+GUID={4463DAE6-03C7-4189-80E5-12C9530CE857}
+asLayer=0
+name=Генштаб 500 м
+name_9=Genshtab 500 m
+NameInCache=genshtab500m
+DefURLBase=http://karta-genshtab.narod.ru/map05k
+ContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

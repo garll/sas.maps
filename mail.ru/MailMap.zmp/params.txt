@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=119
+GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
+asLayer=0
+name=Карта (Карты@mail)
+name_9=Map (Maps@mail)
+NameInCache=mailmap
+DefURLBase=http://t2.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=maps
+ContentType=image/png
+ParentSubMenu=Другие карты
+ParentSubMenu_9=Other maps
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=16457
+BanIfLen=0

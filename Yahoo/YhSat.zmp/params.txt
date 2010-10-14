@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=11
+GUID={054533A1-6169-48C5-9635-A90A277A1516}
+asLayer=0
+name=Спутник (Yahoo!)
+name_9=Satellite (Yahoo!)
+NameInCache=yhsat
+DefURLBase=http://maps.yimg.com/ae/ximg?v=1.9&t=a&s=256&r=1
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=32857
+BanIfLen=0

@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=36
+GUID={D0432E65-B50A-40E9-A813-1ED1D6C986AE}
+asLayer=0
+name="Шуберт" 2вер., Московская (boxpis.ru)
+name_9="Shubert" 2ver., Moskovskaja (boxpis.ru)
+NameInCache=SVG_Mosk2v_boxpis
+DefURLBase=http://boxpis.ru/sas/sh_m2v/
+ContentType=image/jpeg
+ParentSubMenu=Исторические
+ParentSubMenu_9=history
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=100
+DefHotKey=0
+BanIfLen=0

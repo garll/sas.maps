@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=9
+GUID={9A360A5D-7A70-402D-8A11-D670BD739B7B}
+name=Спутник (Bing Maps, Bird's Eye N)
+name_9=Satellite (Bing Maps, Bird's Eye N)
+asLayer=0
+DefURLBase=http://ecn.t3.tiles.virtualearth.net/tiles/svi
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=vesatbird_N
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=86
+ContentType=image/jpeg
+BanIfLen=0
+TILERLEFT=0
+TILERRIGHT=256
+TILERTOP=0
+TILERBOTTOM=180

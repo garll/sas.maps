@@ -1,0 +1,4 @@
+begin
+ //GetUrlBase[11]:=inttostr((GetX+GetY) mod 4)[1];
+ ResultURL:=GetUrlBase+'&x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&s='+copy('Galileo',1,(GetX*3+GetY)mod 8);
+end.

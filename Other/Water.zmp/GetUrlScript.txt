@@ -1,0 +1,3 @@
+begin 
+ ResultURL:=GetURLBase+'/z'+inttostr(GetZ-1)+'/row'+inttostr(GetY)+'/'+inttostr(GetZ-1)+'_'+inttostr(GetX)+'-'+inttostr(GetY)+'.gif'; 
+end.

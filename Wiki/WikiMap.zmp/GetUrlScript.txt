@@ -1,0 +1,4 @@
+begin
+ insert(inttostr((GetX mod 4) + (GetY mod 4)*4),GetURLBase,9);
+ ResultURL:=GetURLBase+'x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&zoom='+inttostr(GetZ-1); 
+end.

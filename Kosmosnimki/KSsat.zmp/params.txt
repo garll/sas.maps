@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=5
+GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
+name=Спутник (Kosmosnimki.ru)
+name_9=Satellite (Kosmosnimki.ru)
+ParentSubMenu=Космоснимки
+asLayer=0
+DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=C7B2E6510209444E80673F3C37519F7E
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=kssat
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=75
+ContentType=image/jpeg
+BanIfLen=0

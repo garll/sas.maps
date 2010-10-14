@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=140
+GUID={E2C415B7-C27B-4403-8345-13C21BC1030B}
+asLayer=0
+name=Генштаб (in7ane.com)
+name_9=Genshtab (in7ane.com)
+NameInCache=GSHin7ane
+DefURLBase=http://www.in7ane.com/topomaps/tiles
+ContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=55
+BanIfLen=0

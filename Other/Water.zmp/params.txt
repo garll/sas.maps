@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=43
+GUID={BF0F5E1C-4E9B-43DE-990F-2F26618A6274}
+asLayer=1
+name=Водные ресурсы (maps-for-free)
+name_9=Water resource (maps-for-free)
+NameInCache=water
+DefURLBase=http://www.maps-for-free.com/layer/water/
+ContentType=image/gif
+ParentSubMenu=
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

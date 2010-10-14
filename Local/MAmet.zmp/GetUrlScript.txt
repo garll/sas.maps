@@ -1,0 +1,51 @@
+function Exp(X: extended): extended;
+var m, n: integer; 
+    r, fac, pow: extended;
+begin
+  m:=Round(Abs(X/10));
+  if m >= 2 then X:=X/m;
+  Result:=1+X;
+  fac:=1;
+  pow:=X;
+  n:=2;
+  while r<>Result do
+   begin
+    fac:=fac*n;
+    pow:=pow*X;
+    n:=n+1;
+    r:=Result;
+    Result:=Result+pow/fac;
+   end;
+  if m >= 2 then
+   begin
+    pow:=Result;
+    for n:=2 to m do
+      Result:=Result*pow;
+   end;
+end;
+
+function ArcTan(x: Extended): Extended;
+var i: Integer;
+begin
+ if x>1.0 
+  then Result := Pi / 2 - ArcTan(1 / x)
+  else for i := 0 to 200 do
+	Result:=Result+((intpower((-1),i)*intpower(x,(2*i+1)))/(2*i+1));
+ while Result>360 do 
+  Result:=Result-360;
+ while Result<0 do 
+  result:=result+360;
+end;
+
+function y2lat(y:integer):extended;
+var TilesAtZoom : Integer;
+begin
+ TilesAtZoom := 1 shl (GetZ+7);
+ result:=(y-TilesAtZoom/2)/-(TilesAtZoom/(2*PI));
+ result:=(2*arctan(exp(result))-PI/2)*180/PI;
+end;
+
+begin 
+  ResultURL:=GetURLBase+RoundEx(GetLLon,13)+','+RoundEx(y2lat((GetY*256)+298),13)+','+
+                        RoundEx(GetRLon,13)+','+RoundEx(GetTLat,13); 
+end.

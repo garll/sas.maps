@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=36
+GUID={1B680F1C-AA42-4C17-AE06-B99273ACA59E}
+asLayer=0
+name="Менде" 2вер., Тверская (boxpis.ru)
+name_9="Mende" 2ver., Tverskaja (boxpis.ru)
+NameInCache=SVG_Mende2v_boxpis
+DefURLBase=http://boxpis.ru/sas/tg_2v3_123/
+ContentType=image/jpeg
+ParentSubMenu=Исторические
+ParentSubMenu_9=history
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=100
+DefHotKey=0
+BanIfLen=0

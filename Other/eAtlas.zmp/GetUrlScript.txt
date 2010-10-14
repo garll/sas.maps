@@ -1,0 +1,83 @@
+var re:double; 
+    cx,cy,mn:string;
+	tilenumX,Zm1,Zm11dx,Zm11dy:integer;
+begin
+ mn:='RusEur';
+ Zm1:=round(intpower(2,GetZ-1));
+ re:=40075031.216128/Zm1;
+ Zm11dx:=round(GetX/intpower(2,GetZ-13));
+ Zm11dy:=round(GetY/intpower(2,GetZ-13));
+ if (GetZ>12) then
+  begin
+	if ((Zm11dx>2472)and(Zm11dx<2479))and((Zm11dy>1279)and(Zm11dy<1288)) then mn:='Msk' else
+	if ((Zm11dx>2486)and(Zm11dx<2490))and((Zm11dy>1269)and(Zm11dy<1278)) then mn:='Aleksandrov' else
+	if ((Zm11dx>2998)and(Zm11dx<3002))and((Zm11dy>1329)and(Zm11dy<1333)) then mn:='Barnaul' else
+	if ((Zm11dx>2461)and(Zm11dx<2467))and((Zm11dy>1380)and(Zm11dy<1386)) then mn:='Belgorod' else
+	if ((Zm11dx>2539)and(Zm11dx<2552))and((Zm11dy>1269)and(Zm11dy<1276)) then mn:='NNovg' else
+	if ((Zm11dx>2436)and(Zm11dx<2442))and((Zm11dy>1329)and(Zm11dy<1335)) then mn:='Bryansk' else
+	if ((Zm11dx>2401)and(Zm11dx<2405))and((Zm11dy>1223)and(Zm11dy<1228)) then mn:='VNovg' else
+	if ((Zm11dx>2729)and(Zm11dx<2742))and((Zm11dy>1257)and(Zm11dy<1268)) then mn:='Ekat' else
+	if ((Zm11dx>3547)and(Zm11dx<3552))and((Zm11dy>1502)and(Zm11dy<1508)) then mn:='Vladivostok' else
+	if ((Zm11dx>2505)and(Zm11dx<2509))and((Zm11dy>1274)and(Zm11dy<1278)) then mn:='Vladimir' else
+	if ((Zm11dx>2551)and(Zm11dx<2559))and((Zm11dy>1410)and(Zm11dy<1420)) then mn:='Volgograd' else	
+	if ((Zm11dx>2499)and(Zm11dx<2503))and((Zm11dy>1208)and(Zm11dy<1212)) then mn:='Vologda' else	
+	if ((Zm11dx>2490)and(Zm11dx<2500))and((Zm11dy>1356)and(Zm11dy<1366)) then mn:='Voronezh' else	
+	if ((Zm11dx>2480)and(Zm11dx<2485))and((Zm11dy>1446)and(Zm11dy<1451)) then mn:='Ejsk' else
+	if ((Zm11dx>2512)and(Zm11dx<2516))and((Zm11dy>1256)and(Zm11dy<1260)) then mn:='Ivanovo' else
+	if ((Zm11dx>2590)and(Zm11dx<2595))and((Zm11dy>1264)and(Zm11dy<1268)) then mn:='YoshkarOla' else
+	if ((Zm11dx>2602)and(Zm11dx<2610))and((Zm11dy>1279)and(Zm11dy<1286)) then mn:='Kazan' else
+	if ((Zm11dx>2277)and(Zm11dx<2283))and((Zm11dy>1302)and(Zm11dy<1307)) then mn:='Kaliningrad' else
+	if ((Zm11dx>2457)and(Zm11dx<2463))and((Zm11dy>1305)and(Zm11dy<1310)) then mn:='Kaluga' else
+	if ((Zm11dx>3604)and(Zm11dx<3609))and((Zm11dy>1378)and(Zm11dy<1385)) then mn:='Koms' else
+	if ((Zm11dx>2511)and(Zm11dx<2515))and((Zm11dy>1240)and(Zm11dy<1244)) then mn:='Kostroma' else
+	if ((Zm11dx>2487)and(Zm11dx<2496))and((Zm11dy>1471)and(Zm11dy<1478)) then mn:='Krasnodar' else
+	if ((Zm11dx>3101)and(Zm11dx<3107))and((Zm11dy>1275)and(Zm11dy<1281)) then mn:='Krasnoyarsk' else
+	if ((Zm11dx>2789)and(Zm11dx<2793))and((Zm11dy>1288)and(Zm11dy<1292)) then mn:='Kurgan' else
+	if ((Zm11dx>2456)and(Zm11dx<2462))and((Zm11dy>1358)and(Zm11dy<1364)) then mn:='Kursk' else
+	if ((Zm11dx>2801)and(Zm11dx<2806))and((Zm11dy>1022)and(Zm11dy<1025)) then mn:='Labytnangi' else
+	if ((Zm11dx>2473)and(Zm11dx<2477))and((Zm11dy>1347)and(Zm11dy<1350)) then mn:='Livny'  else
+	if ((Zm11dx>2496)and(Zm11dx<2500))and((Zm11dy>1343)and(Zm11dy<1346)) then mn:='Lipetsk'  else
+	if ((Zm11dx>2717)and(Zm11dx<2721))and((Zm11dy>1327)and(Zm11dy<1332)) then mn:='Magnitogorsk'  else
+	if ((Zm11dx>2586)and(Zm11dx<2590))and((Zm11dy>1506)and(Zm11dy<1510)) then mn:='Makhachkala'  else
+	if ((Zm11dx>2422)and(Zm11dx<2426))and((Zm11dy>950)and(Zm11dy<958)) then mn:='Murmansk' else
+	if ((Zm11dx>2462)and(Zm11dx<2465))and((Zm11dy>1330)and(Zm11dy<1334)) then mn:='Mcensk' else
+	if ((Zm11dx>2640)and(Zm11dx<2647))and((Zm11dy>1282)and(Zm11dy<1287)) then mn:='NabCheln' else
+	if ((Zm11dx>2916)and(Zm11dx<2921))and((Zm11dy>1169)and(Zm11dy<1173)) then mn:='Nizhnevartovsk' else
+	if ((Zm11dx>2988)and(Zm11dx<2995))and((Zm11dy>1294)and(Zm11dy<1303)) then mn:='Novosibirsk' else
+	if ((Zm11dx>2583)and(Zm11dx<2589))and((Zm11dy>1273)and(Zm11dy<1279)) then mn:='CheboksaryNCh' else
+	if ((Zm11dx>2879)and(Zm11dx<2885))and((Zm11dy>1296)and(Zm11dy<1302)) then mn:='Omsk' else
+	if ((Zm11dx>2455)and(Zm11dx<2461))and((Zm11dy>1335)and(Zm11dy<1340)) then mn:='Orel' else
+	if ((Zm11dx>2711)and(Zm11dx<2716))and((Zm11dy>1368)and(Zm11dy<1372)) then mn:='Orsk' else
+	if ((Zm11dx>2557)and(Zm11dx<2563))and((Zm11dy>1331)and(Zm11dy<1336)) then mn:='Penza' else
+	if ((Zm11dx>2488)and(Zm11dx<2492))and((Zm11dy>1261)and(Zm11dy<1265)) then mn:='PereslavlZales' else
+	if ((Zm11dx>2681)and(Zm11dx<2693))and((Zm11dy>1232)and(Zm11dy<1241)) then mn:='Perm' else
+	if ((Zm11dx>2435)and(Zm11dx<2442))and((Zm11dy>1148)and(Zm11dy<1154)) then mn:='Petrozavodsk' else
+	if ((Zm11dx>2495)and(Zm11dx<2502))and((Zm11dy>1436)and(Zm11dy<1442)) then mn:='Rostov' else 
+	if ((Zm11dx>2368)and(Zm11dx<2372))and((Zm11dy>1239)and(Zm11dy<1243)) then mn:='Pskov' else
+	if ((Zm11dx>2496)and(Zm11dx<2502))and((Zm11dy>1303)and(Zm11dy<1309)) then mn:='Ryazan' else
+	if ((Zm11dx>2613)and(Zm11dx<2622))and((Zm11dy>1326)and(Zm11dy<1337)) then mn:='Samara' else
+	if ((Zm11dx>2560)and(Zm11dx<2564))and((Zm11dy>1313)and(Zm11dy<1317)) then mn:='Saransk' else
+	if ((Zm11dx>2568)and(Zm11dx<2575))and((Zm11dy>1362)and(Zm11dy<1368)) then mn:='Saratov' else
+	if ((Zm11dx>2408)and(Zm11dx<2415))and((Zm11dy>1301)and(Zm11dy<1305)) then mn:='Smolensk' else
+	if ((Zm11dx>2476)and(Zm11dx<2480))and((Zm11dy>1367)and(Zm11dy<1370)) then mn:='StaryyOskol' else
+	if ((Zm11dx>2506)and(Zm11dx<2510))and((Zm11dy>1268)and(Zm11dy<1272)) then mn:='Suzdal' else
+	if ((Zm11dx>2881)and(Zm11dx<2885))and((Zm11dy>1162)and(Zm11dy<1165)) then mn:='Surgut' else
+	if ((Zm11dx>2517)and(Zm11dx<2521))and((Zm11dy>1340)and(Zm11dy<1345)) then mn:='Tambov' else
+	if ((Zm11dx>2453)and(Zm11dx<2459))and((Zm11dy>1258)and(Zm11dy<1264)) then mn:='Tver' else
+	if ((Zm11dx>2606)and(Zm11dx<2612))and((Zm11dy>1325)and(Zm11dy<1330)) then mn:='Tolyatti' else
+	if ((Zm11dx>3011)and(Zm11dx<3017))and((Zm11dy>1262)and(Zm11dy<1272)) then mn:='Tomsk' else
+	if ((Zm11dx>2473)and(Zm11dx<2478))and((Zm11dy>1311)and(Zm11dy<1319)) then mn:='Tula' else
+	if ((Zm11dx>2790)and(Zm11dx<2797))and((Zm11dy>1252)and(Zm11dy<1258)) then mn:='Tyumen' else
+	if ((Zm11dx>2593)and(Zm11dx<2602))and((Zm11dy>1309)and(Zm11dy<1317)) then mn:='Ulyanovsk' else
+	if ((Zm11dx>2680)and(Zm11dx<2689))and((Zm11dy>1298)and(Zm11dy<1308)) then mn:='Ufa' else
+	if ((Zm11dx>2742)and(Zm11dx<2749))and((Zm11dy>1291)and(Zm11dy<1300)) then mn:='Chelyabinsk' else
+	if ((Zm11dx>2477)and(Zm11dx<2481))and((Zm11dy>1211)and(Zm11dy<1214)) then mn:='Cher' else
+	if ((Zm11dx>2498)and(Zm11dx<2504))and((Zm11dy>1240)and(Zm11dy<1248)) then mn:='Yaroslavl' ;
+
+  end;
+ cx:=inttostr(round(-(40075031.216128)+(re*((((GetX*256) div 2)+((Zm1*256) div 4)) div 128))+re/2));
+ if cx='0' then cx:='1';
+ cy:=inttostr(round((40075031.216128)-(re*((((GetY*256) div 2)+((Zm1*256) div 4)) div 128))-(re/2+(re/256)*16+1)));
+ if cy='0' then cy:='1';
+ ResultURL:=GetURLBase+'&he=288&wi=256&mn='+mn+'&cx='+cx+'&cy='+cy+'&zm='+inttostr(round(re)); 
+end.

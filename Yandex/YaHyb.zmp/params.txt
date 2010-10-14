@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=39
+GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
+asLayer=1
+name=Гибрид (Яндекс.Карты)
+name_9=Hybrid (Yandex.Maps)
+NameInCache=yahyb
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&v=2.14.0&x=
+ContentType=image/png
+ParentSubMenu=
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

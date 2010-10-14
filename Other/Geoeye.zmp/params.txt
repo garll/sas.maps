@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=46
+GUID={68389244-9E53-462B-A691-17315A4730D3}
+asLayer=1
+name=Покрытие GeoEye
+name_9=GeoEye cover
+NameInCache=GeoEye
+DefURLBase=http://geofuse.geoeye.com/handler/ArcGIS/rest/services/GeoEyeCatalogFeatures/MapServer/2/query?text=&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&where=CLOUD%5FCOVER%5FPERCENT%3C%3D50&returnGeometry=true&outSR=4326&outFields=&breakField=COLLECTION_DATE_YEAR&f=kmz&filetype=.kml&geometry=
+ContentType=application/vnd.google-earth.kmz
+ParentSubMenu=
+Ext=.kml
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=0
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+BanIfLen=

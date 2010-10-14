@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=120
+GUID={C84FEB26-1EA9-4BEB-87E5-DC3B29C70B31}
+asLayer=0
+name=Карта OSM (opnvkarte.de)
+name_9=Map OSM (opnvkarte.de)
+NameInCache=OSM_opnvkarte
+DefURLBase=http://tile.xn--pnvkarte-m4a.de/tilegen
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+PARENTSUBMENU=OSM

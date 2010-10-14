@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=8
+GUID={8238C84A-D37E-45E1-A735-FBCFBCD4168C}
+name=Карта (Яндекс.Карты)
+name_9=Map (Yandex.Maps)
+asLayer=0
+DefURLBase=http://vec.maps.yandex.net/tiles?l=map&v=2.16.0&x=
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=yamapng
+separator=1
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=81
+ContentType=image/png
+BanIfLen=0

@@ -1,0 +1,29 @@
+[PARAMS]
+pnum=47
+GUID={8731EA1E-3D3F-4EBB-9422-9C3D642E32D5}
+asLayer=0
+name=Ёстони€ (Maaamet aero)
+name_9=Eesti (Maaamet aero)
+NameInCache=mametfull
+DefURLBase=http://xgis.maaamet.ee/wms-pub/alus-geo?VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG:4326&LAYERS=of10000,CORINE,BAASKAART,HALDUSPIIRID,MAANTEED,KYLAD,TOPOYKSUS_6569,TOPOYKSUS_7793&TRANSPARENT=TRUE&FORMAT=image/jpeg&WIDTH=256&HEIGHT=298&BBOX=
+ContentType=image/jpeg
+TileRLeft=0
+TileRTop=0
+TileRRight=256
+TileRBottom=256
+ParentSubMenu=Ћокальные карты
+ParentSubMenu_9=Local maps
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=78
+BanIfLen=0

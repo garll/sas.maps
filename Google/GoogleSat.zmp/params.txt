@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
+name=Спутник (Google)
+name_9=Satellite (Google maps)
+asLayer=0
+DefURLBase=http://khm.google.com/kh/v=72&hl=ru
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=sat
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=1
+Sleep=1000
+DefHotKey=71
+ContentType=image/jpeg
+BanIfLen=4321

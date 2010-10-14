@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=9
+GUID={9A360A54-7A70-402D-8A11-D570BD759B5B}
+name=Спутник (Virtual Earth)
+name_9=Satellite (Virtual Earth)
+asLayer=0
+DefURLBase=http://a0.ortho.tiles.virtualearth.net/tiles/a
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=vesat
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=86
+ContentType=image/jpeg
+BanIfLen=0

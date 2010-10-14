@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=2
+GUID={CBA03063-23D9-4FA4-931A-9182B98644B1}
+name=Карта (Google)
+name_9=Map (Google)
+asLayer=0
+DefURLBase=http://mt.google.com/vt?v=w2.999&hl=ru
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=map
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=1
+Sleep=1000
+DefHotKey=77
+ContentType=image/png
+BanIfLen=1722

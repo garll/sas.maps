@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=13
+GUID={F7DEBECA-2915-47D5-A484-25C8B291ECE8}
+asLayer=0
+name=Карта (Gurtam)
+name_9=Map (Gurtam)
+NameInCache=gumap
+DefURLBase=http://wialonb3.gurtam.com/map_gmaps?v=&w=256&h=256&q=&sc=&m=&
+ContentType=image/png
+Ext=.PNG
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=1
+PreloadPage=http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru
+Sleep=0
+DefHotKey=85
+BanIfLen=0

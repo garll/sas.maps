@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=142
+GUID={5FF751EE-503F-40BA-8C5A-4F37927A0D95}
+asLayer=0
+name=Генштаб 5 км
+name_9=Genshtab 5 km
+NameInCache=Genshtab5km
+DefURLBase=http://genshtab5k.narod.ru/
+ContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_9=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

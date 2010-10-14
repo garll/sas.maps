@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=116
+GUID={D643C5A1-4331-4387-9BE2-DDDF185C117E}
+asLayer=0
+name=MAPNIK (OpenStreetMap)
+name_9=MAPNIK (OpenStreetMap)
+NameInCache=osmmapMapnik
+DefURLBase=http://a.tile.openstreetmap.org/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=16463
+BanIfLen=0
+PARENTSUBMENU=OSM

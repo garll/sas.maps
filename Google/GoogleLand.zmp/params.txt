@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=3
+GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
+name=ֻאםהראפע (Google)
+name_9=Landscape (Google)
+asLayer=0
+DefURLBase=http://mt.google.com/vt?v=w2p.999&hl=ru
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=land
+separator=1
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=1
+Sleep=1000
+DefHotKey=76
+ContentType=image/jpeg,image/jpg
+BanIfLen=1722

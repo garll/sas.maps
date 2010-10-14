@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=112
+GUID={7A741941-E83A-49DC-AEE1-973699F374B4}
+asLayer=1
+name=Транспорт OSM (latlon.org)
+name_9=Transport OSM (latlon.org)
+NameInCache=OSM_layer_transport
+DefURLBase=http://tile.latlon.org/pt
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

@@ -1,0 +1,1 @@
+Перед началом загрузки, зайдите на http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru и найдите в ссылке на любой тайл значение параметра sc, скопируйте это значение в ссылку указанную в программе (параметры/параметры карты/URL).

@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetUrlBase+'&z='+inttostr(GetZ-1)+'&x='+inttostr(-((round(intpower(2,GetZ-1)))div 2)+(GetX))+'&y='+inttostr(-((Round(intpower(2,GetZ-1)))div 2)+ (Round(intpower(2,GetZ-1))-(GetY+1)))+'&key=BDY%2F%2Brk8pOLTOFTvDC8MM54h%2BJCcGG5Ag4ggD01W%2FCr51iFE%2FWOBxtA%2FNSJflAbDKbr1oV1QtDMt2PxGE3P2MY%2FzVabjK3O%2F1c2tlRmsdYXnVvAs0%2BHPXruvQ6d%2F6Th8fR5n%2FNmtg8cnwflfHfXxBcFzDy0qet4SdpQs6Gd55g94YiFckoi%2FUroyw7YvtvdbFgiNY%2BONEZK4ligXKR1rcVooBnEpHhPqAjayL0pNPyXGzQUBYYePUOTfxS2Nnp4JyvAYuJQJtgMUaOlnsPINj77HNpMVTUmaqM4PT%2Bv00l8%3D'; 
+end.

@@ -1,0 +1,23 @@
+[PARAMS]
+GUID={12FC9C3C-57F0-4A71-B269-D24057FF065A}
+asLayer=1
+name=Гибрид (Космоснимки)
+name_9=Hybrid (kosmosnimki.ru)
+NameInCache=KSBoth
+DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=FFE60CFA7DAF498381F811C08A5E8CF5
+ContentType=image/png
+ParentSubMenu=
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+DefHotKey=72
+BanIfLen=0
