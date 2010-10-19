@@ -3,12 +3,12 @@ pnum=118
 GUID={4DD2B2D9-A42A-4008-8702-A180FD09797B}
 asLayer=0
 name=Спутник (Карты@mail)
-name_9=Satellite (Maps@mail)
+name_en=Satellite (Maps@mail)
 NameInCache=mailsat
 DefURLBase=http://t1.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
 ContentType=image/jpeg
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 Ext=.jpg
 projection=2
 sradiusa=6378137

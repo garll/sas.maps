@@ -3,7 +3,7 @@ pnum=5
 GUID={47E43C32-2C93-4FFE-92E8-2ED432EA434E}
 asLayer=0
 name=SPOT-5 (spotmaps.spotimage.com)
-name_9=SPOT-5 (spotmaps.spotimage.com)
+name_en=SPOT-5 (spotmaps.spotimage.com)
 NameInCache=SPOTMAPS
 DefURLBase=http://www.geodatawork.net/$_streaminguid.c6bec4bc-c332-4c8e-94df-afd47f980455/wms.ashx?LAYERS=b5a75b74-ae27-4d88-835f-46a8e8c4ebb1,961575b9-1ced-4329-b761-91a44f031273&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=&FORMAT=image/jpeg&SRS=EPSG:53004&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/jpeg

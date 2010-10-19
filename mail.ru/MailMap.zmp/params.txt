@@ -3,12 +3,12 @@ pnum=119
 GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
 asLayer=0
 name=Карта (Карты@mail)
-name_9=Map (Maps@mail)
+name_en=Map (Maps@mail)
 NameInCache=mailmap
 DefURLBase=http://t2.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=maps
 ContentType=image/png
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 Ext=.png
 projection=2
 sradiusa=6378137

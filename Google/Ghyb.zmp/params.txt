@@ -3,7 +3,7 @@ pnum=38
 GUID={F25E37ED-923B-41E7-8BA6-CC0CC3213B93}
 asLayer=1
 name=Гибрид (Google)
-name_9=Hybrid (Google)
+name_en=Hybrid (Google)
 NameInCache=Both
 DefURLBase=http://mt.google.com/vt?v=w2t.999&hl=ru
 ContentType=image/png

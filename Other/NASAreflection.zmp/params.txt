@@ -3,12 +3,12 @@ pnum=120
 GUID={8497C466-8965-4E1D-87A3-0CCE800B9684}
 asLayer=0
 name=Отражения (NASA)
-name_9=Reflection (NASA)
+name_en=Reflection (NASA)
 NameInCache=NasaReflection
 DefURLBase=http://wms.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=258&layers=srtm_mag&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 Ext=.jpg
 projection=1
 sradiusa=6378137

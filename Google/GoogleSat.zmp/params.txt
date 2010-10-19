@@ -2,7 +2,7 @@
 pnum=1
 GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
 name=Спутник (Google)
-name_9=Satellite (Google maps)
+name_en=Satellite (Google maps)
 asLayer=0
 DefURLBase=http://khm.google.com/kh/v=72&hl=ru
 projection=1

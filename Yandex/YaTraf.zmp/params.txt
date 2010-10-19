@@ -3,7 +3,7 @@ pnum=47
 GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
 asLayer=1
 name=Пробки (Яндекс.Карты)
-name_9=Traffic (Yandex.Maps)
+name_en=Traffic (Yandex.Maps)
 NameInCache=yatraf
 DefURLBase=http://trf.maps.yandex.net/tiles?l=trf&x=
 ContentType=image/png

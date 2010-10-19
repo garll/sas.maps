@@ -3,7 +3,7 @@ pnum=39
 GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
 asLayer=1
 name=Гибрид (Яндекс.Карты)
-name_9=Hybrid (Yandex.Maps)
+name_en=Hybrid (Yandex.Maps)
 NameInCache=yahyb
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&v=2.14.0&x=
 ContentType=image/png

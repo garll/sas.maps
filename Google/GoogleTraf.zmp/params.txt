@@ -3,7 +3,7 @@ pnum=48
 GUID={D61F9933-CE83-46CE-96AD-AEC88E0E7E05}
 asLayer=1
 name=Пробки (Google Maps)
-name_9=Traffic (Google Maps)
+name_en=Traffic (Google Maps)
 NameInCache=googletraf
 DefURLBase=http://mt1.google.com/vt?hl=ru&lyrs=h@130,traffic|seconds_into_week:-1&style=15&
 ContentType=image/png

@@ -1,9 +1,9 @@
 [PARAMS]
 GUID={F6927E5B-F910-4EFC-834C-461AA36D12B4}
 name=Марс (Меркатор)
-name_9=Mars (Mercator)
+name_en=Mars (Mercator)
 ParentSubMenu=GoogleEarth (Кэш GC)
-ParentSubMenu_9=GoogleEarth (Cache GC)
+ParentSubMenu_en=GoogleEarth (Cache GC)
 asLayer=0
 DefURLBase=http://localhost/flatfile?server=3&proj=1&img=jpg&compress=100&inet=0&ver=0&hist=0
 projection=1

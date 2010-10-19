@@ -3,12 +3,12 @@ pnum=120
 GUID={0FB05E8C-4B09-4C2B-A52B-7C388344104A}
 asLayer=0
 name=Облачность (NASA)
-name_9=Cloud (NASA)
+name_en=Cloud (NASA)
 NameInCache=nasaos
 DefURLBase=http://wms.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=258&layers=daily_planet&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 Ext=.jpg
 projection=1
 sradiusa=6378137

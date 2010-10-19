@@ -2,8 +2,9 @@
 pnum=6
 GUID={B408009F-ACAD-4394-A976-991CB7F98209}
 name=Карта (Kosmosnimki.ru)
-name_9=Map (Kosmosnimki.ru)
+name_en=Map (Kosmosnimki.ru)
 ParentSubMenu=Космоснимки
+ParentSubMenu_en=Kosmosnimki.ru
 asLayer=0
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=E50931C3B2DD4E0FA2C03366552EEAA1
 projection=2

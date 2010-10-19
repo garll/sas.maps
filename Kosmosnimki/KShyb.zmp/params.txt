@@ -2,7 +2,7 @@
 GUID={12FC9C3C-57F0-4A71-B269-D24057FF065A}
 asLayer=1
 name=Гибрид (Космоснимки)
-name_9=Hybrid (kosmosnimki.ru)
+name_en=Hybrid (kosmosnimki.ru)
 NameInCache=KSBoth
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=FFE60CFA7DAF498381F811C08A5E8CF5
 ContentType=image/png

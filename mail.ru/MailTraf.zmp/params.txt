@@ -3,7 +3,7 @@ pnum=48
 GUID={12A22AAD-E93E-4F2C-B48C-683C24A95C72}
 asLayer=1
 name=Пробки (Карты@mail)
-name_9=Map Traffic (Maps@mail)
+name_en=Map Traffic (Maps@mail)
 NameInCache=MailTraf
 DefURLBase=http://j5.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&162892
 ContentType=image/png

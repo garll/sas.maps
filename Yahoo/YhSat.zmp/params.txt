@@ -3,7 +3,7 @@ pnum=11
 GUID={054533A1-6169-48C5-9635-A90A277A1516}
 asLayer=0
 name=Спутник (Yahoo!)
-name_9=Satellite (Yahoo!)
+name_en=Satellite (Yahoo!)
 NameInCache=yhsat
 DefURLBase=http://maps.yimg.com/ae/ximg?v=1.9&t=a&s=256&r=1
 ContentType=image/jpeg

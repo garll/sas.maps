@@ -2,7 +2,9 @@
 pnum=8
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE6}
 name=Карта Navitel
-name_9=Navitel Map
+name_en=Navitel Map
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local maps
 asLayer=0
 DefURLBase=http://maps.navitel.su/navitms.fcgi?t=
 projection=1

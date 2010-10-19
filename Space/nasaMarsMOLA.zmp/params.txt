@@ -3,12 +3,12 @@ pnum=43
 GUID={9AB93964-2210-4528-84FD-5EA16E63CBD1}
 asLayer=0
 name=Mars MOLA (NASA)
-name_9=Mars MOLA (NASA)
+name_en=Mars MOLA (NASA)
 NameInCache=nasaMarsMOLA
 DefURLBase=http://OnMars.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=moc_na&styles=color&srs=IAU2000:49900&format=image/jpeg&bbox=
 ContentType=image/jpeg
 ParentSubMenu=Космос
-ParentSubMenu_9=Space
+ParentSubMenu_en=Space
 Ext=.jpg
 projection=1
 sradiusa=3396190

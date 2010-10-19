@@ -3,7 +3,7 @@ pnum=40
 GUID={A1AC6C0D-106E-4813-8127-652647B020F0}
 asLayer=1
 name=Гибрид (Yahoo!)
-name_9=Hybrid (Yahoo!)
+name_en=Hybrid (Yahoo!)
 NameInCache=yhhyb
 DefURLBase=http://aerial.maps.yimg.com/ximg?v=4.3&t=p&s=256&r=1 
 ContentType=image/png

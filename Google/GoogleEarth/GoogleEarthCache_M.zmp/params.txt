@@ -1,9 +1,9 @@
 [PARAMS]
 GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
 name=Земля (GECache)
-name_9=Earth (GECache)
+name_en=Earth (GECache)
 ParentSubMenu=GoogleEarth (Кэш GC)
-ParentSubMenu_9=GoogleEarth (Cache GC)
+ParentSubMenu_en=GoogleEarth (Cache GC)
 asLayer=0
 DefURLBase=
 projection=1
