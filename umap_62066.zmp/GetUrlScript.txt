@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+'&s='+inttostr(12-GetZ)+'&w=256&h=256&lt=0&ws=0&u=umap&x='+inttostr(round((GetX-intpower(2,GetZ-6))*256+10))+'&y='+inttostr(round(intpower(2,GetZ-1)-GetY)*-256+round(128*intpower(2,GetZ-3)));
+end.

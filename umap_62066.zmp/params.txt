@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=195
-GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
+GUID={AEA75D7E-E487-4131-B534-761BF1EEEFF0}
 asLayer=0
-name=Новоуральск (Umap.ru)
-name_9=Новоуральск (Umap.ru)
-NameInCache=Umap_53066
-DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=53066
+name=Серов (Umap.ru)
+name_9=Серов (Umap.ru)
+NameInCache=Umap_62066
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=62066
 ContentType=text/html , image/gif
 ParentSubMenu=Umap
 ParentSubMenu_9=Umap

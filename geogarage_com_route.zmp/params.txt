@@ -6,8 +6,10 @@ name= marine.geogarage.com/routes (geogarage.com)
 name_9=marine.geogarage.com/routes (geogarage.com)
 NameInCache=geogarage_com_route
 DefURLBase=http://publish3.geogarage.com/noaa/
-ContentType=image/png
-Ext=.png
+ContentType=image/png,image/jpeg
+defaultContentType=image/jpeg
+MimeTypeSubst = "image/png=image/jpeg"
+Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
