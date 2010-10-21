@@ -1,0 +1,12 @@
+var
+xx,yy:integer;
+
+begin
+xx:=GetX;
+yy:=GetY-3;
+if getz=8 then xx:=xx-28;
+if getz=8 then yy:=yy+40;
+if getz=9 then xx:=xx-56;
+if getz=9 then yy:=yy+77;
+ ResultURL:=GetURLBase+'&s='+inttostr(9-GetZ)+'&w=256&h=256&lt=0&ws=0&u=umap&x='+inttostr(round((xx-intpower(2,GetZ-6))*256+10))+'&y='+inttostr(round(intpower(2,GetZ-1)-yy)*-256+round(128*intpower(2,GetZ-3)));
+end.

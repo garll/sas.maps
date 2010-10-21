@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=195
+GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
+asLayer=0
+name=Копейск (Umap.ru)
+name_en=Копейск (Umap.ru)
+NameInCache=Umap_23074
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=23074
+ContentType=text/html , image/gif
+ParentSubMenu=Umap
+ParentSubMenu_9=Umap
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
