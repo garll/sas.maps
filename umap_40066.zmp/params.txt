@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=195
+GUID={1FD86D64-06B4-4664-AD1C-A84CA766DA6E}
+asLayer=0
+name=Красноуральск (Umap.ru)
+name_9=Красноуральск (Umap.ru)
+NameInCache=Umap_40066
+DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=40066
+ContentType=text/html , image/gif
+ParentSubMenu=Umap
+ParentSubMenu_9=Umap
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
