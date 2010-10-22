@@ -1,6 +1,6 @@
 [PARAMS]
 pnum=195
-GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
+GUID={3B4370AE-B488-4A81-9D65-6729CD272392}
 asLayer=0
 name=Копейск (Umap.ru)
 name_en=Копейск (Umap.ru)
