@@ -1,0 +1,11 @@
+var dz,z:integer;
+begin
+
+
+ if getz>5 then dz:=Round(25600/intpower(2,getz-5)) else dz:=25600;
+ z:=round(intpower(2,getz-5));
+ if getz>=13 then dz:=256;
+ if getz>=13 then z:=100;
+
+ ResultURL:=GetURLBase+Inttostr(z)+'&DX='+Inttostr(round(GetX-intpower(2,getz-1)/2)*dz)+'&DY='+Inttostr(round(gety-intpower(2,getz-1)/2)*dz)+'&trackfile=&rnd=0.9191284459141998&order=';
+end.
