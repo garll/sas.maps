@@ -6,8 +6,8 @@ name=Карта (Yahoo!)
 name_en=Map (Yahoo!)
 NameInCache=yhmap
 DefURLBase=http://us.maps1.yimg.com/us.tile.maps.yimg.com/tl?v=4.3&md=2&r=1
-ContentType=image/jpeg
-Ext=.jpg
+ContentType=image/png
+Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
