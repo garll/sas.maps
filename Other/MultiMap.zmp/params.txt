@@ -10,6 +10,7 @@ DefURLBase=http://mc1.tiles-cdn.multimap.com/ptiles/map/
 ContentType=image/png
 ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 Ext=.png
 projection=1
 sradiusa=6378137

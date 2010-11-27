@@ -10,6 +10,7 @@ DefURLBase=http://www.maps-for-free.com/layer/relief/
 ContentType=image/jpeg
 ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 Ext=.jpg
 projection=1
 sradiusa=6378137
