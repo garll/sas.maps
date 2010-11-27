@@ -4,6 +4,7 @@ GUID={C84FEB26-1EA9-4BEB-87E5-DC3B29C70B31}
 asLayer=0
 name=Карта OSM (opnvkarte.de)
 name_en=Map OSM (opnvkarte.de)
+name_uk=Карта OSM (OPNV-Karte)
 NameInCache=OSM_opnvkarte
 DefURLBase=http://tile.xn--pnvkarte-m4a.de/tilegen
 ContentType=image/png

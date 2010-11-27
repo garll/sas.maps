@@ -2,8 +2,10 @@
 GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
 name=Земля (GECache)
 name_en=Earth (GECache)
+name_uk=Земля (GECache)
 ParentSubMenu=GoogleEarth (Кэш GC)
 ParentSubMenu_en=GoogleEarth (Cache GC)
+ParentSubMenu_uk=GoogleEarth (Кеш GC)
 asLayer=0
 DefURLBase=
 projection=1

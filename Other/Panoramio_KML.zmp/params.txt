@@ -3,6 +3,7 @@ pnum=44
 GUID={3C6C8E9B-D455-425F-9652-11F8CB3D3613}
 asLayer=1
 name=Panoramio KML
+name_uk=Panoramio KML
 NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?LANG=ru_RU.utf8&BBOX= 
 ContentType=application/vnd.google-earth.kml+xml

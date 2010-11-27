@@ -4,6 +4,7 @@ GUID={BF0F5E1C-4E9B-43DE-990F-2F26618A6274}
 asLayer=1
 name=Водные ресурсы (maps-for-free)
 name_en=Water resource (maps-for-free)
+name_uk=Водні ресурси (maps-for-free)
 NameInCache=water
 DefURLBase=http://www.maps-for-free.com/layer/water/
 ContentType=image/gif

@@ -4,6 +4,7 @@ GUID={F7DEBECA-2915-47D5-A484-25C8B291ECE8}
 asLayer=0
 name=Карта (Gurtam)
 name_en=Map (Gurtam)
+name_uk=Карта (Gurtam)
 NameInCache=gumap
 DefURLBase=http://wialonb3.gurtam.com/map_gmaps?v=&w=256&h=256&q=&sc=&m=&
 ContentType=image/png

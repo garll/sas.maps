@@ -4,6 +4,7 @@ GUID={68389244-9E53-462B-A691-17315A4730D3}
 asLayer=1
 name=Покрытие GeoEye
 name_en=GeoEye cover
+name_uk=Покриття GeoEye
 NameInCache=GeoEye
 DefURLBase=http://geofuse.geoeye.com/handler/ArcGIS/rest/services/GeoEyeCatalogFeatures/MapServer/2/query?text=&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&where=CLOUD%5FCOVER%5FPERCENT%3C%3D50&returnGeometry=true&outSR=4326&outFields=&breakField=COLLECTION_DATE_YEAR&f=kmz&filetype=.kml&geometry=
 ContentType=application/vnd.google-earth.kmz

@@ -2,8 +2,10 @@
 GUID={F6927E5B-F910-4EFC-834C-461AA36D12F9}
 name=Земля (Меркатор)
 name_en=Earth (Mercator)
+name_uk=Земля (Меркатор)
 ParentSubMenu=GoogleEarth (Кэш GC)
 ParentSubMenu_en=GoogleEarth (Cache GC)
+ParentSubMenu_uk=GoogleEarth (Кеш GC)
 asLayer=0
 DefURLBase=http://localhost/flatfile?server=1&proj=1&img=jpg&compress=100&inet=0&ver=0&hist=0
 projection=1

@@ -4,6 +4,7 @@ GUID={63862E5D-09DB-4732-9D22-6350998802CB}
 asLayer=0
 name=Карта (eAtlas)
 name_en=Map (eAtlas)
+name_uk=Карта (eAtlas)
 NameInCache=eatlas
 DefURLBase=http://maps.eatlas.ru/getpict/map.aspx?ms=&sml=&ssl=&sst=&smx=0&smy=0&ssi=0&ssv=False&CP=ONL&cat=
 ContentType=image/gif

@@ -4,6 +4,7 @@ GUID={255250F6-D9D6-473A-8A0D-13B58601B1A1}
 asLayer=0
 name=Карта (multimap)
 name_en=Map (multimap)
+name_uk=Карта (Multimap)
 NameInCache=multimap
 DefURLBase=http://mc1.tiles-cdn.multimap.com/ptiles/map/
 ContentType=image/png

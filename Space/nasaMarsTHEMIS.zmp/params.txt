@@ -4,11 +4,13 @@ GUID={408AF4BF-BB8D-4442-94CC-3A82368DC2F0}
 asLayer=0
 name=Марс THEMIS IR Composite (NASA)
 name_en=Mars THEMIS IR Composite (NASA)
+name_uk=Інфра-червоний композит Марса (THEMIS, NASA)
 NameInCache=nasaMarsTHEMIS
 DefURLBase=http://OnMars.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=themis&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=3
 sradiusa=3396190

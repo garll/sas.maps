@@ -4,11 +4,13 @@ GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
 asLayer=0
 name=Карта (Карты@mail)
 name_en=Map (Maps@mail)
+name_uk=Карта (Карты@Mail.Ru)
 NameInCache=mailmap
 DefURLBase=http://t2.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=maps
 ContentType=image/png
 ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 Ext=.png
 projection=2
 sradiusa=6378137

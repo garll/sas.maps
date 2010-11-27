@@ -4,6 +4,7 @@ GUID={C155785B-F53A-4879-B8FD-6A248DC551B2}
 asLayer=0
 name=Πελόετ (maps-for-free)
 name_en=Relief (maps-for-free)
+name_uk=ΠελόΊτ (maps-for-free)
 NameInCache=landmff
 DefURLBase=http://www.maps-for-free.com/layer/relief/
 ContentType=image/jpeg

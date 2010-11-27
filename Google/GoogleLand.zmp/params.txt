@@ -3,6 +3,7 @@ pnum=3
 GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
 name=ֻאםהראפע (Google)
 name_en=Landscape (Google)
+name_uk=ֻאםהראפע (Google)
 asLayer=0
 DefURLBase=http://mt.google.com/vt?v=w2p.999&hl=ru
 projection=1

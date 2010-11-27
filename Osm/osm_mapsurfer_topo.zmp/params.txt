@@ -4,6 +4,7 @@ GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
 asLayer=0
 name=Карта OSM (Topo mapsurfer.net)
 name_en=Map OSM (Topo mapsurfer.net)
+name_uk=Топографічна карта OSM (MapSurfer.NET)
 NameInCache=OSM_mapsurfer_topo
 DefURLBase=http://tiles2.mapsurfer.net/tms_t.ashx?
 ContentType=image/jpeg

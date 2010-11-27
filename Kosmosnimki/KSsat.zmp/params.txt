@@ -3,8 +3,10 @@ pnum=5
 GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
 name=Спутник (Kosmosnimki.ru)
 name_en=Satellite (Kosmosnimki.ru)
+name_uk=Супутник (Космоснимки)
 ParentSubMenu=Космоснимки
 ParentSubMenu_en=Kosmosnimki.ru
+ParentSubMenu_uk=Космоснимки
 asLayer=0
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=C7B2E6510209444E80673F3C37519F7E
 projection=2

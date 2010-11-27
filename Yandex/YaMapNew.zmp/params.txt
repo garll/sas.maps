@@ -3,6 +3,7 @@ pnum=8
 GUID={8238C84A-D37E-45E1-A735-FBCFBCD4168C}
 name=Карта (Яндекс.Карты)
 name_en=Map (Yandex.Maps)
+name_uk=Карта (Яндекс.Карты)
 asLayer=0
 DefURLBase=http://vec.maps.yandex.net/tiles?l=map&v=2.16.0&x=
 projection=2

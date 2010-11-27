@@ -4,6 +4,7 @@ GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
 asLayer=1
 name=Пробки (Яндекс.Карты)
 name_en=Traffic (Yandex.Maps)
+name_uk=Пробки (Яндекс.Карты)
 NameInCache=yatraf
 DefURLBase=http://trf.maps.yandex.net/tiles?l=trf&x=
 ContentType=image/png

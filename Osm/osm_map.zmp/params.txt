@@ -4,6 +4,7 @@ GUID={67507C37-FEF8-4268-BC3C-474809EBD3E5}
 asLayer=0
 name=Карта (OpenStreetMap)
 name_en=Map (OpenStreetMap)
+name_uk=Карта (OpenStreetMap)
 NameInCache=osmmap
 DefURLBase=http://b.tah.openstreetmap.org/Tiles/tile
 ContentType=image/png

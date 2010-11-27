@@ -3,6 +3,7 @@ pnum=2
 GUID={CBA03063-23D9-4FA4-931A-9182B98644B1}
 name=Карта (Google)
 name_en=Map (Google)
+name_uk=Карта (Google)
 asLayer=0
 DefURLBase=http://mt.google.com/vt?v=w2.999&hl=ru
 projection=1
