@@ -6,7 +6,7 @@ name=Пробки (Яндекс.Карты)
 name_en=Traffic (Yandex.Maps)
 name_uk=Пробки (Яндекс.Карты)
 NameInCache=yatraf
-DefURLBase=http://trf.maps.yandex.net/tiles?l=trf&x=
+DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf&x=
 ContentType=image/png
 ParentSubMenu=
 Ext=.png
