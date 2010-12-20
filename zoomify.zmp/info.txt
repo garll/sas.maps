@@ -1,0 +1,31 @@
+Пример использования ресурсов в формате Zoomify
+
+... отображается в левом верхнем углу с зума 1 по 7
+
+Как использовать:
+в строке запроса поменять адрес на нужный
+НЕ ЗАБЫТЬ указать папку кэша (NameInCache)
+
+
+смотрим информацию в /zoomify/ImageProperties.xml
+например:
+<IMAGE_PROPERTIES WIDTH="9910" HEIGHT="7476" NUMTILES="1579" VERSION="1.8" TILESIZE="256"/>
+
+в GetUrlScript.txt
+устанавливаем
+
+const
+width=9910;
+height=7476;
+
+
+Рекомендации:
+наслаждаемся.
+
+
+Ограничения: вроде нету
+
+Автор
+mra:Garl@mail.ru
+jabber:garl@qip.ru
+
