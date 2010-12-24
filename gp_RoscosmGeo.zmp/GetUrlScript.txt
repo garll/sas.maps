@@ -10,7 +10,7 @@ begin
 end;
 
 var binX,binY:string;
-    i,posSRC,posDATE,posTYPE,posFirstAND:integer;
+    i,posSRC,posDATE,posTYPE,posFirstAND,lenbinXY:integer;
 begin
  posFirstAND:=pos('&',GetUrlBase)-1;
  if posFirstAND<=0 then begin
@@ -44,10 +44,17 @@ begin
    end;
  end;
 
- binX:='0'+dec2bin(GetX);
- binY:='0'+dec2bin(GetY);
- binX:=copy(binX,length(binX)-(GetZ-1)+1,GetZ-1);
- binY:=copy(binY,length(binY)-(GetZ-1)+1,GetZ-1);
+ binX:=dec2bin(GetX);
+ binY:=dec2bin(GetY);
+ lenbinXY:=length(binX);
+ for i:=1 to ((GetZ-1)-lenbinXY) do begin
+   binX:='0'+binX;
+ end;
+ lenbinXY:=length(binY);
+ for i:=1 to ((GetZ-1)-lenbinXY) do begin
+   binY:='0'+binY;
+ end;
+
  for i:=7 to GetZ-1 do begin
    ResultURL:=ResultURL+copy(binY,1,i-6)+'-'+copy(binX,1,i-6)+'/';
  end;
