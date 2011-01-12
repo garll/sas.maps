@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetZ-3)+'/'+inttostr(GetX)+'/'+inttostr(round(intpower(2,getz-1)-GetY-1))+'.jpeg';
+end.
