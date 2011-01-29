@@ -5,7 +5,7 @@ name=Спутник (Яндекс.Карты)
 name_en=Satellite (Yandex.Maps)
 name_uk=Супутник (Яндекс.Карты)
 asLayer=0
-DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&v=1.19.0&x=
+DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&v=1.20.1&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
