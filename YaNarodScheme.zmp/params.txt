@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=9
+GUID={38E29DB4-A654-4D08-836C-936325F0B63B}
+asLayer=0
+name=Яндекс Народная Карта (схема)
+name_9=Yandex Narod Map (Scheme)
+NameInCache=yanarodscheme
+DefURLBase=http://wvec.maps.yandex.net/?l=wmap&x=
+ContentType=image/png
+ParentSubMenu=
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=0
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=54
+BanIfLen=0
+DelAfterShow=0
