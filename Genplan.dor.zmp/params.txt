@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=7
+GUID={5E04039A-331E-4D2C-B051-D00F8871BB39}
+name=Генплан - дороги
+name_en=Genplan - Roads
+ParentSubMenu=Генплан Москвы (Яблоко)
+ParentSubMenu_en=Genplan of Moscow (Yabloko)
+asLayer=0
+DefURLBase=http://genplan.yabloko.ru/map_tiles/446-530/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=gpdor
+separator=0
+Ext=.gif
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+ContentType=image/gif
+BanIfLen=0
