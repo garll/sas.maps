@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=
+GUID={E580797F-3C56-4796-98A8-52D579A1F6A5}
+asLayer=0
+name=МТС Поиск (wap.mpoisk.ru)
+name_en=МТС Поиск (wap.mpoisk.ru)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Others Maps
+NameInCache=mpoisk_ru
+DefURLBase=http://wap.mpoisk.ru/city/map.ashx/lon/
+ContentType=image/gif
+Ext=.gif
+projection=1
+sradiusa=3396190
+sradiusb=3396190
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0

@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=
+GUID={DB6FCDE8-43A6-4DB5-89E0-1F5625CC2BE0}
+name=Карта (rambler.ru)
+name_en=Map (rambler.ru)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Others Maps
+asLayer=0
+DefURLBase=http://tiles.maps.rambler.ru/lv
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=rambler
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+ContentType=image/png
+BanIfLen=0
