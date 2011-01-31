@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=5
+pnum=
 GUID={47E43C32-2C93-4FFE-92E8-2ED432EA434E}
 asLayer=0
 name=SPOT-5 (spotmaps.spotimage.com)
