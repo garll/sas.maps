@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=7
+pnum=5
 GUID={5E04039A-331E-4D2C-B051-B00F8871BB39}
 name=Спутник (Яндекс.Карты)
 name_en=Satellite (Yandex.Maps)
