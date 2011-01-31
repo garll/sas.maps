@@ -3,7 +3,11 @@ pnum=148
 GUID={E1BB4A20-4D08-4A4F-B97D-AE77317652DA}
 asLayer=0
 name=Карта карелии (navici.com)
-name_9=Karelia map (navici.com)
+name_en=Karelia map (navici.com)
+name_ua=Karelia map (navici.com)
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local Maps
+ParentSubMenu_ua=Local Maps
 NameInCache=navici_com
 DefURLBase=http://wms1.navici.com/geoserver/wms?WIDTH=256&HEIGHT=256&SRS=EPSG:4326&LAYERS=topp:topo100k&STYLES=&FORMAT=image/jpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application/vnd.ogc.se_inimage&BBOX=
 сontentType=image/jpeg,image/png
