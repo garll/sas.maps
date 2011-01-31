@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=9
+pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63B}
 asLayer=0
 name=Яндекс Народная Карта (схема)
