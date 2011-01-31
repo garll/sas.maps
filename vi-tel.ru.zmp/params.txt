@@ -11,7 +11,6 @@ ParentSubMenu_uk=÷םר¯ ךאנעט
 NameInCache=vi-tel
 DefURLBase=http://gps.vi-tel.ru/gmap/
 ContentType=image/png
-ParentSubMenu=
 Ext=.png
 projection=1
 sradiusa=6378137
