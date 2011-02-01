@@ -1,15 +1,16 @@
 [PARAMS]
-pnum=103
+pnum=3
 GUID={D8A2B03A-18B8-4127-936A-2D6A7AE0D89B}
 name=Ландшафт без названий (Google)
-name_9=Landscape w\o names (Google)
+name_en=Landscape w\o names (Google)
+name_uk=Ландшафт без назв (Google)
 asLayer=0
-DefURLBase=http://mt0.google.com/vt/lyrs=t@108&hl=ru&
+DefURLBase=http://mt0.google.com/vt/lyrs=t@126&hl=ru&
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=Google_land
-separator=1
+separator=0
 Ext=.jpg
 UseDwn=1
 Usestick=1
