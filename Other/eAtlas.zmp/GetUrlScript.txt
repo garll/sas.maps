@@ -9,7 +9,7 @@ begin
  Zm11dy:=round(GetY/intpower(2,GetZ-13));
  if (GetZ>12) then
   begin
-	if ((Zm11dx>2472)and(Zm11dx<2479))and((Zm11dy>1279)and(Zm11dy<1288)) then mn:='Msk' else
+	if ((Zm11dx>2461)and(Zm11dx<2482))and((Zm11dy>1271)and(Zm11dy<1296)) then mn:='MskMO' else
 	if ((Zm11dx>2486)and(Zm11dx<2490))and((Zm11dy>1269)and(Zm11dy<1278)) then mn:='Aleksandrov' else
 	if ((Zm11dx>2998)and(Zm11dx<3002))and((Zm11dy>1329)and(Zm11dy<1333)) then mn:='Barnaul' else
 	if ((Zm11dx>2461)and(Zm11dx<2467))and((Zm11dy>1380)and(Zm11dy<1386)) then mn:='Belgorod' else
