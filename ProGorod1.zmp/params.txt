@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=119
 GUID={714D22FC-40A0-41ED-A6E3-4DFFA1589CBA}
-name=Карта (pro-gorod.ru 1)
-name_9=Map (pro-gorod.ru 1)
+name=Карта (pro-gorod.ru)
+name_9=Map (pro-gorod.ru)
 ParentSubMenu=Другие карты
 ParentSubMenu_9=Other maps
 asLayer=0
