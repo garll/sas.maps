@@ -5,7 +5,7 @@ name=Карта (Google)
 name_en=Map (Google)
 name_uk=Карта (Google)
 asLayer=0
-DefURLBase=http://mt.google.com/vt?v=w2.999&hl=ru
+DefURLBase=http://mt0.google.com/vt/lyrs=m@145&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137

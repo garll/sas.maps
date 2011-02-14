@@ -6,7 +6,7 @@ name=Гибрид (Google)
 name_en=Hybrid (Google)
 name_uk=Гібрид (Google)
 NameInCache=Both
-DefURLBase=http://mt.google.com/vt?v=w2t.999&hl=ru
+DefURLBase=http://mt0.google.com/vt/lyrs=h@145&hl=ru
 ContentType=image/png
 ParentSubMenu=
 Ext=.png
