@@ -5,7 +5,7 @@ name=Карта (Яндекс.Карты)
 name_en=Map (Yandex.Maps)
 name_uk=Карта (Яндекс.Карты)
 asLayer=0
-DefURLBase=http://vec.maps.yandex.net/tiles?l=map&v=2.16.0&x=
+DefURLBase=http://vec.maps.yandex.net/tiles?l=map&v=2.17.1&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
