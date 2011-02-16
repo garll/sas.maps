@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=28
+pnum=174
 GUID={63862E5D-09F2-4732-9D21-6350124302CB}
 asLayer=0
 name=Карта Украины и Белоруссии (maps.visicom.ua)

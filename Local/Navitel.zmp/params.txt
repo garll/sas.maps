@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=8
+pnum=173
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE6}
 name=Карта Navitel
 name_en=Navitel Map

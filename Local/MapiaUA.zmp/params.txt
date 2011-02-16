@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=27
+pnum=172
 GUID={4DD430E5-30CE-4184-B18F-0AFD82686007}
 asLayer=0
 name=Карта Украины (mapia.com.ua)

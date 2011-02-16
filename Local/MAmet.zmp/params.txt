@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=47
+pnum=171
 GUID={8731EA1E-3D3F-4EBB-9422-9C3D642E32D5}
 asLayer=0
 name=Ёстони€ (Maaamet aero)
@@ -19,7 +19,7 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
+separator=1
 UseDwn=1
 Usestick=1
 UseGenPrevious=1
