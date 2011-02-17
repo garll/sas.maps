@@ -1,0 +1,76 @@
+function dec2bin(x:integer):string;
+var s:string;
+begin
+  s:='';
+  repeat
+     s:=chr($30 + x and 1) + s;
+     x:=x shr 1;
+  until x=0;
+  result:=s;
+end;
+
+var binX,binY:string;
+    i,posSRC,posDATE,posTYPE,posFirstAND,lenbinXY:integer;
+begin
+ posFirstAND:=pos('&',GetUrlBase)-1;
+ if posFirstAND<=0 then begin
+   posFirstAND:=length(GetUrlBase);
+ end;
+ posSRC:=pos('&src=',GetUrlBase);
+ posDATE:=pos('&date=',GetUrlBase);
+ posTYPE:=pos('&type=',GetUrlBase);
+
+ ResultURL:=copy(GetUrlBase,1,posFirstAND);
+ 
+ if posSRC>0 then begin
+   i:=posSRC+5;
+   while (GetUrlBase[i]<>'&') do begin 
+     i:=i+1;
+     if (i>length(GetUrlBase)) then break;
+   end;
+   ResultURL:=ResultURL+copy(GetUrlBase,posSRC+5,i-(posSRC+5));
+ end;
+
+ ResultURL:=ResultURL+'/'+inttostr(GetZ-1)+'/';
+ 
+ if posDATE>0 then begin
+   i:=posDATE+6;
+   while (GetUrlBase[i]<>'&') do begin 
+     i:=i+1;
+     if (i>length(GetUrlBase)) then break;
+   end;
+   if (i-(posDATE+6))>0 then begin
+     ResultURL:=ResultURL+copy(GetUrlBase,posDATE+6,i-(posDATE+6))+'/';
+   end;
+ end;
+
+ binX:=dec2bin(GetX);
+ binY:=dec2bin(GetY);
+ lenbinXY:=length(binX);
+ for i:=1 to ((GetZ-1)-lenbinXY) do begin
+   binX:='0'+binX;
+ end;
+ lenbinXY:=length(binY);
+ for i:=1 to ((GetZ-1)-lenbinXY) do begin
+   binY:='0'+binY;
+ end;
+
+ for i:=7 to GetZ-1 do begin
+   ResultURL:=ResultURL+copy(binY,1,i-6)+'-'+copy(binX,1,i-6)+'/';
+ end;
+ ResultURL:=ResultURL+binY+'-'+binX;
+
+ if posTYPE>0 then begin
+   i:=posTYPE+6;
+   while (GetUrlBase[i]<>'&') do begin 
+     inc(i);
+     if (i>length(GetUrlBase)) then break;
+   end;
+   if (i-(posTYPE+6))>0 then begin
+     ResultURL:=ResultURL+'.'+copy(GetUrlBase,posTYPE+6,i-(posTYPE+6));
+   end;
+ end else begin
+   ResultURL:=ResultURL+'.jpg';
+ end;
+ 
+end.
