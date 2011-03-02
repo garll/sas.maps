@@ -1,10 +1,10 @@
 [PARAMS]
 pnum=170
-GUID={BA18658E-6271-45FC-8E72-0DB974470A34}
-name=Новокузнецк (2gis.ru)
-name_9=Novokuznetsk (2gis.ru)
-NameInCache=2gis_Novokuznetsk
-DefURLBase=http://tile4.maps.2gis.ru/tile/novokuznetsk
+GUID={BA18658E-6277-45FC-8E72-0DB974470A34}
+name=Хабаровск (2gis.ru)
+name_9=Khabarovsk (2gis.ru)
+NameInCache=2gis_khabarovsk
+DefURLBase=http://tile4.maps.2gis.ru/tile/khabarovsk
 DefaultContentType=image/png
 ContentType="image/png"
 Ext=.png
