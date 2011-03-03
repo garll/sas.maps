@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=
+GUID={8238C84A-D37E-45E1-A737-FBCFBCD4168C}
+name=Кировская область - спутник (43.geohub.net)
+name_en=Kirov Satellite (43.geohub.net)
+name_uk=Кировская область - спутник (43.geohub.net)
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local maps
+ParentSubMenu_uk=Локальні карти
+asLayer=0
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/sat/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=43.geohub.sat
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/jpeg
+BanIfLen=0

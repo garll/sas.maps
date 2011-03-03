@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=
+GUID={8238C84A-D37E-45E1-A73A-FBCFBCD4168C}
+name=Кировская область - гибрид (43.geohub.net)
+name_en=Kirov Hybrid (43.geohub.net)
+name_uk=Кировская область - гибрид (43.geohub.net)
+asLayer=1
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_tr/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=43.geohub.hybrid
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/png8bit
+MimeTypeSubst="image/png8bit=image/png"
+BanIfLen=0

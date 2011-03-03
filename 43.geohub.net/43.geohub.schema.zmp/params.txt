@@ -1,0 +1,28 @@
+[PARAMS]
+pnum=
+GUID={8238C84A-D37E-45E1-A736-FBCFBCD4168C}
+name=Кировская область - карта (43.geohub.net)
+name_en=Kirov Map (43.geohub.net)
+name_uk=Кировская область - карта (43.geohub.net)
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local maps
+ParentSubMenu_uk=Локальні карти
+asLayer=0
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_full/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=43.geohub.full
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+MimeTypeSubst="image/png8bit=image/png"
+ContentType=image/png8bit
+BanIfLen=0
