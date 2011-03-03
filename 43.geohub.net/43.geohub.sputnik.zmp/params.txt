@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=
 GUID={8238C84A-D37E-45E1-A737-FBCFBCD4168C}
-name=Кировская область - спутник (43.geohub.net)
-name_en=Kirov Satellite (43.geohub.net)
-name_uk=Кировская область - спутник (43.geohub.net)
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local maps
-ParentSubMenu_uk=Локальні карти
+name=Cпутник (43.geohub.net)
+name_en=Satellite (43.geohub.net)
+name_uk=Cпутник (43.geohub.net)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 asLayer=0
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/sat/
 projection=1
