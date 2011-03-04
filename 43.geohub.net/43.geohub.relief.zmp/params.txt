@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=
 GUID={8238C84A-D37E-45E1-A73B-FBCFBCD4168C}
-name=Рельеф (43.geohub.net)
-name_en=Relief (43.geohub.net)
-name_uk=Рельеф (43.geohub.net)
+name=Рельеф (geohub.net)
+name_en=Relief (geohub.net)
+name_uk=Рельеф (geohub.net)
 ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
 ParentSubMenu_uk=Інші карти
