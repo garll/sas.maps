@@ -3,7 +3,7 @@ GUID={6B05E307-B1EF-4368-9080-83C6B1F437EA}
 asLayer=1
 pnum=113
 name=Panoramio Картинки
-name_9=Panoramio pictures
+name_en=Panoramio pictures
 NameInCache=Pano
 DefURLBase=http://mt.google.com/mapslt?lyrs=lmc:com.panoramio.p.all
 ContentType=image/png

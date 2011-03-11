@@ -3,12 +3,12 @@ pnum=195
 GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
 asLayer=0
 name=Новоуральск (Umap.ru)
-name_9=Новоуральск (Umap.ru)
+name_en=Новоуральск (Umap.ru)
 NameInCache=Umap_53066
 DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=53066
 ContentType=text/html , image/gif
 ParentSubMenu=Umap
-ParentSubMenu_9=Umap
+ParentSubMenu_en=Umap
 Ext=.gif
 projection=1
 sradiusa=6378137

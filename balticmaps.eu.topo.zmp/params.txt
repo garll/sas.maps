@@ -3,7 +3,7 @@ pnum=114
 GUID={E01A0205-546A-494F-8434-5D75D53E3C1E}
 asLayer=0
 name=Латвия топо
-name_9=Латвия топо
+name_en=Латвия топо
 NameInCache=balticmaps_eu_topo
 DefURLBase=http://maps.kartes.lv/kijs/server_scripts/orto/get_orto_foto.php?WIDTH=300&HEIGHT=300&KIJS=BM45&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application/vnd.ogc.se_inimage&LAYERS=&SRS=EPSG:3059&FORMAT=image/gif&TRANSPARENT=true&BBOX=
 ContentType="image/jpeg"
@@ -26,4 +26,4 @@ TILERRIGHT=300
 TILERTOP=0
 TILERBOTTOM=300
 ParentSubMenu=Локальные карты
-ParentSubMenu_9=Local maps
+ParentSubMenu_en=Local maps

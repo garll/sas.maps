@@ -2,7 +2,7 @@
 pnum=170
 GUID={E0E0534C-EBC8-4287-91CF-7279344DD5B4}
 name=—амара (2gis.ru)
-name_9=Samara (2gis.ru)
+name_en=Samara (2gis.ru)
 NameInCache=2gis_Samara
 DefURLBase=http://tile4.maps.2gis.ru/tile/samara
 DefaultContentType=image/png
@@ -22,4 +22,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=ƒубль√ис
-ParentSubMenu_9=2gis
+ParentSubMenu_en=2gis

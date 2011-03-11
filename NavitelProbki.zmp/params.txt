@@ -2,7 +2,7 @@
 pnum=48
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE7}
 name=Пробки Navitel
-name_9=Navitel Probki
+name_en=Navitel Probki
 asLayer=1
 DefURLBase=http://map.navitel.su/navitms.fcgi?j=
 projection=1

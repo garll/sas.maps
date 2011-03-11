@@ -2,7 +2,7 @@
 pnum=133
 GUID={8A7C26A9-C94B-4329-A764-02BB2EF9EA30}
 name=Карта Одессы(odessa.ua)
-name_9=Odessa Map (odessa.ua)
+name_en=Odessa Map (odessa.ua)
 asLayer=0
 DefURLBase=http://www.citymap.odessa.ua/arcgis/rest/services/odessa_n/MapServer/tile
 projection=1
@@ -10,7 +10,7 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=odessa_ua
 ParentSubMenu=Локальные карты
-ParentSubMenu_9=Local maps
+ParentSubMenu_en=Local maps
 separator=0
 Ext=.png
 UseDwn=1

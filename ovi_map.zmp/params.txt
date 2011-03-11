@@ -2,14 +2,14 @@
 pnum=103
 GUID={70AF7E17-DE9B-4BD6-86F4-70921A74B2B6}
 name=Карта Ovi (maps.ovi.com)
-name_9= Ovi Map (maps.ovi.com)
+name_en= Ovi Map (maps.ovi.com)
 asLayer=0
 DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/maptile/newest/normal.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 NameInCache=ovi_com_map
 separator=0
 Ext=.png

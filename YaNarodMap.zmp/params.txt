@@ -3,7 +3,7 @@ pnum=147
 GUID={38E29DB4-A654-4D08-836C-936325F0B63A}
 asLayer=1
 name=Яндекс Народная Карта (Яндекс.Карты)
-name_9=Yandex Narod Maps (Yandex.Maps)
+name_en=Yandex Narod Maps (Yandex.Maps)
 NameInCache=yanarodmap
 DefURLBase=http://wvec.maps.yandex.net/?x=
 ContentType=image/png

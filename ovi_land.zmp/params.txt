@@ -2,14 +2,14 @@
 pnum=103
 GUID={D8C293B0-63AE-4902-A0D4-83A26BCE01D6}
 name=Ландшафт Ovi (maps.ovi.com)
-name_9= Ovi Land (maps.ovi.com)
+name_en= Ovi Land (maps.ovi.com)
 asLayer=0
 DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/maptile/newest/terrain.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps
 NameInCache=ovi_com_Land
 separator=0
 Ext=.png

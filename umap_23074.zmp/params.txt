@@ -8,7 +8,7 @@ NameInCache=Umap_23074
 DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=23074
 ContentType=text/html , image/gif
 ParentSubMenu=Umap
-ParentSubMenu_9=Umap
+ParentSubMenu_en=Umap
 Ext=.gif
 projection=1
 sradiusa=6378137

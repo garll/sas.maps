@@ -2,12 +2,12 @@
 pnum=107
 GUID={1765996B-95B8-46FD-9209-BC6B8689E2EC}
 name=Чебоксары (cheboksary.ws)
-name_9=Map (cheboksary.ws)
+name_en=Map (cheboksary.ws)
 asLayer=0
 DefURLBase=http://www.cheboksary.ws/maps/
 projection=2
 ParentSubMenu=Локальные карты
-ParentSubMenu_9=Local maps
+ParentSubMenu_en=Local maps
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=cheboksary

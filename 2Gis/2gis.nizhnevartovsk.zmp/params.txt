@@ -2,7 +2,7 @@
 pnum=170
 GUID={EEBC3E2E-86F6-47EC-94E6-E38711457A5F}
 name=Нижневартовск (2gis.ru)
-name_9=Nizhnevartovsk (2gis.ru)
+name_en=Nizhnevartovsk (2gis.ru)
 NameInCache=2gis_Nizhnevartovsk
 DefURLBase=http://tile4.maps.2gis.ru/tile/nizhnevartovsk
 DefaultContentType=image/png
@@ -22,4 +22,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=ДубльГис
-ParentSubMenu_9=2gis
+ParentSubMenu_en=2gis

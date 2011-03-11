@@ -3,7 +3,7 @@ pnum=114
 GUID={8F990424-C62A-4CFD-97C5-9B402078A4F4}
 asLayer=0
 name=Новокузнецк (rugis.ru)
-name_9=Новокузнецк (rugis.ru)
+name_en=Новокузнецк (rugis.ru)
 NameInCache=rugis_ru
 DefURLBase=http://rugis.ru/new/map/?mode=map&DocWidth=256&DocHeight=256&zoom=
 ContentType="image/gif"
@@ -23,4 +23,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=Локальные карты
-ParentSubMenu_9=Local maps
+ParentSubMenu_en=Local maps

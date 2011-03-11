@@ -2,7 +2,7 @@
 pnum=170
 GUID={BA18658E-6271-45FC-8E72-0DB974470A34}
 name=Новокузнецк (2gis.ru)
-name_9=Novokuznetsk (2gis.ru)
+name_en=Novokuznetsk (2gis.ru)
 NameInCache=2gis_Novokuznetsk
 DefURLBase=http://tile4.maps.2gis.ru/tile/novokuznetsk
 DefaultContentType=image/png
@@ -22,4 +22,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=ДубльГис
-ParentSubMenu_9=2gis
+ParentSubMenu_en=2gis

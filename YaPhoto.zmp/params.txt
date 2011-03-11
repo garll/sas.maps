@@ -3,7 +3,7 @@ pnum=147
 GUID={9AFFE8A1-431D-48F4-8515-54A7D42F0E6C}
 asLayer=1
 name=—лой яндекс ‘отки (яндекс. арты)
-name_9=Yandex Photo (Yandex.Maps)
+name_en=Yandex Photo (Yandex.Maps)
 NameInCache=yaphoto
 DefURLBase=http://lrs.maps.yandex.net/tiles?l=pht&tm=1990c2ca2ecff1b3387210a1b2a1e36d&x=
 ContentType=image/png

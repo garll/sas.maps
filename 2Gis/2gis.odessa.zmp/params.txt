@@ -2,7 +2,7 @@
 pnum=170
 GUID={AB0A91E0-D409-48DF-ADB4-1E8E42123D4F}
 name=ќдесса (2gis.ru)
-name_9=Odessa (2gis.ru)
+name_en=Odessa (2gis.ru)
 NameInCache=2gis_Odessa
 DefURLBase=http://tile4.maps.2gis.ru/tile/odessa
 DefaultContentType=image/png
@@ -22,4 +22,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=ƒубль√ис
-ParentSubMenu_9=2gis
+ParentSubMenu_en=2gis

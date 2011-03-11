@@ -2,7 +2,7 @@
 pnum=103
 GUID={0025AAC7-DAD6-4EE6-8E82-16DD9742025D}
 name=Карта (kharkov.ua)
-name_9=Map (kharkov.ua)
+name_en=Map (kharkov.ua)
 asLayer=0
 DefURLBase=https://gis.citynet.kharkov.ua/arcgiscache/heavy2/Layers/_alllayers/L
 projection=1
@@ -28,4 +28,4 @@ TILERRIGHT=512
 TILERTOP=0
 TILERBOTTOM=512
 ParentSubMenu=Локальные карты
-ParentSubMenu_9=Local maps
+ParentSubMenu_en=Local maps

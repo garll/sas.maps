@@ -3,12 +3,12 @@ pnum=30
 GUID={09B58203-8F81-4643-98AD-17AF0593A1AD}
 asLayer=0
 name=Звёзды (sky-map.org)
-name_9=Stars (sky-map.org)
+name_en=Stars (sky-map.org)
 NameInCache=sky_map_org
 DefURLBase=http://server5.wikisky.org/imgcut?survey=DSS2&img_id=all&ra=1.33333333333333&de=40&angle=
 ContentType=image/jpeg
 ParentSubMenu=Космос
-ParentSubMenu_9=Space
+ParentSubMenu_en=Space
 Ext=.jpg
 projection=1
 sradiusa=6378137

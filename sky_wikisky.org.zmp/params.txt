@@ -3,12 +3,12 @@ pnum=30
 GUID={3A0588D9-3645-4ADD-9A0D-7188197DFBC3}
 asLayer=0
 name=Звёзды (wikisky.org)
-name_9=Stars (wikisky.org)
+name_en=Stars (wikisky.org)
 NameInCache=sky_wikisky_org
 DefURLBase=http://server4.wikisky.org/map?w=256&h=256&ra=13.33333333333333&de=60&mag=8.2&grid_ra_step=1&grid_de_step=15&locale=RU&show_grid=1&show_const_lines=1&show_const_boundaries=1&borders=1&show_const_names=1&show_galaxies=1&language=RU&zoom=2.1&angle=
 ContentType=image/gif
 ParentSubMenu=Космос
-ParentSubMenu_9=Space
+ParentSubMenu_en=Space
 Ext=.gif
 projection=1
 sradiusa=6378137

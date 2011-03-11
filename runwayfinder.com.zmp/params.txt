@@ -2,7 +2,7 @@
 pnum=100
 GUID={A115BC54-5F9A-414B-B4AF-0C6EC62673C8}
 name=Лётные карты  (runwayfinder.com)
-name_9=Fly maps (runwayfinder.com)
+name_en=Fly maps (runwayfinder.com)
 asLayer=0
 DefURLBase=http://www.runwayfinder.com/media/charts/?x=
 projection=1
@@ -22,4 +22,4 @@ DefHotKey=0
 ContentType=image/jpeg
 BanIfLen=0
 ParentSubMenu=Другие карты
-ParentSubMenu_9=Other maps
+ParentSubMenu_en=Other maps

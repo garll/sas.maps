@@ -2,7 +2,7 @@
 pnum=170
 GUID={BA18658E-6278-45FC-8E72-0DB974470A34}
 name=ярославль (2gis.ru)
-name_9=Yaroslavl (2gis.ru)
+name_en=Yaroslavl (2gis.ru)
 NameInCache=2gis_yaroslavl
 DefURLBase=http://tile4.maps.2gis.ru/tile/yaroslavl
 DefaultContentType=image/png
@@ -22,4 +22,4 @@ Sleep=0
 DefHotKey=0
 BanIfLen=0
 ParentSubMenu=ƒубль√ис
-ParentSubMenu_9=2gis
+ParentSubMenu_en=2gis
