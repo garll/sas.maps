@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetZ)+'-0'+inttostr(Getx)+'-0'+inttostr(Gety)+'.jpg';
+end.
