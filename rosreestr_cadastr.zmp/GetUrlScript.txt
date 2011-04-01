@@ -1,6 +1,6 @@
 var i:integer;
         xy:TPoint;
-        topLeftM,bottomrightM,LL:TExtendedPoint;
+        topLeftM,bottomrightM,LL:TDoublePoint;
 begin
  xy.x:=GetX*256;
  xy.y:=GetY*256;

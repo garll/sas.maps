@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=114
+GUID={85DA2DD7-5277-496D-B428-F8B1DD8BE16A}
+asLayer=1
+name=Кадастровое землепользование (rosreestr.ru)
+name_en=Cadastre Landuse (rosreestr.ru)
+name_uk=Cadastre Landuse (rosreestr.ru)
+NameInCache=rosreestr_zone
+DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/Cadastre/Zones/MapServer/export?dpi=96&transparent=true&format=png32&imageSR=102100&size=256,256&layers=show:3,4&f=image&SR=102100&bbox=
+ContentType="image/png32"
+DefaultContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
