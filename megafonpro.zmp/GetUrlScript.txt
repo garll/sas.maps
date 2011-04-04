@@ -149,8 +149,8 @@ if GetZ>3 then
 
  strx3:=a[x3];
  stry3:=a[y3];
- if px3>0 then strx3:=a[px3]+strx3;
- if py3>0 then stry3:=a[py3]+stry3;
+ if ((px3>0) or (ppx3>0)) then strx3:=a[px3]+strx3;
+ if ((py3>0) or (ppy3>0)) then stry3:=a[py3]+stry3;
  if ppx3>0 then strx3:=a[ppx3]+strx3;
  if ppy3>0 then stry3:=a[ppy3]+stry3;
 
