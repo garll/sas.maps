@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=6
 GUID={9A360A5D-7A73-402D-8A11-D670BD739B7B}
-name=Спутник Navteq (navteq.com)
-name_en=Navteq Sat (navteq.com)
-name_uk=Navteq Sat (navteq.com)
+name=Спутник DG (navteq.com)
+name_en=DG Sat (navteq.com)
+name_uk=DG Sat (navteq.com)
 ContentType=image/png
 ParentSubMenu=Navteq
 ParentSubMenu_en=Navteq
