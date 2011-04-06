@@ -1,16 +1,18 @@
 [PARAMS]
 pnum=103
-GUID={70AF7E17-DE9B-4BD6-86F4-70921A74B2B6}
-name=Карта Ovi (maps.ovi.com)
-name_en= Ovi Map (maps.ovi.com)
+GUID={D8C293B0-63AE-4902-A0D4-83A26BCE01D7}
+name=Спутник DG (maps.ovi.com)
+name_en=DG Sat (maps.ovi.com)
+name_uk=Супутник DG (maps.ovi.com)
 asLayer=0
-DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/maptile/newest/normal.day/
+DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/v2/maptile/newest/satellite.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
-NameInCache=ovi_com_map
+ParentSubMenu_uk=Інші карти
+NameInCache=ovi_com_Sat
 separator=0
 Ext=.png
 UseDwn=1
