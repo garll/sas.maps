@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=5
+pnum=6
 GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
 name=Спутник (Kosmosnimki.ru)
 name_en=Satellite (Kosmosnimki.ru)
