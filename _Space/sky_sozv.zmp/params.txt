@@ -1,9 +1,12 @@
 [PARAMS]
-pnum=30
+pnum=
 GUID={FB91E1F8-B9F4-4871-83A2-7AF3F1C76559}
 asLayer=1
 name=Слой созвездий (Google)
 name_en=Sozvezdiya (Google)
+ParentSubMenu=Космос
+ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 NameInCache=sky_sozv
 DefURLBase=http://mt1.google.com/mapslt?lyrs=kml:cO3EGLN6FQYFEW7oRNPQIjRVuo4gH_FrckaqT9rW4I1UnwdxsZ8h80UGcIdINAg|kv:3|kp:&w=256&h=256&source=maps_api&hl=ru
 ContentType=image/png

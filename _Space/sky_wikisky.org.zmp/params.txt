@@ -9,6 +9,7 @@ DefURLBase=http://server4.wikisky.org/map?w=256&h=256&ra=13.33333333333333&de=60
 ContentType=image/gif
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 Ext=.gif
 projection=1
 sradiusa=6378137

@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=103
+pnum=6
 GUID={70AF7E17-DE9B-4BD6-86F4-70921A74B2B6}
 name=Карта Ovi (maps.ovi.com)
 name_en=Ovi Map (maps.ovi.com)
@@ -9,9 +9,9 @@ DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/v2/maptile/newest/normal.day
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu=Ovi
+ParentSubMenu_en=Ovi
+ParentSubMenu_uk=Ovi
 NameInCache=ovi_com_map
 separator=0
 Ext=.png

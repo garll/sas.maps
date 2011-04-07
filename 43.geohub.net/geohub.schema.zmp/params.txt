@@ -1,12 +1,12 @@
 [PARAMS]
-pnum=
+pnum=7
 GUID={8238C84A-D37E-45E1-A756-FBCFBCD4168C}
 name=Карта (geohub.net)
 name_en=Map (geohub.net)
 name_uk=Карта (geohub.net)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu=GeoHub
+ParentSubMenu_en=GeoHub
+ParentSubMenu_uk=GeoHub
 asLayer=0
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/geobase_full/
 projection=1

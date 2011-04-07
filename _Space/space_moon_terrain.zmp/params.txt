@@ -9,6 +9,7 @@ DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/terrain/
 ContentType=image/jpeg
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1
 sradiusa=1737400

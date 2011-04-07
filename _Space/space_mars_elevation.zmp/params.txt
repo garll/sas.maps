@@ -1,14 +1,15 @@
 [PARAMS]
-pnum=109
-GUID={72F36652-2D7E-4B9D-BA26-63D773FB9AE7}
+pnum=108
+GUID={E90A2F3E-45CE-4AF9-AC19-D372AC403CCB}
 asLayer=0
-name=Марс Инфракрасный (Google)
-name_en=Mars Infrared (Google)
-NameInCache=mars_infrared
-DefURLBase=http://mw1.google.com/mw-planetary/mars/infrared/
+name=Марс Высоты (Google)
+name_en=Mars Elevation (Google)
+NameInCache=MARS_elevation
+DefURLBase=http://mw1.google.com/mw-planetary/mars/elevation/
 ContentType=image/jpeg
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1
 sradiusa=3396190

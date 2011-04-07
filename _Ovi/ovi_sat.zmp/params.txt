@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=103
+pnum=6
 GUID={D8C293B0-63AE-4902-A0D4-83A26BCE01D7}
 name=Спутник DG (maps.ovi.com)
 name_en=DG Sat (maps.ovi.com)
@@ -9,9 +9,9 @@ DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/v2/maptile/newest/satellite.
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu=Ovi
+ParentSubMenu_en=Ovi
+ParentSubMenu_uk=Ovi
 NameInCache=ovi_com_Sat
 separator=0
 Ext=.png

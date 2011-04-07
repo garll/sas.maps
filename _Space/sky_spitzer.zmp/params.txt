@@ -1,9 +1,12 @@
 [PARAMS]
-pnum=30
+pnum=
 GUID={1A685790-60B0-412D-A03A-203D0ECEF764}
 asLayer=1
 name=Çâåçäû Spitzer (Google)
 name_en=Spitzer (Google)
+ParentSubMenu=Êîñìîñ
+ParentSubMenu_en=Space
+ParentSubMenu_uk=Êîñìîñ
 NameInCache=sky_Spitzer
 DefURLBase=http://mw1.google.com/mw-planetary/sky/mapscontent_v1/overlayTiles/spitzer/zoom
 ContentType=image/png

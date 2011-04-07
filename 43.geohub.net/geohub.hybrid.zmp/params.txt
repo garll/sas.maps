@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=
+pnum=7
 GUID={8238C84A-D37E-45E1-A74A-FBCFBCD4168C}
 name=Гибрид (geohub.net)
 name_en=Hybrid (geohub.net)

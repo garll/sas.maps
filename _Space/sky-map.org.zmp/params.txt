@@ -9,6 +9,7 @@ DefURLBase=http://server5.wikisky.org/imgcut?survey=DSS2&img_id=all&ra=1.3333333
 ContentType=image/jpeg
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
+ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1
 sradiusa=6378137
