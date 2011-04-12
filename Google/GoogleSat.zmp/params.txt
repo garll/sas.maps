@@ -5,7 +5,7 @@ name=Спутник (Google)
 name_en=Satellite (Google maps)
 name_uk=Супутник (Google)
 asLayer=0
-DefURLBase=http://khm.google.com/kh/v=82&hl=ru
+DefURLBase=http://khm.google.com/kh/v=83&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137
