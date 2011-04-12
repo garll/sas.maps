@@ -22,4 +22,3 @@ Usedel=1
 Usesave=1
 UseAntiBan=0
 Sleep=0
-
