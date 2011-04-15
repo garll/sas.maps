@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=128
+pnum=175
 GUID={EC9E8E65-9A06-4543-B03E-F4A9286F1BB6}
 asLayer=0
 name=Карта Молдавии (point.md)
@@ -14,7 +14,7 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=1
+separator=0
 UseDwn=1
 Usestick=1
 UseGenPrevious=1

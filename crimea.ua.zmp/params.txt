@@ -1,7 +1,7 @@
 [PARAMS]
 active=0
 asLayer=0
-pnum=130
+pnum=171
 GUID={B84EAE41-BDDF-4FD6-844E-D2C34756F82B}
 name=Карта Крыма (crimea.ua)
 name_en=Krim Map(crimea.ua)

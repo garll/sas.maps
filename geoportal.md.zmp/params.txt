@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=128
+pnum=176
 GUID={1E366B2E-F39E-431C-A1EF-6BAB0F78D9B0}
 asLayer=0
 name=Карта Молдавии (geoportal.md)

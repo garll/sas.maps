@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=114
+pnum=178
 GUID={E01A0205-546A-494F-8434-5D75D53E3C1E}
 asLayer=0
 name=Латвия топо
@@ -11,7 +11,7 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
+separator=1
 UseDwn=1
 Usestick=1
 UseGenPrevious=1

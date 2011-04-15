@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=128
+pnum=171
 GUID={F031E660-5D1B-48DE-B413-43E85B8DBB26}
 asLayer=0
 name=Карты Украины (map.meta.ua)

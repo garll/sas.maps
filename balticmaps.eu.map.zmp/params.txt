@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=114
+pnum=177
 GUID={F05CB6B1-BB96-4BF3-AED2-4ABEB9B2DBE7}
 asLayer=0
 name=Карта Латвии

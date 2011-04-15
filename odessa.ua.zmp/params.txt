@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=133
+pnum=171
 GUID={8A7C26A9-C94B-4329-A764-02BB2EF9EA30}
 name=Карта Одессы(odessa.ua)
 name_en=Odessa Map (odessa.ua)

@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=1
+GUID={524A4C5A-D631-4B54-829F-27B19A31A0BD}
+name=Слой Ландшафт (Google)
+name_en=Landscape Layer (Google)
+name_uk=Слой Ландшафт (Google)
+ParentSubMenu=Google
+ParentSubMenu_en=Google
+ParentSubMenu_uk=Google
+asLayer=1
+DefURLBase=http://mt0.google.com/vt/lyrs=t@121&hl=ru&
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Google_land_layer
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=1000
+DefHotKey=0
+ContentType=image/png
+BanIfLen=1722
