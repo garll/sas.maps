@@ -8,7 +8,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 asLayer=0
-DefURLBase=http://vec.maps.yandex.net/tiles?l=map&v=2.17.1&x=
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&v=2.17.1&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
