@@ -5,6 +5,9 @@ asLayer=0
 name=Карта (Gurtam)
 name_en=Map (Gurtam)
 name_uk=Карта (Gurtam)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 NameInCache=gumap
 DefURLBase=http://wialonb3.gurtam.com/map_gmaps?v=&w=256&h=256&q=&sc=&m=&
 ContentType=image/png

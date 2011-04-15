@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=118
+pnum=14
 GUID={4DD2B2D9-A42A-4008-8702-A180FD09797B}
 asLayer=0
 name=Спутник (Карты@mail)
@@ -8,9 +8,9 @@ name_uk=Супутник (Карты@Mail.Ru)
 NameInCache=mailsat
 DefURLBase=http://t1.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
 ContentType=image/jpeg
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu=mail.ru
+ParentSubMenu_en=mail.ru
+ParentSubMenu_uk=mail.ru
 Ext=.jpg
 projection=2
 sradiusa=6378137

@@ -5,6 +5,9 @@ asLayer=0
 name=Карта (Yahoo!)
 name_en=Map (Yahoo!)
 name_uk=Карта (Yahoo!)
+ParentSubMenu=Yahoo!
+ParentSubMenu_en=Yahoo!
+ParentSubMenu_uk=Yahoo!
 NameInCache=yhmap
 DefURLBase=http://us.maps1.yimg.com/us.tile.maps.yimg.com/tl?v=4.3&md=2&r=1
 ContentType=image/png

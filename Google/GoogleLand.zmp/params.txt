@@ -4,13 +4,16 @@ GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
 name=ֻאםהראפע (Google)
 name_en=Landscape (Google)
 name_uk=ֻאםהראפע (Google)
+ParentSubMenu=Google
+ParentSubMenu_en=Google
+ParentSubMenu_uk=Google
 asLayer=0
 DefURLBase=http://mt.google.com/vt?v=w2p.999&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=land
-separator=1
+separator=0
 Ext=.jpg
 UseDwn=1
 Usestick=1

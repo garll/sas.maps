@@ -5,10 +5,12 @@ asLayer=1
 name=Пробки (Яндекс.Карты)
 name_en=Traffic (Yandex.Maps)
 name_uk=Пробки (Яндекс.Карты)
+ParentSubMenu=Яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=Яндекс
 NameInCache=yatraf
 DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf&x=
 ContentType=image/png
-ParentSubMenu=
 Ext=.png
 projection=2
 sradiusa=6378137

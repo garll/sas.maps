@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=119
+pnum=14
 GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
 asLayer=0
 name=Карта (Карты@mail)
@@ -8,14 +8,14 @@ name_uk=Карта (Карты@Mail.Ru)
 NameInCache=mailmap
 DefURLBase=http://t2.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=maps
 ContentType=image/png
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu=mail.ru
+ParentSubMenu_en=mail.ru
+ParentSubMenu_uk=mail.ru
 Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-separator=1
+separator=0
 UseDwn=1
 Usestick=1
 UseGenPrevious=1

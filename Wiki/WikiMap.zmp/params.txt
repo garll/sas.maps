@@ -5,6 +5,9 @@ asLayer=0
 name=Карта (WikiMapia)
 name_en=Map (WikiMapia)
 name_uk=Карта (WikiMapia)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
 NameInCache=WikiMap
 DefURLBase=http://i.wikimapia.org/?lng=1&
 ContentType=image/png,text/plain

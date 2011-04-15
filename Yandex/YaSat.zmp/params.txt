@@ -4,6 +4,9 @@ GUID={5E04039A-331E-4D2C-B051-B00F8871BB39}
 name=—путник (яндекс. арты)
 name_en=Satellite (Yandex.Maps)
 name_uk=—упутник (яндекс. арты)
+ParentSubMenu=яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=яндекс
 asLayer=0
 DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&v=1.22.0&x=
 projection=2

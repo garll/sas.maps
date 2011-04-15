@@ -1,14 +1,16 @@
 [PARAMS]
-pnum=39
+pnum=5
 GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
 asLayer=1
 name=√ибрид (яндекс. арты)
 name_en=Hybrid (Yandex.Maps)
 name_uk=√≥брид (яндекс. арты)
+ParentSubMenu=яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=яндекс
 NameInCache=yahyb
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&v=2.14.0&x=
 ContentType=image/png
-ParentSubMenu=
 Ext=.png
 projection=2
 sradiusa=6378137

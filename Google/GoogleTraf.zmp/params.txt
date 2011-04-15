@@ -5,10 +5,12 @@ asLayer=1
 name=Пробки (Google Maps)
 name_en=Traffic (Google Maps)
 name_uk=Пробки (Google Maps)
+ParentSubMenu=Google
+ParentSubMenu_en=Google
+ParentSubMenu_uk=Google
 NameInCache=googletraf
 DefURLBase=http://mt1.google.com/vt?hl=ru&lyrs=h@130,traffic|seconds_into_week:-1&style=15&
 ContentType=image/png
-ParentSubMenu=
 Ext=.png
 projection=1
 sradiusa=6378137
