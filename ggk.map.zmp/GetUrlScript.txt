@@ -1,3 +1,0 @@
-begin
-  ResultURL:=GetURLBase+RoundEx(GetLLon,10)+','+RoundEx(GetBLat,10)+','+RoundEx(GetRLon,10)+','+RoundEx(GetTLat,10)+'&WIDTH=256&HEIGHT=256';
-end.
