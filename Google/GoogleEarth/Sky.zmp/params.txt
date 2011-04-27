@@ -1,4 +1,5 @@
 [PARAMS]
+pnum=1005
 GUID={10999B94-B2D3-4EFF-A1CD-0A26DF7467F6}
 name=Небо (GeoCacher)
 name_en=Sky (GeoCacher)
