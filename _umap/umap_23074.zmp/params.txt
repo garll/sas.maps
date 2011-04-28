@@ -3,7 +3,7 @@ pnum=195
 GUID={3B4370AE-B488-4A81-9D65-6729CD272392}
 asLayer=0
 name=Копейск (Umap.ru)
-name_en=Копейск (Umap.ru)
+name_en=Kopeisk (Umap.ru)
 NameInCache=Umap_23074
 DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=23074
 ContentType=text/html , image/gif

@@ -3,7 +3,7 @@ pnum=194
 GUID={D4BFDB5B-948B-4161-9215-C3E31B932DA8}
 asLayer=0
 name=Златоуст (Umap.ru)
-name_en=Златоуст (Umap.ru)
+name_en=Zlatoust (Umap.ru)
 NameInCache=Umap_17074
 DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=17074
 ContentType=text/html , image/gif

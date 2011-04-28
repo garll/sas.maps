@@ -2,7 +2,7 @@
 pnum=170
 GUID={DDD471FB-1B5A-451C-93DD-E07C6D7A643C}
 name=Дрогобыч и Трускавец (nadoloni.com)
-name_en=Дрогобыч и Трускавец (nadoloni.com)
+name_en=Drogobych & Truskavets (nadoloni.com)
 NameInCache=nadoloni_com
 DefURLBase=http://nadoloni.com/test
 DefaultContentType=image/png
