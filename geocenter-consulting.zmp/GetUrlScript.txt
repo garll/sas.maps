@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetY)+'/'+inttostr(GetX)+'.png?key=35f00da506f83379bcc649f84628cf7a4bc659b9da964f6de9b299c19a04bd7e';
+end.
