@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=170
+GUID={40E59729-C89C-49FA-BADA-DF3F70A77246}
+asLayer=0
+name=Москва (2gis.ru)
+name_en=Moscow (2gis.ru)
+NameInCache=2gis_moscow
+DefURLBase=http://tile4.maps.2gis.ru/tile/moscow
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+MaxConnectToServerCount=20
+ParentSubMenu=ДубльГис
+ParentSubMenu_en=2gis
