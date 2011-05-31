@@ -1,0 +1,43 @@
+// Source: http://belgeodesy.by/map/
+// Zmp v1 by gpsMax - http://sasgis.ru/mantis/view.php?id=693
+// Zmp v... by ...
+
+var xx,yy,zz:string;
+var dx,dy:array[1..50] of longint;
+begin
+   // map:z1, Sasplanet:z7
+   dx[1]:=36;
+   dy[1]:=20;
+   // map:z2, Sasplanet:z8
+   dx[2]:=72;
+   dy[2]:=40;
+   // map:z3, Sasplanet:z9
+   dx[3]:=144;
+   dy[3]:=80;
+   // map:z4, Sasplanet:z10
+   dx[4]:=289;
+   dy[4]:=160;
+   // map:z5, Sasplanet:z11
+   dx[5]:=579;
+   dy[5]:=320;
+   // map:z6, Sasplanet:z12
+   dx[6]:=1159;
+   dy[6]:=640;
+   // map:z7, Sasplanet:z13
+   dx[7]:=2318;
+   dy[7]:=1277;
+   // map:z8, Sasplanet:z14
+   dx[8]:=4637;
+   dy[8]:=2553;
+   // map:z9, Sasplanet:z15
+   dx[9]:=9274;
+   dy[9]:=5106;
+
+   xx:=inttostr(GetX-dx[GetZ-6]);
+   yy:=inttostr(GetY-dy[GetZ-6]);
+
+   while length(xx)<4 do xx:='0'+xx;
+   while length(yy)<4 do yy:='0'+yy;
+
+   ResultURL:=GetURLBase+IntToStr(GetZ-6)+'/'+xx+yy+'.png'; 
+end.
