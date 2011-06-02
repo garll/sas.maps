@@ -1,18 +1,18 @@
 [PARAMS]
 pnum=10
-GUID={E47F6EE4-BC40-422E-852B-4A57C4E49175}
-name=Карта (Virtual Earth)
-name_en=Map (Virtual Earth)
-name_uk=Карта (Virtual Earth)
+GUID={E47F6EE4-BC40-422E-85BB-4A57C4E49175}
+name=Карта (Bing Maps)
+name_en=Map (Bing Maps)
+name_uk=Карта (Bing Maps)
 ParentSubMenu=Bing (Virtual Earth)
 ParentSubMenu_en=Bing (Virtual Earth)
 ParentSubMenu_uk=Bing (Virtual Earth)
 asLayer=0
-DefURLBase=http://r0.ortho.tiles.virtualearth.net/tiles/r
+DefURLBase=http://ecn.t0.tiles.virtualearth.net/tiles/r
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-NameInCache=vemap
+NameInCache=vemap-b
 separator=0
 Ext=.png
 UseDwn=1
