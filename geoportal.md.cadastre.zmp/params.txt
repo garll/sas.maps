@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=176
+GUID={19E78762-D559-4AE5-9A90-F00196B05FF9}
+asLayer=1
+name=Кадастровая карта Молдавии (geoportal.md)
+name_en=Moldova Cadastre (geoportal.md)
+name_uk=Кадастровая карта Молдавии (geoportal.md)
+NameInCache=geoportal_md_cadastre
+DefURLBase=http://geoportal.md/tiles/_base6/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
