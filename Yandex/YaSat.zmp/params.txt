@@ -8,7 +8,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 asLayer=0
-DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&v=1.22.0&x=
+DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&v=1.23.0&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
