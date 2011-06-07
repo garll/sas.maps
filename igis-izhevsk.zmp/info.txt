@@ -1,0 +1,5 @@
+Карта Ижевска (igis.ru)
+<br>
+Отображается на зумах с 13 по 18.
+<br>
+<a href="http://www.igis.ru/map/">http://www.igis.ru/map/</a>
