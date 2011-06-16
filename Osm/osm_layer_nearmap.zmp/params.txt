@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=114
-GUID={86F6B3A5-B04F-4446-A979-CBAA9DC783EB}
+GUID={88B1C4FD-53A8-42F1-89FF-F97FAC1B1EEE}
 asLayer=1
-name=Гибрид OSM (mapsurfer.net)
-name_en=Hybrid OSM (mapsurfer.net)
-name_uk=Гібрид OSM (MapSurfer.NET)
-NameInCache=OSM_layer_mapsurfer
-DefURLBase=http://tiles3.mapsurfer.net/tms_h.ashx?
+name=Гибрид OSM (nearmap.com)
+name_en=Hybrid OSM (nearmap.com)
+name_uk=Гібрид OSM (nearmap.com)
+NameInCache=OSM_layer_nearmap
+DefURLBase=http://web3.nearmap.com/maps/hl=en&nml=MapT&nmg=1&
 ContentType=image/png
 Ext=.png
 projection=1
