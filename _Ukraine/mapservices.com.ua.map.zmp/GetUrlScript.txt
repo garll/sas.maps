@@ -1,0 +1,6 @@
+begin 
+  if ((GetZ-6) <= 9) and ((GetZ-6) >= 0) then 
+    ResultURL:=GetUrlBase+'0'+IntToStr(GetZ-6)+'/R'+IntToHex(GetY,8)+'/C'+IntToHex(GetX,8)+'.png'
+  else if ((GetZ-6) >= 10) and ((GetZ-6) <= 12) then
+    ResultURL:=GetUrlBase+IntToStr(GetZ-6)+'/R'+IntToHex(GetY,8)+'/C'+IntToHex(GetX,8)+'.png';
+end.
