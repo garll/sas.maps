@@ -8,7 +8,7 @@ ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=0
-DefURLBase=http://khm.google.com/kh/v=86&hl=ru
+DefURLBase=http://khm.google.com/kh/v=89&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137
