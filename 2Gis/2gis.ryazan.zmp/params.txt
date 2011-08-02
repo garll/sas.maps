@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=
+GUID={9E964541-1569-4FAE-875E-AB551A912A74}
+asLayer=0
+name=–€зань (2gis.ru)
+name_en=Ryazan (2gis.ru)
+NameInCache=2gis_ryazan
+DefURLBase=http://tile4.maps.2gis.ru/tile/ryazan
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ƒубль√ис
+ParentSubMenu_en=2gis
