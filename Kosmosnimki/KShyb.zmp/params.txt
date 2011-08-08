@@ -1,4 +1,5 @@
 [PARAMS]
+pnum=7
 GUID={12FC9C3C-57F0-4A71-B269-D24057FF065A}
 asLayer=1
 name=Гибрид (Космоснимки)
