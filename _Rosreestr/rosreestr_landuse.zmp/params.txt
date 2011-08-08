@@ -1,7 +1,10 @@
 [PARAMS]
-pnum=114
+pnum=6
 GUID={05DA2DD7-5277-496D-B428-F8B1DD8BE16A}
 asLayer=1
+ParentSubMenu=Росреестр
+ParentSubMenu_en=Rosreestr
+ParentSubMenu_uk=Росреестр
 name=Кадастровое землепользование (rosreestr.ru)
 name_en=Cadastre Landuse (rosreestr.ru)
 name_uk=Cadastre Landuse (rosreestr.ru)

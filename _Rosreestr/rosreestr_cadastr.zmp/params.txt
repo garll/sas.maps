@@ -1,7 +1,10 @@
 [PARAMS]
-pnum=114
+pnum=6
 GUID={87428D6B-7DFA-4C98-9993-A8F3AA456608}
 asLayer=1
+ParentSubMenu=Росреестр
+ParentSubMenu_en=Rosreestr
+ParentSubMenu_uk=Росреестр
 name=Кадастровые границы (rosreestr.ru)
 name_en=Cadastre map (rosreestr.ru)
 NameInCache=rosreestr_cadastr
