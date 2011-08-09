@@ -1,3 +1,0 @@
-begin
- if GetZ>8 then ResultURL:=GetURLBase+RoundEx(GetLLon,5)+','+RoundEx(GetBLat,5)+','+RoundEx(GetRLon,5)+','+RoundEx(GetTLat,5);	
-end.
