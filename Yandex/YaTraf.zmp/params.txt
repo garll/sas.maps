@@ -9,7 +9,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yatraf
-DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf&x=
+DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf%2Ctrfe&x=
 ContentType=image/png
 Ext=.png
 projection=2
