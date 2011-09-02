@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=6
+GUID={9A360A5D-7A76-402D-8A11-D670BD739B7B}
+name=Карта Navteq (mapquest.com)
+name_en=Navteq Map (mapquest.com)
+name_uk=Navteq Map (mapquest.com)
+ParentSubMenu=Navteq
+ParentSubMenu_en=Navteq
+ParentSubMenu_uk=Navteq
+asLayer=0
+DefURLBase=http://vtiles01.mqcdn.com/tiles/1.0.0/vy/map/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Navteq.map.mq
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/jpeg
