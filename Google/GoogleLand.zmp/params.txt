@@ -8,7 +8,7 @@ ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=0
-DefURLBase=http://mt.google.com/vt?v=w2p.999&hl=ru
+DefURLBase=http://mt.google.com/vt/lyrs=t@127,r@159000000&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137

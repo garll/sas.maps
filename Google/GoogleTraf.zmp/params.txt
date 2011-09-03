@@ -9,7 +9,7 @@ ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 NameInCache=googletraf
-DefURLBase=http://mt1.google.com/vt?hl=ru&lyrs=h@130,traffic|seconds_into_week:-1&style=15&
+DefURLBase=http://mt1.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&
 ContentType=image/png
 Ext=.png
 projection=1
