@@ -8,7 +8,7 @@ name_uk=Transit (Google)
 ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
-DefURLBase=http://mt.google.com/vt/lyrs=m@139,transit:comp|vm:1&hl=ru&opts=r
+DefURLBase=http://mt.google.com/vt/lyrs=m@159000000,transit:comp|vm:1&hl=ru&opts=r
 projection=1
 sradiusa=6378137
 sradiusb=6378137

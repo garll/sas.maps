@@ -8,7 +8,7 @@ ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=1
-DefURLBase=http://mt0.google.com/vt/lyrs=t@121&hl=ru&
+DefURLBase=http://mt0.google.com/vt/lyrs=t@159000000&hl=ru&
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -23,5 +23,5 @@ Usesave=1
 UseAntiBan=1
 Sleep=1000
 DefHotKey=0
-ContentType=image/png
+ContentType=image/png;image/jpeg
 BanIfLen=1722

@@ -8,7 +8,7 @@ ParentSubMenu=Google
 ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=0
-DefURLBase=http://gt3.google.com/mt/n=404&v=gwm.1442
+DefURLBase=http://mt0.google.com/vt/style=mapmaker&lyrs=m@999999&v=gwm.1518
 projection=1
 sradiusa=6378137
 sradiusb=6378137
