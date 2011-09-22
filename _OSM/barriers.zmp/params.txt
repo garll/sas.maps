@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=117
+GUID={C3914FB5-A782-440F-A8FC-B931A745A813}
+asLayer=1
+name=Шлагбаумы, ограды (ITO Map)
+name_en=Barriers (ITO Map)
+name_uk=Barriers (ITO Map)
+NameInCache=OSM_Barrers
+DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=49&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=OSM
+ParentSubMenu_en=OSM
+ParentSubMenu_uk=OSM
