@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=117
-GUID={C3914FB5-A782-440F-A8FC-B931A745A813}
+GUID={398e8378-e8ea-4747-93c7-847d73ee9df9}
 asLayer=1
-name=Шлагбаумы, ограды (ITO Map)
-name_en=Barriers (ITO Map)
+name=Шлагбаумы, заборы (ITO Map)
 name_uk=Barriers (ITO Map)
-NameInCache=OSM_Barrers
+name_en=Barriers (ITO Map)
+NameInCache=osm_ito_Barriers
 DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=49&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
 ContentType=image/png
 Ext=.png

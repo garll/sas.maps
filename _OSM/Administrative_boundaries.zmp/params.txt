@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=117
-GUID={7CA9133E-8B5F-438C-AFBA-156E02DC90AC}
+GUID={ef4f46af-dbbd-4783-b4af-15bc9fdde3e9}
 asLayer=1
-name=Административные границы (ITO Map)
-name_en=Administrative Boundaries (ITO Map)
-name_uk=Administrative Boundaries (ITO Map)
-NameInCache=OSM_admin_bound
+name=Административное деление (ITO Map)
+name_uk=Administrative boundaries (ITO Map)
+name_en=Administrative boundaries (ITO Map)
+NameInCache=osm_ito_Administrative_boundaries
 DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=2&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
 ContentType=image/png
 Ext=.png

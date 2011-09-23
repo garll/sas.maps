@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=117
+GUID={1e1980cf-bf59-4c9c-be70-820987f93225}
+asLayer=1
+name=Speed limits mph (ITO Map)
+name_uk=Speed limits mph (ITO Map)
+name_en=Speed limits mph (ITO Map)
+NameInCache=osm_ito_Speed_limits_mph
+DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=5&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=OSM
+ParentSubMenu_en=OSM
+ParentSubMenu_uk=OSM
