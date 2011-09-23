@@ -23,6 +23,6 @@ Usedel=1
 Usesave=1
 UseAntiBan=0
 Sleep=0
-DefHotKey=54
+DefHotKey=
 BanIfLen=0
 DelAfterShow=0
