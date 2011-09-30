@@ -6,8 +6,10 @@ name=Генштаб 1 км
 name_en=Genshtab 1 km
 name_uk=Генштаб 1 км
 NameInCache=genshtab1km
-DefURLBase=http://genshtab1k.narod.ru/
-ContentType=image/jpeg
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/genshtab1km/z
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
 ParentSubMenu=Генштаб
 ParentSubMenu_en=Genshtab
 ParentSubMenu_uk=Генштаб
@@ -25,3 +27,5 @@ UseAntiBan=0
 Sleep=0
 DefHotKey=0
 BanIfLen=0
+UsePreloadPage=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
