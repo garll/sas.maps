@@ -4,3 +4,5 @@ OpenStreetMap - это карта всего мира,<br>
 и распространяется под свободной лицензией.<br>
 <br>
 Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+Highlighting bridges (bridge=yes), viaducts (bridge=viaduct), tunnels (tunnel=yes), embankments (embankment=yes)and cuttings (cutting=yes)on mainline railways.
+<img src="024.png">

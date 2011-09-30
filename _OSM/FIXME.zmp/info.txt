@@ -4,3 +4,6 @@ OpenStreetMap - это карта всего мира,<br>
 и распространяется под свободной лицензией.<br>
 <br>
 Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+
+A view showing ways which are tagged with fixme=*.
+<img src="012.png">

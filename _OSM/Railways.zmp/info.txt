@@ -4,3 +4,5 @@ OpenStreetMap - это карта всего мира,<br>
 и распространяется под свободной лицензией.<br>
 <br>
 Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+ITO Map overlay showing amenity=school. Schools with name=* are shown in blue and red if not.
+<img src="017.png">

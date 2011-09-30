@@ -4,3 +4,5 @@ OpenStreetMap - это карта всего мира,<br>
 и распространяется под свободной лицензией.<br>
 <br>
 Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+ITO Map Metro overlay shows railway=subway in red.
+<img src="015.png">

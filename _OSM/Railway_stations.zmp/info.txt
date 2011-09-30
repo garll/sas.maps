@@ -4,3 +4,5 @@ OpenStreetMap - это карта всего мира,<br>
 и распространяется под свободной лицензией.<br>
 <br>
 Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+Highlighting station platforms (railway=platform) and if they have a reference (ref=*) defined. Platforms are marked in blue if they have a platform reference and red otherwise.
+<img src="023.png">
