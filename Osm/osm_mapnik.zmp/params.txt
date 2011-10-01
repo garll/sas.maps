@@ -22,3 +22,4 @@ Sleep=0
 DefHotKey=16463
 BanIfLen=0
 PARENTSUBMENU=OSM
+IteratorSubRectSize=8,8
