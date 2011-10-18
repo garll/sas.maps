@@ -1,0 +1,28 @@
+[PARAMS]
+pnum=5
+GUID={1CA2BB37-FDC8-443C-9075-C1B441F34FB1}
+asLayer=0
+name=Яндекс Народная Карта (Яндекс.Карты)
+name_en=Yandex Narod Maps (Yandex.Maps)
+name_uk=Яндекс Народная Карта (Яндекс.Карты)
+ParentSubMenu=Яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=Яндекс
+NameInCache=yandexnarodmap
+DefURLBase=http://pvec.maps.yandex.net/?l=pmap&x=
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+DelAfterShow=0
