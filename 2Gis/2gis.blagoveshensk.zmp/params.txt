@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=170
+GUID={06C08283-7B68-4F2B-85E5-6A2AD85A138C}
+name=Ѕлаговещенск (2gis.ru)
+name_en=Blagoveshensk (2gis.ru)
+NameInCache=2gis_Blagoveshensk
+DefURLBase=http://tile.maps.2gis.ru/tile/blagoveshensk
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ƒубль√ис
+ParentSubMenu_en=2gis

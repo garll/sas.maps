@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=170
+GUID={7E9764E7-1F38-48ED-B8CD-50762A2E9B5A}
+name=Тольятти (2gis.ru)
+name_en=Togliatti (2gis.ru)
+NameInCache=2gis_togliatti
+DefURLBase=http://tile.maps.2gis.ru/tile/togliatti
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ДубльГис
+ParentSubMenu_en=2gis

@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=170
+GUID={0C1A98B2-6381-4FD5-8566-45D6143DF95D}
+name=Санкт-Перербург (2gis.ru)
+name_en=Sankt-Peterburg (2gis.ru)
+NameInCache=2gis_spb
+DefURLBase=http://tile.maps.2gis.ru/tile/spb
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ДубльГис
+ParentSubMenu_en=2gis

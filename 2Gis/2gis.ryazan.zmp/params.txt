@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=
+pnum=170
 GUID={9E964541-1569-4FAE-875E-AB551A912A74}
 asLayer=0
 name=Рязань (2gis.ru)
