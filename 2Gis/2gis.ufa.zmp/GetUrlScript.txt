@@ -1,3 +1,6 @@
-begin
- ResultURL:=GetURLBase+'/'+inttostr(getz-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
+var
+  tile: string;
+begin 
+ tile := RegExprReplaceMatchSubStr(GetURLBase, 'tile.maps', 'tile'+inttostr( Random(4) )+'.maps' );
+ ResultURL:=tile+'/'+inttostr(getz-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
 end.

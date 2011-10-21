@@ -1,41 +1,6 @@
-// Source: http://maps.2gis.ru/moscow/
-
-var xx,yy,zz:string;
-var dx,dy:array[1..50] of longint;
-begin
-
-   // map:z1, Sasplanet:z10
-   dx[1]:=309;
-   dy[1]:=159;
-   // map:z2, Sasplanet:z11
-   dx[2]:=618;
-   dy[2]:=318;
-   // map:z3, Sasplanet:z12
-   dx[3]:=1236;
-   dy[3]:=636;
-   // map:z4, Sasplanet:z13
-   dx[4]:=2472;
-   dy[4]:=1272;
-   // map:z5, Sasplanet:z14
-   dx[5]:=4944;
-   dy[5]:=2544;
-   // map:z6, Sasplanet:z15
-   dx[6]:=9888;
-   dy[6]:=5088;
-   // map:z7, Sasplanet:z16
-   dx[7]:=19776;
-   dy[7]:=10176;
-   // map:z8, Sasplanet:z17
-   dx[8]:=39552;
-   dy[8]:=20352;
-   // map:z9, Sasplanet:z18
-   dx[9]:=79104;
-   dy[9]:=40704;
-
-
-   xx:=inttostr(GetX-dx[GetZ-9]);
-   yy:=inttostr(GetY-dy[GetZ-9]);
-
-
- ResultURL:=GetURLBase+'/'+inttostr(getz-9)+'/'+xx+'/'+yy+'.png';
+var
+  tile: string;
+begin 
+ tile := RegExprReplaceMatchSubStr(GetURLBase, 'tile.maps', 'tile'+inttostr( Random(4) )+'.maps' );
+ ResultURL:=tile+'/'+inttostr(getz-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
 end.

@@ -1,11 +1,11 @@
 [PARAMS]
-pnum=170
-GUID={951FF03A-9A42-4B37-8B6C-40218C9B9A92}
+pnum=172
+GUID={2BB87968-DE52-4E3E-8753-3088AE0AECDE}
 asLayer=0
-name=Пермь (2gis.ru)
-name_en=Perm (2gis.ru)
-NameInCache=2gis_Perm
-DefURLBase=http://tile.maps.2gis.ru/tile/perm
+name=Братск (2gis.ru)
+name_en=Bratsk (2gis.ru)
+NameInCache=2gis_bratsk
+DefURLBase=http://tile.maps.2gis.ru/tile/bratsk
 DefaultContentType=image/png
 ContentType="image/png"
 Ext=.png
