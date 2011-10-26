@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=42
+GUID={4A21F0A3-D083-4FBD-8A51-749640DBD117}
+asLayer=1
+name=Высоты (heywhatsthat.com)
+name_en=Heights (heywhatsthat.com)
+name_uk=Heights (heywhatsthat.com)
+NameInCache=contur
+DefURLBase=http://contour.heywhatsthat.com/bin/contour_tiles.cgi?
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
