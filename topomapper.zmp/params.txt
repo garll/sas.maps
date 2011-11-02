@@ -23,4 +23,4 @@ UseAntiBan=0
 Sleep=0
 DefHotKey=0
 BanIfLen=0
-
+RequestHead=Referer: http://www.topomapper.com/
