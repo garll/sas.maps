@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=130
+GUID={685E9146-DEC0-44EE-859F-123DEF70C6E2}
+asLayer=0
+name= Kartaspb (zoomify)
+name_en= Kartaspb (zoomify)
+name_ua= Kartaspb (zoomify)
+NameInCache=zoomify_kartaspb
+DefURLBase=http://www.kartaspb.ru/m/s2/TileGroup
+ContentType=image/jpeg
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=90
+BanIfLen=0
