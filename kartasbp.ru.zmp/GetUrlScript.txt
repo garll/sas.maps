@@ -1,6 +1,6 @@
 const
-width=19002;
-height=14002;
+width=14002;
+height=19002;
 
 var TileGroup:integer;
 z:integer;
