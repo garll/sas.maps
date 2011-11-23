@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetX)+'&y='+inttostr(GetY)+'&scale='+inttostr(GetZ-1)+'&lng=ru';
+end.
