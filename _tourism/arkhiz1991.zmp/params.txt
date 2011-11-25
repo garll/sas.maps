@@ -1,0 +1,30 @@
+[PARAMS]
+pnum=17
+GUID={5f1A7E89-322D-406F-855D-5B1D1E323457}
+name=Архыз (1991)
+name_en=arkhiz (1991)
+name_uk=arkhiz (1991)
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz1991/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=arkhiz1991
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+BanIfLen=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
