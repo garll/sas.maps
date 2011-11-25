@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=117
+GUID={CDA67F8D-C7D3-4B4C-A6EE-7B187794F762}
+asLayer=1
+name=Надписи OSM (toolserver.org)
+name_en=Hybrid OSM (toolserver.org)
+name_uk=Hybrid OSM (toolserver.org)
+NameInCache=OSM_toolserver_org
+DefURLBase=http://c.www.toolserver.org/tiles/osm-labels-ru
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=OSM
+ParentSubMenu_en=OSM
+ParentSubMenu_uk=OSM
