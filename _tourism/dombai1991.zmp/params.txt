@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=17
 GUID={0C4E8865-718F-458A-8E25-01EEB7F5EDCD}
-name=Домбай (1991)
-name_en=Dombai (1991)
-name_uk=Dombai (1991)
+name=Теберда - Домбай (С) Госгеодезия СССР 1991г.
+name_en=Teberda - Dombai (с) Gosgeodeziya 1991y.
+name_uk=Teberda - Dombai (с) Gosgeodeziya 1991y.
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism

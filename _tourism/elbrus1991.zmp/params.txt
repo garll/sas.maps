@@ -1,19 +1,19 @@
 [PARAMS]
 pnum=17
-GUID={5f1A7E89-322D-406F-855D-5B1D1E323457}
-name=Архыз Загедан Рица (С) Госгеодезия СССР 1991г.
-name_en=Arkhiz Zagedan Ricca (с) Gosgeodeziya 1991y.
-name_uk=Arkhiz Zagedan Ricca (с) Gosgeodeziya 1991y.
+GUID={4EB1857D-2945-42D0-8A13-4DB79BE1C615}
+name=Приэльбрусье (С) Госгеодезия СССР 1991г.
+name_en=Elbrus (с) Gosgeodeziya 1991y.
+name_uk=Elbrus (с) Gosgeodeziya 1991y.
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz1991/z
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/elbrus1991/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 CACHETYPE=4
-NameInCache=arkhiz1991
+NameInCache=elbrus1991
 separator=0
 Ext=.jpg
 UseDwn=1
