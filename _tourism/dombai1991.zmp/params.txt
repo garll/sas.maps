@@ -1,22 +1,22 @@
 [PARAMS]
 pnum=17
-GUID={068F9227-73D2-42A2-A04E-D3770A666219}
-name=Архыз       
-name_en=arkhiz
-name_uk=arkhiz
+GUID={0C4E8865-718F-458A-8E25-01EEB7F5EDCD}
+name=Домбай (1991)
+name_en=Dombai (1991)
+name_uk=Dombai (1991)
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz/z
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/dombai1991/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 CACHETYPE=4
-NameInCache=arkhiz
+NameInCache=dombai1991
 separator=0
 Ext=.jpg
-UseDwn=0
+UseDwn=1
 Usestick=1
 UseGenPrevious=1
 Usedel=1
