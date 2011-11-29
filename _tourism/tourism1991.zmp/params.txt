@@ -1,0 +1,30 @@
+[PARAMS]
+pnum=17
+GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
+name=Сводная (С) Госгеодезия СССР 1991г.
+name_en=All (с) Gosgeodeziya 1991y.
+name_uk=All (с) Gosgeodeziya 1991y.
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tourism1991/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=tourism1991
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+BanIfLen=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
