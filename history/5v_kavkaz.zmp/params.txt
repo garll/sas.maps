@@ -1,0 +1,30 @@
+[PARAMS]
+pnum=17
+GUID={499050C1-2CFD-4DAE-8F86-42390FD7AC3D}
+name=Кавказский край 5в. 1926г.
+name_en=Kavkaz 5v. 1926
+name_uk=Kavkaz 5v. 1926
+ParentSubMenu=Исторические
+ParentSubMenu_en=Historic
+ParentSubMenu_uk=Історичні
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_1926/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=1
+NameInCache=5v_kavkaz
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+BanIfLen=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
