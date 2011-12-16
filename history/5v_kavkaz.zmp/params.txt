@@ -12,7 +12,6 @@ DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/m
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=1
 NameInCache=5v_kavkaz
 separator=0
 Ext=.jpg
