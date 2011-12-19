@@ -1,0 +1,29 @@
+[PARAMS]
+pnum=17
+GUID={21401231-6169-493D-B718-3083387AD6D9}
+name= 10 верстка Кубани (1918г.Стрельбицкого)
+name_en=Kuban 10v (1918)
+name_uk=Kuban 10v (1918)
+ParentSubMenu=Исторические
+ParentSubMenu_en=Historic
+ParentSubMenu_uk=Історичні
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/1918_kuban_10v/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1918_kuban_10v
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+BanIfLen=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
