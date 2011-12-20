@@ -8,7 +8,7 @@ ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
 ParentSubMenu_uk=Інші карти
 asLayer=0
-DefURLBase=http://maps.navitel.su/navitms.fcgi?t=
+DefURLBase=http://maps.navitel.su/2.0/navitms.fcgi?t=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
