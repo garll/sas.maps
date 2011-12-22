@@ -9,7 +9,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yahyb
-DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&v=2.20.0&x=
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&v=2.23.0&x=
 ContentType=image/png
 Ext=.png
 projection=2
