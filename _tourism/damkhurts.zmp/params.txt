@@ -1,19 +1,19 @@
 [PARAMS]
 pnum=17
-GUID={4A3A2F8B-DC7D-494B-819C-C0BBDAF80CEA}
-name=Сводная (Дамхурц-Архыз-Теберда-Домбай)
-name_en=Damkhurts-Arkhiz-Teberda-Dombay
-name_uk=Damkhurts-Arkhiz-Teberda-Dombay
+GUID={068F9227-73D2-42A2-A04E-D3770A777328}
+name=Дамхурц
+name_en=Damkhurts
+name_uk=Damkhurts
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz_dombay/z
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/damkhurts/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 CACHETYPE=4
-NameInCache=arkhiz_dombay
+NameInCache=damkhurts
 separator=0
 Ext=.jpg
 UseDwn=1
