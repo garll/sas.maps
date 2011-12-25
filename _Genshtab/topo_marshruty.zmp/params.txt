@@ -1,0 +1,28 @@
+[PARAMS]
+pnum=199
+GUID={025de135-53fd-45db-b90e-fafbb7fb3bf4}
+asLayer=0
+name=ТопоКарта (Маршруты.ру)
+name_en=TopoMap (marshruty.ru)
+name_uk=TopoMap (marshruty.ru)
+NameInCache=topo_marshruty
+DefURLBase=http://maps.marshruty.ru/ml.ashx?al=1&i=1&x=
+ContentType=image/jpeg,image/png
+ParentSubMenu=Генштаб
+ParentSubMenu_en=Genshtab
+ParentSubMenu_uk=Genshtab
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+RequestHead=Referer: http://maps.marshruty.ru/
