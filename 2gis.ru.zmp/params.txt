@@ -1,11 +1,12 @@
 [PARAMS]
 pnum=170
-GUID={951FF03A-9A42-4B37-8B6C-40218C9B9A92}
+GUID={01BDC3A9-D0C0-4B84-BFB5-13AAF9D100F7}
 asLayer=0
-name=ѕермь (2gis.ru)
-name_en=Perm (2gis.ru)
-NameInCache=2gis_Perm
-DefURLBase=http://tile.maps.2gis.ru/tile/perm
+name=2Gis.ru
+name_en=2Gis.ru
+name_uk=2Gis.ru
+NameInCache=2Gis
+DefURLBase=http://tile.maps.2gis.ru/tiles?v=1112&x=
 DefaultContentType=image/png
 ContentType="image/png"
 Ext=.png
@@ -22,5 +23,6 @@ UseAntiBan=0
 Sleep=0
 DefHotKey=0
 BanIfLen=0
-ParentSubMenu=ƒубль√ис
-ParentSubMenu_en=2gis
+ParentSubMenu=ƒругие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=≤нш≥ карти
