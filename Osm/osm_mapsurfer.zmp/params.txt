@@ -7,7 +7,9 @@ name_en=Map OSM (mapsurfer.net)
 name_uk=Карта OSM (MapSurfer.NET)
 NameInCache=OSM_mapsurfer
 DefURLBase=http://129.206.74.245:8001/tms_r.ashx?
-ContentType=image/png
+defaultContentType=image/png
+ContentType="image/pnga";"image/png"
+MimeTypeSubst="image/pnga=image/png"
 Ext=.png
 projection=1
 sradiusa=6378137
