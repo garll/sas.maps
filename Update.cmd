@@ -14,6 +14,7 @@ goto err
         hg pull "https://bitbucket.org/vdemidov/sas.maps/" -u -f
         IF ERRORLEVEL 1 goto err
         IF NOT ERRORLEVEL 0 goto err
+	@for /R /D %d in (*.zmp) do rd /q %d > nul
         goto end
 :CloneRepo
 	rd /s /q sas.maps
