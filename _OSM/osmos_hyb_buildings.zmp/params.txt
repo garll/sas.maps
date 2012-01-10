@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=1
+GUID={ff477668-c0cb-4b15-8c14-b176e14166ba}
+name=трехмерные здания
+name_en=3d-buildings
+name_uk=трехмерные здания
+ParentSubMenu=osmosnimki.ru
+ParentSubMenu_en=osmosnimki.ru
+ParentSubMenu_uk=osmosnimki.ru
+asLayer=1
+DefURLBase= http://e.tile.osmosnimki.ru/buildings
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=osmos_hyb_3d                                                                  
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+ContentType=image/png
+BanIfLen=0
