@@ -1,17 +1,17 @@
 [PARAMS]
 pnum=6
 GUID={D8C293B0-63AE-4902-A0D4-83A26BCE01D6}
-name=Ландшафт Ovi (maps.ovi.com)
-name_en=Ovi Land (maps.ovi.com)
-name_uk=Ландшафт Ovi (maps.ovi.com)
+name=Местность Nokia (maps.ovi.com)
+name_en=Nokia terrain (maps.ovi.com)
+name_uk=Местность Nokia (maps.ovi.com)
 asLayer=0
-DefURLBase=http://maptile.maps.svc.ovi.com/maptiler/v2/maptile/newest/terrain.day/
+DefURLBase=http://maptile.lbs.ovi.com/maptiler/v2/maptile/newest/terrain.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=Ovi
-ParentSubMenu_en=Ovi
-ParentSubMenu_uk=Ovi
+ParentSubMenu=Nokia
+ParentSubMenu_en=Nokia
+ParentSubMenu_uk=Nokia
 NameInCache=ovi_com_Land
 separator=0
 Ext=.png

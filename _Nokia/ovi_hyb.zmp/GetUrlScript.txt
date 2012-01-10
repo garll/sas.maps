@@ -1,0 +1,6 @@
+var
+  maptile: string;
+begin 
+ maptile := RegExprReplaceMatchSubStr(GetURLBase, 'maptile\.lbs', inttostr( Random(3)+1 )+'.maptile'+'.lbs' );
+  ResultURL:=maptile+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps';
+end.

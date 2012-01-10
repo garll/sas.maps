@@ -1,3 +1,0 @@
-begin
-  ResultURL:=GetUrlBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?lg=RUS';
-end.
