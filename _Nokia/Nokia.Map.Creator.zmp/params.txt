@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=6
+GUID={9A360A5D-7A71-402D-8A12-D670BD739B7B}
+name=Nokia Map Creator
+name_en=Nokia Map Creator
+name_uk=Nokia Map Creator
+ContentType=image/png
+asLayer=1
+DefURLBase=http://prd.cmd.navteq.com/renderer/roads/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Nokia.Map.Creator
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/png
