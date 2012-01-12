@@ -7,7 +7,9 @@ name_uk=Panoramio KML
 NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?LANG=ru_RU.utf8&BBOX= 
 ContentType=application/vnd.google-earth.kml+xml
-ParentSubMenu=
+ParentSubMenu=Google
+ParentSubMenu_en=Google
+ParentSubMenu_uk=Google
 Ext=.kml
 projection=1
 sradiusa=6378137
