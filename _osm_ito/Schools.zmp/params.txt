@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=117
+GUID={739d497a-6967-4132-8b3d-370ca9da1ed7}
+asLayer=1
+name=Ўколы (ITO Map)
+name_uk=Schools (ITO Map)
+name_en=Schools (ITO Map)
+NameInCache=osm_ito_Schools
+DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=6&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ITO Map (OSM)
+ParentSubMenu_en=ITO Map (OSM)
+ParentSubMenu_uk=ITO Map (OSM)

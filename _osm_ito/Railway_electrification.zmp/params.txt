@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=117
+GUID={673f8fe2-b0fe-4f96-9478-7987bd4b821e}
+asLayer=1
+name=Railway electrification (ITO Map)
+name_uk=Railway electrification (ITO Map)
+name_en=Railway electrification (ITO Map)
+NameInCache=osm_ito_Railway_electrification
+DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=68&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+ParentSubMenu=ITO Map (OSM)
+ParentSubMenu_en=ITO Map (OSM)
+ParentSubMenu_uk=ITO Map (OSM)
