@@ -6,7 +6,7 @@ name=Спутник (Карты@mail)
 name_en=Satellite (Maps@mail)
 name_uk=Супутник (Карты@Mail.Ru)
 NameInCache=mailsat
-DefURLBase=http://t1.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
+DefURLBase=http://t.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
 ContentType=image/jpeg
 ParentSubMenu=mail.ru
 ParentSubMenu_en=mail.ru

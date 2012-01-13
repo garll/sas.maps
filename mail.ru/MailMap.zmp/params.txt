@@ -6,7 +6,7 @@ name=Карта (Карты@mail)
 name_en=Map (Maps@mail)
 name_uk=Карта (Карты@Mail.Ru)
 NameInCache=mailmap
-DefURLBase=http://t2.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=maps
+DefURLBase=http://t.maps.mail.ru/tiles/scheme/
 ContentType=image/png
 ParentSubMenu=mail.ru
 ParentSubMenu_en=mail.ru
