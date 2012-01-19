@@ -9,7 +9,7 @@ ParentSubMenu=Navteq
 ParentSubMenu_en=Navteq
 ParentSubMenu_uk=Navteq
 asLayer=0
-DefURLBase=http://00.tl.amznvtmaptiles.traffic.com/mgi-service/mgi?cgi=QuadKeyService&res=bitmap256&key=a38e2761944609752fda69a9ebdfcf05eec931c8375d1fa6&mid=NVT_LBSP_WORLD&quadkey=
+DefURLBase=http://21.tl.prd.lbsp.navteq.com/mgi/6.0/quadkey?mapstyle=navteq.com&token=a38e2761944609752fda69a9ebdfcf05eec931c8375d1fa6&quadkey=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
