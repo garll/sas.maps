@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
+asLayer=1
+name=mapsurfer.net (рельеф)
+name_en=mapsurfer.net (hillshade)
+name_uk=Топографічна карта OSM (MapSurfer.NET)
+NameInCache=OSM_mapsurfer_hillshade
+DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
