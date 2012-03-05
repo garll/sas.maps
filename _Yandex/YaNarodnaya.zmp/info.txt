@@ -1,0 +1,3 @@
+<a href="http://maps.yandex.ru/">http://maps.yandex.ru/</a>
+<br>
+Яндекс Карты - режим "Народная".
