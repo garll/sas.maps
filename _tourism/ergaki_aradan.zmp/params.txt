@@ -1,0 +1,30 @@
+[PARAMS]
+pnum=17
+GUID={F923688D-2C5B-4B30-A080-941AB3253EFA}
+name=Ергаки - Арадан
+name_en=Ergaki Aradan
+name_uk=Ergaki Aradan
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/ergaki_aradan/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=ergaki_aradan
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UsePreloadPage=0
+Sleep=0
+BanIfLen=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
