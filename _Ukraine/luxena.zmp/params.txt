@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=171
+asLayer=0
+GUID={7D05AF05-42F3-44C9-ACAA-8AACC3A12FF2}
+name=Украина (luxena.com)
+name_en=Ukraine (luxena.com)
+name_uk=Україна (luxena.com)
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local Maps
+ParentSubMenu_uk=Локальні карти
+DefURLBase=http://tiles.luxena.com/navlux/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=luxena
+separator=0
+Ext=.png
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=
+ContentType=image/png
+BanIfLen=
