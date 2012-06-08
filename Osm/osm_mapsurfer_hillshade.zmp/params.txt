@@ -2,9 +2,9 @@
 pnum=118
 GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
 asLayer=1
-name=mapsurfer.net (рельеф)
-name_en=mapsurfer.net (hillshade)
-name_uk=Топографічна карта OSM (MapSurfer.NET)
+name=OpenMapSurfer (рельеф)
+name_en=OpenMapSurfer (hillshade)
+name_uk=OpenMapSurfer (рельєф)
 NameInCache=OSM_mapsurfer_hillshade
 DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?
 ContentType=image/png
