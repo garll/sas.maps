@@ -1,0 +1,29 @@
+[PARAMS]
+pnum=119
+GUID={4efaf05b-332a-4658-8ccb-623852f55f49}
+asLayer=1
+name=OpenMapSurfer (границы)
+name_en=OpenMapSurfer (boundaries)
+name_uk=OpenMapSurfer (межі)
+NameInCache=OSM_mapsurfer_boundaries
+DefURLBase=http://129.206.74.245:8007/tms_b.ashx?
+defaultContentType=image/png
+ContentType="image/pnga";"image/png"
+MimeTypeSubst="image/pnga=image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+BanIfLen=0
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8

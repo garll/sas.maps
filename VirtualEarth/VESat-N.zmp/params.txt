@@ -1,9 +1,9 @@
 [PARAMS]
-pnum=9
+pnum=11
 GUID={9A360A5D-7A70-402D-8A11-D670BD739B7B}
-name=Спутник (Bing Maps, Bird's Eye N)
-name_en=Satellite (Bing Maps, Bird's Eye N)
-name_uk=Супутник (Bing Maps, Bird's Eye N)
+name=Bing Maps - Bird's Eye N
+name_en=Bing Maps - Bird's Eye N
+name_uk=Bing Maps - Bird's Eye N
 ParentSubMenu=Bing (Virtual Earth)
 ParentSubMenu_en=Bing (Virtual Earth)
 ParentSubMenu_uk=Bing (Virtual Earth)
@@ -23,7 +23,7 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=86
-ContentType=image/jpeg
+ContentType=image/jpeg; image/png
 BanIfLen=0
 TILERLEFT=0
 TILERRIGHT=256

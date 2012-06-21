@@ -1,18 +1,18 @@
 [PARAMS]
-pnum=10
-GUID={E47F6EE4-BC40-422E-85BB-4A57C4E49175}
-name=Карта (Bing Maps)
-name_en=Map (Bing Maps)
-name_uk=Карта (Bing Maps)
+pnum=9
+GUID={11772221-1ec8-42ca-bc48-8f6e1d9f6cfc}
+name=Bing Maps - дороги (ru)
+name_en=Bing Maps - roads (ru)
+name_uk=Bing Maps - дороги (ru)
 ParentSubMenu=Bing (Virtual Earth)
 ParentSubMenu_en=Bing (Virtual Earth)
 ParentSubMenu_uk=Bing (Virtual Earth)
 asLayer=0
-DefURLBase=http://ecn.t0.tiles.virtualearth.net/tiles/r
+DefURLBase=http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-NameInCache=vemap-b
+NameInCache=bing_roads_ru
 separator=0
 Ext=.png
 UseDwn=1

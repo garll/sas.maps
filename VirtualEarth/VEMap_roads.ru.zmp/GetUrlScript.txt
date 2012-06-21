@@ -34,5 +34,5 @@ begin
                           end;
          end;
      end;
- ResultURL:=GetURLBase+res+'.jpeg?g=72';
+ ResultURL:=GetURLBase+res+'?mkt=ru-ru&it=G,VE,BX,L,LA&shading=hill';
 end.
