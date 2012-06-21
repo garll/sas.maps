@@ -1,7 +1,7 @@
 [PARAMS]
 pnum=17
 GUID={C9B37420-DA1D-432D-B80C-816BD8116571}
-name=Хребтовка (Приэльбрусье)
+name=Хребтовка Приэльбрусье (Ляпин В.Г.)
 name_en=Around Elbrus
 name_uk=Around Elbrus
 ParentSubMenu=Туристические
