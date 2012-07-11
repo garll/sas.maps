@@ -10,5 +10,5 @@ begin
  xy.y:=(GetY+1)*256;
  LL:=Converter.Pos2LonLat(XY,GetZ+7);
  bottomrightM:=Converter.LonLat2Metr(LL);
- ResultURL:=GetURLBase+'bbox={"xmin":'+RoundEx(topLeftM.x,8)+',"ymin":'+RoundEx(topLeftM.y,8)+',"xmax":'+RoundEx(bottomrightM.x,8)+',"ymax":'+RoundEx(bottomrightM.y,8)+',"spatialReference":{"wkid":102113}}&bboxSR=102113&imageSR=102113&size=256,256&f=image';
+ ResultURL:=GetURLBase+'bbox='+RoundEx(topLeftM.x,8)+','+RoundEx(topLeftM.y,8)+','+RoundEx(bottomrightM.x,8)+','+RoundEx(bottomrightM.y,8)+'&bboxSR=102100&imageSR=102100&size=256,256&f=image';
 end.
