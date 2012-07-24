@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=
+pnum=118
 asLayer=0
 GUID={B56F472D-3278-4DC8-8DB9-890FE7F44801}
 name=ְחונבאיהזאם (GoMap.az)
