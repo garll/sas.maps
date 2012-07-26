@@ -1,4 +1,0 @@
-begin
- GetURLBase[11]:=inttostr(random(5))[1]; 
- ResultURL:=GetURLBase+'z='+inttostr(GetZ-1)+'&x='+inttostr(GetX)+'&y='+inttostr(GetY);
-end.
