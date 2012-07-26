@@ -27,4 +27,4 @@ BanIfLen=0
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
-License=(c) OpenStreetMap contributors, CC-BY-SA
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
