@@ -9,7 +9,7 @@ name=Кадастровое землепользование (rosreestr.ru)
 name_en=Cadastre Landuse (rosreestr.ru)
 name_uk=Cadastre Landuse (rosreestr.ru)
 NameInCache=rosreestr_zone
-DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/Cadastre/Zones/MapServer/export?dpi=96&transparent=true&format=png32&imageSR=102100&size=256,256&layers=show:3,4&f=image&SR=102100&bbox=
+DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/CadastreNew/Thematic/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=256%2C256&layers=show%3A3%2C4&f=image&bbox=
 ContentType="image/png32"
 DefaultContentType=image/png
 Ext=.png
