@@ -1,0 +1,28 @@
+[PARAMS]
+GUID={ADCF010A-359E-4C00-9610-2F19A12C08C7}
+pnum=
+asLayer=1
+name=Административные границы (gis-gid.ru)
+name_en=Borders (gis-gid.ru)
+name_ua=Административные границы (gis-gid.ru)
+NameInCache=gis-gid.ru.borders
+DefURLBase=http://129.206.74.245:8007/tms_b.ashx?x=
+ContentType=image/png
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local Maps
+ParentSubMenu_ua=Local Maps
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=0
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=0
+DefHotKey=0
+Version=3
+

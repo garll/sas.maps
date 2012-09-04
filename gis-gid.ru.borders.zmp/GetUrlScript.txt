@@ -1,0 +1,4 @@
+begin
+  if ((GetZ >= 5) and (GetZ <= 19)) then 
+    ResultURL:=GetURLBase+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&v='+Version;
+end.
