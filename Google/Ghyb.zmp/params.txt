@@ -24,4 +24,3 @@ Usesave=1
 UsePreloadPage=1
 Sleep=0
 DefHotKey=72
-BanIfLen=4321

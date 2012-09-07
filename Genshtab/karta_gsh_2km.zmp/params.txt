@@ -25,6 +25,5 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=50
-BanIfLen=0
 UsePreloadPage=1
 PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm

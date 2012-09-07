@@ -22,5 +22,4 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=87
-BanIfLen=138
 MimeTypeSubst = """text/xml; charset=UTF-8""=application/vnd.google-earth.kml+xml"

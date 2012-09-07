@@ -19,7 +19,6 @@ Usesave=1
 UsePreloadPage=1
 Sleep=0
 ContentType=image/jpeg,image/jpg
-BanIfLen=0
 MaxConnectToServerCount=12
 [ViewInfo]
 EPSG=3785

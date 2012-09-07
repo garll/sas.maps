@@ -24,5 +24,4 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=54
-BanIfLen=0
 DelAfterShow=1

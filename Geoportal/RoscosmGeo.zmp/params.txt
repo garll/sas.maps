@@ -24,4 +24,3 @@ UsePreloadPage=0
 Sleep=0
 DefHotKey=
 ContentType="image/jpeg";"image/png"
-BanIfLen=0

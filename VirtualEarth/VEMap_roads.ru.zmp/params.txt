@@ -24,4 +24,3 @@ UseAntiBan=0
 Sleep=0
 DefHotKey=16470
 ContentType=image/jpeg;image/png
-BanIfLen=0

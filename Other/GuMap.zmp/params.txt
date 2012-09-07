@@ -25,4 +25,3 @@ UsePreloadPage=1
 PreloadPage=http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru
 Sleep=0
 DefHotKey=85
-BanIfLen=0

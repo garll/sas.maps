@@ -22,5 +22,4 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=0
-BanIfLen=0
 MimeTypeSubst = "text/plain=image/png"

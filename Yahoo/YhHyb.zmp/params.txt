@@ -22,4 +22,3 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=41049
-BanIfLen=0

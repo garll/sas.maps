@@ -20,7 +20,6 @@ Usesave=1
 UseAntiBan=0
 Sleep=0
 DefHotKey=16463
-BanIfLen=0
 PARENTSUBMENU=OSM
 IteratorSubRectSize=8,8
 RequestHead=Referer: http://www.openstreetmap.org/

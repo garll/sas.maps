@@ -24,4 +24,3 @@ UsePreloadPage=1
 Sleep=0
 DefHotKey=77
 ContentType=image/png
-BanIfLen=1722

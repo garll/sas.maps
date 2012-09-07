@@ -22,7 +22,6 @@ Usedel=1
 Usesave=1
 UsePreloadPage=0
 Sleep=0
-BanIfLen=0
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1

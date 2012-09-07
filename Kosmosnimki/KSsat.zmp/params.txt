@@ -24,5 +24,4 @@ UseAntiBan=0
 Sleep=0
 DefHotKey=75
 ContentType=image/jpeg
-BanIfLen=0
 RequestHead=Referer: http://kosmosnimki.ru/
