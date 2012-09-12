@@ -14,12 +14,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6356752
 UseDwn=1
-Usestick=1
-UseGenPrevious=1
-Usedel=1
-Usesave=1
-UseAntiBan=0
 Sleep=0
 DefHotKey=0
-BanIfLen=0
 MimeTypeSubst = "binary/octet-stream=image/png"

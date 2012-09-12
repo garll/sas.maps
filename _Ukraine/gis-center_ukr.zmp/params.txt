@@ -14,12 +14,6 @@ sradiusb=6378137
 NameInCache=gis-center_com_ukr
 Ext=.png
 UseDwn=1
-Usestick=1
-UseGenPrevious=1
-Usedel=1
-Usesave=1
-UseAntiBan=0
 Sleep=0
 DefHotKey=0
-BanIfLen=0
 ContentType=image/png; mode=24bit

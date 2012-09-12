@@ -17,14 +17,8 @@ sradiusa=6371000
 sradiusb=6371000
 separator=1
 UseDwn=1
-Usestick=1
-UseGenPrevious=1
-Usedel=1
-Usesave=1
-UseAntiBan=0
 Sleep=0
 DefHotKey=
-BanIfLen=0
 MimeTypeSubst = "image/png=image/jpeg"
 DefaultContentType=image/jpeg
 

@@ -16,13 +16,7 @@ NameInCache=43.geohub.full
 separator=0
 Ext=.png
 UseDwn=1
-Usestick=1
-UseGenPrevious=1
-Usedel=1
-Usesave=1
-UseAntiBan=0
 Sleep=0
 DefHotKey=
 MimeTypeSubst="image/png8bit=image/png"
 ContentType=image/png8bit
-BanIfLen=0
