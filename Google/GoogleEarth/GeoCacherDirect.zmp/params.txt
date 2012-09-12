@@ -16,11 +16,6 @@ separator=1
 DelAfterShow=0
 Ext=.jpg
 UseDwn=0
-Usestick=1
-UseGenPrevious=1
-Usedel=0
-Usesave=1
-UseAntiBan=0
 Sleep=0
 ContentType=image/jpeg
 [ViewInfo]
