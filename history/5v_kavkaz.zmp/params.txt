@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=17
 GUID={499050C1-2CFD-4DAE-8F86-42390FD7AC3D}
-name=Кавказский край 5в. 1926г.
-name_en=Kavkaz 5v. 1926
-name_uk=Kavkaz 5v. 1926
+name=Кавказский край 5-верстка. 1926г.
+name_en=Kavkaz 5-v. 1926
+name_uk=Kavkaz 5-v. 1926
 ParentSubMenu=Исторические
 ParentSubMenu_en=Historic
 ParentSubMenu_uk=Історичні

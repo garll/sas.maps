@@ -2,7 +2,7 @@
 pnum=30
 GUID={CDC2FCCD-DD7F-49A9-BB33-AB81B495409A}
 asLayer=0
-name=Звезды (Google)
+name=Звёзды (Google)
 name_en=Sky (Google)
 name_uk=Зірки (Google)
 NameInCache=sky
