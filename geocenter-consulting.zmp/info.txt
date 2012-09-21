@@ -1,2 +1,1 @@
-<a href="http://www.geocenter-consulting.ru/">http://www.geocenter-consulting.ru/</a><br>
-<a href="http://www.mapiko.ru/map/">http://www.mapiko.ru/map/</a>
+<a href="http://www.geocenter-consulting.ru/">http://www.geocenter-consulting.ru/</a>
