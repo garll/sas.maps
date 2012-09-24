@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=1
 GUID={ff477668-c0cb-4b15-8c14-b176e14166ba}
-name=трехмерные здания
+name=Трёхмерные здания
 name_en=3d-buildings
-name_uk=трехмерные здания
+name_uk=Трёхмерные здания
 ParentSubMenu=OSM
 ParentSubMenu_en=OSM
 ParentSubMenu_uk=OSM

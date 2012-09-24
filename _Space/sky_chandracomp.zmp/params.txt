@@ -2,7 +2,7 @@
 pnum=
 GUID={D0439E79-1D2D-4364-A61E-41757BD819AF}
 asLayer=1
-name=Звезды Chandracomp (Google)
+name=Звёзды Chandracomp (Google)
 name_en=chandracomp (Google)
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
