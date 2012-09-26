@@ -19,3 +19,4 @@ UseDwn=1
 Sleep=0
 DefHotKey=86
 ContentType=image/jpeg; image/png
+version=1046

@@ -1,8 +1,8 @@
 var res:string;
-	i:byte;
-	osX,osY,prX,prY:integer;
+    i:byte;
+    osX,osY,prX,prY:integer;
 begin
-   res:='';	
+   res:='';     
    osX:=round(intpower(2,GetZ-1)) div 2;
    osY:=round(intpower(2,GetZ-1)) div 2;
    prX:=osX; prY:=osY;
@@ -34,5 +34,5 @@ begin
                           end;
          end;
      end;
- ResultURL:=GetURLBase+res+'.jpeg?g=952';
+ ResultURL:=GetURLBase+res+'.jpeg?g='+version;
 end.
