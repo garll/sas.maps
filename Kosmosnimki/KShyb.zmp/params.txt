@@ -17,5 +17,5 @@ separator=0
 UseDwn=1
 UsePreloadPage=0
 Sleep=0
-DefHotKey=72
+DefHotKey=0
 RequestHead=Referer: http://kosmosnimki.ru/
