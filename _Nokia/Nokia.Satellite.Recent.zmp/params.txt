@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=6
+GUID={9A360A51-7A72-402D-8A12-D670BD739B7B}
+name=Спутник DG (Nokia Satellite Recent) 
+name_en=DG Sat (Nokia Satellite Recent)
+name_uk=Супутник DG (Nokia Satellite Recent)
+ParentSubMenu=Nokia
+ParentSubMenu_en=Nokia
+ParentSubMenu_uk=Nokia
+ContentType=image/jpeg
+asLayer=0
+DefURLBase=http://stg.lbsp.navteq.com/satellite/6.0/images/?token=LBSP_DEV_ALL&profile=Recency&quadkey=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Nokia.Satellite.Recent
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+DefHotKey=82
+
