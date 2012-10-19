@@ -18,4 +18,4 @@ sradiusb=3396190
 separator=0
 UseDwn=1
 Sleep=0
-DefHotKey=82
+DefHotKey=
