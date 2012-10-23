@@ -9,7 +9,7 @@ ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=gumap
-DefURLBase=http://wialonb3.gurtam.com/map_gmaps?v=&w=256&h=256&q=&sc=&m=&
+DefURLBase=http://render.mapsviewer.com/wialonb3.gurtam.com/gis_render/
 ContentType=image/png
 Ext=.PNG
 projection=1
@@ -17,7 +17,7 @@ sradiusa=6378137
 sradiusb=6378137
 separator=1
 UseDwn=1
-UsePreloadPage=1
-PreloadPage=http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru
+#UsePreloadPage=1
+#PreloadPage=http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru
 Sleep=0
 DefHotKey=85
