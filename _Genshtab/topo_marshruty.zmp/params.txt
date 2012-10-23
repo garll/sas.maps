@@ -8,6 +8,8 @@ name_uk=TopoMap (marshruty.ru)
 NameInCache=topo_marshruty
 DefURLBase=http://maps.marshruty.ru/ml.ashx?al=1&i=1&x=
 ContentType=image/jpeg,image/png
+IgnoreContentType=0
+DefaultContentType=image/png
 ParentSubMenu=Генштаб
 ParentSubMenu_en=Genshtab
 ParentSubMenu_uk=Genshtab
