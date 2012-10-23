@@ -6,7 +6,7 @@ name=Метро (ITO Map)
 name_uk=Metro (ITO Map)
 name_en=Metro (ITO Map)
 NameInCache=osm_ito_Metro
-DefURLBase=http://t.itoworld.com/osm_script/wms?LAYERS=18&STYLES=&SRS=EPSG:900913&FORMAT=image%2Fpng&TRANSPARENT=on&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&WIDTH=256&HEIGHT=256&TILE=
+DefURLBase=http://t.beta.itoworld.com/18/136bdef4afc8d6e92586bc38e7b843c1/
 ContentType=image/png
 Ext=.png
 projection=1
