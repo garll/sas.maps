@@ -19,6 +19,7 @@ UseDwn=1
 Sleep=0
 DefHotKey=86
 ContentType=image/jpeg; image/png
+Version=952
 TILERLEFT=0
 TILERRIGHT=256
 TILERTOP=0
