@@ -1,0 +1,3 @@
+<a href="http://maps.yandex.com">http://maps.yandex.com</a>
+<br>
+Yandex Maps outside Russia and CIS.

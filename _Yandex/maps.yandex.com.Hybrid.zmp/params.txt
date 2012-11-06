@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=5
+GUID={38E29DB4-0052-4D08-836C-936325F0B63B}
+asLayer=1
+name=maps.yandex.com (√ибрид)
+name_en=maps.yandex.com (Hybrid)
+name_uk=maps.yandex.com (√ибрид)
+ParentSubMenu=яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=яндекс
+NameInCache=maps.yandex.com.Hybrid
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&lang=en_US
+ContentType=image/png
+Ext=.png
+EPSG=3395
+UseDwn=1
+Version=2.33.0
