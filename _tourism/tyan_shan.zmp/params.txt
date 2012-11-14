@@ -1,9 +1,9 @@
 [PARAMS]
 pnum=17
 GUID={9EEAAEC9-C54E-4E34-8ADC-756A7E58EE34}
-name=Тянь-Шань
-name_en=Tyan-Shan 
-name_uk=Tyan-Shan 
+name=Тянь-Шань + Памир
+name_en=Tyan-Shan & Pamir
+name_uk=Tyan-Shan & Pamir
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
