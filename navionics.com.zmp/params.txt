@@ -1,0 +1,19 @@
+[PARAMS]
+pnum=118
+GUID={1F5C7247-0543-4DBB-B4B1-5E969C9EB942}
+name=Водные карты (http://www.navionics.com/en/)
+name_en=Water map (http://www.navionics.com/en/)
+name_uk=Water map (http://www.navionics.com/en/)
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
+asLayer=0
+DefURLBase=http://ec2-107-20-127-91.compute-1.amazonaws.com/MAP/rastermap?mapkey=1234567890&LAYERS=osm_ram&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&FORMAT=image%2Fjpeg&SRS=EPSG%3A3395&WIDTH=256&HEIGHT=256&BBOX=
+NameInCache=navionics_com
+separator=0
+Ext=.png
+UseDwn=1
+Sleep=0
+DefHotKey=0
+ContentType=image/png
+EPSG=3395
