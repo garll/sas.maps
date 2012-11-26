@@ -2,7 +2,7 @@
 pnum=
 GUID={1A685790-60B0-412D-A03A-203D0ECEF764}
 asLayer=1
-name=Звезды Spitzer (Google)
+name=Звёзды Spitzer (Google)
 name_en=Spitzer (Google)
 ParentSubMenu=Космос
 ParentSubMenu_en=Space
