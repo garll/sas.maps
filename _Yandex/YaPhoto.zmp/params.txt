@@ -9,7 +9,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yaphoto
-DefURLBase=http://lrs.maps.yandex.net/tiles?l=pht&tm=1990c2ca2ecff1b3387210a1b2a1e36d&x=
+DefURLBase=http://lrs.maps.yandex.net/tiles?l=pht&tm=0.22.1-0.0.25.10-0.2012.12.06.23&lang=ru_RU&x=
 ContentType=image/png
 Ext=.png
 projection=2
