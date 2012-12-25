@@ -1,4 +1,4 @@
-ѕример использовани€ ресурсов в формате Zoomify
+<pre>ѕример использовани€ ресурсов в формате Zoomify
 
 ... отображаетс€ в левом верхнем углу с зума 1 по 7
 
@@ -15,8 +15,8 @@
 устанавливаем
 
 const
-width=9910;
-height=7476;
+m_nWidth = 9910;
+m_nHeight = 7476;
 
 
 –екомендации:
@@ -29,3 +29,7 @@ height=7476;
 mra:Garl@mail.ru
 jabber:garl@qip.ru
 
+»справил
+TokarevVV  http://sasgis.ru/mantis/view.php?id=1740
+
+</pre>
