@@ -1,5 +1,5 @@
 @echo off
-hg incoming "https://bitbucket.org/vdemidov/sas.maps/"
+hg incoming "https://bitbucket.org/sas_team/sas.maps/"
 ::echo %ERRORLEVEL%
 IF ERRORLEVEL 9009 goto NoHg
 IF ERRORLEVEL 2 goto err
@@ -11,7 +11,7 @@ goto err
 
 :ok
         echo Забираем изменения из репозитория
-        hg pull "https://bitbucket.org/vdemidov/sas.maps/" -u -f
+        hg pull "https://bitbucket.org/sas_team/sas.maps/" -u -f
         IF ERRORLEVEL 1 goto err
         IF NOT ERRORLEVEL 0 goto err
 	for /R /D %%d in (*.zmp) do rd /q %%d 2> nul
@@ -19,7 +19,7 @@ goto err
 :CloneRepo
 	rd /s /q sas.maps
 	echo Делаем клон репозитория с сервера
-	hg clone -U "https://bitbucket.org/vdemidov/sas.maps/" sas.maps
+	hg clone -U "https://bitbucket.org/sas_team/sas.maps/" sas.maps
         IF NOT ERRORLEVEL 0 goto err
 	echo Копируем папку с репозиторием из подпапки в текущую папку
 	move /Y sas.maps\.hg .\.hg
