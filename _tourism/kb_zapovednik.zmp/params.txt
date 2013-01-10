@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=17
+GUID={DAAA8B60-2E48-4E5D-8A0E-22C4FEDE4913}
+name=КБ высокогорный заповедник
+name_en=KB zapovenik
+name_uk=KB zapovenik
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/kb_zapovednik/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=kb_zapovednik
+separator=0
+Ext=.jpg
+UseDwn=1
+UsePreloadPage=0
+Sleep=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
+

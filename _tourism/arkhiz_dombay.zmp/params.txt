@@ -1,7 +1,7 @@
 [PARAMS]
 pnum=17
 GUID={4A3A2F8B-DC7D-494B-819C-C0BBDAF80CEA}
-name=Сводная (Дамхурц-Архыз-Теберда-Домбай)
+name=Сводная (Дамхурц-Архыз-Теберда-Домбай-КБ Заповедник)
 name_en=Damkhurts-Arkhiz-Teberda-Dombay
 name_uk=Damkhurts-Arkhiz-Teberda-Dombay
 ParentSubMenu=Туристические
