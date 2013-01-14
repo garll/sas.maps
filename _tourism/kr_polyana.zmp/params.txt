@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=17
+GUID={D5C50D23-7D95-4959-9128-DB5420CB412A}
+name=Красная поляна
+name_en=Krasnaya polyana
+name_uk=Krasnaya polyana
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/kr_polyana/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=kr_polyana
+separator=0
+Ext=.jpg
+UseDwn=1
+UsePreloadPage=0
+Sleep=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
+PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
