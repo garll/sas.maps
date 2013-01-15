@@ -1,6 +1,6 @@
 var
   khm: string;
 begin 
- khm := RegExprReplaceMatchSubStr(GetURLBase, 'khm\.google', 'khm'+inttostr( Random(4) )+'.google' );
- ResultURL := khm + '&x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&s='+copy('Galileo',1, Random(8));
+ khm := RegExprReplaceMatchSubStr(GetURLBase, 'khms\.google', 'khms'+inttostr( Random(4) )+'.google' );
+ ResultURL := khm + Version + '&src=app&x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&s='+copy('Galileo',1, Random(8));
 end.
