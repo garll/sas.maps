@@ -2,6 +2,7 @@
 hg incoming "https://bitbucket.org/sas_team/sas.maps/"
 ::echo %ERRORLEVEL%
 IF ERRORLEVEL 9009 goto NoHg
+IF ERRORLEVEL 255 goto CloneRepo
 IF ERRORLEVEL 2 goto err
 IF ERRORLEVEL 1 goto noupdates
 IF ERRORLEVEL 0 goto ok
@@ -19,7 +20,7 @@ goto err
 :CloneRepo
 	rd /s /q sas.maps
 	echo Делаем клон репозитория с сервера
-	hg clone -U "https://bitbucket.org/sas_team/sas.maps/" sas.maps
+	hg clone "https://bitbucket.org/sas_team/sas.maps/" sas.maps
         IF NOT ERRORLEVEL 0 goto err
 	echo Копируем папку с репозиторием из подпапки в текущую папку
 	move /Y sas.maps\.hg .\.hg
