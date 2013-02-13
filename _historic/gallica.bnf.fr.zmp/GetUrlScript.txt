@@ -1,0 +1,15 @@
+var
+i:integer;
+begin
+case getz of
+1: i:= 16384;
+2: i:= 8192;
+3: i:= 4096;
+4: i:= 2048;
+5: i:= 1024;
+6: i:= 512;
+7: i:= 256;
+else i:=256;
+end;
+  ResultURL:=GetURLBase+version+'&l='+inttostr(getz-1)+'&r='+inttostr(gety*i)+','+inttostr(getx*i)+',256,256';
+end.
