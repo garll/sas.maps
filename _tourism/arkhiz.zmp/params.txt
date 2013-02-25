@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=17
 GUID={068F9227-73D2-42A2-A04E-D3770A666219}
-name=Архыз       
-name_en=arkhiz
+name=Архыз(ФГУП СК АГП)
+name_en=arkhiz 
 name_uk=arkhiz
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism

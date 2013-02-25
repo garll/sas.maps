@@ -1,7 +1,7 @@
 [PARAMS]
 pnum=17
 GUID={068F9227-73D2-42A2-A04E-D3770A777328}
-name=Дамхурц
+name=Дамхурц (ФГУП СК АГП)
 name_en=Damkhurts
 name_uk=Damkhurts
 ParentSubMenu=Туристические

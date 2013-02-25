@@ -1,7 +1,7 @@
 [PARAMS]
 pnum=17
 GUID={B898526D-19A7-4BFF-BC06-E67C2A0B7069}
-name=Теберда и Домбай
+name=Теберда и Домбай (ФГУП СК АГП)
 name_en=Teberda + Dombay
 name_uk=Teberda + Dombay
 ParentSubMenu=Туристические
