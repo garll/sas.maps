@@ -8,7 +8,7 @@ ParentSubMenu=Другие карты
 ParentSubMenu_en=Other maps
 ParentSubMenu_uk=Інші карти
 asLayer=0
-DefURLBase=http://ec2-54-234-79-86.compute-1.amazonaws.com/MAP/rastermap?mapkey=1234567890&LAYERS=osm_ram&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&FORMAT=image%2Fjpeg&SRS=EPSG%3A3395&WIDTH=256&HEIGHT=256&BBOX=
+DefURLBase=http://webviewer-api.navionics.com/getmap?PARAMS=
 NameInCache=navionics_com
 separator=0
 Ext=.png
