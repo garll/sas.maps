@@ -1,40 +1,98 @@
-function retrieve_ts(url: string; xstart: string; xend: string):integer; external 'ytrf_retrieve_ts@maps\YaTraf.dll stdcall';
-function GetIntParam(key: string): Integer; external 'ytrf_GetIntParam@maps\YaTraf.dll stdcall';
-function SetIntParam(key: string; val: Integer): integer; external 'ytrf_SetIntParam@maps\YaTraf.dll stdcall';
-function GetUTS: Longint; external 'ytrf_GetUTS@maps\YaTraf.dll stdcall';
-
-function ts_update_needed(delta: integer):integer;
-var
-  lts, ts : integer;
-  lts_key: string;
+const
+  ts_key = 'ytrf_ts';
+  lts_key = 'ytrf_lts';
+    
+procedure InitScriptBuffer;
 begin
-  result:=0;
-  lts_key:='ytrf_lts';
-  lts:=GetIntParam(lts_key);
-  ts:=GetUTS;
-  if (ts>lts+delta) then begin
-    SetIntParam(lts_key, GetUTS);
-    result:=1;
+  if ScriptBuffer = '' then begin
+    ScriptBuffer := '<' + ts_key + '=0>_<' + lts_key + '=0>';
+  end;  
+end;
+
+procedure SaveIntValue(const key: string; const value: Integer);
+var
+  val_expr, val_repl: string;
+begin
+  val_expr := '<' + key + '=(\d+)>';
+  val_repl := '<' + key + '=' + IntToStr(value) + '>';
+  ScriptBuffer := RegExprReplaceMatchSubStr(ScriptBuffer, val_expr, val_repl);
+end;
+
+function GetIntValue(const key: string): Integer;
+var
+  val_expr, val_str: string;
+begin
+  val_expr := '<' + key + '=(\d+)>';
+  val_str := RegExprGetMatchSubStr(ScriptBuffer, val_expr, 1);  
+  if (val_str <> '') then begin
+    Result := StrToInt(val_str);
+  end else begin
+    Result := 0;
+  end; 
+end;
+
+function DownloadUrl(const AUrl: AnsiString): string;
+var
+  VResponseCode: Cardinal;
+  VResponseHeader, VResponseData: AnsiString;
+  VRequestUrl, VRequestHeader, VPostData: AnsiString;
+begin
+  Result := '';
+  if Assigned(Downloader) then begin
+    VRequestUrl := AUrl;
+    VRequestHeader := '';
+    VPostData := '';
+    VResponseHeader := '';
+    VResponseData := ''; 
+    VResponseCode := Downloader.DoHttpRequest(VRequestUrl, VRequestHeader, VPostData, VResponseHeader, VResponseData);      
+    if VResponseCode = 200 then begin
+      Result := VResponseData;
+    end;
   end;
 end;
 
-function get_ts(delta: integer):integer;
+function IsNeedUpdateTimeStamp(const ADelta: Integer): Boolean;
 var
-  ts_key, url, data: string;
-  pt : LongInt;
+  ts, lts: Integer;
 begin
- result:=0;
- ts_key:='ytrf_ts';
- if (ts_update_needed(delta)>0) then begin
-   url:='http://jgo.maps.yandex.net/trf/stat.js';
-   result:=retrieve_ts(url, 'timestamp:"', '"');
-   SetIntParam(ts_key, result);
- end else begin
-   result:=GetIntParam(ts_key);
- end;
+  ts := GetUnixTime;
+  lts := GetIntValue(lts_key);    
+  if (ts > lts + ADelta) then begin
+    SaveIntValue(lts_key, ts);
+    Result := True;
+  end else begin
+    Result := False;
+  end;
+end;
+
+function GetTimeStamp(const ADelta: Integer): Integer;
+var
+  ts: Integer;
+  ts_val: string;
+  stat_js: string;  
+begin
+  ts := 0;
+  if IsNeedUpdateTimeStamp(ADelta) then begin
+    stat_js := DownloadUrl('http://jgo.maps.yandex.net/trf/stat.js');
+    if stat_js <> '' then begin
+      ts_val := RegExprGetMatchSubStr(stat_js, 'timestamp:"(\d+)"', 1); 
+      if ts_val <> '' then begin
+        ts := StrToInt(ts_val);
+        SaveIntValue(ts_key, ts);
+      end;
+    end;   
+  end else begin
+    ts := GetIntValue(ts_key);
+  end;
+  Result := ts;
 end;
 
 begin
- ResultURL:='';
- if (GetZ<>0) then ResultURL:=GetURLBase+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&tm='+inttostr(get_ts(60));
+  InitScriptBuffer;  
+  if GetZ <> 0 then begin 
+    ResultURL := GetURLBase + IntToStr(GetX) + '&y=' + IntToStr(GetY) + 
+      '&z=' + IntToStr(GetZ-1) + '&tm=' + IntToStr(GetTimeStamp(60));
+  end else begin
+    ResultURL := '';
+  end;
 end.
