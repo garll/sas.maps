@@ -1,0 +1,16 @@
+[PARAMS]
+GUID={C5566E47-0B5E-4CB1-A557-CE1C6C21B0D8}
+name=Чебоксары (cheboksary.ws)
+name_en=Cheboksary (cheboksary.ws)
+DefURLBase=http://www.cheboksary.ws/gug/
+projection=1
+ParentSubMenu=Локальные карты
+ParentSubMenu_en=Local maps
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cheboksary.new
+Ext=.png
+UseDwn=1
+Sleep=0
+ContentType=image/png
+IteratorSubRectSize=8,8
