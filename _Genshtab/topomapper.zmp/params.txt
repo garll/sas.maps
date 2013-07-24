@@ -5,7 +5,7 @@ asLayer=0
 name=Генштаб (TopoMapper.com)
 name_en=Genshtab (TopoMapper.com)
 NameInCache=topomapper.com
-DefURLBase=http://78.46.61.141/cgi-bin/tilecache-2.11/tilecache.py?LAYERS=topomapper_gmerc&FORMAT=image%2Fjpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
+DefURLBase=http://78.46.61.141/cgi-bin/tilecache-2.11b/tilecache.py?LAYERS=topomapper_gmerc&FORMAT=image%2Fjpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/jpeg
 ParentSubMenu=Генштаб
 ParentSubMenu_en=Genshtab
