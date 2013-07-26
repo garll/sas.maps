@@ -8,7 +8,7 @@ ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/ergaki_aradan/z
+DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/ergaki_aradan/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -17,9 +17,7 @@ NameInCache=ergaki_aradan
 separator=0
 Ext=.jpg
 UseDwn=1
-UsePreloadPage=0
 Sleep=0
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
