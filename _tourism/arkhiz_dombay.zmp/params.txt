@@ -1,14 +1,14 @@
 [PARAMS]
 pnum=17
 GUID={4A3A2F8B-DC7D-494B-819C-C0BBDAF80CEA}
-name=Сводная ФГУП СК АГП (Дамхурц-Архыз-Теберда-Домбай-КБ Заповедник-Красная поляна)
-name_en=Damkhurts-Arkhiz-Teberda-Dombay-KB Zapovednik-Krasnaya polyana
-name_uk=Damkhurts-Arkhiz-Teberda-Dombay-KB Zapovednik-Krasnaya polyana
+name=Сводная ФГУП СК АГП 
+name_en=All tourist FGU SK AGP
+name_uk=All tourist FGU SK AGP
 ParentSubMenu=Туристические
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz_dombay/z
+DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz_dombay/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -17,9 +17,7 @@ NameInCache=arkhiz_dombay
 separator=0
 Ext=.jpg
 UseDwn=1
-UsePreloadPage=0
-Sleep=0
+Sleep=1
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm

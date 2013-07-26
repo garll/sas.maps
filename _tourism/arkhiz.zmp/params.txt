@@ -1,14 +1,14 @@
 [PARAMS]
 pnum=17
 GUID={068F9227-73D2-42A2-A04E-D3770A666219}
-name=Àğõûç(ÔÃÓÏ ÑÊ ÀÃÏ)
+name=Àğõûç (ÔÃÓÏ ÑÊ ÀÃÏ)
 name_en=arkhiz 
 name_uk=arkhiz
 ParentSubMenu=Òóğèñòè÷åñêèå
 ParentSubMenu_en=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz/z
+DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz/z
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -17,9 +17,7 @@ NameInCache=arkhiz
 separator=0
 Ext=.jpg
 UseDwn=1
-UsePreloadPage=0
 Sleep=0
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
