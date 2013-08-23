@@ -21,3 +21,4 @@ Sleep=0
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1
+License=© Λÿοθν Β.Γ. 2013
