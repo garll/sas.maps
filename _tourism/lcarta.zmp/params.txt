@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=17
+GUID={10B2CE3B-78F2-44A8-8396-F94160291754}
+name= Абишира-Ахуба (В.Ляпин)
+name_en=Abishira-Ahuba (V.Lyapin)
+name_uk=Abishira-Ahuba (V.Lyapin)
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/lcarta/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+CACHETYPE=4
+NameInCache=lcarta
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
