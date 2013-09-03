@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=17
+GUID={0AE20160-D02A-4D21-B289-CEF29300CE2A}
+name=Немецкая Аэро-Фото съёмка (Краснодар)
+name_en=German Aero-Foto
+name_uk=German Aero-Foto
+ParentSubMenu=Исторические
+ParentSubMenu_en=Historic
+ParentSubMenu_uk=Історичні
+asLayer=0
+DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/wwii-ug/z
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=wwii-ug
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+ContentType=*
+defaultContentType=image/jpeg
+IgnoreContentType=1
