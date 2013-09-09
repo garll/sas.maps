@@ -1,0 +1,3 @@
+begin
+  ResultURL:=GetURLBase+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.jpg&path1=/mnt/HD/HD_a2/pub/historic/1925_maykop/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.jpg&name=y'+inttostr(gety)+'.jpg&type=JPEG+Image&browser=iee)';
+end.
