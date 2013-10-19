@@ -4,9 +4,9 @@ GUID={9EEAAEC9-C54E-4E34-8ADC-756A7E58EE34}
 name=Тянь-Шань + Памир
 name_en=Tyan-Shan & Pamir
 name_uk=Tyan-Shan & Pamir
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+ParentSubMenu=Туристические\Тянь-Шань
+ParentSubMenu_en=Tourism\Tyan-Shan
+ParentSubMenu_uk=Tourism\Tyan-Shan
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tyan_shan/z
 projection=1

@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=17
 GUID={B898526D-19A7-4BFF-BC06-E67C2A0B7069}
-name=Теберда и Домбай (ФГУП СК АГП)
+name=Теберда и Домбай
 name_en=Teberda + Dombay
 name_uk=Teberda + Dombay
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+ParentSubMenu=Туристические\ФГУП СК АГП
+ParentSubMenu_en=Tourism\SK AGP
+ParentSubMenu_uk=Tourism\SK AGP
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/dombay/z
 projection=1

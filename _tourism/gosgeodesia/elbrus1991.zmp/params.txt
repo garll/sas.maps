@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=17
 GUID={4EB1857D-2945-42D0-8A13-4DB79BE1C615}
-name=Приэльбрусье (С) Госгеодезия СССР 1991г.
-name_en=Elbrus (с) Gosgeodeziya 1991y.
-name_uk=Elbrus (с) Gosgeodeziya 1991y.
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+name=Приэльбрусье
+name_en=Elbrus
+name_uk=Elbrus
+ParentSubMenu=Туристические\Госгеодезия СССР
+ParentSubMenu_en=Tourism\Gosgeodeziya
+ParentSubMenu_uk=Tourism\Gosgeodeziya
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/elbrus1991/z
 projection=1

@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=17
 GUID={0C4E8865-718F-458A-8E25-01EEB7F5EDCD}
-name=Теберда - Домбай (С) Госгеодезия СССР 1991г.
-name_en=Teberda - Dombai (с) Gosgeodeziya 1991y.
-name_uk=Teberda - Dombai (с) Gosgeodeziya 1991y.
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+name=Теберда - Домбай
+name_en=Teberda - Dombai
+name_uk=Teberda - Dombai
+ParentSubMenu=Туристические\Госгеодезия СССР
+ParentSubMenu_en=Tourism\Gosgeodeziya
+ParentSubMenu_uk=Tourism\Gosgeodeziya
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/dombai1991/z
 projection=1

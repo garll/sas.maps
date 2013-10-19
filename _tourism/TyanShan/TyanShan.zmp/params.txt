@@ -4,9 +4,9 @@ GUID={03F32FF2-2450-406C-9007-364BA6361DE8}
 name=Горные перевалы северного Тянь-Шаня
 name_en=Tyan-Shan mountain pass
 name_uk=Tyan-Shan mountain pass
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+ParentSubMenu=Туристические\Тянь-Шань
+ParentSubMenu_en=Tourism\Tyan-Shan
+ParentSubMenu_uk=Tourism\Tyan-Shan
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tyanshan/z
 projection=1

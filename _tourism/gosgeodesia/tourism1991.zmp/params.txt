@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=17
 GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
-name=Сводная (С) Госгеодезия СССР 1991г.
-name_en=All (с) Gosgeodeziya 1991y.
-name_uk=All (с) Gosgeodeziya 1991y.
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+name=Сводная
+name_en=All
+name_uk=All
+ParentSubMenu=Туристические\Госгеодезия СССР
+ParentSubMenu_en=Tourism\Gosgeodeziya
+ParentSubMenu_uk=Tourism\Gosgeodeziya
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tourism1991/z
 projection=1

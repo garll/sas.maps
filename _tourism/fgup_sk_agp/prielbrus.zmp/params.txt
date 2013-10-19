@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=17
 GUID={C2217CDD-F35D-44DD-AD50-3933BCB28BD4}
-name=Приэльбрусье (ФГУП СК АГП)
+name=Приэльбрусье
 name_en=Around Elbrus
 name_uk=Around Elbrus
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
-ParentSubMenu_uk=Tourism
+ParentSubMenu=Туристические\ФГУП СК АГП
+ParentSubMenu_en=Tourism\SK AGP
+ParentSubMenu_uk=Tourism\SK AGP
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/prielbrus/z
 projection=1
