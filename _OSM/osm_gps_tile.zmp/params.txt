@@ -1,0 +1,21 @@
+[PARAMS]
+GUID={1123ADB1-4561-4280-9222-D4690321117E}
+asLayer=1
+name=Карта GPS-треков OSM
+name_en=Map GPS-track OSM
+name_uk=Карта GPS-треков OSM
+NameInCache=osm_gps_tile
+DefURLBase=http://b.gps-tile.openstreetmap.org/lines
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Sleep=0
+DefHotKey=16463
+PARENTSUBMENU=OSM
+IteratorSubRectSize=8,8
+RequestHead=Referer: http://www.openstreetmap.org/
+License=(c) OpenStreetMap contributors, CC-BY-SA
