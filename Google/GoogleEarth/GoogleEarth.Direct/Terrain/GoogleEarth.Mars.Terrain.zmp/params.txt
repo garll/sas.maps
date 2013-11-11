@@ -1,0 +1,19 @@
+[PARAMS]
+GUID={309B0BF2-AC93-4A97-8DA3-E13FE6B8E95F}
+name=Марс - Рельеф (GoogleEarth)
+name_en=Mars - Terrain (GoogleEarth)
+name_uk=
+ParentSubMenu=GoogleEarth
+ParentSubMenu_en=GoogleEarth
+ParentSubMenu_uk=GoogleEarth
+asLayer=1
+DefURLBase=
+EPSG=4326
+CacheType=51
+NameInCache=mars
+separator=0
+DelAfterShow=0
+Ext=.kml
+UseDwn=0
+Sleep=0
+ContentType=application/vnd.google-earth.kml+xml

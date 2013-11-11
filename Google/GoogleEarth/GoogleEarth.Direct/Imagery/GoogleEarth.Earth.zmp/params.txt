@@ -1,18 +1,18 @@
 [PARAMS]
 pnum=1001
-GUID={B26D8F5D-EE09-4A6F-9566-10313004B559}
-name=GeoCacher (direct)
-name_en=GeoCacher (direct)
-name_uk=GeoCacher (direct)
+GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
+name=Земля (GoogleEarth)
+name_en=Earth (GoogleEarth)
+name_uk=Земля (GoogleEarth)
 ParentSubMenu=GoogleEarth
 ParentSubMenu_en=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
 asLayer=0
 DefURLBase=
 EPSG=4326
-CacheType=8
+CacheType=5
 NameInCache=
-separator=1
+separator=0
 DelAfterShow=0
 Ext=.jpg
 UseDwn=0

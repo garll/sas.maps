@@ -1,0 +1,19 @@
+[PARAMS]
+GUID={E45E5615-C318-4961-9247-E3139BAC1D80}
+name=Земля - Рельеф (GoogleEarth)
+name_en=Earth - Terrain (GoogleEarth)
+name_uk=
+ParentSubMenu=GoogleEarth
+ParentSubMenu_en=GoogleEarth
+ParentSubMenu_uk=GoogleEarth
+asLayer=1
+DefURLBase=
+EPSG=4326
+CacheType=51
+NameInCache=earth
+separator=0
+DelAfterShow=0
+Ext=.kml
+UseDwn=0
+Sleep=0
+ContentType=application/vnd.google-earth.kml+xml

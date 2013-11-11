@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=1003
+GUID={30D412DE-6756-42E0-BFFB-C765901CC2B7}
+name=Марс (GoogleEarth)
+name_en=Mars (GoogleEarth)
+name_uk=Марс (GoogleEarth)
+ParentSubMenu=GoogleEarth
+ParentSubMenu_en=GoogleEarth
+ParentSubMenu_uk=GoogleEarth
+asLayer=0
+DefURLBase=
+EPSG=4326
+CacheType=5
+NameInCache=mars
+separator=0
+DelAfterShow=0
+Ext=.jpg
+UseDwn=0
+Sleep=0
+ContentType=image/jpeg
+[ViewInfo]
+EPSG=3785

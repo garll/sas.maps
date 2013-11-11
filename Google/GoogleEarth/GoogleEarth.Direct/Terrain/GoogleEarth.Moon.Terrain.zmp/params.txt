@@ -1,0 +1,19 @@
+[PARAMS]
+GUID={17903835-5F6A-45F4-8D34-AB1FAC648319}
+name=Луна - Рельеф (GoogleEarth)
+name_en=Moon - Terrain (GoogleEarth)
+name_uk=
+ParentSubMenu=GoogleEarth
+ParentSubMenu_en=GoogleEarth
+ParentSubMenu_uk=GoogleEarth
+asLayer=1
+DefURLBase=
+EPSG=4326
+CacheType=51
+NameInCache=moon
+separator=0
+DelAfterShow=0
+Ext=.kml
+UseDwn=0
+Sleep=0
+ContentType=application/vnd.google-earth.kml+xml
