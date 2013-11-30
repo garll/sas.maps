@@ -8,7 +8,7 @@ ParentSubMenu=Космоснимки
 ParentSubMenu_en=Kosmosnimki.ru
 ParentSubMenu_uk=Космоснимки
 asLayer=0
-DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=C7B2E6510209444E80673F3C37519F7E
+DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=C9458F2DCB754CEEACC54216C7D1EB0A&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprmblxuFPveGTF68znQDOYGDxck3gk3bbcis33QH48okf77gofl4Y0Z8NuLdxyJyNd1GmhCzrmsqm72A1fEa4Hgx9xXZjNLx6vktYlSByp915sLqX1v9wNxQJEL%2FYkrjyU&0.40740302335621426
 projection=2
 sradiusa=6378137
 sradiusb=6356752
@@ -19,4 +19,4 @@ UseDwn=1
 Sleep=0
 DefHotKey=75
 ContentType=image/jpeg
-RequestHead=Referer: http://kosmosnimki.ru/
+
