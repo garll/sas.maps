@@ -4,9 +4,9 @@ GUID={93AC2357-8399-44D3-81CD-2901C1272E34}
 name=Карта Майкопского округа 1925г.
 name_en=Maykop 1925
 name_uk=Maykop 1925
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/1925_maykop/z
 projection=1

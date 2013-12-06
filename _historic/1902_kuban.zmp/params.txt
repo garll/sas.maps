@@ -4,9 +4,9 @@ GUID={C91E1E37-8E29-42CB-946D-C812EC5FE327}
 name=Карта Кубанской области 1902г.
 name_en=Kuban 1902
 name_uk=Kuban 1902
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/1902_kuban/z
 projection=1

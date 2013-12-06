@@ -4,9 +4,9 @@ GUID={1B23D30F-AC02-473F-919A-432E0C540281}
 name=5 верстовка Кавказа 1877г
 name_en=5v map of Kavkaz (1877)
 name_uk=5v map of Kavkaz (1877)
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_kavk_1877/z
 projection=1

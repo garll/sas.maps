@@ -4,9 +4,9 @@ GUID={C095B837-863B-4BD7-900A-F30644201D27}
 name=Карта Кубанского округа 1930г.
 name_en=Kuban 1930
 name_uk=Kuban 1930
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/1930_kuban/z
 projection=1
