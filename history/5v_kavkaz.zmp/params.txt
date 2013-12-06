@@ -4,9 +4,9 @@ GUID={499050C1-2CFD-4DAE-8F86-42390FD7AC3D}
 name=Кавказский край 5-верстка. 1926г.
 name_en=Kavkaz 5-v. 1926
 name_uk=Kavkaz 5-v. 1926
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_kavkaz/z
 projection=1
