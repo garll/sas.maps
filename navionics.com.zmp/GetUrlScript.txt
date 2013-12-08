@@ -1,7 +1,9 @@
 var
   I: Integer;
   VEncoded: string;
+  VBox: string;
 begin 
+  VBox := RoundEx(GetLMetr ,10) + ',' + RoundEx(GetBMetr, 10) + ',' + RoundEx(GetRMetr, 10) + ',' + RoundEx(GetTMetr, 10);
   // prepare params
   VEncoded := 
     'LAYERS=osm_ram' + '&' + 
@@ -13,7 +15,7 @@ begin
     'SRS=EPSG%3A3395' + '&' +
     'WIDTH=256' + '&' +
     'HEIGHT=256' + '&' +
-    'BBOX=' + RoundEx(GetLMetr ,10) + ',' + RoundEx(GetBMetr, 10) + ',' + RoundEx(GetRMetr, 10) + ',' + RoundEx(GetTMetr, 10);
+    'BBOX=' + VBox;
   
   // crypt
   for I := 1 to Length(VEncoded) do 
@@ -25,7 +27,7 @@ begin
   //replase "+" with "%2b" charset
   VEncoded := RegExprReplaceMatchSubStr(VEncoded, '\+', '\%2b');
   
-  ResultURL:=GetURLBase + VEncoded + '&NAVKEY=NAVIONICS11WEBAPI111';
+  ResultURL:=GetURLBase + VEncoded + '&NAVKEY=NAVIONICS11WEBAPI111&TEST=' + VBox + '&ZOOM=' + IntToStr(GetZ) + '&v=1&SRC=http://www.navionics.com';
   
   RequestHead := 'Referer: http://www.navionics.com/sites/navionics.plurimedia.it/files/coverage/webapp.html?2985400';
 end.
