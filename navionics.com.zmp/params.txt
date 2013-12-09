@@ -1,12 +1,11 @@
 [PARAMS]
-pnum=118
 GUID={1F5C7247-0543-4DBB-B4B1-5E969C9EB942}
-name=Водные карты (http://www.navionics.com/en/)
-name_en=Water map (http://www.navionics.com/en/)
-name_uk=Water map (http://www.navionics.com/en/)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
-ParentSubMenu_uk=Інші карти
+name=Navionics (http://www.navionics.com/en/)
+name_en=Navionics (http://www.navionics.com/en/)
+name_uk=Navionics (http://www.navionics.com/en/)
+ParentSubMenu=Морские карты
+ParentSubMenu_en=Marine maps
+ParentSubMenu_uk=Marine maps
 asLayer=0
 DefURLBase=http://webviewer-api.navionics.com/getmap?PARAMS=
 NameInCache=navionics_com
@@ -16,4 +15,6 @@ UseDwn=1
 Sleep=0
 DefHotKey=0
 ContentType=image/png
-EPSG=3395
+projection=2
+sradiusa=6378388
+sradiusb=6356912
