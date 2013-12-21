@@ -1,23 +1,22 @@
 [PARAMS]
 pnum=17
 GUID={4A3A2F8B-DC7D-494B-819C-C0BBDAF80CEA}
-name=Сводная
+name=Сводная ФГУ СК АГП
 name_en=All tourist FGU SK AGP
 name_uk=All tourist FGU SK AGP
-ParentSubMenu=Туристические\ФГУП СК АГП
-ParentSubMenu_en=Tourism\SK AGP
-ParentSubMenu_uk=Tourism\SK AGP
+ParentSubMenu=Туристические\Кавказ
+ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/arkhiz_dombay/z
+DefURLBase=http://91.237.82.95:8082/arkhiz_dombay/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=4
 NameInCache=arkhiz_dombay
 separator=0
 Ext=.jpg
 UseDwn=1
-Sleep=1
-ContentType=*
+Sleep=0
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

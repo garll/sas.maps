@@ -8,7 +8,7 @@ ParentSubMenu=Исторические
 ParentSubMenu_en=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/strelb_10_1882/z
+DefURLBase=http://91.237.82.95:8082/strelb_10_1882/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -22,6 +22,6 @@ Usedel=1
 Usesave=1
 Sleep=0
 BanIfLen=0
-ContentType=*
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

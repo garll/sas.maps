@@ -8,7 +8,7 @@ ParentSubMenu=Исторические\Кавказ
 ParentSubMenu_en=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_kavk_1877/z
+DefURLBase=http://91.237.82.95:8082/5v_kavk_1877/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -22,6 +22,6 @@ Usedel=1
 Usesave=1
 Sleep=0
 BanIfLen=0
-ContentType=*
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
