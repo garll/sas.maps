@@ -8,7 +8,7 @@ ParentSubMenu=Туристические\Тянь-Шань
 ParentSubMenu_en=Tourism\Tyan-Shan
 ParentSubMenu_uk=Tourism\Tyan-Shan
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tyanshan/z
+DefURLBase=http://91.237.82.95:8082/tyanshan/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -18,6 +18,6 @@ separator=0
 Ext=.jpg
 UseDwn=1
 Sleep=0
-ContentType=*
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=

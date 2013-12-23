@@ -1,3 +1,3 @@
 begin
-  ResultURL:=GetURLBase+inttostr(getz-1)+'/'+inttostr(gety)+'/'+inttostr(getx)+'.jpg&path1=/mnt/HD/HD_a2/pub/tourism/ergaki_aradan/z'+inttostr(getz-1)+'/'+inttostr(gety)+'/'+inttostr(getx)+'.jpg&name='+inttostr(getx)+'.jpg&type=JPEG+Image&browser=iee)';
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.jpg';
 end.

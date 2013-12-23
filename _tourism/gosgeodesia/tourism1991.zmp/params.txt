@@ -1,23 +1,22 @@
 [PARAMS]
 pnum=17
 GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
-name=Сводная
-name_en=All
-name_uk=All
-ParentSubMenu=Туристические\Госгеодезия СССР
-ParentSubMenu_en=Tourism\Gosgeodeziya
-ParentSubMenu_uk=Tourism\Gosgeodeziya
+name=Сводная (с) Госгеодезия СССР 1991г.
+name_en=All Gosgeodeziya
+name_uk=All Gosgeodeziya
+ParentSubMenu=Туристические\Кавказ
+ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/tourism/tourism1991/z
+DefURLBase=http://91.237.82.95:8082/gosgeodeziya/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=4
 NameInCache=tourism1991
 separator=0
 Ext=.jpg
 UseDwn=1
 Sleep=0
-ContentType=*
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

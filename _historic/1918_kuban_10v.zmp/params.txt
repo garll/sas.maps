@@ -8,7 +8,7 @@ ParentSubMenu=Исторические\Кавказ
 ParentSubMenu_en=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/1918_kuban_10v/z
+DefURLBase=http://91.237.82.95:8082/1918_kuban_10v/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -17,6 +17,6 @@ separator=0
 Ext=.jpg
 UseDwn=1
 Sleep=0
-ContentType=*
 defaultContentType=image/jpeg
-IgnoreContentType=1
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
