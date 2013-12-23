@@ -6,8 +6,7 @@ name=Генштаб 250 м
 name_en=Genshtab 250 m
 name_uk=Генштаб 250 м
 NameInCache=genshtab250m
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/genshtab250m/z
-ContentType=*
+DefURLBase=http://91.237.82.95:8082/genshtab250m/
 defaultContentType=image/jpeg
 IgnoreContentType=1
 ParentSubMenu=Генштаб
@@ -21,6 +20,6 @@ separator=0
 UseDwn=1
 Sleep=0
 DefHotKey=0
-UsePreloadPage=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
 cachetype=4
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
