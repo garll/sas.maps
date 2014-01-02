@@ -6,10 +6,7 @@ name=Генштаб 10 км
 name_en=Genshtab 10 km
 name_uk=Генштаб 10 км
 NameInCache=Genshtab10km
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/genshtab10km/z
-ContentType=*
-defaultContentType=image/jpeg
-IgnoreContentType=1
+DefURLBase=http://91.237.82.95:8082/genshtab10km/
 ParentSubMenu=Генштаб
 ParentSubMenu_en=Genshtab
 ParentSubMenu_uk=Генштаб
@@ -21,5 +18,5 @@ separator=0
 UseDwn=1
 Sleep=0
 DefHotKey=0
-UsePreloadPage=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
