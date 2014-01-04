@@ -6,8 +6,7 @@ name=Генштаб 1 км
 name_en=Genshtab 1 km
 name_uk=Генштаб 1 км
 NameInCache=genshtab1km
-DefURLBase=http://188.95.188.28/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/genshtab1km/z
-ContentType=*
+DefURLBase=http://91.237.82.95:8082/genshtab1km/
 defaultContentType=image/jpeg
 IgnoreContentType=1
 ParentSubMenu=Генштаб
@@ -16,10 +15,10 @@ ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137
-sradiusb=6356752
+sradiusb=6378137
 separator=0
 UseDwn=1
 Sleep=0
 DefHotKey=0
-UsePreloadPage=1
-PreloadPage=http://188.95.188.28/cgi-bin/login_mgr.cgi?cmd=login&username=pub&pwd=gfhjkm
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
