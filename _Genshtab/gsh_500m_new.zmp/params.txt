@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=145
+GUID={7D47D2E6-9410-4181-B2F1-224A4880E698}
+asLayer=0
+name=Генштаб 500м (1999-2010)
+name_en=Genshtab 500m (1999-2010)
+name_uk=Генштаб 500м (1999-2010)
+NameInCache=genshtab500m_new
+DefURLBase=http://91.237.82.95:8082/genshtab5k_new/
+defaultContentType=image/jpeg
+ParentSubMenu=Генштаб
+ParentSubMenu_en=Genshtab
+ParentSubMenu_uk=Генштаб
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Sleep=0
+DefHotKey=0
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
