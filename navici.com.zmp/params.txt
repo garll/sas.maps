@@ -9,16 +9,13 @@ ParentSubMenu=Локальные карты
 ParentSubMenu_en=Local Maps
 ParentSubMenu_ua=Локальні карти
 NameInCache=navici_com
-DefURLBase=http://wms1.navici.com/geoserver/wms?WIDTH=256&HEIGHT=256&SRS=EPSG:4326&LAYERS=topp:topo100k&STYLES=&FORMAT=image/jpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application/vnd.ogc.se_inimage&BBOX=
-сontentType=image/jpeg,image/png
+DefURLBase=http://ntile1.navici.com/karjala/?LAYERS=topo20k_group&BBOX=
+ContentType=image/jpeg,image/png
+MimeTypeSubst=image/png=image/jpeg
+DefaultContentType=image/jpeg
 Ext=.jpg
 projection=1
-sradiusa=6371000
-sradiusb=6371000
-separator=1
+sradiusa=6378137
+sradiusb=6356752
 UseDwn=1
-Sleep=0
-DefHotKey=
-MimeTypeSubst = "image/png=image/jpeg"
-DefaultContentType=image/jpeg
-
+Proj4Args=+proj=tmerc +lat_0=0 +lon_0=30 +k=1 +x_0=4500000 +y_0=0 +ellps=intl +units=m +no_defs
