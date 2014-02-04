@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=17
+GUID={BBF17EDD-15FB-4BD6-BAE3-4986EF6C1932}
+name=Кавказский край 5v 1941-1948 (ENG)
+name_en=Kavkaz 5v 1941-1948 (ENG)
+name_uk=Kavkaz 5v 1941-1948 (ENG)
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/eng_5v_kavkaz/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=eng_5v_kavkaz
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+License=(c) Maps.SouthKlad.Ru
