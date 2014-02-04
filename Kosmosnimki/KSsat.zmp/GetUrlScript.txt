@@ -1,10 +1,9 @@
 begin
-    ResultURL:=GetUrlBase+'&z='+inttostr(GetZ-1)+'&x='+inttostr(-((round(intpower(2,GetZ-1)))div 2)+(GetX))+'&y='+inttostr(-((Round(intpower(2,GetZ-1)))div 2)+ (Round(intpower(2,GetZ-1))-(GetY+1))); 
-    RequestHead:='User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0' + #13#10 +
-      'Accept: image/png,image/*;q=0.8,*/*;q=0.5' + #13#10 +
-      'Accept-Language: en-us,en;q=0.5' + #13#10 +
+    ResultURL:=GetUrlBase+'&z='+inttostr(GetZ-1)+'&x='+inttostr(-((round(intpower(2,GetZ-1)))div 2)+(GetX))+'&y='+inttostr(-((Round(intpower(2,GetZ-1)))div 2)+ (Round(intpower(2,GetZ-1))-(GetY+1)));
+    RequestHead:='User-Agent: Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16' + #13#10 +
+      'Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1' + #13#10 +
+      'Accept-Language: ru-RU,ru;q=0.9,en;q=0.8' + #13#10 +
       'Accept-Encoding: gzip, deflate' + #13#10 +
       'Referer: http://kosmosnimki.ru/' + #13#10 +
-      'Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7' + #13#10 +
       'Connection: keep-alive' + #13#10;
 end.
