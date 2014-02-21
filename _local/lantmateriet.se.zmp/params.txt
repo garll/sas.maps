@@ -9,9 +9,9 @@ DefURLBase=http://vvv.sgu.se/lmvProxy/map?LAYERS=topowebbkartan&FORMAT=image%2Fj
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-ParentSubMenu=Suede
-ParentSubMenu_en=Suede
-ParentSubMenu_uk=Suede
+ParentSubMenu=Локальные карты\Швеция
+ParentSubMenu_en=Local maps\Suede
+ParentSubMenu_uk=Локальні карти\Suede
 NameInCache=SETopowebb
 separator=0
 ContentType=image/jpeg,image/png
