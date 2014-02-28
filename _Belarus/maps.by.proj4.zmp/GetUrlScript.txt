@@ -1,0 +1,17 @@
+var
+  TL, M: TDoublePoint;
+  BR, N: TDoublePoint;
+begin
+  TL.X := GetLLon;
+  TL.Y := GetTLat;
+  BR.X := GetRLon;
+  BR.Y := GetBLat;
+
+  if Assigned(DefProjConverter) then begin
+    M := DefProjConverter.LonLat2XY(TL);
+    N := DefProjConverter.LonLat2XY(BR);
+    ResultURL := GetURLBase + RoundEx(M.X, 9) + ',' + RoundEx(N.Y, 9) + ',' + RoundEx(N.X, 9) + ',' + RoundEx(M.Y, 9);
+  end else begin
+    ResultURL := 'invalid_url';
+  end;
+end.
