@@ -1,0 +1,23 @@
+[PARAMS]
+GUID={4463DAE6-03C7-4189-80E5-29D43865F093}
+asLayer=0
+name=Генштаб Беларусь
+name_en=Genshtab Belarus
+NameInCache=vbgenshtabbelarus
+ParentSubMenu=Генштаб
+ParentSubMenu_en=Genshtab
+DefURLBase=http://vb-maps.googlecode.com/svn/trunk/tiles/
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=300
+DefHotKey=0
+BanIfLen=0

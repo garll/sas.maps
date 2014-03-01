@@ -1,0 +1,6 @@
+begin
+  ResultURL := '';
+  if (GetZ >= 9) and (GetZ <= 14) then begin
+    ResultURL := GetURLBase + 'Z' + IntToStr(GetZ-1) + '/' + IntToStr(GetY) + '/' + IntToStr(GetX) + '.jpg';
+  end;
+end.
