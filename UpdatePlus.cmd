@@ -1,5 +1,5 @@
 @echo off
-hg incoming "https://bitbucket.org/garl/plus.maps/"
+hg incoming "https://bitbucket.org/sas_team/sas.plus.maps/"
 ::echo %ERRORLEVEL%
 IF ERRORLEVEL 9009 goto NoHg
 IF ERRORLEVEL 2 goto err
@@ -9,20 +9,20 @@ IF ERRORLEVEL 0 goto ok
 goto err
 
 :ok
-        echo á†°®‡†•¨ ®ß¨•≠•≠®Ô ®ß ‡•ØÆß®‚Æ‡®Ô
-        hg pull "https://bitbucket.org/garl/plus.maps/" -u -f
+        echo –ó–∞–±–∏—Ä–∞–µ–º –∏–∑–º–µ–Ω–µ–Ω–∏—è –∏–∑ —Ä–µ–ø–æ–∑–∏—Ç–æ—Ä–∏—è
+        hg pull "https://bitbucket.org/sas_team/sas.plus.maps/" -u -f
         IF ERRORLEVEL 1 goto err
         IF NOT ERRORLEVEL 0 goto err
 rem        call BuildZMmp.cmd
         goto end
 :noupdates
-        echo ç•‚ ≠Æ¢ÎÂ ®ß¨•≠•≠®©
+        echo –ù–µ—Ç –Ω–æ–≤—ã—Ö –∏–∑–º–µ–Ω–µ–Ω–∏–π
         goto end
 :err
-        echo éË®°™† ·¢Ôß® · ·•‡¢•‡Æ¨
+        echo –û—à–∏–±–∫–∞ —Å–≤—è–∑–∏ —Å —Å–µ—Ä–≤–µ—Ä–æ–º
         goto end
 :NoHg
-        echo ç• „·‚†≠Æ¢´•≠ Mercurial
+        echo –ù–µ —É—Å—Ç–∞–Ω–æ–≤–ª–µ–Ω Mercurial
         goto end
 :end
 pause
