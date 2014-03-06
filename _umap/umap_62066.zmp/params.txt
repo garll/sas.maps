@@ -5,10 +5,10 @@ asLayer=0
 name=Серов (Umap.ru)
 name_en=Serov (Umap.ru)
 NameInCache=Umap_62066
-DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=62066
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=62066
 ContentType=text/html , image/gif
-ParentSubMenu=Umap
-ParentSubMenu_en=Umap
+ParentSubMenu=Локальные карты\Umap
+ParentSubMenu_en=Local maps\Umap
 Ext=.gif
 projection=1
 sradiusa=6378137
@@ -17,3 +17,4 @@ separator=0
 UseDwn=1
 Sleep=0
 DefHotKey=0
+

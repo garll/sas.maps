@@ -8,7 +8,6 @@ name_ua=Ukraine Sat (map.meta.ua)
 NameInCache=sat_meta_ua
 DefURLBase=http://i1.map.meta.ua/cell.php?map=ukr_sat&x=
 ContentType=image/jpeg
-ParentSubMenu=Локальные карты
 ParentSubMenu=Локальные карты\Украина
 ParentSubMenu_en=Local maps\Ukraine
 ParentSubMenu_uk=Локальні карти\Україна

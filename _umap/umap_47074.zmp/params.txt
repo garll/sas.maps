@@ -5,10 +5,10 @@ asLayer=0
 name=Троицк (Umap.ru)
 name_en=Troitsk (Umap.ru)
 NameInCache=Umap_47074
-DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=47074
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=47074
 ContentType=text/html , image/gif
-ParentSubMenu=Umap
-ParentSubMenu_en=Umap
+ParentSubMenu=Локальные карты\Umap
+ParentSubMenu_en=Local maps\Umap
 Ext=.gif
 projection=1
 sradiusa=6378137

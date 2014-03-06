@@ -5,10 +5,10 @@ asLayer=0
 name=Лобва (Umap.ru)
 name_en=Lobva (Umap.ru)
 NameInCache=Umap_44066
-DefURLBase=http://91.201.53.227/_mapnew/shard.php?t=shard&n=44066
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=44066
 ContentType=text/html , image/gif
-ParentSubMenu=Umap
-ParentSubMenu_en=Umap
+ParentSubMenu=Локальные карты\Umap
+ParentSubMenu_en=Local maps\Umap
 Ext=.gif
 projection=1
 sradiusa=6378137
