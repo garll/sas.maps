@@ -1,0 +1,4 @@
+begin
+  GetURLBase[24]:=chr(ord('3')+random(4));
+  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.jpg';
+end.

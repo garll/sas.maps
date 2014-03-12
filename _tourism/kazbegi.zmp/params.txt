@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=17
+GUID={3AC8353B-CD0A-48A6-A727-A373D3A763CE}
+name=Казбек (с) Geoland
+name_en=Kazbegi (с) Geoland
+name_uk=Kazbegi (с) Geoland
+ParentSubMenu=Туристические\Кавказ
+ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_uk=Tourism\Kavkaz
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/kazbegi/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Kazbegi
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
