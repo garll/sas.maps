@@ -1,0 +1,17 @@
+[PARAMS]
+GUID={BF5C7247-0543-4DBB-B4B1-5E969C9EB942}
+name=Navonics SonarCharts
+name_en=Navionics SonarCharts
+name_uk=Navionics SonarCharts
+ParentSubMenu=Морские карты
+ParentSubMenu_en=Marine maps
+ParentSubMenu_uk=Marine maps
+asLayer=1
+DefURLBase=http://webviewer-api.navionics.com/getmap?PARAMS=
+NameInCache=navionics.SonarCharts.layer
+Ext=.png
+UseDwn=1
+ContentType=image/png
+projection=2
+sradiusa=6378388
+sradiusb=6356912
