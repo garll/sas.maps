@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=17
+GUID={A85C68EA-4C12-4072-A4AB-1353A489F304}
+name=Горный крым
+name_en=Krim's Mountain
+name_uk=Горный крым
+ParentSubMenu=Туристические
+ParentSubMenu_en=Tourism
+ParentSubMenu_uk=Tourism
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/krim/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=krim
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
