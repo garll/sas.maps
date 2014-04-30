@@ -8,7 +8,7 @@ ParentSubMenu_uk=Росреестр
 name=Кадастровые границы (rosreestr.ru)
 name_en=Cadastre map (rosreestr.ru)
 NameInCache=rosreestr_cadastr
-DefURLBase=http://maps.rosreestr.ru/ArcGIS/rest/services/Cadastre/Cadastre/MapServer/export?dpi=96&transparent=true&format=png&bboxSR=102113&imageSR=102113&size=256,256&f=image
+DefURLBase=http://maps.rosreestr.ru/arcgis/rest/services/Cadastre/Cadastre/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=256%2C256&f=image
 ContentType="image/png"
 Ext=.png
 projection=1
