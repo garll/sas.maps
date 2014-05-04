@@ -1,14 +1,3 @@
-var i:integer;
-        xy:TPoint;
-        topLeftM,bottomrightM,LL:TDoublePoint;
 begin
- xy.x:=GetX*256;
- xy.y:=GetY*256;
- LL:=Converter.Pos2LonLat(XY,GetZ+7);
- topLeftM:=Converter.LonLat2Metr(LL);
- xy.x:=(GetX+1)*256;
- xy.y:=(GetY+1)*256;
- LL:=Converter.Pos2LonLat(XY,GetZ+7);
- bottomrightM:=Converter.LonLat2Metr(LL);
- ResultURL:=GetURLBase+'&bbox='+RoundEx(topLeftM.x,8)+','+RoundEx(topLeftM.y,8)+','+RoundEx(bottomrightM.x,8)+','+RoundEx(bottomrightM.y,8);
+ ResultURL:=GetURLBase+RoundEx(GetLMetr,8)+','+RoundEx(GetBMetr,8)+','+RoundEx(GetRMetr,8)+','+RoundEx(GetTMetr,8);
 end.
