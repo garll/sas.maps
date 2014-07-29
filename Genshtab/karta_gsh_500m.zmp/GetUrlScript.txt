@@ -1,4 +1,6 @@
+var
+url: string;
 begin
-  GetURLBase[24]:=chr(ord('2')+random(4));
-  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.jpg';
+  url := RegExprReplaceMatchSubStr(GetURLBase, '8082', inttostr(8082 + Random(4) ));
+  ResultURL:=URL+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.jpg';
 end.
