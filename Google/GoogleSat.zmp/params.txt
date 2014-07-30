@@ -19,4 +19,4 @@ UseDwn=1
 Sleep=0
 DefHotKey=71
 ContentType=image/jpeg
-Version=154
+Version=155
