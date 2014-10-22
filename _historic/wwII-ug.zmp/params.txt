@@ -8,7 +8,7 @@ ParentSubMenu=Исторические
 ParentSubMenu_en=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
-DefURLBase=http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/wwii-ug/z
+DefURLBase=http://91.237.82.95:8082/wwii-ug/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
