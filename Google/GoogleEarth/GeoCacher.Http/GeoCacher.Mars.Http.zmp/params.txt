@@ -8,7 +8,7 @@ ParentSubMenu_en=GoogleEarth
 asLayer=0
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=mars&ver=0&date=0&
 EPSG=4326
-NameInCache=
+NameInCache=GE.Mars
 separator=0
 Ext=.jpg
 UseDwn=1
