@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=16
+GUID={42CD4726-405A-4F38-81B2-3E660458EDB8}
+name=10в. Стрельбицкого 1919г.
+name_en=10v Strelbitskiy 1919
+name_uk=10v Strelbitskiy 1919
+ParentSubMenu=Исторические
+ParentSubMenu_en=Historic
+ParentSubMenu_uk=Історичні
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/strelb_10_1919/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=strelb_10_1919
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+Sleep=0
+BanIfLen=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
