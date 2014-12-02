@@ -1,0 +1,27 @@
+[PARAMS]
+pnum=16
+GUID={FD39994C-3D2E-450C-8290-C48DD081E39B}
+name=Геологическая карта СССР
+name_en= Geologic map of USSR
+name_uk= Geologic map of USSR
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/geologmap/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=geologmap
+separator=0
+Ext=.jpg
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+Sleep=0
+BanIfLen=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+ParentSubMenu=Другие карты
+ParentSubMenu_en=Other maps
+ParentSubMenu_uk=Інші карти
