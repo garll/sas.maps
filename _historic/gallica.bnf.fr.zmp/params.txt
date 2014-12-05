@@ -6,7 +6,8 @@ name_en=gallica.bnf.fr
 name_uk=gallica.bnf.fr
 NameInCache=gallica_bnf_fr
 DefURLBase=http://gallica.bnf.fr/proxy?method=R&ark=
-ContentType=image/jpeg
+ContentType=image/jpeg;charset=ISO-8859-1
+MimeTypeSubst = """image/jpeg;charset=ISO-8859-1""=image/jpeg"
 Ext=.jpg
 projection=1
 sradiusa=6378137
