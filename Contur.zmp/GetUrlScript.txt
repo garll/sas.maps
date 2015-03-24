@@ -5,6 +5,6 @@ begin
   'Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1' + #13#10 +
   'Accept-Language: ru-RU,ru;q=0.9,en;q=0.8' + #13#10 +
   'Accept-Encoding: gzip, deflate' + #13#10 +
-  'Referer: http://www.heywhatsthat.com/' + #13#10 +
+  'Referer: http://www.sasgis.org/' + #13#10 +
   'Connection: Keep-Alive'
 end.

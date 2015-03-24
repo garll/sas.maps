@@ -6,7 +6,7 @@ name=Высоты (heywhatsthat.com)
 name_en=Heights (heywhatsthat.com)
 name_uk=Heights (heywhatsthat.com)
 NameInCache=contur
-DefURLBase=http://contour.heywhatsthat.com/bin/contour_tiles.cgi?
+DefURLBase=http://contour.heywhatsthat.com/api/contour_tiles_sasgis.png?src=sasgis&
 ContentType=image/png
 Ext=.png
 projection=1
@@ -14,5 +14,7 @@ sradiusa=6378137
 sradiusb=6378137
 separator=0
 UseDwn=1
-Sleep=0
+Sleep=3333
 DefHotKey=0
+MaxConnectToServerCount=1
+License=(c) 2015 Michael Kosowsky
