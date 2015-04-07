@@ -2,9 +2,9 @@
 pnum=5
 GUID={48E29DB4-A654-4D08-836C-936325F0B63B}
 asLayer=0
-name=Яндекс Карты (Народная)
-name_en=Yandex Maps (Narodnaya)
-name_uk=Яндекс Карты (Народная)
+name=Старая Народная (Яндекс.Карты)
+name_en=Old Narodnaya (Yandex.Maps)
+name_uk=Старая Народная (Яндекс.Карты)
 ParentSubMenu=Яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=Яндекс
