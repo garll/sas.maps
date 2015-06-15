@@ -3,18 +3,13 @@ pnum=44
 GUID={3C6C8E9B-D455-425F-9652-11F8CB3D3613}
 asLayer=1
 name=Panoramio KML
-name_uk=Panoramio KML
 NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?LANG=ru_RU.utf8&BBOX= 
-ContentType=application/vnd.google-earth.kml+xml
+ContentType=application/vnd.google-earth.kml+xml; charset=utf-8
+MimeTypeSubst="""application/vnd.google-earth.kml+xml; charset=utf-8""=application/vnd.google-earth.kml+xml"
 ParentSubMenu=Google
-ParentSubMenu_en=Google
-ParentSubMenu_uk=Google
 Ext=.kml
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=80
