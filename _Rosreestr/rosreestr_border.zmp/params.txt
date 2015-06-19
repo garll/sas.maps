@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=6
+GUID={3C8D2BEF-D555-404C-8032-A831B00790B0}
+asLayer=1
+ParentSubMenu=Росреестр
+ParentSubMenu_en=Rosreestr
+ParentSubMenu_uk=Росреестр
+name=Росреестр Границы
+name_en=Rosreestr BordersGKN
+NameInCache=rosreestr_BordersGKN
+DefURLBase=http://maps.rosreestr.ru/arcgis/rest/services/Cadastre/BordersGKN/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=256%2C256&f=image&bbox=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+UseDwn=1
