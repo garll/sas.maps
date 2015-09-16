@@ -1,0 +1,23 @@
+[PARAMS]
+pnum=17
+GUID={482917F0-6A7F-43F6-958E-948C3F2364F1}
+name=Карты РККА 1Km (1940)
+name_en=RKKA Maps 1Km (1940)
+name_uk=RKKA Maps 1Km (1940)
+ParentSubMenu=Исторические\Кавказ
+ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/rkka_kavkaz/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=rkka_kavkaz
+separator=0
+Ext=.jpg
+UseDwn=1
+Sleep=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+
