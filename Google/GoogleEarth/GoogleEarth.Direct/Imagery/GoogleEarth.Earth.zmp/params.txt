@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=1001
 GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
-name=Земля (GoogleEarth)
-name_en=Earth (GoogleEarth)
+name_ru=Земля (GoogleEarth)
+name=Earth (GoogleEarth)
 name_uk=Земля (GoogleEarth)
+ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
-ParentSubMenu_en=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
 asLayer=0
 DefURLBase=

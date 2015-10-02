@@ -2,14 +2,14 @@
 pnum=48
 GUID={77C874C7-DB51-4A72-BE84-241238BF7A4F}
 asLayer=0
+name_ru=Lunar Orbiter (NASA)
 name=Lunar Orbiter (NASA)
-name_en=Lunar Orbiter (NASA)
 name_uk=Lunar Orbiter (NASA)
 NameInCache=nasaMoonO
 DefURLBase=http://OnMoon.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=LO&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
-ParentSubMenu=Космос
-ParentSubMenu_en=Space
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
 ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1

@@ -2,11 +2,11 @@
 pnum=47
 GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
 asLayer=1
-name=Пробки (Яндекс.Карты)
-name_en=Traffic (Yandex.Maps)
+name_ru=Пробки (Яндекс.Карты)
+name=Traffic (Yandex.Maps)
 name_uk=Пробки (Яндекс.Карты)
-ParentSubMenu=Яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=yatraf
 DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf%2Ctrfe&x=

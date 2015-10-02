@@ -2,11 +2,11 @@
 pnum=13
 GUID={F7DEBECA-2915-47D5-A484-25C8B291ECE8}
 asLayer=0
-name=Карта (Gurtam)
-name_en=Map (Gurtam)
+name_ru=Карта (Gurtam)
+name=Map (Gurtam)
 name_uk=Карта (Gurtam)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=gumap
 DefURLBase=http://render.mapsviewer.com/wialonb3.gurtam.com/gis_render/

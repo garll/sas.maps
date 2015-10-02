@@ -2,8 +2,8 @@
 pnum=115
 GUID={36e3746e-20f7-4861-82f9-911195f9de9b}
 asLayer=1
-name=Транспорт OSM (osmosnimki.ru)
-name_en=Transport OSM (osmosnimki.ru)
+name_ru=Транспорт OSM (osmosnimki.ru)
+name=Transport OSM (osmosnimki.ru)
 name_uk=Транспорт OSM (osmosnimki.ru)
 NameInCache=OSM_osmosnimki_pt
 DefURLBase=http://a.tile.osmosnimki.ru/pt

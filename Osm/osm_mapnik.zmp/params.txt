@@ -2,8 +2,8 @@
 pnum=116
 GUID={D643C5A1-4331-4387-9BE2-DDDF185C117E}
 asLayer=0
+name_ru=MAPNIK (OpenStreetMap)
 name=MAPNIK (OpenStreetMap)
-name_en=MAPNIK (OpenStreetMap)
 name_uk=Mapnik (OpenStreetMap)
 NameInCache=osmmapMapnik
 DefURLBase=http://a.tile.openstreetmap.org

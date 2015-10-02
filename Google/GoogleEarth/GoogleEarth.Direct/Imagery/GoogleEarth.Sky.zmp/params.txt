@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=1002
 GUID={354275E7-D582-4850-ACFD-EF6722E4F7C4}
-name=Небо (GoogleEarth)
-name_en=Sky (GoogleEarth)
+name_ru=Небо (GoogleEarth)
+name=Sky (GoogleEarth)
 name_uk=
+ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
-ParentSubMenu_en=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
 asLayer=0
 DefURLBase=

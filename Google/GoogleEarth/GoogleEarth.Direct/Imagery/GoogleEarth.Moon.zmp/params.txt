@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=1004
 GUID={F48E461B-8670-4C6A-B43E-E51C96AE79D2}
-name=Луна (GoogleEarth)
-name_en=Moon (GoogleEarth)
+name_ru=Луна (GoogleEarth)
+name=Moon (GoogleEarth)
 name_uk=
+ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
-ParentSubMenu_en=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
 asLayer=0
 DefURLBase=

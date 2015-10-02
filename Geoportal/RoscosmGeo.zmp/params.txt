@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={5A1A7E89-112D-406F-855D-5B1D1E323422}
-name=Спутник (Геопортал Роскосмоса)
-name_en=Satellite (Geoportal Roscosmos)
+name_ru=Спутник (Геопортал Роскосмоса)
+name=Satellite (Geoportal Roscosmos)
 name_uk=Satellite (Geoportal Roscosmos)
-ParentSubMenu=Геопортал
-ParentSubMenu_en=Geoportal
+ParentSubMenu_ru=Геопортал
+ParentSubMenu=Geoportal
 ParentSubMenu_uk=Geoportal
 asLayer=0
 DefURLBase=http://geoportal.ntsomz.ru/coverages/&src=images&date=&type=jpg

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=6
 GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
-name=Спутник (Kosmosnimki.ru)
-name_en=Satellite (Kosmosnimki.ru)
+name_ru=Спутник (Kosmosnimki.ru)
+name=Satellite (Kosmosnimki.ru)
 name_uk=Супутник (Космоснимки)
-ParentSubMenu=Космоснимки
-ParentSubMenu_en=Kosmosnimki.ru
+ParentSubMenu_ru=Космоснимки
+ParentSubMenu=Kosmosnimki.ru
 ParentSubMenu_uk=Космоснимки
 asLayer=0
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=C9458F2DCB754CEEACC54216C7D1EB0A&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprZwdNTe8K52GCEZ05UjtRHWkQiIvj59%2B3TxpIuoGkPa2pC9bqYSZzuqxRTJWSq%2BZesqY2iBhDxA%2B9dvtAOYOrfLPezHlD0%2BjNvnRofacpZJURVhm5x5CjPeafTvXxVPDz

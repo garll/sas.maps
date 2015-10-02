@@ -1,13 +1,13 @@
 [PARAMS]
 GUID={F84F5959-7D8C-442D-9660-85511634C656}
 asLayer=0
-name=Генштаб 2km
-name_en=Genshtab 2 km
+name_ru=Генштаб 2km
+name=Genshtab 2 km
 name_uk=Генштаб 2 км
 NameInCache=Genshtab2km
 DefURLBase=http://91.237.82.95:8082/genshtab2km/
-ParentSubMenu=Генштаб
-ParentSubMenu_en=Genshtab
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
 ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1

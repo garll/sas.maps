@@ -2,13 +2,13 @@
 pnum=142
 GUID={5FF751EE-503F-40BA-8C5A-4F37927A0D95}
 asLayer=0
-name=Генштаб 5 км
-name_en=Genshtab 5 km
+name_ru=Генштаб 5 км
+name=Genshtab 5 km
 name_uk=Генштаб 5 км
 NameInCache=Genshtab5km
 DefURLBase=http://91.237.82.95:8082/genshtab5km/
-ParentSubMenu=Генштаб
-ParentSubMenu_en=Genshtab
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
 ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1

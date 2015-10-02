@@ -2,11 +2,11 @@
 pnum=5
 GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
 asLayer=1
-name=√ибрид (яндекс. арты)
-name_en=Hybrid (Yandex.Maps)
+name_ru=√ибрид (яндекс. арты)
+name=Hybrid (Yandex.Maps)
 name_uk=√≥брид (яндекс. арты)
-ParentSubMenu=яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yahyb
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&x=

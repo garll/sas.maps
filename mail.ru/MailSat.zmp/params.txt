@@ -2,14 +2,14 @@
 pnum=14
 GUID={4DD2B2D9-A42A-4008-8702-A180FD09797B}
 asLayer=0
-name=Спутник (Карты@mail)
-name_en=Satellite (Maps@mail)
+name_ru=Спутник (Карты@mail)
+name=Satellite (Maps@mail)
 name_uk=Супутник (Карты@Mail.Ru)
 NameInCache=mail_sat
 DefURLBase=http://t.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
 ContentType=image/jpeg
+ParentSubMenu_ru=mail.ru
 ParentSubMenu=mail.ru
-ParentSubMenu_en=mail.ru
 ParentSubMenu_uk=mail.ru
 Ext=.jpg
 projection=2

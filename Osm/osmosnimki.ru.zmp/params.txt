@@ -2,8 +2,8 @@
 pnum=115
 GUID={734671BA-A8BE-4793-AB57-9A981B1A9EE4}
 asLayer=0
+name_ru=osmosnimki.ru
 name=osmosnimki.ru
-name_en=osmosnimki.ru
 name_uk=osmosnimki.ru
 NameInCache=osmosnimki_ru
 DefURLBase=http://a.tile.osmosnimki.ru/kosmo

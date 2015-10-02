@@ -2,11 +2,11 @@
 pnum=14
 GUID={43696AD8-09A5-4555-9DFC-C7D4E6D8D790}
 asLayer=0
-name=Карта (WikiMapia)
-name_en=Map (WikiMapia)
+name_ru=Карта (WikiMapia)
+name=Map (WikiMapia)
 name_uk=Карта (WikiMapia)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=WikiMap
 DefURLBase=http://i.wikimapia.org/?lng=1&

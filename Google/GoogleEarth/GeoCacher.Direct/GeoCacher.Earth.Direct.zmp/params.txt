@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=2001
 GUID={B26D8F5D-EE09-4A6F-9566-10313004B559}
-name=Земля (GeoCacher direct)
-name_en=Earth (GeoCacher direct)
+name_ru=Земля (GeoCacher direct)
+name=Earth (GeoCacher direct)
 name_uk=
 ParentSubMenu=GoogleEarth
 ParentSubMenu_en=GoogleEarth

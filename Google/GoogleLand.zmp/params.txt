@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=3
 GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
-name=ֻאםהראפע (Google)
-name_en=Landscape (Google)
+name_ru=ֻאםהראפע (Google)
+name=Landscape (Google)
 name_uk=ֻאםהראפע (Google)
+ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=0
 DefURLBase=http://mt.google.com/vt/lyrs=t@130,r@206000000&hl=ru

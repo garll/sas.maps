@@ -2,8 +2,8 @@
 pnum=118
 GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
 asLayer=1
-name=OpenMapSurfer (נוכüופ)
-name_en=OpenMapSurfer (hillshade)
+name_ru=OpenMapSurfer (נוכüופ)
+name=OpenMapSurfer (hillshade)
 name_uk=OpenMapSurfer (נוכü÷פ)
 NameInCache=OSM_mapsurfer_hillshade
 DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?

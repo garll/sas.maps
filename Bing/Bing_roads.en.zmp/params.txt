@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=8
 GUID={36cfd00c-ad02-4d3a-bd3e-acf4075115fe}
-name=Bing Maps - дороги (en)
-name_en=Bing Maps - roads (en)
+name=Bing Maps - roads (en)
+name_ru=Bing Maps - дороги (en)
 name_uk=Bing Maps - дороги (en)
 ParentSubMenu=Bing
 ParentSubMenu_en=Bing

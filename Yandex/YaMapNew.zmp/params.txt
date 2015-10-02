@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=5
 GUID={8238C84A-D37E-45E1-A735-FBCFBCD4168C}
-name=Карта (Яндекс.Карты)
-name_en=Map (Yandex.Maps)
+name_ru=Карта (Яндекс.Карты)
+name=Map (Yandex.Maps)
 name_uk=Карта (Яндекс.Карты)
-ParentSubMenu=Яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 asLayer=0
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&x=

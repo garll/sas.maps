@@ -1,14 +1,14 @@
 [PARAMS]
 pnum=103
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE6}
-name=Карта Navitel
-name_en=Navitel Map
+name_ru=Карта Navitel
+name=Navitel Map
 name_uk=Карта Navitel
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 asLayer=0
-DefURLBase=http://m01.navitel.su/navitms.fcgi?t=
+DefURLBase=http://maps.navitel.su/2.0/navitms.fcgi?t=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
