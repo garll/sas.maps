@@ -2,8 +2,8 @@
 pnum=177
 GUID={F05CB6B1-BB96-4BF3-AED2-4ABEB9B2DBE7}
 asLayer=0
-name=Карта Латвии
-name_en=Latvija Map
+name_ru=Карта Латвии
+name=Latvija Map
 NameInCache=balticmaps_eu_map
 DefURLBase=http://maps.kartes.lv/kijs/server_scripts/topo/get_image.php?WIDTH=300&HEIGHT=300&KIJS=BM45&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application/vnd.ogc.se_inimage&LAYERS=&SRS=EPSG:3059&FORMAT=image/gif&TRANSPARENT=true&BBOX=
 ContentType="image/jpeg"
@@ -19,5 +19,5 @@ TILERLEFT=0
 TILERRIGHT=300
 TILERTOP=0
 TILERBOTTOM=300
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local maps

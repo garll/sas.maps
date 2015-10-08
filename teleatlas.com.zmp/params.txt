@@ -2,13 +2,13 @@
 GUID={4334AD70-75F3-476B-8D92-43BE9426C255}
 asLayer=0
 pnum=100
-name=Карта (navigation.teleatlas.com)
-name_en=Map (navigation.teleatlas.com)
+name_ru=Карта (navigation.teleatlas.com)
+name=Map (navigation.teleatlas.com)
 NameInCache=teleatlas_com
 DefURLBase=http://wms03.lbs.tomtom.com/lbs/wms?LAYERS=basic&TRANSPARENT=false&REQUEST=GetMap&FORMAT=image%2Fpng&APIKEY=7093ecaa-c943-4a20-b1b0-c232388e708b&SERVICE=WMS&VERSION=1.1.1&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/png
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 Ext=.png
 projection=1
 sradiusa=6378137

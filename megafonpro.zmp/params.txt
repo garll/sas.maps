@@ -2,11 +2,11 @@
 pnum=104
 GUID={A8B5CADF-FA15-492D-9BC2-BCBA7DCE888F}
 asLayer=0
-name=Мегафон Навигатор
-name_en=Megafon Navigator
+name_ru=Мегафон Навигатор
+name=Megafon Navigator
 name_uk=Мегафон Навигатор
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=megafonpro
 DefURLBase=http://193.201.231.106/

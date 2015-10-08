@@ -2,11 +2,11 @@
 pnum=15
 GUID={A8B5CADE-FA15-492D-9BC2-BCBA7DCE888F}
 asLayer=0
-name=E_ATLAS
-name_en=E_Atlas
+name_ru=E_ATLAS
+name=E_Atlas
 name_uk=E_ATLAS
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=Eatlas_New
 DefURLBase=http://www.eatlas.ru/IMAGES/

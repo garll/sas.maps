@@ -2,11 +2,11 @@
 pnum=
 GUID={A83BAFB0-1CDB-445C-9891-31416668C199}
 asLayer=0
-name=Карта (Геоцентр-Консалтинг)
-name_en=Map (geocenter-consulting.ru)
+name_ru=Карта (Геоцентр-Консалтинг)
+name=Map (geocenter-consulting.ru)
 name_uk=Карта (Геоцентр-Консалтинг)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=geocenter-consulting
 DefURLBase=http://77.246.234.123:8889/ArcGIS/rest/services/rumap/MapServer/tile/

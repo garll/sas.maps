@@ -1,10 +1,10 @@
 [PARAMS]
 pnum=120
 GUID={BB61287E-8DF9-11E0-8E58-AA6B4824019B}
-name=»жевск (igis.ru)
-name_en=Izhevsk (igis.ru)
-ParentSubMenu=Ћокальные карты
-ParentSubMenu_en=Local maps
+name_ru=»жевск (igis.ru)
+name=Izhevsk (igis.ru)
+ParentSubMenu_ru=Ћокальные карты
+ParentSubMenu=Local maps
 ParentSubMenu_uk=Ћокальн≥ карти
 NameInCache=igis_izhevsk
 DefURLBase=http://rastr.igis.ru/izh/igis/

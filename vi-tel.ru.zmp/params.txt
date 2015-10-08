@@ -2,11 +2,11 @@
 pnum=158
 GUID={B55B2C70-7976-4A41-A6D1-FDCF35263EA6}
 asLayer=0
-name=Карта Ви-Тел (vi-tel.ru)
-name_en=Map Vi-Tel (vi-tel.ru)
+name_ru=Карта Ви-Тел (vi-tel.ru)
+name=Map Vi-Tel (vi-tel.ru)
 name_uk=Карта Ви-Тел (vi-tel.ru)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=vi-tel
 DefURLBase=http://gps.vi-tel.ru/gmap/

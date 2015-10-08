@@ -2,11 +2,11 @@
 pnum=100
 asLayer=0
 GUID={CBA03063-23D9-4FA4-931A-9182000644F1}
-name=Карты по Сибирскому региону
-name_en=Siberia region local maps
+name_ru=Карты по Сибирскому региону
+name=Siberia region local maps
 name_ua=Siberia region local maps
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local Maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local Maps
 ParentSubMenu_ua=Local Maps
 DefURLBase=http://tiles.innd.ru/tiles/
 projection=1

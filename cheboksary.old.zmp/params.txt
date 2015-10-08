@@ -1,11 +1,11 @@
 [PARAMS]
 GUID={1765996B-95B8-46FD-9209-BC6B8689E2EC}
-name=Чебоксары-old (cheboksary.ws/2010)
-name_en=Cheboksary-old (cheboksary.ws/2010)
+name_ru=Чебоксары-old (cheboksary.ws/2010)
+name=Cheboksary-old (cheboksary.ws/2010)
 DefURLBase=http://www.cheboksary.ws/maps/
 projection=1
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local maps
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=cheboksary.old

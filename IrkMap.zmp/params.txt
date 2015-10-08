@@ -2,10 +2,10 @@
 pnum=
 asLayer=0
 GUID={CBA03063-23D9-4FA4-931A-9182B98644F1}
-name=Карта Иркутска
-name_en=Map of Irkutsk
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local Maps
+name_ru=Карта Иркутска
+name=Map of Irkutsk
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local Maps
 DefURLBase=http://www.irk.ru/map/img/map/tiles/
 projection=1
 sradiusa=6378137

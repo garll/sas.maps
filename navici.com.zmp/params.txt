@@ -2,11 +2,11 @@
 pnum=148
 GUID={E1BB4A20-4D08-4A4F-B97D-AE77317652DA}
 asLayer=0
-name=Карта Карелии (navici.com)
-name_en=Karelia map (navici.com)
+name_ru=Карта Карелии (navici.com)
+name=Karelia map (navici.com)
 name_ua=Карта Карелії (navici.com)
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local Maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local Maps
 ParentSubMenu_ua=Локальні карти
 NameInCache=navici_com
 DefURLBase=http://ntile1.navici.com/karjala/?LAYERS=topo20k_group&BBOX=

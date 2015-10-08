@@ -2,8 +2,8 @@
 pnum=42
 GUID={4A21F0A3-D083-4FBD-8A51-749640DBD117}
 asLayer=1
-name=Высоты (heywhatsthat.com)
-name_en=Heights (heywhatsthat.com)
+name_ru=Высоты (heywhatsthat.com)
+name=Heights (heywhatsthat.com)
 name_uk=Heights (heywhatsthat.com)
 NameInCache=contur
 DefURLBase=http://contour.heywhatsthat.com/api/contour_tiles_sasgis.png?src=sasgis&
