@@ -2,11 +2,11 @@
 pnum=173
 GUID={63862E5D-09F2-4732-9D21-635012437777}
 asLayer=0
-name=Карта Белоруссии (belgeodesy.by)
-name_en=Map of Belarus (belgeodesy.by)
+name_ru=Карта Белоруссии (belgeodesy.by)
+name=Map of Belarus (belgeodesy.by)
 name_uk=Карта Білорусії (belgeodesy.by)
-ParentSubMenu=Локальные карты\Беларусь
-ParentSubMenu_en=Local maps\Belarus
+ParentSubMenu_ru=Локальные карты\Беларусь
+ParentSubMenu=Local maps\Belarus
 ParentSubMenu_uk=Локальні карти\Беларусь
 NameInCache=belgeodesy
 DefURLBase=http://belgeodesy.by/map/map/

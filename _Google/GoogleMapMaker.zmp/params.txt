@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=2
 GUID={D735B149-CD17-49BB-B246-678977A618FD}
-name=Карта (GoogleMapMaker)
-name_en=Map (GoogleMapMaker)
+name_ru=Карта (GoogleMapMaker)
+name=Map (GoogleMapMaker)
 name_uk=Карта (GoogleMapMaker)
+ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 asLayer=0
 DefURLBase=http://mt0.google.com/vt/style=mapmaker&lyrs=m@999999&v=gwm.1518

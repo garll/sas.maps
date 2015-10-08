@@ -2,13 +2,13 @@
 pnum=143
 GUID={7B743985-BC5F-4AB6-8915-EC5DBDB8F444}
 asLayer=0
+name_ru=USA_Topo_Maps
 name=USA_Topo_Maps
-name_en=USA_Topo_Maps
 NameInCache=USA_Topo_Maps
 DefURLBase=http://services.arcgisonline.com/ArcGIS/rest/services/USA_Topo_Maps/MapServer/tile/
 ContentType=image/jpeg;image/jpg
+ParentSubMenu_ru=ESRI
 ParentSubMenu=ESRI
-ParentSubMenu_en=ESRI
 Ext=.jpg
 projection=1
 sradiusa=6378137

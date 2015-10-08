@@ -1,9 +1,10 @@
 [PARAMS]
 GUID={F6574B06-E632-4D5F-BC75-C8FA621B57DF}
 name=orda.of.by.1v
+name_ru=orda.of.by.1v
 NameInCache=orda.of.by.1v
-ParentSubMenu=Локальные карты\Беларусь
-ParentSubMenu_en=Local maps\Belarus
+ParentSubMenu_ru=Локальные карты\Беларусь
+ParentSubMenu=Local maps\Belarus
 ParentSubMenu_uk=Локальні карти\Беларусь
 DefURLBase=http://orda.of.by/.tiles/1v/Z
 Ext=.jpg

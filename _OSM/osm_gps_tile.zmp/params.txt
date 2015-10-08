@@ -1,8 +1,8 @@
 [PARAMS]
 GUID={1123ADB1-4561-4280-9222-D4690321117E}
 asLayer=1
-name=Карта GPS-треков OSM
-name_en=Map GPS-track OSM
+name_ru=Карта GPS-треков OSM
+name=Map GPS-track OSM
 name_uk=Карта GPS-треков OSM
 NameInCache=osm_gps_tile
 DefURLBase=http://b.gps-tile.openstreetmap.org/lines

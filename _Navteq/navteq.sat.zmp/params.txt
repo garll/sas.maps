@@ -1,12 +1,12 @@
 [PARAMS]
 pnum=6
 GUID={9A360A5D-7A73-402D-8A11-D670BD739B7B}
-name=Спутник DG (navteq.com)
-name_en=DG Sat (navteq.com)
+name_ru=Спутник DG (navteq.com)
+name=DG Sat (navteq.com)
 name_uk=DG Sat (navteq.com)
 ContentType=image/png
+ParentSubMenu_ru=Navteq
 ParentSubMenu=Navteq
-ParentSubMenu_en=Navteq
 ParentSubMenu_uk=Navteq
 asLayer=0
 DefURLBase=http://02.tl.maptp42.map24.com:8080/lbsp/images?appkey=CJX2b227e1ef3fc2c0e596eb29921a0aX47&l=g1&v=1&prop:vmpp=9.537506103515625&sid=4d7212001c16da0d56b882c1b2345bba&quadkey=

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=16
 GUID={42CD4726-405A-4F38-81B2-3E660458EDB8}
-name=10в. Стрельбицкого 1919г.
-name_en=10v Strelbitskiy 1919
+name_ru=10в. Стрельбицкого 1919г.
+name=10v Strelbitskiy 1919
 name_uk=10v Strelbitskiy 1919
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/strelb_10_1919/

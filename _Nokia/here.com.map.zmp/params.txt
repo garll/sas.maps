@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4001-8A12-D670BD739B7B}
-name=Карта Here.com
-name_en=Here.com Map
+name_ru=Карта Here.com
+name=Here.com Map
 name_uk=Карта Here.com
+ParentSubMenu_ru=Nokia
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
 ParentSubMenu_uk=Nokia
 ContentType=image/png
 asLayer=0

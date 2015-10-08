@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={03F32FF2-2450-406C-9007-364BA6361DE8}
-name=Горные перевалы северного Тянь-Шаня
-name_en=Tyan-Shan mountain pass
+name_ru=Горные перевалы северного Тянь-Шаня
+name=Tyan-Shan mountain pass
 name_uk=Tyan-Shan mountain pass
-ParentSubMenu=Туристические\Тянь-Шань
-ParentSubMenu_en=Tourism\Tyan-Shan
+ParentSubMenu_ru=Туристические\Тянь-Шань
+ParentSubMenu=Tourism\Tyan-Shan
 ParentSubMenu_uk=Tourism\Tyan-Shan
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/tyanshan/

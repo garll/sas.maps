@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={10B2CE3B-78F2-44A8-8396-F94160291754}
-name= Абишира-Ахуба (В.Ляпин)
-name_en=Abishira-Ahuba (V.Lyapin)
+name_ru= Абишира-Ахуба (В.Ляпин)
+name=Abishira-Ahuba (V.Lyapin)
 name_uk=Abishira-Ahuba (V.Lyapin)
-ParentSubMenu=Туристические\Кавказ
-ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_ru=Туристические\Кавказ
+ParentSubMenu=Tourism\Kavkaz
 ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/lcarta/

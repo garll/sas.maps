@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={C9B37420-DA1D-432D-B80C-816BD8116571}
-name=Хребтовка Приэльбрусье (Ляпин В.Г.)
-name_en=Around Elbrus
+name_ru=Хребтовка Приэльбрусье (Ляпин В.Г.)
+name=Around Elbrus
 name_uk=Around Elbrus
-ParentSubMenu=Туристические\Кавказ
-ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_ru=Туристические\Кавказ
+ParentSubMenu=Tourism\Kavkaz
 ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/hr_elbrus/

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={06FE7567-BB4B-4A78-9C82-6E5BC8CC39AC}
-name=1 верстная карта Крыма
-name_en=1v Krim
+name_ru=1 верстная карта Крыма
+name=1v Krim
 name_uk=1v Krim
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/1v_krim/

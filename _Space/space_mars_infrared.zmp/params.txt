@@ -2,13 +2,13 @@
 pnum=109
 GUID={72F36652-2D7E-4B9D-BA26-63D773FB9AE7}
 asLayer=0
-name=Марс Инфракрасный (Google)
-name_en=Mars Infrared (Google)
+name_ru=Марс Инфракрасный (Google)
+name=Mars Infrared (Google)
 NameInCache=mars_infrared
 DefURLBase=http://mw1.google.com/mw-planetary/mars/infrared/
 ContentType=image/jpeg
-ParentSubMenu=Космос
-ParentSubMenu_en=Space
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
 ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1

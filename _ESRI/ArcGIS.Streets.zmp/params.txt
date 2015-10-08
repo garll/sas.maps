@@ -2,11 +2,11 @@
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-CC5DBBB8F552}
 asLayer=0
+name_ru=ArcGIS.Streets
 name=ArcGIS.Streets
-name_en=ArcGIS.Streets
 NameInCache=ArcGIS.Streets
+ParentSubMenu_ru=ESRI
 ParentSubMenu=ESRI
-ParentSubMenu_en=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/
 ContentType=image/jpeg;image/jpg
 Ext=.jpg

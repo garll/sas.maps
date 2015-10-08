@@ -1,16 +1,16 @@
 [PARAMS]
 pnum=
 GUID={3AC94CEE-5C84-4BD2-9AB3-16109FAE713E}
+name_ru=SETopowebb
 name=SETopowebb
-name_en=SETopowebb
 name_uk=SETopowebb
 asLayer=0
 DefURLBase=http://vvv.sgu.se/lmvProxy/map?LAYERS=topowebbkartan&FORMAT=image%2Fjpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A4326&BBOX=
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-ParentSubMenu=Локальные карты\Швеция
-ParentSubMenu_en=Local maps\Sweden
+ParentSubMenu_ru=Локальные карты\Швеция
+ParentSubMenu=Local maps\Sweden
 ParentSubMenu_uk=Локальні карти\Швеція
 NameInCache=SETopowebb
 separator=0

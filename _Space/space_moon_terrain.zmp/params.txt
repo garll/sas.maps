@@ -2,13 +2,13 @@
 pnum=110
 GUID={82F76321-6574-4EE2-8DCD-654557134AD7}
 asLayer=0
-name=Луна Высоты (Google)
-name_en=Moon Terrain (Google)
+name_ru=Луна Высоты (Google)
+name=Moon Terrain (Google)
 NameInCache=Moon_terrain
 DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/terrain/
 ContentType=image/jpeg
-ParentSubMenu=Космос
-ParentSubMenu_en=Space
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
 ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1

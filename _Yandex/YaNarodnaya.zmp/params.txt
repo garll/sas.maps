@@ -2,11 +2,11 @@
 pnum=5
 GUID={48E29DB4-A654-4D08-836C-936325F0B63B}
 asLayer=0
-name=Старая Народная (Яндекс.Карты)
-name_en=Old Narodnaya (Yandex.Maps)
+name_ru=Старая Народная (Яндекс.Карты)
+name=Old Narodnaya (Yandex.Maps)
 name_uk=Старая Народная (Яндекс.Карты)
-ParentSubMenu=Яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=yanarodnaya
 DefURLBase=http://01.pvec.maps.yandex.net/?l=pmap&lang=ru-RU&x=

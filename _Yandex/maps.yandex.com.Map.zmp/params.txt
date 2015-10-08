@@ -2,11 +2,11 @@
 pnum=5
 GUID={38E29DB4-0051-4D08-836C-936325F0B63B}
 asLayer=0
-name=maps.yandex.com (Карта)
-name_en=maps.yandex.com (Map)
+name_ru=maps.yandex.com (Карта)
+name=maps.yandex.com (Map)
 name_uk=maps.yandex.com (Карта)
-ParentSubMenu=Яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=maps.yandex.com.Map
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&lang=en_US

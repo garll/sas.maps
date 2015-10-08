@@ -1,16 +1,16 @@
 [PARAMS]
 pnum=6
 GUID={D8C293B1-63AE-4902-A0D4-83A26BCE01D7}
-name=Гибрид Nokia (maps.ovi.com)
-name_en=Nokia Hybrid (maps.ovi.com)
+name_ru=Гибрид Nokia (maps.ovi.com)
+name=Nokia Hybrid (maps.ovi.com)
 name_uk=Гибрид Nokia (maps.ovi.com)
 asLayer=0
 DefURLBase=http://maptile.lbs.ovi.com/maptiler/v2/maptile/newest/hybrid.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
+ParentSubMenu_ru=Nokia
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
 ParentSubMenu_uk=Nokia
 NameInCache=ovi_com_Hyb
 separator=0

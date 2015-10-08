@@ -1,11 +1,11 @@
 [PARAMS]
 GUID={4334AD70-75F3-476B-8D92-13BE9426C255}
 asLayer=0
+name_ru=harvard.edu.russianempire
 name=harvard.edu.russianempire
-name_en=harvard.edu.russianempire
 NameInCache=harvard.edu.russianempire
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 DefURLBase=http://worldmap.harvard.edu/geoserver/wms?STYLES=&FORMAT=image%2Fpng&TRANSPARENT=TRUE&LAYERS=geonode%3ARussian_mosaic_1827_3395&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&VERSION=1.1.1&SERVICE=WMS&REQUEST=GetMap&LLBBOX=-179.99999682449794,19.809777149815613,180,85.99996901076048&URL=http%3A%2F%2Fworldmap.harvard.edu%2Fgeoserver%2Fwms&TILED=true&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/png

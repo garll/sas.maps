@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={6AB93647-45C1-490C-AD5C-167CDDD5B5D4}
-name=Схема перевалов Западного Кавказа 20.2.2014
-name_en=Схема перевалов Западного Кавказа 20.2.2014
+name_ru=Схема перевалов Западного Кавказа 20.2.2014
+name=caucatalog.narod.ru westcaumap 20.2.2014
 name_uk=Схема перевалов Западного Кавказа 20.2.2014
-ParentSubMenu=Туристические\Кавказ
-ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_ru=Туристические\Кавказ
+ParentSubMenu=Tourism\Kavkaz
 ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/westcaumap/

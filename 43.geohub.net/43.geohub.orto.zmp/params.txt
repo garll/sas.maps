@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=
 GUID={8238C84A-D37E-45E1-A738-FBCFBCD4168C}
-name=Кировская область - ортофотоплан (43.geohub.net)
-name_en=Kirov Orto (43.geohub.net)
+name_ru=Кировская область - ортофотоплан (43.geohub.net)
+name=Kirov Orto (43.geohub.net)
 name_uk=Кировская область - ортофотоплан (43.geohub.net)
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local maps
 ParentSubMenu_uk=Локальні карти
 asLayer=0
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_orto/

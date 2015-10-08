@@ -1,16 +1,16 @@
 [PARAMS]
 pnum=6
 GUID={70AF7E17-DE9B-4BD6-86F4-70921A74B2B6}
-name=Карта Nokia (maps.ovi.com)
-name_en=Nokia Map (maps.ovi.com)
+name_ru=Карта Nokia (maps.ovi.com)
+name=Nokia Map (maps.ovi.com)
 name_uk=Карта Nokia (maps.ovi.com)
 asLayer=0
 DefURLBase=http://maptile.lbs.ovi.com/maptiler/v2/maptile/newest/normal.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
+ParentSubMenu_ru=Nokia
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
 ParentSubMenu_uk=Nokia
 NameInCache=ovi_com_map
 separator=0

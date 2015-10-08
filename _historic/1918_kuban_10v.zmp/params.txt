@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={21401231-6169-493D-B718-3083387AD6D9}
-name= 10-верстка Кубани (1918 г. Стрельбицкого)
-name_en=Kuban 10-v (1918)
+name_ru= 10-верстка Кубани (1918 г. Стрельбицкого)
+name=Kuban 10-v (1918)
 name_uk=Kuban 10-v (1918)
-ParentSubMenu=Исторические\Кавказ
-ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/1918_kuban_10v/

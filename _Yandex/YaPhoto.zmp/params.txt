@@ -2,11 +2,11 @@
 pnum=5
 GUID={9AFFE8A1-431D-48F4-8515-54A7D42F0E6C}
 asLayer=1
-name=—лой яндекс ‘отки (яндекс. арты)
-name_en=Yandex Photo (Yandex.Maps)
+name_ru=—лой яндекс ‘отки (яндекс. арты)
+name=Yandex Photo (Yandex.Maps)
 name_uk=—лой яндекс ‘отки (яндекс. арты)
-ParentSubMenu=яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yaphoto
 DefURLBase=http://lrs.maps.yandex.net/tiles?l=pht&tm=0.22.1-0.0.25.10-0.2012.12.06.23&lang=ru_RU&x=

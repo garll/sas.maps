@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=7
 GUID={8238C84A-D37E-45E1-A737-FBCFBCD4168C}
-name=Cпутник (geohub.net)
-name_en=Satellite (geohub.net)
+name_ru=Cпутник (geohub.net)
+name=Satellite (geohub.net)
 name_uk=Cпутник (geohub.net)
+ParentSubMenu_ru=GeoHub
 ParentSubMenu=GeoHub
-ParentSubMenu_en=GeoHub
 ParentSubMenu_uk=GeoHub
 asLayer=0
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/sat/

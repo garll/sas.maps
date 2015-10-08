@@ -1,10 +1,10 @@
 [PARAMS]
 pnum=7
 GUID={5E04039A-331E-4D2C-B051-D20F8871BB39}
-name=Генплан - внеуличный транспорт
-name_en=Genplan - Transport
-ParentSubMenu=Генплан Москвы (Яблоко)
-ParentSubMenu_en=Genplan of Moscow (Yabloko)
+name_ru=Генплан - внеуличный транспорт
+name=Genplan - Transport
+ParentSubMenu_ru=Генплан Москвы (Яблоко)
+ParentSubMenu=Genplan of Moscow (Yabloko)
 asLayer=0
 DefURLBase=http://genplan.yabloko.ru/map_tiles/374-403/
 projection=2

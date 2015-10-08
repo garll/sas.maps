@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={2C85CBCE-3018-4687-B3E7-070808BD84F6}
-name=Хребтовка Джунгарии
-name_en=Djungarii
+name_ru=Хребтовка Джунгарии
+name=Djungarii
 name_uk=Djungarii
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
 DefURLBase=http://g-utka.ru/tsvetik/automaps/jungariaoro/olmap/

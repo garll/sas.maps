@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={C095B837-863B-4BD7-900A-F30644201D27}
-name=Карта Кубанского округа 1930г.
-name_en=Kuban 1930
+name_ru=Карта Кубанского округа 1930г.
+name=Kuban 1930
 name_uk=Kuban 1930
-ParentSubMenu=Исторические\Кавказ
-ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/1930_kuban/

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={2CB2F8BB-9B4D-49C7-BA4A-1D40F24AC4B9}
-name=Карта Реки Кубань
-name_en=Kuban river map
+name_ru=Карта Реки Кубань
+name=Kuban river map
 name_uk=Kuban river map
-ParentSubMenu=Морские карты
-ParentSubMenu_en=Marine maps
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
 ParentSubMenu_uk=Marine maps
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/kuban_river/

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={C753CB21-ED72-4A38-B191-19723DB684E8}
-name=Западный Кавказ (КОТ ОРИЕНТ)
-name_en=West Kaucas (KOT ORIENT)
+name_ru=Западный Кавказ (КОТ ОРИЕНТ)
+name=West Kaucas (KOT ORIENT)
 name_uk=West Kaucas (KOT ORIENT)
-ParentSubMenu=Туристические\Кавказ
-ParentSubMenu_en=Tourism\Kavkaz
+ParentSubMenu_ru=Туристические\Кавказ
+ParentSubMenu=Tourism\Kavkaz
 ParentSubMenu_uk=Tourism\Kavkaz
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/wkavkaz_kot/

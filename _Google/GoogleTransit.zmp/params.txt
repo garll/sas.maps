@@ -2,11 +2,11 @@
 pnum=2
 asLayer=0
 GUID={04634AEA-A897-483D-8D56-4F5D703BDBB7}
-name=Транспорт (Google)
-name_en=Transit (Google)
+name_ru=Транспорт (Google)
+name=Transit (Google)
 name_uk=Transit (Google)
+ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 DefURLBase=http://mt.google.com/vt/lyrs=m@159000000,transit:comp|vm:1&hl=ru&opts=r
 projection=1

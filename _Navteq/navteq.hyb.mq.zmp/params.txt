@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=7
 GUID={9A360A5D-7A77-402D-8A11-D670BD739B7B}
-name=Гибрид Navteq (mapquest.com)
-name_en=Navteq Hybrid (mapquest.com)
+name_ru=Гибрид Navteq (mapquest.com)
+name=Navteq Hybrid (mapquest.com)
 name_uk=Navteq Hybrid (mapquest.com)
 asLayer=1
 DefURLBase=http://vtiles01.mqcdn.com/tiles/1.0.0/vy/hyb/

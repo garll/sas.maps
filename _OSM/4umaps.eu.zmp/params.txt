@@ -2,8 +2,8 @@
 pnum=116
 GUID={D643C5A1-3333-4387-9BE2-DDDF185C117E}
 asLayer=0
+name_ru=4umaps.eu
 name=4umaps.eu
-name_en=4umaps.eu
 name_uk=4umaps.eu
 NameInCache=4umaps.eu
 DefURLBase=http://www.4umaps.eu

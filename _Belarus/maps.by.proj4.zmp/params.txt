@@ -2,14 +2,14 @@
 GUID={1334AD70-75F3-476B-8D92-43BE9426C255}
 asLayer=0
 pnum=173
-name=Карта Беларуси (maps.by)
-name_en=Belarus Map (maps.by)
+name_ru=Карта Беларуси (maps.by)
+name=Belarus Map (maps.by)
 name_uk=Карта Беларуси (maps.by)
 NameInCache=maps.by
 DefURLBase=http://maps.by:8080/geoserver/gwc/service/wms?LAYERS=gkgc%3Amaps_by&STYLES=&FORMAT=image%2Fpng8&TILESORIGIN=-20037508.34%2C-20037508.34&TILED=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/png
-ParentSubMenu=Локальные карты\Беларусь
-ParentSubMenu_en=Local maps\Belarus
+ParentSubMenu_ru=Локальные карты\Беларусь
+ParentSubMenu=Local maps\Belarus
 ParentSubMenu_uk=Локальні карти\Беларусь
 Ext=.png
 projection=1

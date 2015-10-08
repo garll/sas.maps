@@ -1,8 +1,8 @@
 [PARAMS]
 GUID={854B7D18-AE0C-4A9D-8FDA-A638C1ECDA63}
 asLayer=0
+name_ru=gallica.bnf.fr
 name=gallica.bnf.fr
-name_en=gallica.bnf.fr
 name_uk=gallica.bnf.fr
 NameInCache=gallica_bnf_fr
 DefURLBase=http://gallica.bnf.fr/proxy?method=R&ark=
@@ -17,8 +17,8 @@ UseDwn=1
 Sleep=0
 DefHotKey=0
 UsePreloadPage=0
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 
 TILERLEFT=0

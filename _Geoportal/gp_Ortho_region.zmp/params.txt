@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=9
 GUID={9A360A54-7A70-402C-8A11-D570BD759B01}
+name_ru=Geoportal-Alos
 name=Geoportal-Alos
-name_en=Geoportal-Alos
 name_uk=Geoportal-Alos
 asLayer=0
 DefURLBase=http://geoportal.ntsomz.ru/coverages/images_ortho_region/
@@ -16,6 +16,6 @@ UseDwn=1
 Sleep=0
 DefHotKey=0
 ContentType=image/jpeg
-ParentSubMenu=Геопортал
-ParentSubMenu_en=Geoportal
+ParentSubMenu_ru=Геопортал
+ParentSubMenu=Geoportal
 ParentSubMenu_uk=Geoportal

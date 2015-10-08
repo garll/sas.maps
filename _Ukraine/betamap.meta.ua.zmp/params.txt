@@ -2,14 +2,14 @@
 pnum=171
 GUID={F031E660-5D1B-48DE-B413-43E85B8DBB26}
 asLayer=0
-name=Карты Украины (map.meta.ua)
-name_en=Ukraine Map (map.meta.ua)
+name_ru=Карты Украины (map.meta.ua)
+name=Ukraine Map (map.meta.ua)
 name_ua=Ukraine Map (map.meta.ua)
 NameInCache=betamap_meta_ua
 DefURLBase=http://i1.map.meta.ua/cell.php?x=
 ContentType=image/png
-ParentSubMenu=Локальные карты\Украина
-ParentSubMenu_en=Local maps\Ukraine
+ParentSubMenu_ru=Локальные карты\Украина
+ParentSubMenu=Local maps\Ukraine
 ParentSubMenu_uk=Локальні карти\Україна
 Ext=.png
 projection=1

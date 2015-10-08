@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={F923688D-2C5B-4B30-A080-941AB3253EFA}
-name=Ергаки - Арадан
-name_en=Ergaki Aradan
+name_ru=Ергаки - Арадан
+name=Ergaki Aradan
 name_uk=Ergaki Aradan
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/ergaki_aradan/

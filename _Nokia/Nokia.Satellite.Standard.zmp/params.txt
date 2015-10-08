@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A73-402D-8A12-D670BD739B7B}
-name=Спутник DG (Nokia Satellite Standard) 
-name_en=DG Sat (Nokia Satellite Standard)
+name_ru=Спутник DG (Nokia Satellite Standard) 
+name=DG Sat (Nokia Satellite Standard)
 name_uk=Супутник DG (Nokia Satellite Standard)
+ParentSubMenu_ru=Nokia
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
 ParentSubMenu_uk=Nokia
 ContentType=image/jpeg
 asLayer=0

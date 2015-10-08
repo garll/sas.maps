@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=
 GUID={9A360A5D-7A71-402D-1964-D670BD739B7B}
-name=Карта Москвы 1964 (mosday.ru)
-name_en=Moscow Map 1964 (mosday.ru)
+name_ru=Карта Москвы 1964 (mosday.ru)
+name=Moscow Map 1964 (mosday.ru)
 name_uk=Карта Москвы 1964 (mosday.ru)
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 ContentType=image/jpeg
 asLayer=0

@@ -2,11 +2,11 @@
 pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63B}
 asLayer=0
-name=Старая Народная Карта Яндекс (Cхема)
-name_en=Old Yandex Narod Map (Scheme)
+name_ru=Старая Народная Карта Яндекс (Cхема)
+name=Old Yandex Narod Map (Scheme)
 name_uk=Старая Народная Карта Яндекс (Cхема)
-ParentSubMenu=Яндекс
-ParentSubMenu_en=Yandex
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=yanarodscheme
 DefURLBase=http://wvec.maps.yandex.net/?l=wmap&x=

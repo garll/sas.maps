@@ -2,13 +2,13 @@
 pnum=108
 GUID={E90A2F3E-45CE-4AF9-AC19-D372AC403CCB}
 asLayer=0
-name=Марс Высоты (Google)
-name_en=Mars Elevation (Google)
+name_ru=Марс Высоты (Google)
+name=Mars Elevation (Google)
 NameInCache=MARS_elevation
 DefURLBase=http://mw1.google.com/mw-planetary/mars/elevation/
 ContentType=image/jpeg
-ParentSubMenu=Космос
-ParentSubMenu_en=Space
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
 ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1

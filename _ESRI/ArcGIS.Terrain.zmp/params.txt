@@ -2,11 +2,11 @@
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-DC5DBBB8F552}
 asLayer=0
+name_ru=ArcGIS.Terrain
 name=ArcGIS.Terrain
-name_en=ArcGIS.Terrain
 NameInCache=ArcGIS.Terrain
+ParentSubMenu_ru=ESRI
 ParentSubMenu=ESRI
-ParentSubMenu_en=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/
 ContentType=image/jpeg;image/jpg
 Ext=.jpg

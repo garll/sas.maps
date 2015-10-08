@@ -2,13 +2,13 @@
 pnum=195
 GUID={AEA75D7E-E487-4131-B534-761BF1EEEFF0}
 asLayer=0
-name=Серов (Umap.ru)
-name_en=Serov (Umap.ru)
+name_ru=Серов (Umap.ru)
+name=Serov (Umap.ru)
 NameInCache=Umap_62066
 DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=62066
 ContentType=text/html , image/gif
-ParentSubMenu=Локальные карты\Umap
-ParentSubMenu_en=Local maps\Umap
+ParentSubMenu_ru=Локальные карты\Umap
+ParentSubMenu=Local maps\Umap
 Ext=.gif
 projection=1
 sradiusa=6378137

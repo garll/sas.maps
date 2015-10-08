@@ -1,10 +1,10 @@
 [PARAMS]
 GUID={1F5C7247-0543-4DBB-B4B1-5E969C9EB942}
+name_ru=Navionics (http://www.navionics.com/en/)
 name=Navionics (http://www.navionics.com/en/)
-name_en=Navionics (http://www.navionics.com/en/)
 name_uk=Navionics (http://www.navionics.com/en/)
-ParentSubMenu=Морские карты
-ParentSubMenu_en=Marine maps
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
 ParentSubMenu_uk=Marine maps
 asLayer=0
 DefURLBase=http://webviewer-api.navionics.com/getmap?PARAMS=

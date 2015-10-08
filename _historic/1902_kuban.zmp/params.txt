@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={C91E1E37-8E29-42CB-946D-C812EC5FE327}
-name=Карта Кубанской области 1902г.
-name_en=Kuban 1902
+name_ru=Карта Кубанской области 1902г.
+name=Kuban 1902
 name_uk=Kuban 1902
-ParentSubMenu=Исторические\Кавказ
-ParentSubMenu_en=Historic\Kavkaz
+ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/1902_kuban/

@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={A85C68EA-4C12-4072-A4AB-1353A489F304}
-name=Горный Крым
-name_en=Krim's Mountain
+name_ru=Горный Крым
+name=Krim's Mountain
 name_uk=Горный Крым
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
 ParentSubMenu_uk=Tourism
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/krim/

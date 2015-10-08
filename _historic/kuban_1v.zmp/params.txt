@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=16
 GUID={2BB46ACD-DB8C-4F79-927C-C6FE975A649E}
-name=1в.Геологическая карта Кубанского района 1908-1916 гг.
-name_en=1v Geologic map of Kuban (1908-1912)
+name_ru=1в.Геологическая карта Кубанского района 1908-1916 гг.
+name=1v Geologic map of Kuban (1908-1912)
 name_uk=1v Geologic map of Kuban (1908-1912)
-ParentSubMenu=Исторические\Кавказ
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/kuban_1v/

@@ -2,11 +2,11 @@
 pnum=171
 asLayer=0
 GUID={7D05AF05-42F3-44C9-ACAA-8AACC3A12FF2}
-name=Украина (luxena.com)
-name_en=Ukraine (luxena.com)
+name_ru=Украина (luxena.com)
+name=Ukraine (luxena.com)
 name_uk=Україна (luxena.com)
-ParentSubMenu=Локальные карты\Украина
-ParentSubMenu_en=Local maps\Ukraine
+ParentSubMenu_ru=Локальные карты\Украина
+ParentSubMenu=Local maps\Ukraine
 ParentSubMenu_uk=Локальні карти\Україна
 DefURLBase=http://tiles.luxena.com/navlux/
 projection=1

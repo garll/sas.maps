@@ -2,13 +2,13 @@
 pnum=194
 GUID={D4BFDB5B-948B-4161-9215-C3E31B932DA8}
 asLayer=0
-name=«латоуст (Umap.ru)
-name_en=Zlatoust (Umap.ru)
+name_ru=«латоуст (Umap.ru)
+name=Zlatoust (Umap.ru)
 NameInCache=Umap_17074
 DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=17074
 ContentType=text/html , image/gif
-ParentSubMenu=Ћокальные карты\Umap
-ParentSubMenu_en=Local maps\Umap
+ParentSubMenu_ru=Ћокальные карты\Umap
+ParentSubMenu=Local maps\Umap
 Ext=.gif
 projection=1
 sradiusa=6378137

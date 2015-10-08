@@ -1,15 +1,15 @@
 [PARAMS]
 pnum=199
 GUID={025de135-53fd-45db-b90e-fafbb7fb3bf4}
-name=ТопоКарта (Маршруты.ру)
-name_en=TopoMap (marshruty.ru)
+name_ru=ТопоКарта (Маршруты.ру)
+name=TopoMap (marshruty.ru)
 name_uk=TopoMap (marshruty.ru)
 NameInCache=topo_marshruty
 DefURLBase=http://maps.marshruty.ru/ml.ashx?al=1&i=1&x=
 DetectContentType=1
 ContentType=image/png,image/x-png,image/jpeg,image/pjpeg
-ParentSubMenu=Генштаб
-ParentSubMenu_en=Genshtab
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
 ParentSubMenu_uk=Genshtab
 Ext=.jpg
 projection=1

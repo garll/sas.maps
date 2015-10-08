@@ -2,8 +2,8 @@
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-BC5DBBB8F552}
 asLayer=1
+name_ru=ArcGIS.Hybrid
 name=ArcGIS.Hybrid
-name_en=ArcGIS.Hybrid
 NameInCache=ArcGIS.Hybrid
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/
 ContentType=image/png

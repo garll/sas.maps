@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4002-8A12-D670BD739B7B}
-name=Пробки Here.com
-name_en=Here.com Traffic
+name_ru=Пробки Here.com
+name=Here.com Traffic
 name_uk=Пробки Here.com
+ParentSubMenu_ru=Nokia
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
 ParentSubMenu_uk=Nokia
 ContentType=image/png
 asLayer=0

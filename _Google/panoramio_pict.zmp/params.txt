@@ -2,14 +2,14 @@
 GUID={6B05E307-B1EF-4368-9080-83C6B1F437EA}
 asLayer=1
 pnum=44
-name=Panoramio Картинки
-name_en=Panoramio pictures
+name_ru=Panoramio Картинки
+name=Panoramio pictures
 NameInCache=Pano
 DefURLBase=http://mt.google.com/mapslt?lyrs=lmc:com.panoramio.p.all
 ContentType=image/png
 Ext=.png
+ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_en=Google
 ParentSubMenu_uk=Google
 projection=1
 sradiusa=6378137

@@ -1,8 +1,8 @@
 [PARAMS]
 GUID={678ABC23-7DE7-4AF4-B551-D883414321D6}
 asLayer=1
-name=Карта границ OSM (mapsurfer.net)
-name_en=Map OSM Boundary (mapsurfer.net)
+name_ru=Карта границ OSM (mapsurfer.net)
+name=Map OSM Boundary (mapsurfer.net)
 name_uk=Карта границ OSM (MapSurfer.NET)
 NameInCache=OSM_mapsurfer_boundary
 DefURLBase=http://129.206.74.245:8007/tms_b.ashx?

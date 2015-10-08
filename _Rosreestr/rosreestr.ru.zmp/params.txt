@@ -2,11 +2,11 @@
 pnum=114
 GUID={A83BAFB0-0CDB-445C-9891-31416668C199}
 asLayer=0
-name=Карта (rosreestr.ru)
-name_en=Map (rosreestr.ru)
+name_ru=Карта (rosreestr.ru)
+name=Map (rosreestr.ru)
 name_uk=Карта (rosreestr.ru)
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=rosreestr
 DefURLBase=http://c.maps.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer/tile/

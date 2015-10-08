@@ -1,11 +1,11 @@
 [PARAMS]
 pnum=17
 GUID={0AE20160-D02A-4D21-B289-CEF29300CE2A}
-name=Немецкая Аэро-Фото съёмка (Краснодар)
-name_en=German Aero-Foto
+name_ru=Немецкая Аэро-Фото съёмка (Краснодар)
+name=German Aero-Foto
 name_uk=German Aero-Foto
-ParentSubMenu=Исторические
-ParentSubMenu_en=Historic
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/wwii-ug/
