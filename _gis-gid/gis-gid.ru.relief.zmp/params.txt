@@ -2,14 +2,14 @@
 GUID={BDCF010A-359E-4C00-9610-2F19A12C08C7}
 pnum=
 asLayer=1
-name=Рельеф (gis-gid.ru)
-name_en=Relief (gis-gid.ru)
+name_ru=Рельеф (gis-gid.ru)
+name=Relief (gis-gid.ru)
 name_ua=Рельеф (gis-gid.ru)
 NameInCache=gis-gid.ru.relief
 DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?x=
 ContentType=image/png
-ParentSubMenu=Локальные карты
-ParentSubMenu_en=Local Maps
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local Maps
 ParentSubMenu_ua=Local Maps
 Ext=.png
 projection=1
