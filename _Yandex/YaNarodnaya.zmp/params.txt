@@ -18,5 +18,5 @@ sradiusb=6356752
 separator=0
 UseDwn=1
 Sleep=0
-DefHotKey=55
+DefHotKey=
 DelAfterShow=0
