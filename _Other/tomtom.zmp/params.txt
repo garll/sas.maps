@@ -2,13 +2,13 @@
 GUID={4334AD70-75F3-47AA-8D92-43BE9426C255}
 asLayer=0
 pnum=100
-name=Карта TomTom
-name_en=TomTom Map
+name_ru=Карта TomTom
+name=TomTom Map
 NameInCache=TomTom
 DefURLBase=http://a.api.internal.tomtom.com/lbs/map/3/basic/1/
 ContentType=image/png
-ParentSubMenu=Другие карты
-ParentSubMenu_en=Other maps
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
 Ext=.png
 projection=1
 sradiusa=6378137
