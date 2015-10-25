@@ -1,10 +1,10 @@
 [PARAMS]
 pnum=17
 GUID={8834EDB4-532C-469D-B156-C811E0A93FB9}
-name=Карты Владислава Завьялова
-name_en=Vladislav Zavjalov map
-ParentSubMenu=Туристические
-ParentSubMenu_en=Tourism
+name_ru=Карты Владислава Завьялова
+name=Vladislav Zavjalov map
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
 asLayer=0
 DefURLBase=http://91.237.82.95:8082/slazav.map_hr/
 projection=1
