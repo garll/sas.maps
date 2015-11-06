@@ -1,6 +1,6 @@
 [PARAMS]
 GUID={BF5C7247-0543-4DBB-B4B1-5E969C9EB942}
-name_ru=Navonics SonarCharts
+name_ru=Navionics SonarCharts
 name=Navionics SonarCharts
 name_uk=Navionics SonarCharts
 ParentSubMenu_ru=Морские карты
