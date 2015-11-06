@@ -5,7 +5,7 @@ name_ru=Карта OSM Серая (mapsurfer.net)
 name=Map OSM Grayscale (mapsurfer.net)
 name_uk=Карта OSM Серая (MapSurfer.NET)
 NameInCache=OSM_mapsurfer_Grayscale
-DefURLBase=http://129.206.74.245:8008/tms_rg.ashx?
+DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/roadsg/
 defaultContentType=image/png
 ContentType="image/pnga";"image/png"
 MimeTypeSubst="image/pnga=image/png"
