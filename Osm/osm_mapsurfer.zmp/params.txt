@@ -6,7 +6,7 @@ name_ru=Карта OSM (mapsurfer.net)
 name=Map OSM (mapsurfer.net)
 name_uk=Карта OSM (MapSurfer.NET)
 NameInCache=OSM_mapsurfer
-DefURLBase=http://129.206.74.245:8001/tms_r.ashx?
+DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/roads/
 defaultContentType=image/png
 ContentType="image/pnga";"image/png"
 MimeTypeSubst="image/pnga=image/png"
