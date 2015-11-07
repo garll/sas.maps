@@ -20,3 +20,4 @@ Sleep=0
 ContentType=*
 defaultContentType=image/jpeg
 IgnoreContentType=1
+MaxConnectToServerCount=1

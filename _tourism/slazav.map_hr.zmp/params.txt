@@ -18,3 +18,4 @@ Sleep=0
 defaultContentType=image/png
 ContentType="image/png"
 License=© Владислав Завьялов, slazav.livejournal.com
+MaxConnectToServerCount=1
