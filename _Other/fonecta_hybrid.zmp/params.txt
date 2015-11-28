@@ -1,0 +1,18 @@
+[PARAMS]
+GUID={793A257F-0489-43AA-9BB6-943DE5F28004}
+asLayer=1
+name=Финляндия наложение (fonecta.fi)
+name_en=Finland hybrid (fonecta.fi)
+name_uk=Finland Hybrid (fonecta.fi)
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
+ParentSubMenu_uk=Інші карти
+NameInCache=fonecta_hybrid
+DefURLBase=http://kartta.fonecta.fi/oym?f=m&ft=png_hyb_256&key=FO1349G5NGDTJ52H913SFRK63928
+RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.09582494617275&z=8&l=NAU
+ContentType=image/png
+Ext=.png
+EPSG=3785
+UseDwn=1
+Sleep=0
+IteratorSubRectSize=8,8
