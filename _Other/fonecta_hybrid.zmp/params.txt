@@ -1,8 +1,8 @@
 [PARAMS]
 GUID={793A257F-0489-43AA-9BB6-943DE5F28004}
 asLayer=1
-name=Финляндия наложение (fonecta.fi)
-name_en=Finland hybrid (fonecta.fi)
+name=Finland hybrid (fonecta.fi)
+name_ru=Финляндия наложение (fonecta.fi)
 name_uk=Finland Hybrid (fonecta.fi)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
@@ -13,6 +13,3 @@ RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.
 ContentType=image/png
 Ext=.png
 EPSG=3785
-UseDwn=1
-Sleep=0
-IteratorSubRectSize=8,8

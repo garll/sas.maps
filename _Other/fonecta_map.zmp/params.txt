@@ -1,8 +1,7 @@
 [PARAMS]
 GUID={783A7DAF-067E-47BE-95C6-943DE5F28004}
-asLayer=0
-name=Финляндия карта (fonecta.fi)
-name_en=Finland map (fonecta.fi)
+name=Finland map (fonecta.fi)
+name_ru=Финляндия карта (fonecta.fi)
 name_uk=Finland map (fonecta.fi)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
@@ -13,6 +12,3 @@ RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.
 ContentType=image/png
 Ext=.png
 EPSG=3785
-UseDwn=1
-Sleep=0
-IteratorSubRectSize=8,8
