@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=145
+pnum=139
 GUID={7D47D2E6-9410-4181-B2F1-224A4880E698}
 asLayer=0
 name_ru=Генштаб 500м (1999-2010)
@@ -15,7 +15,7 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
+separator=1
 UseDwn=1
 Sleep=0
 DefHotKey=0

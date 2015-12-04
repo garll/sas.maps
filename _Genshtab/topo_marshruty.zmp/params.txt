@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=199
+pnum=140
 GUID={025de135-53fd-45db-b90e-fafbb7fb3bf4}
 name_ru=ТопоКарта (Маршруты.ру)
 name=TopoMap (marshruty.ru)
