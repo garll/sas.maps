@@ -15,7 +15,6 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=1
 UseDwn=1
 Sleep=0
 DefHotKey=55

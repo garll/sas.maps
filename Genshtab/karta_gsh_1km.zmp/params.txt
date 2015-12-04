@@ -1,5 +1,5 @@
 [PARAMS]
-pnum=144
+pnum=145
 GUID={866D8DC1-8D36-4A80-891C-2FBCA7D03E93}
 asLayer=0
 name_ru=Генштаб 1 км
