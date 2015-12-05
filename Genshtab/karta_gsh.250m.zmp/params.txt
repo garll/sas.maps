@@ -1,0 +1,25 @@
+[PARAMS]
+pnum=146
+GUID={1E76357C-2316-430A-A1B1-84ECCF0FB735}
+asLayer=0
+name_ru=Генштаб 250 м
+name=Genshtab 250 m
+name_uk=Генштаб 250 м
+NameInCache=genshtab.250m
+DefURLBase=http://91.237.82.95:8082/genshtab.250m/
+defaultContentType=image/jpeg
+IgnoreContentType=1
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
+ParentSubMenu_uk=Генштаб
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+UseDwn=1
+Sleep=0
+DefHotKey=0
+cachetype=4
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
