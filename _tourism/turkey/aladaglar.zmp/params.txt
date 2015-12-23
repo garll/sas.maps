@@ -1,0 +1,20 @@
+[PARAMS]
+pnum=17
+GUID={7883C9C4-C669-43CE-83B7-FCCE92F6DD4E}
+name_ru=хребет Аладаглар
+name=Aladaglar ridge
+name_uk=Aladaglar ridge
+ParentSubMenu_ru=Туристические\Турция
+ParentSubMenu=Tourism\Turkey
+ParentSubMenu_uk=Tourism\Turkey
+asLayer=0
+DefURLBase=http://91.237.82.95:8082/aladaglar/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=aladaglar
+separator=0
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
