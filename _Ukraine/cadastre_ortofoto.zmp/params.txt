@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=171
 GUID={A24025E7-1E3D-4B15-83DF-DF4F6EAEDF72}
-asLayer=0
 name_ru=Кадастровая Карта Украины 
 name=Cadacstre Ukraine Map 
 name_ua=Cadacstre Ukraine Map
@@ -15,7 +14,6 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
 UseDwn=1
-Sleep=0
-DefHotKey=0
+RequestHead=User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+
