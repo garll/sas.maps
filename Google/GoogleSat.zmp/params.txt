@@ -4,9 +4,7 @@ GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
 name_ru=Спутник (Google)
 name=Satellite (Google maps)
 name_uk=Супутник (Google)
-ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_uk=Google
 DefURLBase=http://khms.google.com/kh/v=
 projection=1
 sradiusa=6378137

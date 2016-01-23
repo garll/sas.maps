@@ -4,9 +4,7 @@ GUID={CBA03063-23D9-4FA4-931A-9182B98644B1}
 name_ru=Карта (Google)
 name=Map (Google)
 name_uk=Карта (Google)
-ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_uk=Google
 DefURLBase=http://mt.google.com/vt/lyrs=m@169000000&hl=ru
 projection=1
 sradiusa=6378137

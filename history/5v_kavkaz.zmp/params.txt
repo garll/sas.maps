@@ -3,7 +3,6 @@ pnum=17
 GUID={499050C1-2CFD-4DAE-8F86-42390FD7AC3D}
 name_ru=Кавказский край 5-верстка. 1926г.
 name=Kavkaz 5-v. 1926
-name_uk=Kavkaz 5-v. 1926
 ParentSubMenu_ru=Исторические\Кавказ
 ParentSubMenu=Historic\Kavkaz
 ParentSubMenu_uk=Історичні\Кавказ

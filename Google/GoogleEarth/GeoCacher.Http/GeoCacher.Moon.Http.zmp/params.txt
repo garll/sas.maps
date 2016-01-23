@@ -3,7 +3,6 @@ pnum=3004
 GUID={10EE9BFF-B2D3-4E10-A1CD-0A26DF7467F6}
 name_ru=Луна (GeoCacher via http)
 name=Moon (GeoCacher via http)
-ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=moon&ver=0&date=0&
 EPSG=4326

@@ -5,9 +5,7 @@ asLayer=1
 name_ru=Пробки (Google Maps)
 name=Traffic (Google Maps)
 name_uk=Пробки (Google Maps)
-ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_uk=Google
 NameInCache=googletraf
 DefURLBase=http://mt1.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&
 ContentType=image/png

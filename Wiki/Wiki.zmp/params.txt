@@ -2,9 +2,7 @@
 pnum=45
 GUID={91692EBA-428D-44D6-BA3C-0BB2A1DF457B}
 asLayer=1
-name_ru=Wikimapia
 name=WikiMapia
-name_uk=WikiMapia
 NameInCache=Wiki
 DefURLBase=http://wikimapia.org/d?lng=1&BBOX=
 ContentType=text/xml; charset=UTF-8

@@ -1,9 +1,7 @@
 [PARAMS]
 pnum=48
 GUID={77C874C7-DB51-4A72-BE84-241238BF7A4F}
-name_ru=Lunar Orbiter (NASA)
 name=Lunar Orbiter (NASA)
-name_uk=Lunar Orbiter (NASA)
 NameInCache=nasaMoonO
 DefURLBase=http://OnMoon.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=LO&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg

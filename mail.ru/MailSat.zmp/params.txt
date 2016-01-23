@@ -7,9 +7,7 @@ name_uk=Супутник (Карты@Mail.Ru)
 NameInCache=mail_sat
 DefURLBase=http://t.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images
 ContentType=image/jpeg
-ParentSubMenu_ru=mail.ru
 ParentSubMenu=mail.ru
-ParentSubMenu_uk=mail.ru
 Ext=.jpg
 projection=2
 sradiusa=6378137

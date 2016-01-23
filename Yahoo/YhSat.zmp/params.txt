@@ -4,9 +4,7 @@ GUID={054533A1-6169-48C5-9635-A90A277A1516}
 name_ru=Спутник (Yahoo!)
 name=Satellite (Yahoo!)
 name_uk=Супутник (Yahoo!)
-ParentSubMenu_ru=Yahoo!
 ParentSubMenu=Yahoo!
-ParentSubMenu_uk=Yahoo!
 NameInCache=yhsat
 DefURLBase=http://maps.yimg.com/ae/ximg?v=1.9&t=a&s=256&r=1
 ContentType=image/jpeg

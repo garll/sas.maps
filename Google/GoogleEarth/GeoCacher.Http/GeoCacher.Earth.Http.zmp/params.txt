@@ -3,7 +3,6 @@ pnum=3001
 GUID={10999B94-B2D3-4E10-A1CD-0A26DF7467F6}
 name_ru=Земля (GeoCacher via http)
 name=Earth (GeoCacher via http)
-ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=earth&ver=0&date=0&
 EPSG=4326
