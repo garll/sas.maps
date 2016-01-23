@@ -15,4 +15,3 @@ projection=1
 sradiusa=1737400
 sradiusb=1737400
 separator=1
-DefHotKey=

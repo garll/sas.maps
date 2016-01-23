@@ -14,4 +14,3 @@ Ext=.jpg
 projection=3
 sradiusa=3396190
 sradiusb=3396190
-DefHotKey=
