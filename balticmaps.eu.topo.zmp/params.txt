@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=178
 GUID={E01A0205-546A-494F-8434-5D75D53E3C1E}
-asLayer=0
 name_ru=Латвия топо
 name=Latvija Topo
 NameInCache=balticmaps_eu_topo
@@ -12,9 +11,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0
 TILERLEFT=0
 TILERRIGHT=300
 TILERTOP=0

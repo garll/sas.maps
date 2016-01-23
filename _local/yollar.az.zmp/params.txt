@@ -1,6 +1,5 @@
 [PARAMS]
 pnum=118
-asLayer=0
 GUID={D91BFF26-915A-4575-BB46-24675CBA7B4E}
 name_ru=ְחונבאיהזאם (Yollar.az)
 name=Azerbaijan (Yollar.az)
@@ -13,9 +12,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=yollar_az
-separator=0
 Ext=.png
-UseDwn=1
 Sleep=
-DefHotKey=
 ContentType=image/png

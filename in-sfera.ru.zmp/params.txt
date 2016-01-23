@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=158
 GUID={C03EBB87-DB5D-44C1-ABA6-9E54BD5EA0F5}
-asLayer=0
 name_ru=Карта Краснодара (in-sfera.ru)
 name=Krasnodar Map (in-sfera.ru)
 NameInCache=in-sfera_ru
@@ -11,11 +10,7 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
 UsePreloadPage=0
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps
 TILERLEFT=0

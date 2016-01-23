@@ -10,10 +10,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=geohub.hybrid
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
-DefHotKey=
 ContentType=image/png8bit
 MimeTypeSubst="image/png8bit=image/png"

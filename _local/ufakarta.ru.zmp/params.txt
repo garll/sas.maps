@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=117
 GUID={84020C09-ACE1-402A-8B59-07EF81D772FA}
-asLayer=0
 name_ru=Карта Уфы (ufakarta.ru)
 name_uk=Карта Уфы (ufakarta.ru)
 name=Map Ufa (ufakarta.ru)
@@ -12,10 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps
 ParentSubMenu_uk=Локальні карти

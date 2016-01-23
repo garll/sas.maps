@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=195
 GUID={C53462F6-4CE2-42F8-969F-A7A4771E3B0E}
-asLayer=0
 name_ru=Лобва (Umap.ru)
 name=Lobva (Umap.ru)
 NameInCache=Umap_44066
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

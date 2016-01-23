@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={A83BAFB0-0CDB-445C-9891-31416668C199}
-asLayer=0
 name_ru=Карта (rosreestr.ru)
 name=Map (rosreestr.ru)
 name_uk=Карта (rosreestr.ru)
@@ -15,4 +14,3 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-UseDwn=1

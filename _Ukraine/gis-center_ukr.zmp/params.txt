@@ -13,7 +13,4 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=gis-center_com_ukr
 Ext=.png
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ContentType=image/png; mode=24bit

@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={8E8A18B5-E2D5-49C5-9FF7-99D1A4AB0652}
-asLayer=0
 name_ru=Карта (atlogis_LS7)
 name=Map (atlogis_LS7)
 NameInCache=atlogis_LS7
@@ -11,10 +10,6 @@ Ext=.jpg
 projection=3
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 TILERLEFT=0
 TILERRIGHT=512
 TILERTOP=0

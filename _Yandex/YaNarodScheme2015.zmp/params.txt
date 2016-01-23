@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=5
 GUID={38E29DB4-A654-5D08-5555-936325F0B63A}
-asLayer=0
 name_ru=Народная Карта Яндекс (Схема)
 name=Yandex Narod Map (Scheme)
 name_uk=Народная Карта Яндекс (Схема)
@@ -15,8 +14,5 @@ Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=55
 DelAfterShow=0

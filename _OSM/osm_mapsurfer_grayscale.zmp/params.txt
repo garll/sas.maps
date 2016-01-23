@@ -1,6 +1,5 @@
 [PARAMS]
 GUID={5AB84226-7CD7-4EF4-B451-D718421BB6D6}
-asLayer=0
 name_ru=Карта OSM Серая (mapsurfer.net)
 name=Map OSM Grayscale (mapsurfer.net)
 name_uk=Карта OSM Серая (MapSurfer.NET)
@@ -13,10 +12,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8

@@ -10,7 +10,5 @@ sradiusa=6378137
 sradiusb=6356752
 NameInCache=cheboksary.new
 Ext=.png
-UseDwn=1
-Sleep=0
 ContentType=image/png
 IteratorSubRectSize=8,8

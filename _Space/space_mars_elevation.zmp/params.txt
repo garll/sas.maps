@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=108
 GUID={E90A2F3E-45CE-4AF9-AC19-D372AC403CCB}
-asLayer=0
 name_ru=Марс Высоты (Google)
 name=Mars Elevation (Google)
 NameInCache=MARS_elevation
@@ -14,7 +13,3 @@ Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

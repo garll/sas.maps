@@ -1,19 +1,12 @@
 [PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-AC5DBBB8F553}
-asLayer=0
-name_ru=ArcGIS.Landsat
 name=ArcGIS.Landsat
 NameInCache=ArcGIS.Landsat
-ParentSubMenu_ru=ESRI
 ParentSubMenu=ESRI
 DefURLBase=http://imagery.arcgisonline.com/arcgis/rest/services/LandsatGLS/GLS2010_Enhanced/ImageServer/
 ContentType=image/jpeg, image/png
 Ext=.jpg
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 EPSG=4326
 [ViewInfo]
 EPSG=3785

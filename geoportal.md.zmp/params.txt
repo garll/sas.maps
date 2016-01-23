@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=176
 GUID={1E366B2E-F39E-431C-A1EF-6BAB0F78D9B0}
-asLayer=0
 name_ru=Карта Молдавии (geoportal.md)
 name=Moldova map (geoportal.md)
 NameInCache=geoportal_md
@@ -14,6 +13,3 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0

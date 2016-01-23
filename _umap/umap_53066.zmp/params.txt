@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=195
 GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
-asLayer=0
 name_ru=Новоуральск (Umap.ru)
 name=Novouralsk (Umap.ru)
 NameInCache=Umap_53066
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

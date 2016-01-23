@@ -1,23 +1,16 @@
 [PARAMS]
 GUID={70662F70-B2DA-498B-B0E4-34049002E447}
 pnum=128
-asLayer=0
 name_ru=Геопортал Калужской области (giskaluga.ru)
 name=Giskaluga.ru
-name_ua=Giskaluga.ru
 NameInCache=giskaluga_ru
 DefURLBase=http://karta.giskaluga.ru:8081/geoserver/gwc/service/wms?LAYERS=WORK_GROUP&STYLES=&FORMAT=image/png&VERSION=1.1.1&SERVICE=WMS&REQUEST=GetMap&SRS=EPSG:900913&WIDTH=256&HEIGHT=256&TRANSPARENT=true&BBOX=
 ContentType=image/png
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local Maps
-ParentSubMenu_ua=Local Maps
 Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

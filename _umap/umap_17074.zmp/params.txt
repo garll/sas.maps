@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=194
 GUID={D4BFDB5B-948B-4161-9215-C3E31B932DA8}
-asLayer=0
 name_ru=Златоуст (Umap.ru)
 name=Zlatoust (Umap.ru)
 NameInCache=Umap_17074
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

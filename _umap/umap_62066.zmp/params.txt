@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=195
 GUID={AEA75D7E-E487-4131-B534-761BF1EEEFF0}
-asLayer=0
 name_ru=Серов (Umap.ru)
 name=Serov (Umap.ru)
 NameInCache=Umap_62066
@@ -13,8 +12,4 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 

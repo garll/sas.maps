@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=30
 GUID={09B58203-8F81-4643-98AD-17AF0593A1AD}
-asLayer=0
 name_ru=«вЄзды (sky-map.org)
 name=Stars (sky-map.org)
 NameInCache=sky_map_org
@@ -14,9 +13,5 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

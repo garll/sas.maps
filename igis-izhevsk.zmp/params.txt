@@ -14,7 +14,3 @@ Ext=.png
 projection=1
 sradiusa=4624384
 sradiusb=4624384
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

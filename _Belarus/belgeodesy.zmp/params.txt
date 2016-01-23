@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=173
 GUID={63862E5D-09F2-4732-9D21-635012437777}
-asLayer=0
 name_ru=Карта Белоруссии (belgeodesy.by)
 name=Map of Belarus (belgeodesy.by)
 name_uk=Карта Білорусії (belgeodesy.by)
@@ -15,8 +14,4 @@ Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 MaxConnectToServerCount=6

@@ -13,5 +13,4 @@ DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&lang=en_US
 ContentType=image/png
 Ext=.png
 EPSG=3395
-UseDwn=1
 Version=2.33.0

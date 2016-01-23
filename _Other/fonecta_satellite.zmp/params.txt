@@ -2,7 +2,6 @@
 GUID={97B51C86-516C-4fE5-BC7f-214004034fB7}
 name=Finland satellite (fonecta.fi)
 name_ru=Финляндия спутник (fonecta.fi)
-name_uk=Finland satellite (fonecta.fi)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти

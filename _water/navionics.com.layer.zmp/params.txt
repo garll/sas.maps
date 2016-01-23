@@ -1,19 +1,12 @@
 [PARAMS]
 GUID={1F5C7247-9999-4DBB-B4B1-5E969C9EB942}
-name_ru=Navionics (http://www.navionics.com/en/)
 name=Navionics (http://www.navionics.com/en/)
-name_uk=Navionics (http://www.navionics.com/en/)
 ParentSubMenu_ru=Морские карты
 ParentSubMenu=Marine maps
-ParentSubMenu_uk=Marine maps
 asLayer=1
 DefURLBase=http://webviewer-api.navionics.com/getmap?PARAMS=
 NameInCache=navionics_com_layer
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ContentType=image/png
 projection=2
 sradiusa=6378388

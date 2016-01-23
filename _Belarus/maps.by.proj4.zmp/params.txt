@@ -1,6 +1,5 @@
 [PARAMS]
 GUID={1334AD70-75F3-476B-8D92-43BE9426C255}
-asLayer=0
 pnum=173
 name_ru=Карта Беларуси (maps.by)
 name=Belarus Map (maps.by)
@@ -15,7 +14,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
 Proj4Args=+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +no_defs
 

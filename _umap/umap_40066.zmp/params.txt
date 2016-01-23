@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=195
 GUID={1FD86D64-06B4-4664-AD1C-A84CA766DA6E}
-asLayer=0
 name_ru=Красноуральск (Umap.ru)
 name=Krasnouralsk (Umap.ru)
 NameInCache=Umap_40066
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

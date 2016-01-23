@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={F12A0864-E8F1-45E4-834D-5A8C7E118DE6}
-asLayer=0
 name_ru=Магнитогорск (magnitog.ru)
 name=Magnitogorsk (magnitog.ru)
 NameInCache=magnitog_ru
@@ -12,9 +11,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps

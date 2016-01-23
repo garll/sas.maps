@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=140
 GUID={4463DAE6-03C7-4189-80E5-29D43865F093}
-asLayer=0
 name_ru=Генштаб Беларусь
 name=Genshtab Belarus
 NameInCache=vbgenshtabbelarus
@@ -13,12 +12,10 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-UseDwn=1
 Usestick=1
 UseGenPrevious=1
 Usedel=1
 Usesave=1
 UseAntiBan=0
 Sleep=300
-DefHotKey=0
 BanIfLen=0

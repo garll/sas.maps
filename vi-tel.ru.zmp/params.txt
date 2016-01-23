@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=158
 GUID={B55B2C70-7976-4A41-A6D1-FDCF35263EA6}
-asLayer=0
 name_ru=Карта Ви-Тел (vi-tel.ru)
 name=Map Vi-Tel (vi-tel.ru)
 name_uk=Карта Ви-Тел (vi-tel.ru)
@@ -15,8 +14,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
 UsePreloadPage=0
-Sleep=0
-DefHotKey=0

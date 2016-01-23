@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={67507C37-FEF8-4268-BC3C-474809EBD3E7}
-asLayer=0
 name_ru=Waze live map (world.waze.com/livemap/)
 name=Wase live map (world.waze.com/livemap/)
 NameInCache=waze
@@ -13,7 +12,3 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

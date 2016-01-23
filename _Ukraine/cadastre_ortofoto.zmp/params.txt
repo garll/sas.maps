@@ -14,6 +14,5 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-UseDwn=1
 RequestHead=User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
 

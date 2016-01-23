@@ -1,18 +1,14 @@
 [PARAMS]
 pnum=100
 GUID={F6579B06-E632-4D5F-BC75-C8FA658B57DF}
-name_ru=Garmin
 name=Garmin
-name_uk=Garmin
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
-asLayer=0
 DefURLBase=http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=Garmin
 Ext=.png
-UseDwn=1
 ContentType=image/png

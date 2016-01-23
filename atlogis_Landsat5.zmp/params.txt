@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={30E01D12-8E3F-4477-B272-7AB274E66F50}
-asLayer=0
 name_ru=Карта (atlogis_Landsat5)
 name=Map (atlogis_Landsat5)
 NameInCache=atlogis_Landsat5
@@ -11,10 +10,6 @@ Ext=.jpg
 projection=3
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 TILERLEFT=0
 TILERRIGHT=512
 TILERTOP=0

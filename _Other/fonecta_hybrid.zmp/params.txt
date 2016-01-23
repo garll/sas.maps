@@ -3,7 +3,6 @@ GUID={793A257F-0489-43AA-9BB6-943DE5F28004}
 asLayer=1
 name=Finland hybrid (fonecta.fi)
 name_ru=Финляндия наложение (fonecta.fi)
-name_uk=Finland Hybrid (fonecta.fi)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти

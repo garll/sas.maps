@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=30
 GUID={3A0588D9-3645-4ADD-9A0D-7188197DFBC3}
-asLayer=0
 name_ru=«вЄзды (wikisky.org)
 name=Stars (wikisky.org)
 NameInCache=sky_wikisky_org
@@ -14,9 +13,5 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

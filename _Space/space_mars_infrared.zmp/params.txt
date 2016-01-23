@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=109
 GUID={72F36652-2D7E-4B9D-BA26-63D773FB9AE7}
-asLayer=0
 name_ru=Марс Инфракрасный (Google)
 name=Mars Infrared (Google)
 NameInCache=mars_infrared
@@ -14,7 +13,3 @@ Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

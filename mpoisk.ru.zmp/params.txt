@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=
 GUID={E580797F-3C56-4796-98A8-52D579A1F6A5}
-asLayer=0
 name_ru=МТС Поиск (wap.mpoisk.ru)
 name=MTS Locate (wap.mpoisk.ru)
 name_uk=МТС Поиск (wap.mpoisk.ru)
@@ -15,7 +14,3 @@ Ext=.gif
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

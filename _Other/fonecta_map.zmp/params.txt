@@ -2,7 +2,6 @@
 GUID={783A7DAF-067E-47BE-95C6-943DE5F28004}
 name=Finland map (fonecta.fi)
 name_ru=Финляндия карта (fonecta.fi)
-name_uk=Finland map (fonecta.fi)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти

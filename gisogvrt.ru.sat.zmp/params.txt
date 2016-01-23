@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={4E31FC44-D30D-495F-B0A5-18B00BF9C399}
-asLayer=0
 name_ru=Татарстан снимок (gisogvrt.ru)
 name=Tatarstan sat (gisogvrt.ru)
 NameInCache=gisogvrt_ru_sat
@@ -11,9 +10,5 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps

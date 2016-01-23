@@ -1,6 +1,5 @@
 [PARAMS]
 pnum=
-asLayer=0
 GUID={CBA03063-23D9-4FA4-931A-9182B98644F1}
 name_ru=Карта Иркутска
 name=Map of Irkutsk
@@ -11,9 +10,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=Irkmap
-separator=0
 Ext=.png
-UseDwn=1
 Sleep=
-DefHotKey=
 ContentType=image/png

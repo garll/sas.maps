@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=195
 GUID={3B4370AE-B488-4A81-9D65-6729CD272392}
-asLayer=0
 name_ru=Копейск (Umap.ru)
 name=Kopeisk (Umap.ru)
 NameInCache=Umap_23074
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

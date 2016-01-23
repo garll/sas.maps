@@ -1,6 +1,5 @@
 [PARAMS]
 GUID={4334AD70-75F3-47AA-8D92-43BE9426C255}
-asLayer=0
 pnum=100
 name_ru=Карта TomTom
 name=TomTom Map
@@ -13,9 +12,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

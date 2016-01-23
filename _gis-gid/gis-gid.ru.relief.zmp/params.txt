@@ -10,14 +10,9 @@ DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?x=
 ContentType=image/png
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local Maps
-ParentSubMenu_ua=Local Maps
 Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 Version=3
 

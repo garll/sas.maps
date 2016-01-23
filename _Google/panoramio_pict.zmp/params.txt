@@ -8,15 +8,9 @@ NameInCache=Pano
 DefURLBase=http://mt.google.com/mapslt?lyrs=lmc:com.panoramio.p.all
 ContentType=image/png
 Ext=.png
-ParentSubMenu_ru=Google
 ParentSubMenu=Google
-ParentSubMenu_uk=Google
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

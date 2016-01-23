@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=177
 GUID={F05CB6B1-BB96-4BF3-AED2-4ABEB9B2DBE7}
-asLayer=0
 name_ru=Карта Латвии
 name=Latvija Map
 NameInCache=balticmaps_eu_map
@@ -11,10 +10,6 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 TILERLEFT=0
 TILERRIGHT=300
 TILERTOP=0

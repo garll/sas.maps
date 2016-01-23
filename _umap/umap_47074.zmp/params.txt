@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=194
 GUID={35FF2B84-774C-4D3F-85DB-5DBACB1AA69A}
-asLayer=0
 name_ru=Троицк (Umap.ru)
 name=Troitsk (Umap.ru)
 NameInCache=Umap_47074
@@ -13,7 +12,3 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

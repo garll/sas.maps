@@ -1,6 +1,5 @@
 [PARAMS]
 active=0
-asLayer=0
 pnum=171
 GUID={B84EAE41-BDDF-4FD6-844E-D2C34756F82B}
 name_ru=Карта Крыма (crimea.ua)
@@ -13,9 +12,5 @@ NameInCache=crimea_ua
 ParentSubMenu_ru=Локальные карты\Украина
 ParentSubMenu=Local maps\Ukraine
 ParentSubMenu_uk=Локальні карти\Україна
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ContentType=image/png

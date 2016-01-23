@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={8F990424-C62A-4CFD-97C5-9B402078A4F4}
-asLayer=0
 name_ru=Новокузнецк (rugis.ru)
 name=Novokuznetsk (rugis.ru)
 NameInCache=rugis_ru
@@ -12,9 +11,5 @@ Ext=.gif
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps

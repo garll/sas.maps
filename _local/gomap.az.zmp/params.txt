@@ -1,6 +1,5 @@
 [PARAMS]
 pnum=118
-asLayer=0
 GUID={B56F472D-3278-4DC8-8DB9-890FE7F44801}
 name_ru=ְחונבאיהזאם (GoMap.az)
 name=Azerbaijan (GoMap.az)
@@ -13,9 +12,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=GoMap_map
-separator=0
 Ext=.jpg
-UseDwn=1
 Sleep=
-DefHotKey=
 ContentType=image/jpeg

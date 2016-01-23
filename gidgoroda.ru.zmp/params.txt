@@ -1,10 +1,8 @@
 [PARAMS]
 pnum=115
 GUID={2BF2C60C-C412-48A9-B940-12FA24E55AB0}
-asLayer=0
 name_ru=Кемеровская область
 name=Kemerovo
-name_uk=Kemerovo
 NameInCache=Kemerovo
 DefURLBase=http://tiles.gidgoroda.ru/kuzbass/
 ContentType=image/png
@@ -13,10 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps
 ParentSubMenu_uk=Локальні карти

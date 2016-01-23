@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=140
 GUID={DE1F2034-CE45-4FD8-A6FF-7307687B308E}
-asLayer=0
 name_ru=Москва + МО Генштаб (school2.ru)
 name=Moscow Genshtab (school2.ru)
 NameInCache=Gsh_moscow
@@ -13,7 +12,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-UseDwn=1
-Sleep=0
-DefHotKey=0
 MimeTypeSubst = "binary/octet-stream=image/png"

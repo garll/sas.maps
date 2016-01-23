@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={A9A8519B-C2C0-4148-B991-E76632737512}
-asLayer=0
 name_ru=Карта Shturmann
 name=Map Shturmann
 name_uk=Карта Shturmann
@@ -12,10 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Локальные карты
 ParentSubMenu=Local maps
 ParentSubMenu_uk=Локальні карти

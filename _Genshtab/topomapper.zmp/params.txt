@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=141
 GUID={B5F81E9E-7354-45DC-8B42-5F3952C39039}
-asLayer=0
 name_ru=Генштаб (TopoMapper.com)
 name=Genshtab (TopoMapper.com)
 NameInCache=topomapper.com
@@ -14,7 +13,4 @@ projection=1
 sradiusa=6378137
 sradiusb=6356752
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0
 RequestHead=Referer: http://www.topomapper.com/

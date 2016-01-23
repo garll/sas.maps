@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=110
 GUID={82F76321-6574-4EE2-8DCD-654557134AD7}
-asLayer=0
 name_ru=Луна Высоты (Google)
 name=Moon Terrain (Google)
 NameInCache=Moon_terrain
@@ -14,7 +13,3 @@ Ext=.jpg
 projection=1
 sradiusa=1737400
 sradiusb=1737400
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

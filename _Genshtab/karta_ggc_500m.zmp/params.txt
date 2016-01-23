@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=245
 GUID={4463DAE6-03C7-4189-80E5-144535435435}
-asLayer=0
 name_ru=√ос√ис÷ентр 500 м
 name=GosGisCentr 500 m
 name_uk=GosGisCentr 500 м
@@ -15,9 +14,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ContentType="image/png"
 MaxConnectToServerCount=1

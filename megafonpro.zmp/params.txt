@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=104
 GUID={A8B5CADF-FA15-492D-9BC2-BCBA7DCE888F}
-asLayer=0
 name_ru=Мегафон Навигатор
 name=Megafon Navigator
 name_uk=Мегафон Навигатор
@@ -15,7 +14,3 @@ Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

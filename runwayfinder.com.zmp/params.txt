@@ -3,17 +3,13 @@ pnum=100
 GUID={A115BC54-5F9A-414B-B4AF-0C6EC62673C8}
 name_ru=Лётные карты  (runwayfinder.com)
 name=Fly maps (runwayfinder.com)
-asLayer=0
 DefURLBase=http://www.runwayfinder.com/media/charts/?x=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=runwayfinder_com
-separator=0
 Ext=.jpg
-UseDwn=1
 Sleep=100
-DefHotKey=0
 ContentType=image/jpeg
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps

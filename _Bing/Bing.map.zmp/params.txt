@@ -1,18 +1,12 @@
 [PARAMS]
 pnum=9
 GUID={11772221-1ec8-42cb-bc48-8f6e1d9f6cfc}
-name_ru=Bing Maps
 name=Bing Maps
-name_uk=Bing Maps
-ParentSubMenu_ru=Bing
 ParentSubMenu=Bing
-ParentSubMenu_uk=Bing
-asLayer=0
 DefURLBase=http://ecn.t0.tiles.virtualearth.net/tiles/r
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=bing.map
 Ext=.png
-UseDwn=1
 ContentType=image/jpeg;image/png

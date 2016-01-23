@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63B}
-asLayer=0
 name_ru=Старая Народная Карта Яндекс (Cхема)
 name=Old Yandex Narod Map (Scheme)
 name_uk=Старая Народная Карта Яндекс (Cхема)
@@ -15,5 +14,4 @@ Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-UseDwn=1
 DefHotKey=54

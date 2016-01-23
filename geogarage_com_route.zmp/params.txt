@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=114
 GUID={3EBFF911-D074-4983-9346-2C03F68041A3}
-asLayer=0
 name_ru= marine.geogarage.com/routes (geogarage.com)
 name=marine.geogarage.com/routes (geogarage.com)
 NameInCache=geogarage_com_route
@@ -13,9 +12,5 @@ Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps

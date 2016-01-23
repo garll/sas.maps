@@ -1,9 +1,6 @@
 [PARAMS]
 GUID={D3465891-4551-4668-9222-DD569067900E}
-asLayer=0
-name_ru=maps.sputnik.ru
 name=maps.sputnik.ru
-name_uk=maps.sputnik.ru
 NameInCache=maps.sputnik.ru
 DefURLBase=http://tiles.maps.sputnik.ru/tiles/kmt2
 ContentType=image/png
@@ -11,7 +8,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
 ParentSubMenu=OSM

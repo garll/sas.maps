@@ -1,7 +1,5 @@
 [PARAMS]
 GUID={4334AD70-75F3-476B-8D92-13BE9426C255}
-asLayer=0
-name_ru=harvard.edu.russianempire
 name=harvard.edu.russianempire
 NameInCache=harvard.edu.russianempire
 ParentSubMenu_ru=Исторические
@@ -13,9 +11,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 
 

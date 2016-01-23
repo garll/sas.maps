@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=
 GUID={A83BAFB0-1CDB-445C-9891-31416668C199}
-asLayer=0
 name_ru=Карта (Геоцентр-Консалтинг)
 name=Map (geocenter-consulting.ru)
 name_uk=Карта (Геоцентр-Консалтинг)
@@ -15,7 +14,3 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

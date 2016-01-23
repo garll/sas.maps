@@ -1,10 +1,7 @@
 [PARAMS]
 pnum=130
 GUID={685E9146-DEC0-44EE-859F-111DEF70C6E2}
-asLayer=0
-name_ru= (zoomify)
 name= (zoomify)
-name_ua= (zoomify)
 NameInCache=zoomify
 DefURLBase=http://oldmaps.geolab.cz/3vm/75/4771/zoomify/TileGroup
 ContentType=image/jpeg
@@ -16,8 +13,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
 DefHotKey=90
 TILERLEFT=0
 TILERRIGHT=256

@@ -1,11 +1,8 @@
 [PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-AC5DBBB8F552}
-asLayer=0
-name_ru=ArcGIS.Imagery
 name=ArcGIS.Imagery
 NameInCache=ArcGIS.Imagery
-ParentSubMenu_ru=ESRI
 ParentSubMenu=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/
 ContentType=image/jpeg;image/jpg
@@ -13,7 +10,3 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

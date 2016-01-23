@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=12
 GUID={DEE2AC2F-7649-415F-AFB3-E337CDAF3A5D}
-asLayer=0
 name_ru=Карта Gurtam (maps.cnord.ru)
 name=Map Gurtam (maps.cnord.ru)
 name_uk=Карта Gurtam (maps.cnord.ru)
@@ -15,7 +14,4 @@ Ext=.PNG
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-UseDwn=1
 UsePreloadPage=0
-Sleep=0
-DefHotKey=0

@@ -1,10 +1,8 @@
 [PARAMS]
 pnum=171
 GUID={4D31E660-5D1B-48DE-B413-43E85B8DBB37}
-asLayer=0
 name_ru=Спутниковые снимки Украины (map.meta.ua)
 name=Ukraine Sat (map.meta.ua)
-name_ua=Ukraine Sat (map.meta.ua)
 NameInCache=sat_meta_ua
 DefURLBase=http://i1.map.meta.ua/cell.php?map=ukr_sat&x=
 ContentType=image/jpeg
@@ -15,7 +13,3 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0

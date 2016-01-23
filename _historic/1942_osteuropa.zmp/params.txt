@@ -1,20 +1,14 @@
 [PARAMS]
 pnum=114
 GUID={BCE4BD85-11CE-48ED-B966-0BBB21BEF2C7}
-asLayer=0
 name_ru=Немецкий Генштаб 1942 (1:30000)
 name=German Genshtab 1942 (1:30000)
-name_uk=German Genshtab 1942 (1:30000)
 NameInCache=1942_osteuropa
 DefURLBase=http://91.237.82.95:8082/1942_osteuropa/
 Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ParentSubMenu_ru=Исторические
 ParentSubMenu=Historic
 ParentSubMenu_uk=Історичні
