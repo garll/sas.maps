@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=172
 GUID={4DD430E5-30CE-4184-B18F-0AFD82686007}
-asLayer=0
 name_ru=Карта Украины (mapia.com.ua)
 name=Ukraine map (mapia.com.ua)
 name_uk=Карта України (Mapia.ua)
@@ -16,6 +15,3 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0

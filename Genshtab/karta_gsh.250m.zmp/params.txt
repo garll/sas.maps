@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=146
 GUID={1E76357C-2316-430A-A1B1-84ECCF0FB735}
-asLayer=0
 name_ru=Генштаб 250 м
 name=Genshtab 250 m
 name_uk=Генштаб 250 м

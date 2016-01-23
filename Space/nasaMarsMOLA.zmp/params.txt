@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=43
 GUID={9AB93964-2210-4528-84FD-5EA16E63CBD1}
-asLayer=0
 name_ru=Mars MOLA (NASA)
 name=Mars MOLA (NASA)
 name_uk=Mars MOLA (NASA)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=

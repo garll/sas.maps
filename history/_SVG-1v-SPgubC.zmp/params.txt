@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=36
 GUID={5B8A5F51-214C-4A51-9AEF-59CECDAB6FEF}
-asLayer=0
 name_ru=Санкт-Петербургская, 1-верстка., 1866, центр (boxpis.ru)
 name=Sankt-Peterburg, 1-v., 1866 (boxpis.ru)
 name_uk=Санкт-Петербурзька, 1-в., 1866, центр (boxpis.ru)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
 Sleep=100
-DefHotKey=0

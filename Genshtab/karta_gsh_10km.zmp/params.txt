@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=142
 GUID={3E2164BF-A302-4071-B212-8BE3B0C0E9FA}
-asLayer=0
 name_ru=Генштаб 10 км
 name=Genshtab 10 km
 name_uk=Генштаб 10 км
@@ -14,9 +13,5 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 ContentType="image/jpeg"
 MaxConnectToServerCount=1

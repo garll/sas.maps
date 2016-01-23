@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=174
 GUID={63862E5D-09F2-4732-9D21-6350124302CB}
-asLayer=0
 name_ru=Карта Украины и Белоруссии (maps.visicom.ua)
 name=Map of Ukraine and Belarus (maps.visicom.ua)
 name_uk=Карта України та Білорусії (Візіком)
@@ -16,6 +15,3 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0

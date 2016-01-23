@@ -7,15 +7,11 @@ name_uk=—упутник (яндекс. арты)
 ParentSubMenu_ru=яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=яндекс
-asLayer=0
 DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=yasat
-separator=0
 Ext=.jpg
-UseDwn=1
-Sleep=0
 DefHotKey=89
 ContentType=image/jpeg

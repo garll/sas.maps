@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=12
 GUID={A318A8D6-6320-4EE1-A57F-4B142DD490B6}
-asLayer=0
 name_ru=Карта (Yahoo!)
 name=Map (Yahoo!)
 name_uk=Карта (Yahoo!)
@@ -16,6 +15,4 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
 DefHotKey=16461

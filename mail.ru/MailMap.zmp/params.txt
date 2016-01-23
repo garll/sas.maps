@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=14
 GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
-asLayer=0
 name_ru=Карта (Карты@mail)
 name=Map (Maps@mail)
 name_uk=Карта (Карты@Mail.Ru)
@@ -15,7 +14,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=16457

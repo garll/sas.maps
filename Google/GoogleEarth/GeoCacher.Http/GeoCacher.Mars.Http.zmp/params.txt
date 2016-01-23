@@ -5,15 +5,11 @@ name_ru=Марс (GeoCacher via http)
 name=Mars (GeoCacher via http)
 ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
-asLayer=0
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=mars&ver=0&date=0&
 EPSG=4326
 NameInCache=GE.Mars
-separator=0
 Ext=.jpg
-UseDwn=1
 UsePreloadPage=0
-Sleep=0
 ContentType=image/jpeg,image/jpg
 MaxConnectToServerCount=12
 CacheType=9

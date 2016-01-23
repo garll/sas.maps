@@ -7,16 +7,12 @@ name_uk=Рельеф (Космоснимки)
 ParentSubMenu_ru=Космоснимки
 ParentSubMenu=Kosmosnimki.ru
 ParentSubMenu_uk=Космоснимки
-asLayer=0
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=4F9F7CCCCBBC4BD08469F58C02F17AE4
 projection=2
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=ksland
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
 DefHotKey=32843
 ContentType=image/png
 RequestHead=Referer: http://kosmosnimki.ru/

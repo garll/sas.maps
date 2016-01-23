@@ -13,8 +13,5 @@ Ext=.kml
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=87
 MimeTypeSubst = """text/xml; charset=UTF-8""=application/vnd.google-earth.kml+xml"

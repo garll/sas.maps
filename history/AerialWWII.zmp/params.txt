@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=36
 GUID={ACFE8DA0-BAF5-42FE-B8C1-9BFD4C54BF0A}
-asLayer=0
 name_ru=Аэрофотосъемка ВОВ (sasgis.ru)
 name=Aerial WWII (sasgis.ru)
 name_uk=Аерофотозйомка Другої світової війни (sasgis.ru)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
 Sleep=100
-DefHotKey=0

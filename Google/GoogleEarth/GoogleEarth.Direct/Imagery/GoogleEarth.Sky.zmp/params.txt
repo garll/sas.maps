@@ -7,16 +7,13 @@ name_uk=
 ParentSubMenu_ru=GoogleEarth
 ParentSubMenu=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
-asLayer=0
 DefURLBase=
 EPSG=4326
 CacheType=5
 NameInCache=sky
-separator=0
 DelAfterShow=0
 Ext=.jpg
 UseDwn=0
-Sleep=0
 ContentType=image/jpeg
 [ViewInfo]
 EPSG=3785

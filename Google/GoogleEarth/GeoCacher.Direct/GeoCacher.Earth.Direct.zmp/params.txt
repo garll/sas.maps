@@ -7,7 +7,6 @@ name_uk=
 ParentSubMenu=GoogleEarth
 ParentSubMenu_en=GoogleEarth
 ParentSubMenu_uk=GoogleEarth
-asLayer=0
 DefURLBase=
 EPSG=4326
 CacheType=8
@@ -16,7 +15,6 @@ separator=1
 DelAfterShow=0
 Ext=.jpg
 UseDwn=0
-Sleep=0
 ContentType=image/jpeg
 [ViewInfo]
 EPSG=3785

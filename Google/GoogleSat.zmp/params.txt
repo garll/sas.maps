@@ -7,16 +7,12 @@ name_uk=Супутник (Google)
 ParentSubMenu_ru=Google
 ParentSubMenu=Google
 ParentSubMenu_uk=Google
-asLayer=0
 DefURLBase=http://khms.google.com/kh/v=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=sat
-separator=0
 Ext=.jpg
-UseDwn=1
-Sleep=0
 DefHotKey=71
 ContentType=image/jpeg
 Version=194

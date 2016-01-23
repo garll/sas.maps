@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=11
 GUID={054533A1-6169-48C5-9635-A90A277A1516}
-asLayer=0
 name_ru=Спутник (Yahoo!)
 name=Satellite (Yahoo!)
 name_uk=Супутник (Yahoo!)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=32857

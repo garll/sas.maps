@@ -7,15 +7,11 @@ name_uk=Карта (Google)
 ParentSubMenu_ru=Google
 ParentSubMenu=Google
 ParentSubMenu_uk=Google
-asLayer=0
 DefURLBase=http://mt.google.com/vt/lyrs=m@169000000&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=map
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
 DefHotKey=77
 ContentType=image/png

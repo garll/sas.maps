@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=123
 GUID={C155785B-F53A-4879-B8FD-6A248DC551B2}
-asLayer=0
 name_ru=Πελόετ (maps-for-free)
 name=Relief (maps-for-free)
 name_uk=ΠελόΊτ (maps-for-free)
@@ -16,6 +15,3 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
-DefHotKey=0

@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=120
 GUID={C84FEB26-1EA9-4BEB-87E5-DC3B29C70B31}
-asLayer=0
 name_ru=Карта OSM (opnvkarte.de)
 name=Map OSM (opnvkarte.de)
 name_uk=Карта OSM (OPNV-Karte)
@@ -12,10 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8

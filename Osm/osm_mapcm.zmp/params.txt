@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=115
 GUID={D64B56B5-4B72-4EB1-8552-3D211A7A3580}
-asLayer=0
 name=OpenStreetMap Cycle Map
 name_ru=OpenStreetMap Cycle Map
 name_uk=Вело-карта (OpenStreetMap)
@@ -12,9 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=48
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet

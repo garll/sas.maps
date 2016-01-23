@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=117
 GUID={538FC216-7B97-4744-BBE1-D7E27C3A26D6}
-asLayer=0
 name_ru=Карта OSM (mapsurfer.net)
 name=Map OSM (mapsurfer.net)
 name_uk=Карта OSM (MapSurfer.NET)
@@ -14,10 +13,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=0
-UseDwn=1
-Sleep=0
-DefHotKey=0
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8

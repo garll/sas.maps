@@ -7,15 +7,11 @@ name_uk=ֻאםהראפע (Google)
 ParentSubMenu_ru=Google
 ParentSubMenu=Google
 ParentSubMenu_uk=Google
-asLayer=0
 DefURLBase=http://mt.google.com/vt/lyrs=t@130,r@206000000&hl=ru
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=land
-separator=0
 Ext=.jpg
-UseDwn=1
-Sleep=0
 DefHotKey=76
 ContentType=image/jpeg,image/jpg

@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=28
 GUID={544DDC4E-1FF5-406F-8F1F-C382D3D22B2F}
-asLayer=0
 name_ru=Марс (Google)
 name=Mars (Google)
 name_uk=Марс (Google)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=1
 sradiusa=3396190
 sradiusb=3396190
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=

@@ -7,15 +7,11 @@ name_uk= арта (яндекс. арты)
 ParentSubMenu_ru=яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=яндекс
-asLayer=0
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=yamapng
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
 DefHotKey=81
 ContentType=image/png

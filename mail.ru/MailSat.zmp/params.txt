@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=14
 GUID={4DD2B2D9-A42A-4008-8702-A180FD09797B}
-asLayer=0
 name_ru=Спутник (Карты@mail)
 name=Satellite (Maps@mail)
 name_uk=Супутник (Карты@Mail.Ru)
@@ -15,7 +14,4 @@ Ext=.jpg
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-separator=0
-UseDwn=1
-Sleep=0
 DefHotKey=73

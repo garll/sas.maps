@@ -7,7 +7,6 @@ name_uk=Карта Navitel
 ParentSubMenu_ru=Другие карты
 ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
-asLayer=0
 DefURLBase=http://m01.navitel.su/navitms.fcgi?t=
 projection=1
 sradiusa=6378137
@@ -15,7 +14,6 @@ sradiusb=6378137
 NameInCache=Navitel
 separator=1
 Ext=.png
-UseDwn=1
 Sleep=10
 DefHotKey=16462
 ContentType=image/png

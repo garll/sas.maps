@@ -1,7 +1,6 @@
 [PARAMS]
 pnum=30
 GUID={CDC2FCCD-DD7F-49A9-BB33-AB81B495409A}
-asLayer=0
 name_ru=Звёзды (Google)
 name=Sky (Google)
 name_uk=Зірки (Google)
@@ -16,6 +15,4 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-UseDwn=1
-Sleep=0
 DefHotKey=90
