@@ -13,4 +13,4 @@ NameInCache=sat
 Ext=.jpg
 DefHotKey=71
 ContentType=image/jpeg
-Version=196
+Version=198
