@@ -1,0 +1,13 @@
+// LAYERS parameter: config_a_b_c
+//    a = 1 for depth in meters, 2 for depth in feet, 3 for fathoms
+//    b = 10.00: for 10.00 m safety depth (beginning of blue coloring) (unit equal to that set by a)
+//    c = 0 for pristine Navionics charts, 1 for Sonar Charts
+// TRANSPARENT parameter: FALSE for non-layer, TRUE for layer
+// UGC parameter: FALSE for pristine Navionics charts, TRUE for additinal user-generated content icons
+// navtoken: base64 encoded string of either:
+//    - "Navionics_internalpurpose_00001+webapiv2.navionics.com" (used with Referrer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html)
+//    - "Navionics_internalpurpose_00001+webapp.navionics.com" (used with Referrer: https://webapp.navionics.com/?lang=en)
+
+begin 
+  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'?LAYERS=config_1_10.00_0&TRANSPARENT=TRUE&UGC=FALSE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t';
+end.

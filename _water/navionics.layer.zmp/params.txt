@@ -1,0 +1,14 @@
+[PARAMS]
+GUID={1F1D2343-8575-4BEE-8C33-DBFEF8D53BE5}
+name=Navionics Marine Charts
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
+asLayer=1
+DefURLBase=http://backend.navionics.io/tile/
+NameInCache=navionics_layer
+Ext=.png
+ContentType=image/png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+RequestHead=Referer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html
