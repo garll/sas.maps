@@ -1,7 +1,7 @@
 [PARAMS]
 GUID={247A02DC-5204-46FC-8D23-828AFC83A434}
 name=Navionics SonarChart(TM)
-ParentSubMenu_ru=Морские карты (SonarChart)
+ParentSubMenu_ru=Морские карты
 ParentSubMenu=Marine maps
 DefURLBase=http://backend.navionics.io/tile/
 NameInCache=navionics_sonarchart
@@ -10,4 +10,5 @@ ContentType=image/png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
+IsUseDownloaderInScript=1
 RequestHead=Referer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html

@@ -4,10 +4,41 @@
 //    c = 0 for pristine Navionics charts, 1 for Sonar Charts
 // TRANSPARENT parameter: FALSE for non-layer, TRUE for layer
 // UGC parameter: FALSE for pristine Navionics charts, TRUE for additinal user-generated content icons
-// navtoken: base64 encoded string of either:
-//    - "Navionics_internalpurpose_00001+webapiv2.navionics.com" (used with Referrer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html)
-//    - "Navionics_internalpurpose_00001+webapp.navionics.com" (used with Referrer: https://webapp.navionics.com/?lang=en)
+
+function GetNavToken: AnsiString;
+var
+  VTimeStamp: AnsiString;  
+  VResponseCode: Cardinal;
+  VResponseHeader, VResponseData: AnsiString;
+  VRequestUrl, VRequestHeader, VPostData: AnsiString;
+begin
+  Result := 'ERROR_1';
+  
+  if ScriptBuffer <> '' then begin
+    Result := ScriptBuffer;
+    Exit;
+  end;
+  
+  if Assigned(Downloader) then begin
+    VTimeStamp := IntToStr(GetUnixTime);
+    VRequestUrl := 'https://backend.navionics.io/tile/get_key/Navionics_internalpurpose_00001/webapiv2.navionics.com?_=' + VTimeStamp;
+    VRequestHeader := '';
+    VPostData := '';
+    VResponseHeader := '';
+    VResponseData := '';
+ 
+    VResponseCode := Downloader.DoHttpRequest(VRequestUrl, VRequestHeader, VPostData, VResponseHeader, VResponseData);
+ 
+    if VResponseCode = 200 then begin
+      ScriptBuffer := VResponseData;
+      Result := ScriptBuffer;
+    end else begin
+      ScriptBuffer := 'ERROR_2';
+    end; 
+  end;
+
+end;
 
 begin 
-  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'?LAYERS=config_1_10.00_0&TRANSPARENT=TRUE&UGC=FALSE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t';
+  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'?LAYERS=config_1_10.00_0&TRANSPARENT=TRUE&UGC=FALSE&navtoken='+GetNavToken;
 end.
