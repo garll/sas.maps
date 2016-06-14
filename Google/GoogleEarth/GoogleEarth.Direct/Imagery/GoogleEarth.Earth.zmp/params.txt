@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=1001
 GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
-name_ru=Земля (GoogleEarth)
+name_ru=Р—РµРјР»СЏ (GoogleEarth)
 name=Earth (GoogleEarth)
-name_uk=Земля (GoogleEarth)
+name_uk=Р—РµРјР»СЏ (GoogleEarth)
 ParentSubMenu=GoogleEarth
 EPSG=4326
 CacheType=5

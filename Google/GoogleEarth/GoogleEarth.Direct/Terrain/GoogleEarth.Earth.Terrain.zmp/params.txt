@@ -1,6 +1,7 @@
+п»ї
 [PARAMS]
 GUID={E45E5615-C318-4961-9247-E3139BAC1D80}
-name_ru=Земля - Рельеф (GoogleEarth)
+name_ru=Р—РµРјР»СЏ - Р РµР»СЊРµС„ (GoogleEarth)
 name=Earth - Terrain (GoogleEarth)
 ParentSubMenu=GoogleEarth
 asLayer=1

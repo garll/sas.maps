@@ -1,16 +1,17 @@
+ï»¿
 [PARAMS]
 pnum=145
 GUID={866D8DC1-8D36-4A80-891C-2FBCA7D03E93}
-name_ru=Ãåíøòàá 1 êì
+name_ru=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ± 1 ĞºĞ¼
 name=Genshtab 1 km
-name_uk=Ãåíøòàá 1 êì
+name_uk=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ± 1 ĞºĞ¼
 NameInCache=genshtab1km
 DefURLBase=http://91.237.82.95:8088/pub/genshtab1km/
 defaultContentType=image/jpeg
 IgnoreContentType=1
-ParentSubMenu_ru=Ãåíøòàá
+ParentSubMenu_ru=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ±
 ParentSubMenu=Genshtab
-ParentSubMenu_uk=Ãåíøòàá
+ParentSubMenu_uk=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ±
 Ext=.jpg
 projection=1
 sradiusa=6378137

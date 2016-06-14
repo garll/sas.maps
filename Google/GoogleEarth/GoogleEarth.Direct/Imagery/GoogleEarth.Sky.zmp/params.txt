@@ -1,7 +1,8 @@
+п»ї
 [PARAMS]
 pnum=1002
 GUID={354275E7-D582-4850-ACFD-EF6722E4F7C4}
-name_ru=Небо (GoogleEarth)
+name_ru=РќРµР±Рѕ (GoogleEarth)
 name=Sky (GoogleEarth)
 ParentSubMenu=GoogleEarth
 EPSG=4326

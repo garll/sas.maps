@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=16
 GUID={63862E5D-09DB-4732-9D22-6350998802CB}
-name_ru=Карта (eAtlas)
+name_ru=РљР°СЂС‚Р° (eAtlas)
 name=Map (eAtlas)
-name_uk=Карта (eAtlas)
-ParentSubMenu_ru=Другие карты
+name_uk=РљР°СЂС‚Р° (eAtlas)
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=eatlas
 DefURLBase=http://maps.eatlas.ru/getpict/map.aspx?ms=&sml=&ssl=&sst=&smx=0&smy=0&ssi=0&ssv=False&CP=ONL&cat=
 ContentType=image/gif

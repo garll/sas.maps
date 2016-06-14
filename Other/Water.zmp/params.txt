@@ -1,10 +1,11 @@
+п»ї
 [PARAMS]
 pnum=43
 GUID={BF0F5E1C-4E9B-43DE-990F-2F26618A6274}
 asLayer=1
-name_ru=Водные ресурсы (maps-for-free)
+name_ru=Р’РѕРґРЅС‹Рµ СЂРµСЃСѓСЂСЃС‹ (maps-for-free)
 name=Water resource (maps-for-free)
-name_uk=Водні ресурси (maps-for-free)
+name_uk=Р’РѕРґРЅС– СЂРµСЃСѓСЂСЃРё (maps-for-free)
 NameInCache=water
 DefURLBase=http://www.maps-for-free.com/layer/water/
 ContentType=image/gif

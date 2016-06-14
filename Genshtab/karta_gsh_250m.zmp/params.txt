@@ -1,16 +1,17 @@
+ï»¿
 [PARAMS]
 pnum=245
 GUID={8042ADA1-3B7F-4805-9145-34C4DDABC9A7}
-name_ru=ÃîñÃèñÖåíòğ 250 ì
+name_ru=Ğ“Ğ¾ÑĞ“Ğ¸ÑĞ¦ĞµĞ½Ñ‚Ñ€ 250 Ğ¼
 name=GosGisCentr 250 m
-name_uk=GosGisCentr 250 ì
+name_uk=GosGisCentr 250 Ğ¼
 NameInCache=genshtab250m
 DefURLBase=http://91.237.82.95:8088/pub/ggc250m/
 defaultContentType=image/jpeg
 IgnoreContentType=1
-ParentSubMenu_ru=Ãåíøòàá\ÃÃÖ
+ParentSubMenu_ru=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ±\Ğ“Ğ“Ğ¦
 ParentSubMenu=Genshtab\GGC
-ParentSubMenu_uk=Ãåíøòàá\GGC
+ParentSubMenu_uk=Ğ“ĞµĞ½ÑˆÑ‚Ğ°Ğ±\GGC
 Ext=.jpg
 projection=1
 sradiusa=6378137

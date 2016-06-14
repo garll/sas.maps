@@ -1,10 +1,11 @@
+п»ї
 [PARAMS]
 pnum=40
 GUID={A1AC6C0D-106E-4813-8127-652647B020F0}
 asLayer=1
-name_ru=Гибрид (Yahoo!)
+name_ru=Р“РёР±СЂРёРґ (Yahoo!)
 name=Hybrid (Yahoo!)
-name_uk=Гібрид (Yahoo!)
+name_uk=Р“С–Р±СЂРёРґ (Yahoo!)
 NameInCache=yhhyb
 DefURLBase=http://aerial.maps.yimg.com/ximg?v=4.3&t=p&s=256&r=1 
 ContentType=image/png

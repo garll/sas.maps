@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=36
 GUID={D0432E65-B50A-40E9-A813-1ED1D6C986AE}
-name_ru="Шуберт" 2-верстка., Московская (boxpis.ru)
+name_ru="РЁСѓР±РµСЂС‚" 2-РІРµСЂСЃС‚РєР°., РњРѕСЃРєРѕРІСЃРєР°СЏ (boxpis.ru)
 name="Shubert" 2-ver., Moskovskaja (boxpis.ru)
-name_uk=„Шуберт“ 2-вер., Московська (boxpis.ru)
+name_uk=вЂћРЁСѓР±РµСЂС‚вЂњ 2-РІРµСЂ., РњРѕСЃРєРѕРІСЃСЊРєР° (boxpis.ru)
 NameInCache=SVG_Mosk2v_boxpis
 DefURLBase=http://boxpis.ru/sas/sh_m2v/
 ContentType=image/jpeg
-ParentSubMenu_ru=Исторические
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ
 ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–
 Ext=.jpg
 projection=1
 sradiusa=6378137

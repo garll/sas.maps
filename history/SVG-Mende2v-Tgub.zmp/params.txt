@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=36
 GUID={1B680F1C-AA42-4C17-AE06-B99273ACA59E}
-name_ru="Менде" 2-верстка., Тверская (boxpis.ru)
+name_ru="РњРµРЅРґРµ" 2-РІРµСЂСЃС‚РєР°., РўРІРµСЂСЃРєР°СЏ (boxpis.ru)
 name="Mende" 2-ver., Tverskaja (boxpis.ru)
-name_uk=„Менде“ 2-вер., Тверська (boxpis.ru)
+name_uk=вЂћРњРµРЅРґРµвЂњ 2-РІРµСЂ., РўРІРµСЂСЃСЊРєР° (boxpis.ru)
 NameInCache=SVG_Mende2v_boxpis
 DefURLBase=http://boxpis.ru/sas/tg_2v3_123/
 ContentType=image/jpeg
-ParentSubMenu_ru=Исторические
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ
 ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–
 Ext=.jpg
 projection=1
 sradiusa=6378137

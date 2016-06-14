@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=174
 GUID={63862E5D-09F2-4732-9D21-6350124302CB}
-name_ru=Карта Украины и Белоруссии (maps.visicom.ua)
+name_ru=РљР°СЂС‚Р° РЈРєСЂР°РёРЅС‹ Рё Р‘РµР»РѕСЂСѓСЃСЃРёРё (maps.visicom.ua)
 name=Map of Ukraine and Belarus (maps.visicom.ua)
-name_uk=Карта України та Білорусії (Візіком)
-ParentSubMenu_ru=Локальные карты
+name_uk=РљР°СЂС‚Р° РЈРєСЂР°С—РЅРё С‚Р° Р‘С–Р»РѕСЂСѓСЃС–С— (Р’С–Р·С–РєРѕРј)
+ParentSubMenu_ru=Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
 ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+ParentSubMenu_uk=Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
 NameInCache=visicom_world_ru
 DefURLBase=http://tms3.visicom.ua/1.0.3/world_ru
 ContentType=image/png

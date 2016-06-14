@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=172
 GUID={4DD430E5-30CE-4184-B18F-0AFD82686007}
-name_ru=Карта Украины (mapia.com.ua)
+name_ru=РљР°СЂС‚Р° РЈРєСЂР°РёРЅС‹ (mapia.com.ua)
 name=Ukraine map (mapia.com.ua)
-name_uk=Карта України (Mapia.ua)
+name_uk=РљР°СЂС‚Р° РЈРєСЂР°С—РЅРё (Mapia.ua)
 NameInCache=mapiaua
 DefURLBase=http://mapia.com.ua/1.0.0/ru/
 ContentType=image/png
-ParentSubMenu_ru=Локальные карты\Украина
+ParentSubMenu_ru=Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹\РЈРєСЂР°РёРЅР°
 ParentSubMenu=Local maps\Ukraine
-ParentSubMenu_uk=Локальні карти\Україна
+ParentSubMenu_uk=Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё\РЈРєСЂР°С—РЅР°
 Ext=.png
 projection=1
 sradiusa=6378137

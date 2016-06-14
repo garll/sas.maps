@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=120
 GUID={C84FEB26-1EA9-4BEB-87E5-DC3B29C70B31}
-name_ru=Карта OSM (opnvkarte.de)
+name_ru=РљР°СЂС‚Р° OSM (opnvkarte.de)
 name=Map OSM (opnvkarte.de)
-name_uk=Карта OSM (OPNV-Karte)
+name_uk=РљР°СЂС‚Р° OSM (OPNV-Karte)
 NameInCache=OSM_opnvkarte
 DefURLBase=http://tile.memomaps.de/tilegen
 ContentType=image/png
@@ -14,5 +15,5 @@ sradiusb=6378137
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
-License=© OpenStreetMap contributors, CC-BY-SA; rendering by Memomaps.
+License=В© OpenStreetMap contributors, CC-BY-SA; rendering by Memomaps.
 

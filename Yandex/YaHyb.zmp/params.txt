@@ -1,13 +1,14 @@
+п»ї
 [PARAMS]
 pnum=5
 GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
 asLayer=1
-name_ru=Гибрид (Яндекс.Карты)
+name_ru=Р“РёР±СЂРёРґ (РЇРЅРґРµРєСЃ.РљР°СЂС‚С‹)
 name=Hybrid (Yandex.Maps)
-name_uk=Гібрид (Яндекс.Карты)
-ParentSubMenu_ru=Яндекс
+name_uk=Р“С–Р±СЂРёРґ (РЇРЅРґРµРєСЃ.РљР°СЂС‚С‹)
+ParentSubMenu_ru=РЇРЅРґРµРєСЃ
 ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+ParentSubMenu_uk=РЇРЅРґРµРєСЃ
 NameInCache=yahyb
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&x=
 ContentType=image/png

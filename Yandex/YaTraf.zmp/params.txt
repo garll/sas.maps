@@ -1,13 +1,14 @@
+ο»Ώ
 [PARAMS]
 pnum=47
 GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
 asLayer=1
-name_ru=Οπξακθ (ίνδεκρ.Κΰπςϋ)
+name_ru=ΠΡ€ΠΎΠ±ΠΊΠΈ (Π―Π½Π΄ΠµΠΊΡ.ΠΠ°Ρ€Ρ‚Ρ‹)
 name=Traffic (Yandex.Maps)
-name_uk=Οπξακθ (ίνδεκρ.Κΰπςϋ)
-ParentSubMenu_ru=ίνδεκρ
+name_uk=ΠΡ€ΠΎΠ±ΠΊΠΈ (Π―Π½Π΄ΠµΠΊΡ.ΠΠ°Ρ€Ρ‚Ρ‹)
+ParentSubMenu_ru=Π―Π½Π΄ΠµΠΊΡ
 ParentSubMenu=Yandex
-ParentSubMenu_uk=ίνδεκρ
+ParentSubMenu_uk=Π―Π½Π΄ΠµΠΊΡ
 NameInCache=yatraf
 DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf%2Ctrfe&x=
 ContentType=image/png

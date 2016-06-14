@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=36
 GUID={5B8A5F51-214C-4A51-9AEF-59CECDAB6FEF}
-name_ru=Санкт-Петербургская, 1-верстка., 1866, центр (boxpis.ru)
+name_ru=РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіСЃРєР°СЏ, 1-РІРµСЂСЃС‚РєР°., 1866, С†РµРЅС‚СЂ (boxpis.ru)
 name=Sankt-Peterburg, 1-v., 1866 (boxpis.ru)
-name_uk=Санкт-Петербурзька, 1-в., 1866, центр (boxpis.ru)
+name_uk=РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂР·СЊРєР°, 1-РІ., 1866, С†РµРЅС‚СЂ (boxpis.ru)
 NameInCache=_SVG_SP_1866_1v_boxpis
 DefURLBase=http://boxpis.ru/sas/spg_1866_c/
 ContentType=image/jpeg
-ParentSubMenu_ru=Исторические
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ
 ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–
 Ext=.jpg
 projection=1
 sradiusa=6378137

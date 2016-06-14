@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=1
 GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
-name_ru=Спутник (Google)
+name_ru=РЎРїСѓС‚РЅРёРє (Google)
 name=Satellite (Google maps)
-name_uk=Супутник (Google)
+name_uk=РЎСѓРїСѓС‚РЅРёРє (Google)
 ParentSubMenu=Google
 DefURLBase=http://khms.google.com/kh/v=
 projection=1

@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=28
 GUID={544DDC4E-1FF5-406F-8F1F-C382D3D22B2F}
-name_ru=Марс (Google)
+name_ru=РњР°СЂСЃ (Google)
 name=Mars (Google)
-name_uk=Марс (Google)
+name_uk=РњР°СЂСЃ (Google)
 NameInCache=mars
 DefURLBase=http://mw1.google.com/mw-planetary/mars/visible/
 ContentType=image/jpeg
-ParentSubMenu_ru=Космос
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃ
 ParentSubMenu=Space
-ParentSubMenu_uk=Космос
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃ
 Ext=.jpg
 projection=1
 sradiusa=3396190

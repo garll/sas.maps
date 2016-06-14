@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=124
 GUID={255250F6-D9D6-473A-8A0D-13B58601B1A1}
-name_ru=Карта (multimap)
+name_ru=РљР°СЂС‚Р° (multimap)
 name=Map (multimap)
-name_uk=Карта (Multimap)
+name_uk=РљР°СЂС‚Р° (Multimap)
 NameInCache=multimap
 DefURLBase=http://mc1.tiles-cdn.multimap.com/ptiles/map/
 ContentType=image/png
-ParentSubMenu_ru=Другие карты
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 Ext=.png
 projection=1
 sradiusa=6378137

@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=6
 GUID={B408009F-ACAD-4394-A976-991CB7F98209}
-name_ru=Карта (Kosmosnimki.ru)
+name_ru=РљР°СЂС‚Р° (Kosmosnimki.ru)
 name=Map (Kosmosnimki.ru)
-name_uk=Карта (Космоснимки)
-ParentSubMenu_ru=Космоснимки
+name_uk=РљР°СЂС‚Р° (РљРѕСЃРјРѕСЃРЅРёРјРєРё)
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 ParentSubMenu=Kosmosnimki.ru
-ParentSubMenu_uk=Космоснимки
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=E50931C3B2DD4E0FA2C03366552EEAA1
 projection=2
 sradiusa=6378137

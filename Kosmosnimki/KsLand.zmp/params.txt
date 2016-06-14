@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=6
 GUID={9945fafe-1ab4-499c-9568-1efdfb7fc30a}
-name_ru=Рельеф (Kosmosnimki.ru)
+name_ru=Р РµР»СЊРµС„ (Kosmosnimki.ru)
 name=Land (Kosmosnimki.ru)
-name_uk=Рельеф (Космоснимки)
-ParentSubMenu_ru=Космоснимки
+name_uk=Р РµР»СЊРµС„ (РљРѕСЃРјРѕСЃРЅРёРјРєРё)
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 ParentSubMenu=Kosmosnimki.ru
-ParentSubMenu_uk=Космоснимки
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=4F9F7CCCCBBC4BD08469F58C02F17AE4
 projection=2
 sradiusa=6378137

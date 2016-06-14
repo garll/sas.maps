@@ -1,6 +1,7 @@
+ο»Ώ
 [PARAMS]
 GUID={17903835-5F6A-45F4-8D34-AB1FAC648319}
-name_ru=Λσνΰ - Πελόετ (GoogleEarth)
+name_ru=Π›ΡƒΠ½Π° - Π ΠµΠ»ΡΠµΡ„ (GoogleEarth)
 name=Moon - Terrain (GoogleEarth)
 ParentSubMenu=GoogleEarth
 asLayer=1

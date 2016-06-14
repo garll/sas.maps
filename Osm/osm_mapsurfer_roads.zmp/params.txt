@@ -1,10 +1,11 @@
+ï»¿
 [PARAMS]
 pnum=117
 GUID={86F6B3A5-B04F-4446-A979-CBAA9DC783EB}
 asLayer=1
-name_ru=OpenMapSurfer (ãèáðèä)
+name_ru=OpenMapSurfer (Ð³Ð¸Ð±Ñ€Ð¸Ð´)
 name=OpenMapSurfer (hybrid)
-name_uk=OpenMapSurfer (ã³áðèä)
+name_uk=OpenMapSurfer (Ð³Ñ–Ð±Ñ€Ð¸Ð´)
 NameInCache=OSM_mapsurfer_hybrid
 DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/hybrid/
 ContentType=image/png
@@ -15,4 +16,4 @@ sradiusb=6378137
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
-License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
+License=Map data Â© OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

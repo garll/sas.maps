@@ -1,7 +1,8 @@
+п»ї
 [PARAMS]
 pnum=3005
 GUID={10999B94-B2D3-4EFF-A1CD-0A26DF7467F6}
-name_ru=Небо (GeoCacher via http)
+name_ru=РќРµР±Рѕ (GeoCacher via http)
 name=Sky (GeoCacher via http)
 ParentSubMenu=GoogleEarth
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=sky&ver=0&date=0&

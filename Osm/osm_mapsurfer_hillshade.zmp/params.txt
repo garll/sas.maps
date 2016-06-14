@@ -1,10 +1,11 @@
+ο»Ώ
 [PARAMS]
 pnum=118
 GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
 asLayer=1
-name_ru=OpenMapSurfer (πελόετ)
+name_ru=OpenMapSurfer (Ρ€ΠµΠ»ΡΠµΡ„)
 name=OpenMapSurfer (hillshade)
-name_uk=OpenMapSurfer (πελόΊτ)
+name_uk=OpenMapSurfer (Ρ€ΠµΠ»ΡΡ”Ρ„)
 NameInCache=OSM_mapsurfer_hillshade
 DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/asterh/
 ContentType=image/png
@@ -15,4 +16,4 @@ sradiusb=6378137
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
-License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
+License=Map data Β© OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

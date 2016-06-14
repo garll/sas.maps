@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=2
 GUID={CBA03063-23D9-4FA4-931A-9182B98644B1}
-name_ru=Карта (Google)
+name_ru=РљР°СЂС‚Р° (Google)
 name=Map (Google)
-name_uk=Карта (Google)
+name_uk=РљР°СЂС‚Р° (Google)
 ParentSubMenu=Google
 DefURLBase=http://mt.google.com/vt/lyrs=m@169000000&hl=ru
 projection=1

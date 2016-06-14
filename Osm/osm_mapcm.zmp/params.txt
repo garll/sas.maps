@@ -1,8 +1,9 @@
+п»ї
 [PARAMS]
 pnum=115
 GUID={D64B56B5-4B72-4EB1-8552-3D211A7A3580}
 name=OpenStreetMap Cycle Map
-name_uk=Вело-карта (OpenStreetMap)
+name_uk=Р’РµР»Рѕ-РєР°СЂС‚Р° (OpenStreetMap)
 NameInCache=osm_CycleMap
 DefURLBase=http://a.tile.opencyclemap.org/cycle
 ContentType=image/png
@@ -14,4 +15,4 @@ DefHotKey=48
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
-License=© OpenStreetMap contributors, CC-BY-SA. Tiles courtesy of Andy Allan.
+License=В© OpenStreetMap contributors, CC-BY-SA. Tiles courtesy of Andy Allan.

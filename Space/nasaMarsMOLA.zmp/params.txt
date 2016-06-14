@@ -1,3 +1,4 @@
+п»ї
 [PARAMS]
 pnum=43
 GUID={9AB93964-2210-4528-84FD-5EA16E63CBD1}
@@ -5,9 +6,9 @@ name=Mars MOLA (NASA)
 NameInCache=nasaMarsMOLA
 DefURLBase=http://OnMars.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=moc_na&styles=color&srs=IAU2000:49900&format=image/jpeg&bbox=
 ContentType=image/jpeg
-ParentSubMenu_ru=Космос
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃ
 ParentSubMenu=Space
-ParentSubMenu_uk=Космос
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃ
 Ext=.jpg
 projection=1
 sradiusa=3396190

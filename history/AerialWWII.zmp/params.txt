@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=36
 GUID={ACFE8DA0-BAF5-42FE-B8C1-9BFD4C54BF0A}
-name_ru=Аэрофотосъемка ВОВ (sasgis.ru)
+name_ru=РђСЌСЂРѕС„РѕС‚РѕСЃСЉРµРјРєР° Р’РћР’ (sasgis.ru)
 name=Aerial WWII (sasgis.ru)
-name_uk=Аерофотозйомка Другої світової війни (sasgis.ru)
+name_uk=РђРµСЂРѕС„РѕС‚РѕР·Р№РѕРјРєР° Р”СЂСѓРіРѕС— СЃРІС–С‚РѕРІРѕС— РІС–Р№РЅРё (sasgis.ru)
 NameInCache=AerialWWII
 DefURLBase=http://17200.selcdn.ru/AerialWWII/
 ContentType=image/jpeg
-ParentSubMenu_ru=Исторические
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ
 ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–
 Ext=.jpg
 projection=1
 sradiusa=6378137

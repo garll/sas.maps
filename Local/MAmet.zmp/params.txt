@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=180
 GUID={8731EA1E-3D3F-4EBB-9422-9C3D642E32D5}
-name_ru=Эстония (Maaamet aero)
+name_ru=Р­СЃС‚РѕРЅРёСЏ (Maaamet aero)
 name=Eesti (Maaamet aero)
-name_uk=Естонія (Maaamet aero)
+name_uk=Р•СЃС‚РѕРЅС–СЏ (Maaamet aero)
 NameInCache=mametfull
 DefURLBase=http://xgis.maaamet.ee/wms-pub/alus-geo?VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG:4326&LAYERS=of10000,CORINE,BAASKAART,HALDUSPIIRID,MAANTEED,KYLAD,TOPOYKSUS_6569,TOPOYKSUS_7793&TRANSPARENT=TRUE&FORMAT=image/jpeg&WIDTH=256&HEIGHT=298&BBOX=
 ContentType=image/jpeg
@@ -11,9 +12,9 @@ TileRLeft=0
 TileRTop=0
 TileRRight=256
 TileRBottom=256
-ParentSubMenu_ru=Локальные карты
+ParentSubMenu_ru=Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
 ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+ParentSubMenu_uk=Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
 Ext=.jpg
 projection=1
 sradiusa=6378137

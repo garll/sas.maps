@@ -1,6 +1,7 @@
+ο»Ώ
 [PARAMS]
 GUID={309B0BF2-AC93-4A97-8DA3-E13FE6B8E95F}
-name_ru=Μΰπρ - Πελόετ (GoogleEarth)
+name_ru=ΠΠ°Ρ€Ρ - Π ΠµΠ»ΡΠµΡ„ (GoogleEarth)
 name=Mars - Terrain (GoogleEarth)
 ParentSubMenu=GoogleEarth
 asLayer=1

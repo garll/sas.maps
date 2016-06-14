@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=14
 GUID={537D3B02-42BC-4138-9F43-93BA68196BAB}
-name_ru=Карта (Карты@mail)
+name_ru=РљР°СЂС‚Р° (РљР°СЂС‚С‹@mail)
 name=Map (Maps@mail)
-name_uk=Карта (Карты@Mail.Ru)
+name_uk=РљР°СЂС‚Р° (РљР°СЂС‚С‹@Mail.Ru)
 NameInCache=mail_map
 DefURLBase=http://t.maps.mail.ru/tiles/scheme/
 ContentType=image/png

@@ -1,10 +1,11 @@
+п»ї
 [PARAMS]
 pnum=48
 GUID={12A22AAD-E93E-4F2C-B48C-683C24A95C72}
 asLayer=1
-name_ru=Пробки (Карты@mail)
+name_ru=РџСЂРѕР±РєРё (РљР°СЂС‚С‹@mail)
 name=Map Traffic (Maps@mail)
-name_uk=Пробки (Карты@Mail.Ru)
+name_uk=РџСЂРѕР±РєРё (РљР°СЂС‚С‹@Mail.Ru)
 NameInCache=MailTraf
 DefURLBase=http://j5.maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&162892
 ContentType=image/png

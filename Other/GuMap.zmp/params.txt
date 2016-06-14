@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=13
 GUID={F7DEBECA-2915-47D5-A484-25C8B291ECE8}
-name_ru=Карта (Gurtam)
+name_ru=РљР°СЂС‚Р° (Gurtam)
 name=Map (Gurtam)
-name_uk=Карта (Gurtam)
-ParentSubMenu_ru=Другие карты
+name_uk=РљР°СЂС‚Р° (Gurtam)
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=gumap
 DefURLBase=http://render.mapsviewer.com/wialonb3.gurtam.com/gis_render/
 ContentType=image/png

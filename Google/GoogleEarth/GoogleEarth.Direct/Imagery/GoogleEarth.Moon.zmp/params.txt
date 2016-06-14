@@ -1,7 +1,8 @@
+Ôªø
 [PARAMS]
 pnum=1004
 GUID={F48E461B-8670-4C6A-B43E-E51C96AE79D2}
-name_ru=ÀÛÌ‡ (GoogleEarth)
+name_ru=–õ—É–Ω–∞ (GoogleEarth)
 name=Moon (GoogleEarth)
 ParentSubMenu=GoogleEarth
 EPSG=4326

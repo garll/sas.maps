@@ -1,12 +1,13 @@
+п»ї
 [PARAMS]
 pnum=6
 GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
-name_ru=Спутник (Kosmosnimki.ru)
+name_ru=РЎРїСѓС‚РЅРёРє (Kosmosnimki.ru)
 name=Satellite (Kosmosnimki.ru)
-name_uk=Супутник (Космоснимки)
-ParentSubMenu_ru=Космоснимки
+name_uk=РЎСѓРїСѓС‚РЅРёРє (РљРѕСЃРјРѕСЃРЅРёРјРєРё)
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 ParentSubMenu=Kosmosnimki.ru
-ParentSubMenu_uk=Космоснимки
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃРЅРёРјРєРё
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=C9458F2DCB754CEEACC54216C7D1EB0A&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprZwdNTe8K52GCEZ05UjtRHWkQiIvj59%2B3TxpIuoGkPa2pC9bqYSZzuqxRTJWSq%2BZesqY2iBhDxA%2B9dvtAOYOrfLPezHlD0%2BjNvnRofacpZJURVhm5x5CjPeafTvXxVPDz
 projection=2
 sradiusa=6378137

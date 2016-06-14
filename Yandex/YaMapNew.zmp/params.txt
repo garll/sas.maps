@@ -1,12 +1,13 @@
+ο»Ώ
 [PARAMS]
 pnum=5
 GUID={8238C84A-D37E-45E1-A735-FBCFBCD4168C}
-name_ru=Κΰπςΰ (ίνδεκρ.Κΰπςϋ)
+name_ru=ΠΠ°Ρ€Ρ‚Π° (Π―Π½Π΄ΠµΠΊΡ.ΠΠ°Ρ€Ρ‚Ρ‹)
 name=Map (Yandex.Maps)
-name_uk=Κΰπςΰ (ίνδεκρ.Κΰπςϋ)
-ParentSubMenu_ru=ίνδεκρ
+name_uk=ΠΠ°Ρ€Ρ‚Π° (Π―Π½Π΄ΠµΠΊΡ.ΠΠ°Ρ€Ρ‚Ρ‹)
+ParentSubMenu_ru=Π―Π½Π΄ΠµΠΊΡ
 ParentSubMenu=Yandex
-ParentSubMenu_uk=ίνδεκρ
+ParentSubMenu_uk=Π―Π½Π΄ΠµΠΊΡ
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&x=
 projection=2
 sradiusa=6378137

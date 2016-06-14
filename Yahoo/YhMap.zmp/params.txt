@@ -1,9 +1,10 @@
+п»ї
 [PARAMS]
 pnum=12
 GUID={A318A8D6-6320-4EE1-A57F-4B142DD490B6}
-name_ru=Карта (Yahoo!)
+name_ru=РљР°СЂС‚Р° (Yahoo!)
 name=Map (Yahoo!)
-name_uk=Карта (Yahoo!)
+name_uk=РљР°СЂС‚Р° (Yahoo!)
 ParentSubMenu=Yahoo!
 NameInCache=yhmap
 DefURLBase=http://us.maps1.yimg.com/us.tile.maps.yimg.com/tl?v=4.3&md=2&r=1

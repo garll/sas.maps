@@ -1,15 +1,16 @@
+п»ї
 [PARAMS]
 pnum=29
 GUID={3B7C647C-E9DB-40A1-A21A-71BC6E9190C8}
-name_ru=Луна (Google)
+name_ru=Р›СѓРЅР° (Google)
 name=Moon (Google)
-name_uk=Місяць (Google)
+name_uk=РњС–СЃСЏС†СЊ (Google)
 NameInCache=moon
 DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/apollo/
 ContentType=image/jpeg
-ParentSubMenu_ru=Космос
+ParentSubMenu_ru=РљРѕСЃРјРѕСЃ
 ParentSubMenu=Space
-ParentSubMenu_uk=Космос
+ParentSubMenu_uk=РљРѕСЃРјРѕСЃ
 Ext=.jpg
 projection=1
 sradiusa=1737400

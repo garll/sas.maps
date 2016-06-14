@@ -1,9 +1,10 @@
+ο»Ώ
 [PARAMS]
 pnum=1003
 GUID={30D412DE-6756-42E0-BFFB-C765901CC2B7}
-name_ru=Μΰπρ (GoogleEarth)
+name_ru=ΠΠ°Ρ€Ρ (GoogleEarth)
 name=Mars (GoogleEarth)
-name_uk=Μΰπρ (GoogleEarth)
+name_uk=ΠΠ°Ρ€Ρ (GoogleEarth)
 ParentSubMenu=GoogleEarth
 EPSG=4326
 CacheType=5

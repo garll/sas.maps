@@ -1,11 +1,12 @@
+п»ї
 [PARAMS]
 pnum=17
 GUID={499050C1-2CFD-4DAE-8F86-42390FD7AC3D}
-name_ru=Кавказский край 5-верстка. 1926г.
+name_ru=РљР°РІРєР°Р·СЃРєРёР№ РєСЂР°Р№ 5-РІРµСЂСЃС‚РєР°. 1926Рі.
 name=Kavkaz 5-v. 1926
-ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\РљР°РІРєР°Р·
 ParentSubMenu=Historic\Kavkaz
-ParentSubMenu_uk=Історичні\Кавказ
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\РљР°РІРєР°Р·
 DefURLBase=http://91.237.82.95:8088/pub/historic/5v_kavkaz/
 projection=1
 sradiusa=6378137

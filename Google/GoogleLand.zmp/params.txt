@@ -1,9 +1,10 @@
+Ôªø
 [PARAMS]
 pnum=3
 GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
-name_ru=À‡Ì‰¯‡ÙÚ (Google)
+name_ru=–õ–∞–Ω–¥—à–∞—Ñ—Ç (Google)
 name=Landscape (Google)
-name_uk=À‡Ì‰¯‡ÙÚ (Google)
+name_uk=–õ–∞–Ω–¥—à–∞—Ñ—Ç (Google)
 ParentSubMenu=Google
 DefURLBase=http://mt.google.com/vt/lyrs=t@130,r@206000000&hl=ru
 projection=1
