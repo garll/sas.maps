@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=17
+GUID={F198EF43-EA9D-4C32-B76A-64A8C7A508F8}
+name_ru=Горный Крым 2010
+name=Krim's Mountain 2010
+name_uk=Горный Крым 2010
+ParentSubMenu_ru=Туристические\Крым
+ParentSubMenu=Tourism\Crimea
+DefURLBase=http://91.237.82.95:8088/pub/tourism/crimea2010/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=crimea2010
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
