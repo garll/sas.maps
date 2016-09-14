@@ -18,6 +18,6 @@
 <br>
 
 
-<img width=640px height=480px src="http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_kavkaz/legend.jpg&path1=/mnt/HD/HD_a2/pub/historic/5v_kavkaz/legend.jpg&name=legend.jpg&type=JPEG+Image&browser=iee)"></img>
+<img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/legend.jpg"></img>
 <br>
-<img width=640px height=480px src="http://91.237.82.95:8080/cgi-bin/webfile_mgr.cgi?cmd=cgi_download&path=/mnt/HD/HD_a2/pub/historic/5v_kavkaz/legend2.jpg&path1=/mnt/HD/HD_a2/pub/historic/5v_kavkaz/legend2.jpg&name=legend2.jpg&type=JPEG+Image&browser=iee)"></img>
+<img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/legend2.jpg"></img>
