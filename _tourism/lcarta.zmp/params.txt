@@ -9,7 +9,6 @@ DefURLBase=http://91.237.82.95:8088/pub/tourism/lcarta/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=4
 NameInCache=lcarta
 Ext=.jpg
 License=© Λÿοθν Β.Γ. 2013

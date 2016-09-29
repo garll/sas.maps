@@ -9,7 +9,6 @@ DefURLBase=http://91.237.82.95:8088/pub/tourism/wkavkaz_kot/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=4
 NameInCache=wkavkaz_kot
 Ext=.jpg
 defaultContentType=image/jpeg
