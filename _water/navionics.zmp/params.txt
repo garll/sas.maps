@@ -11,4 +11,4 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 IsUseDownloaderInScript=1
-RequestHead=Referer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html
+RequestHead=Referer: http://webapp.navionics.com/

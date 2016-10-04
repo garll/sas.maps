@@ -50,8 +50,8 @@ begin
   
   if (Result = '') and Assigned(Downloader) then begin    
     VTimeStamp := IntToStr(GetUnixTime);    
-    VRequestUrl := 'https://backend.navionics.io/tile/get_key/Navionics_internalpurpose_00001/webapiv2.navionics.com?_=' + VTimeStamp;
-    VRequestHeader := 'Origin: https://webapiv2.navionics.com' + #13#10 + 'Referer: https://webapiv2.navionics.com/examples/4000_gNavionicsOverlayExample.html';
+    VRequestUrl := 'http://backend.navionics.io/tile/get_key/Navionics_internalpurpose_00001/webapp.navionics.com?_=' + VTimeStamp;
+    VRequestHeader := 'Origin: http://webapp.navionics.com' + #13#10 + 'Referer: http://webapp.navionics.com/';
     VResponseHeader := '';
     VResponseData := ''; 
     VResponseCode := Downloader.DoHttpRequest(VRequestUrl, VRequestHeader, '', VResponseHeader, VResponseData);
