@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=17
+GUID={172A6A22-BE07-4D08-B120-737FE2613B28}
+name_ru=Горы Хибинские тундры
+name=Hibins mountain
+ParentSubMenu_ru=Туристические\Карелия
+ParentSubMenu=Tourism\Karelia
+DefURLBase=http://91.237.82.95:8088/pub/tourism/karelia/hibin2lvch/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=hibin2lvch
+Ext=.png
+ContentType="image/png"
+MaxConnectToServerCount=1
+

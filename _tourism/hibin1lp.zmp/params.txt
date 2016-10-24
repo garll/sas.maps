@@ -3,9 +3,9 @@ pnum=17
 GUID={BB99C55C-4B99-43AB-B585-0F6246D8FB0A}
 name_ru=Хибинские и Ловоозерские тундры
 name=Hibins tundra
-ParentSubMenu_ru=Туристические
-ParentSubMenu=Tourism
-DefURLBase=http://91.237.82.95:8088/pub/tourism/hibin1lp/
+ParentSubMenu_ru=Туристические\Карелия
+ParentSubMenu=Tourism\Karelia
+DefURLBase=http://91.237.82.95:8088/pub/tourism/karelia/hibin1lp/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -13,4 +13,3 @@ NameInCache=hibin1lp
 Ext=.jpg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
-

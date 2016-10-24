@@ -1,0 +1,16 @@
+[PARAMS]
+pnum=17
+GUID={FCE179C1-95D6-43F2-9E26-6E89C5E2F7C3}
+name_ru=схема р.Чусовой
+name=Chusovaya River
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
+DefURLBase=http://91.237.82.95:8088/pub/water/chusovaya/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=chusovaya
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"
+MaxConnectToServerCount=1
