@@ -1,0 +1,18 @@
+[PARAMS]
+pnum=5
+GUID={38E29DB4-AAA4-5D08-836C-936325F0B63A}
+asLayer=1
+name_ru=Народная Карта Яндекс - Треки
+name=Yandex Narod Map Tracks
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
+ParentSubMenu_uk=Яндекс
+NameInCache=yandextracks
+DefURLBase=https://gps-tiles.maps.yandex.net/tiles?style=point&x=
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+UseDwn=1
+DefHotKey=16440
