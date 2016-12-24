@@ -1,3 +1,13 @@
-﻿begin
-  ResultURL:=GetURLBase+'z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png';
+var
+ r: integer;
+ BaseUrl: string;
+begin
+  r := random(2);
+
+  case r of
+   0: BaseUrl := GetURLBase;
+   1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088/pub', 'maps.melda.ru');
+  end;
+
+  ResultURL:= BaseUrl+'z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.jpg';
 end.
