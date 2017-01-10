@@ -1,0 +1,18 @@
+[PARAMS]
+GUID={dc5600ae-2507-4a2b-a6e4-4b2270575020}
+name=МТС 4G
+name_en=MTS 4G
+name_uk=MTS 4G
+ParentSubMenu=Cотовые сети
+ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_uk=Mobile coverage area
+asLayer=1
+DefURLBase=http://tiles.mts.ru/LTE_New/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.mts.4g
+Ext=.png
+UseDwn=1
+Sleep=0
+ContentType=image/png

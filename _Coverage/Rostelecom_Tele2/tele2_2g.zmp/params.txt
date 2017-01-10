@@ -1,0 +1,15 @@
+﻿[PARAMS]
+GUID={68854321-4345-4387-9BE2-D2764677117E}
+asLayer=1
+name_ru=Ростелеком 2G
+name=Rostelekom 2G
+name_uk=Ростелеком 2G
+ParentSubMenu=Cотовые сети
+ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_uk=Mobile coverage area
+NameInCache=cover.rostelekom.2g
+DefURLBase=http://tele2.tilessputnik.ru/tiles/
+ContentType=image/png
+Ext=.png
+UseDwn=1
+License=(c) Ростелеком, sputnik.ru, Tele2

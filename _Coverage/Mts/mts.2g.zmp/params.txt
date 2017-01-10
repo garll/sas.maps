@@ -1,0 +1,20 @@
+[PARAMS]
+GUID={0bffa4e0-852b-4bee-b8d7-7b43297400c3}
+name=МТС 2G
+name_en=MTS 2G
+name_uk=MTS 2G
+ParentSubMenu=Cотовые сети
+ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_uk=Mobile coverage area
+asLayer=1
+DefURLBase=http://tiles.mts.ru/G2_New/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.mts.2g
+Ext=.png
+UseDwn=1
+Sleep=0
+ContentType=image/png
+
+

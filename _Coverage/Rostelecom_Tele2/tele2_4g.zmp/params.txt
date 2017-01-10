@@ -1,0 +1,15 @@
+﻿[PARAMS]
+GUID={63573689-ABCD-4387-9BE2-CDE83888321E}
+asLayer=1
+name_ru=Ростелеком 4G
+name=Rostelecom.ru 4G
+name_uk=Ростелеком 4G
+ParentSubMenu=Cотовые сети
+ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_uk=Mobile coverage area
+NameInCache=cover.rostelekom.4g
+DefURLBase=http://tele2.tilessputnik.ru/tiles4g/
+ContentType=image/png
+Ext=.png
+UseDwn=1
+License=(c) Ростелеком, sputnik.ru, Tele2

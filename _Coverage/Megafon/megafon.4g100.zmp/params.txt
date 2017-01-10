@@ -1,0 +1,18 @@
+[PARAMS]
+GUID={0b133330-866b-466e-b8d7-7b43297400c3}
+name=Мегафон 4G
+name_en=Megafon 4G
+name_uk=Megafon 4G
+ParentSubMenu=Cотовые сети
+ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_uk=Mobile coverage area
+asLayer=1
+DefURLBase=http://yamap.megafon.ru/lte/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.megafon.4g100
+Ext=.png
+UseDwn=1
+Sleep=0
+ContentType=image/png
