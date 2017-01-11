@@ -1,10 +1,10 @@
 [PARAMS]
 GUID={0b111110-866b-466e-b8d7-7b43297400c3}
-name=Мегафон 2G GSM
-name_en=Megafon 2G GSM
+name_ru=Мегафон 2G GSM
+name=Megafon 2G GSM
 name_uk=Megafon 2G GSM
-ParentSubMenu=Cотовые сети
-ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_ru=Cотовые сети
+ParentSubMenu=Mobile coverage area
 ParentSubMenu_uk=Mobile coverage area
 asLayer=1
 DefURLBase=http://yamap.megafon.ru/g2/
@@ -13,8 +13,6 @@ sradiusa=6378137
 sradiusb=6356752
 NameInCache=cover.megafon.2g
 Ext=.png
-UseDwn=1
-Sleep=0
 ContentType=image/png
 
 

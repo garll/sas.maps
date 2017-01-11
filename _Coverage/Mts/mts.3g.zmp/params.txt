@@ -1,10 +1,10 @@
 [PARAMS]
 GUID={ce276b7a-a0e3-47a4-bb66-af84b817801d}
-name=МТС 3G
-name_en=MTS 3G
+name_ru=МТС 3G
+name=MTS 3G
 name_uk=MTS 3G
-ParentSubMenu=Cотовые сети
-ParentSubMenu_en=Mobile coverage area
+ParentSubMenu_ru=Cотовые сети
+ParentSubMenu=Mobile coverage area
 ParentSubMenu_uk=Mobile coverage area
 asLayer=1
 DefURLBase=http://tiles.mts.ru/G3_New/
@@ -13,6 +13,4 @@ sradiusa=6378137
 sradiusb=6356752
 NameInCache=cover.mts.3g
 Ext=.png
-UseDwn=1
-Sleep=0
 ContentType=image/png
