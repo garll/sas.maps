@@ -2,10 +2,8 @@
 GUID={ce276b7a-a0e3-47a4-bb66-af84b817801d}
 name_ru=МТС 3G
 name=MTS 3G
-name_uk=MTS 3G
 ParentSubMenu_ru=Cотовые сети
 ParentSubMenu=Mobile coverage area
-ParentSubMenu_uk=Mobile coverage area
 asLayer=1
 DefURLBase=http://tiles.mts.ru/G3_New/
 projection=2

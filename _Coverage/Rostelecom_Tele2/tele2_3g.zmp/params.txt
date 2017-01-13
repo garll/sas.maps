@@ -6,7 +6,6 @@ name=Rostelecom.ru 3G
 name_uk=Ростелеком 3G
 ParentSubMenu_ru=Cотовые сети
 ParentSubMenu=Mobile coverage area
-ParentSubMenu_uk=Mobile coverage area
 NameInCache=cover.rostelecom.3g
 DefURLBase=http://tele2.tilessputnik.ru/tiles3g/
 ContentType=image/png

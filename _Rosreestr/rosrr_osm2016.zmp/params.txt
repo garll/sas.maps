@@ -1,8 +1,6 @@
 [PARAMS]
 GUID={A23D8EB1-0C9B-445C-9891-31416668C199}
-name_ru=Openstreetmap2016 (rosreestr.ru)
 name=Openstreetmap2016 (rosreestr.ru)
-name_uk=Openstreetmap2016 (rosreestr.ru)
 ParentSubMenu_ru=Другие карты
 ParentSubMenu_uk=Інші карти
 ParentSubMenu=Other maps

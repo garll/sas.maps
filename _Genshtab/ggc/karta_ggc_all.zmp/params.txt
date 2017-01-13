@@ -4,7 +4,6 @@ pnum=245
 GUID={A5818433-0C11-4C67-B025-D51CE1076000}
 name_ru=ГосГисЦентр (все масштабы)
 name=GosGisCentr 
-name_uk=GosGisCentr 
 NameInCache=ggc_all
 DefURLBase=http://91.237.82.95:8088/pub/ggc/
 defaultContentType=image/png

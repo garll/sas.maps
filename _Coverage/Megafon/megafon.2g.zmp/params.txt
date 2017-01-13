@@ -2,10 +2,8 @@
 GUID={0b111110-866b-466e-b8d7-7b43297400c3}
 name_ru=Мегафон 2G GSM
 name=Megafon 2G GSM
-name_uk=Megafon 2G GSM
 ParentSubMenu_ru=Cотовые сети
 ParentSubMenu=Mobile coverage area
-ParentSubMenu_uk=Mobile coverage area
 asLayer=1
 DefURLBase=http://yamap.megafon.ru/g2/
 projection=2

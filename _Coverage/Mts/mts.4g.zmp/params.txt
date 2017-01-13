@@ -2,10 +2,8 @@
 GUID={dc5600ae-2507-4a2b-a6e4-4b2270575020}
 name_ru=МТС 4G
 name=MTS 4G
-name_uk=MTS 4G
 ParentSubMenu_ru=Cотовые сети
 ParentSubMenu=Mobile coverage area
-ParentSubMenu_uk=Mobile coverage area
 asLayer=1
 DefURLBase=http://tiles.mts.ru/LTE_New/
 projection=2
