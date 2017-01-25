@@ -17,3 +17,4 @@ sradiusb=6378137
 DefHotKey=50
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

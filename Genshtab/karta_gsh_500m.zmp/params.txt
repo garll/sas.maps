@@ -17,3 +17,4 @@ sradiusa=6378137
 sradiusb=6378137
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

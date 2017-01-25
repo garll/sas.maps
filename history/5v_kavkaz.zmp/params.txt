@@ -16,3 +16,4 @@ Ext=.jpg
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1
