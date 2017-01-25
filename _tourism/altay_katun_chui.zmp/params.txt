@@ -1,4 +1,5 @@
-﻿[PARAMS]
+﻿
+[PARAMS]
 pnum=17
 GUID={75F48FFC-0895-4218-968B-9B248DEC4C2C}
 name_ru=Хребтовка Катунского, Чуйских хребтов (Алтай)
@@ -13,4 +14,4 @@ NameInCache=altay_katun_chui
 Ext=.png
 ContentType="image/png"
 MaxConnectToServerCount=1
-
+IsUseDownloaderInScript=1

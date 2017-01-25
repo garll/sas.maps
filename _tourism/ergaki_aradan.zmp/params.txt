@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={F923688D-2C5B-4B30-A080-941AB3253EFA}
@@ -15,3 +16,4 @@ defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
 License=(c) Шишкин Сергей. shandl.ru
+IsUseDownloaderInScript=1

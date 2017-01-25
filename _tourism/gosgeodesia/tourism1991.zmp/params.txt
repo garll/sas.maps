@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
@@ -14,3 +15,4 @@ Ext=.jpg
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

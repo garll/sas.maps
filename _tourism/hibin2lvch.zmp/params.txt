@@ -1,4 +1,5 @@
-﻿[PARAMS]
+﻿
+[PARAMS]
 pnum=17
 GUID={172A6A22-BE07-4D08-B120-737FE2613B28}
 name_ru=Горы Хибинские тундры
@@ -13,4 +14,4 @@ NameInCache=hibin2lvch
 Ext=.png
 ContentType="image/png"
 MaxConnectToServerCount=1
-
+IsUseDownloaderInScript=1

@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={8834EDB4-532C-469D-B156-C811E0A93FB9}
@@ -15,3 +16,4 @@ defaultContentType=image/png
 ContentType="image/png"
 License=© Владислав Завьялов, slazav.livejournal.com
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

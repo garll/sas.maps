@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=139
 GUID={7D47D2E6-9410-4181-B2F1-224A4880E698}
@@ -17,3 +18,4 @@ sradiusb=6378137
 separator=1
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

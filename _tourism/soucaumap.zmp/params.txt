@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={63F20739-EAD8-44F4-B71A-EAFD26E83055}
@@ -16,3 +17,4 @@ License=© Михаила Голубев, caucatalog.narod.ru
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

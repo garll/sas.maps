@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={7883C9C4-C669-43CE-83B7-FCCE92F6DD4E}
@@ -15,3 +16,4 @@ defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
 License=westra.ru
+IsUseDownloaderInScript=1

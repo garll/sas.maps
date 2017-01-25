@@ -1,3 +1,4 @@
+
 [PARAMS]
 pnum=17
 GUID={C9B37420-DA1D-432D-B80C-816BD8116571}
@@ -16,3 +17,4 @@ defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
 License=© Λÿοθν Β.Γ.
+IsUseDownloaderInScript=1

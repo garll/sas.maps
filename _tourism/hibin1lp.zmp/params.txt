@@ -1,4 +1,5 @@
-﻿[PARAMS]
+﻿
+[PARAMS]
 pnum=17
 GUID={BB99C55C-4B99-43AB-B585-0F6246D8FB0A}
 name_ru=Хибинские и Ловоозерские тундры
@@ -13,3 +14,4 @@ NameInCache=hibin1lp
 Ext=.jpg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
+IsUseDownloaderInScript=1
