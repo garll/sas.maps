@@ -18,6 +18,10 @@
 <br>
 
 
+<img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/1_1923.jpg"></img>
+<br>
+<img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/2_1923.jpg"></img>
+<br>
 <img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/legend.jpg"></img>
 <br>
 <img width=640px height=480px src="http://91.237.82.95:8088/pub/historic/5v_kavkaz/legend2.jpg"></img>
