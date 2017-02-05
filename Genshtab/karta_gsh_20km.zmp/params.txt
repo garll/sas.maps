@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=142
+GUID={9a7a3df4-d219-4a4b-aa41-350809e30f88}
+name_ru=Генштаб 20 км
+name=Genshtab 20 km
+name_uk=Генштаб 20 км
+NameInCache=Genshtab20km
+DefURLBase=http://91.237.82.95:8088/pub/genshtab/20km/
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
+ParentSubMenu_uk=Генштаб
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1
