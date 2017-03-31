@@ -1,16 +1,16 @@
 [PARAMS]
 pnum=17
-GUID={482917F0-6A7F-43F6-958E-948C3F2364F1}
-name=RKKA Maps 1Km (1940)
-name_ru=Карты РККА 1Km (1940)
+GUID={67b3b18b-455b-4fea-aea5-e1d4d7ea00d6}
+name=RKKA Maps 2Km       
+name_ru=Карты РККА 2Km       
 ParentSubMenu=Historic\RKKA
 ParentSubMenu_ru=Исторические\РККА
 ParentSubMenu_uk=Історичні\РККА
-DefURLBase=http://91.237.82.95:8088/pub/historic/rkka/
+DefURLBase=http://91.237.82.95:8088/pub/historic/rkka2km/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-NameInCache=rkka_kavkaz
+NameInCache=rkka_2km
 Ext=.jpg
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
