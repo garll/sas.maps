@@ -14,7 +14,7 @@
 //******************************************************************************
 
 const
-  cReqParams = 'LAYERS=config_1_20.00_0&TRANSPARENT=FALSE&UGC=TRUE';
+  cReqParams = 'LAYERS=config_1_10.00_0&TRANSPARENT=FALSE&UGC=FALSE';
 
 //******************************************************************************
 
