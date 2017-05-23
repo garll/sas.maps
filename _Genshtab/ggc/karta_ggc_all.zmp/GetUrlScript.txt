@@ -10,9 +10,9 @@ begin
   end;
 
  if GetZ < 13 then
-   ResultURL := BaseUrl+'2km.png'+'/z'+inttostr(GetZ-1)+'/'+inttostr(GetY)+'/'+inttostr(GetX)+'.png'
+   ResultURL := BaseUrl+'2km.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
  else if getz <14 then
-   ResultURL := BaseUrl+'1km'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
+   ResultURL := BaseUrl+'1km.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
  else if getz <15 then
    ResultURL := BaseUrl+'500m.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
  else
