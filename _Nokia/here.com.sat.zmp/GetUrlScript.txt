@@ -1,6 +1,3 @@
-var
-  maptile: string;
 begin 
- maptile := RegExprReplaceMatchSubStr(GetURLBase, '1.\maps\.nlp', inttostr( Random(3)+1 )+'.maps.nlp' );
-  ResultURL:=maptile+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?lg=' + Version + '&app_id=SqE1xcSngCd3m4a1zEGb&token=r0sR1DzqDkS6sDnh902FWQ&xnlp=CL_JSMv2.5.0.3,SID_34725629-4FBE-4EA5-A2AB-52EA24DEA26F';
+  ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g';
 end.
