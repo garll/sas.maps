@@ -30,7 +30,8 @@ begin
   case r of
     0: BaseUrl := GetURLBase;
     1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088', 'maps.melda.ru');
-    2: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088/pub/genshtab', 't.caucasia.ru:80');
+// until dont update maps repo
+//    2: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088/pub/genshtab', 't.caucasia.ru:80'); 
   end;
 
   // Проверяем наличие масштаба
