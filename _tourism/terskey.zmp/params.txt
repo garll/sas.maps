@@ -9,7 +9,6 @@ DefURLBase=http://map.g-utka.ru/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-CACHETYPE=4
 NameInCache=Terskey
 Ext=.png
 UsePreloadPage=0

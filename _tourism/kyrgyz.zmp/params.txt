@@ -1,0 +1,19 @@
+
+[PARAMS]
+pnum=17
+GUID={6e2d3659-d51a-4121-8b38-9c96381370b3}
+name_ru=Схема-хребтовка Киргизского хребта.
+name=Kyrgyz ridge map
+ParentSubMenu_ru=Туристические\Киргизия
+ParentSubMenu=Tourism\Kyrgyz
+DefURLBase=http://91.237.82.95:8088/pub/tourism/kyrgyz/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=kyrgyz
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+License=© Александр Пуриков
+IsUseDownloaderInScript=1
