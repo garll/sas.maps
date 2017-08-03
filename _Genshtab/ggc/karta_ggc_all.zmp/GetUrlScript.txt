@@ -2,7 +2,11 @@ var
  r: integer;
  BaseUrl: string;
 begin
-  r := random(2);
+  // Выбор зеркала , если не указана версия
+  if version = '' then 
+    r := random(2)
+  else 
+    r := StrToInt(version);
 
   case r of
    0: BaseUrl := GetURLBase;
