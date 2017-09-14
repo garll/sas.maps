@@ -16,3 +16,4 @@ NameInCache=yasat
 Ext=.jpg
 DefHotKey=89
 ContentType=image/jpeg
+DetectContentType=1
