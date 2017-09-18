@@ -10,7 +10,7 @@ ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=WikiMap
 DefURLBase=http://i.wikimapia.org/?lng=1&
-ContentType=image/png,text/plain
+ContentType=image/png,image/x-png,text/plain
 Ext=.png
 projection=1
 sradiusa=6378137

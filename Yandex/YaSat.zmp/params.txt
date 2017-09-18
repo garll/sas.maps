@@ -15,5 +15,5 @@ sradiusb=6356752
 NameInCache=yasat
 Ext=.jpg
 DefHotKey=89
-ContentType=image/jpeg
+ContentType=image/jpeg,image/pjpeg
 DetectContentType=1
