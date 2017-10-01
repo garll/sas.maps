@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=245
+GUID={f1f94191-918c-490c-9d49-cead17db1140}
+name_ru=ГосГисЦентр 250 м (*.png)
+name=GosGisCentr 250 m (*.png)
+name_uk=GosGisCentr 250 м (*.png)
+NameInCache=genshtab250m
+DefURLBase=http://91.237.82.95:8088/pub/ggc/250m.png/
+defaultContentType=image/png
+IgnoreContentType=1
+ParentSubMenu_ru=Генштаб\ГГЦ
+ParentSubMenu=Genshtab\GGC
+ParentSubMenu_uk=Генштаб\GGC
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/png"
+
