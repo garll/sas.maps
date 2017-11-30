@@ -1,6 +1,0 @@
-var
-  tt: string;
-begin 
- tt := RegExprReplaceMatchSubStr(GetURLBase, 't\.maps', 't'+inttostr( Random(4) )+'maps' );
- ResultURL := tt + inttostr(Getz-1)+'/'+inttostr(GetY)+'/'+inttostr(GetX)+'.png';
-end.
