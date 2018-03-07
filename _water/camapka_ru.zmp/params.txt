@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=17
+GUID={FC871820-243C-4A04-88BD-3032AB7FCBA6}
+name_ru=Речная лоция Волги и Камы.
+name=Volga + Kama river
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
+DefURLBase=http://gmap.camapka.ru/lotsia/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=camapka.ru
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"
+MaxConnectToServerCount=1
+RequestHead=referer:http://camapka.ru/mapview/lotsia.htm
