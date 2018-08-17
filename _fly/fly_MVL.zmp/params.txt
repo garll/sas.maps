@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=999
+GUID={9a723df4-d219-4a4b-aa41-350809e30f88}
+name_ru=Лётные карты МВЛ
+name=Fly Maps MVL
+NameInCache=fly_MVL
+ParentSubMenu=Fly maps
+ParentSubMenu_ru=Лётныйе карты
+DefURLBase=http://91.237.82.95:8088/pub/other/mvl/
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/png"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

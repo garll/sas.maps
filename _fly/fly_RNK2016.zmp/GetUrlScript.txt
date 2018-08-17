@@ -1,0 +1,3 @@
+begin
+  ResultURL:= GetURLBase+'z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png';
+end.

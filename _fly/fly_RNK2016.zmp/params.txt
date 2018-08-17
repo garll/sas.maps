@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=999
+GUID={6edd7eac-e032-4758-88d6-a2937905c31a}
+name_ru=Лётные карты RNK2016
+name=Fly Maps RNK2016
+NameInCache=fly_RNK2016
+ParentSubMenu=Fly maps
+ParentSubMenu_ru=Лётныйе карты
+DefURLBase=http://91.237.82.95:8088/pub/other/rnk2016/
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/png"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1
