@@ -8,7 +8,7 @@ ParentSubMenu_ru=яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yandextracks
-DefURLBase=https://gps-tiles.maps.yandex.net/tiles?style=point&x=
+DefURLBase=https://core-gpstiles.maps.yandex.net/tiles?style=point&x=
 ContentType=image/png
 Ext=.png
 projection=2
