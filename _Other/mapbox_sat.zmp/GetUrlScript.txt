@@ -1,0 +1,6 @@
+var
+  tile: string;
+begin 
+ GetURLBase[9]:=chr(ord('a')+random(2));
+ ResultURL:=GetUrlBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
+end.
