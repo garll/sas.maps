@@ -1,0 +1,18 @@
+﻿[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DF5AC37E4777}
+asLayer=1
+name_ru=Mapbox.com (контуры высот)
+name=Mapbox.com (contours)
+name_uk=Mapbox.com (contours)
+NameInCache=OSM_mapbox_contours
+DefURLBase=https://api.mapbox.com/styles/v1/nnngrach/cjot2wu8l08d42rmyizof9alp/tiles/256/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=Mapbox
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

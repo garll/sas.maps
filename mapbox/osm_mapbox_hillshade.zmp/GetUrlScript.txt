@@ -1,0 +1,5 @@
+begin 
+
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'@2x?access_token=pk.eyJ1Ijoibm5uZ3JhY2giLCJhIjoiY2pvc3lwcDhwMHQwMzNxbGh5cmIzMzR5ayJ9.uW0dUw6sZCBcrL0cg0JgLA';
+
+end.

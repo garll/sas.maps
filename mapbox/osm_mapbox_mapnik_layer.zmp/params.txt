@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DF4AC37E4777}
+asLayer=1
+name_ru=Mapbox.com (mapnik layer)
+name=Mapbox.com (mapnik layer)
+name_uk=Mapbox.com (mapnik layer)
+NameInCache=OSM_mapbox_mapnik
+DefURLBase=https://api.mapbox.com/styles/v1/nnngrach/cjot3z99v0i5e2rqg319j4dxg/tiles/256/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=Mapbox
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
