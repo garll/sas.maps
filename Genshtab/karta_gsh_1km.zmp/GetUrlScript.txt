@@ -25,17 +25,17 @@ begin
   // Масштаба нет - говорить не о чем
   if getz >= z_no then exit;
 
-  // Выбор зеркала , если не указана версия
-  if version = '' then 
+  // Выбор зеркала, если не указана версия
+  if version = '' then
     r := random(2)
-  else 
+  else
     r := StrToInt(version);
 
   case r of
     0: BaseUrl := GetURLBase;
-    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088', 'maps.melda.ru');
+    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'http://91.237.82.95:8088', 'https://maps.melda.ru');
 // until dont update maps repo
-//    2: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088/pub/genshtab', 't.caucasia.ru:80'); 
+//    2: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088/pub/genshtab', 't.caucasia.ru:80');
   end;
 
   // Проверяем наличие масштаба
