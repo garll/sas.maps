@@ -6,8 +6,8 @@ begin
   Result := 1;
   if Assigned(Downloader) then begin
     VResponseHeader := '';
-    VResponseData := ''; 
-    VResponseCode := Downloader.DoHttpRequest(url, '', '', VResponseHeader, VResponseData);      
+    VResponseData := '';
+    VResponseCode := Downloader.DoHttpRequest(url, '', '', VResponseHeader, VResponseData);
     Result := VResponseCode;
   end;
 end;
@@ -25,11 +25,15 @@ begin
   // Масштаба нет - говорить не о чем
   if getz >= z_no then exit;
 
-  // Выбор зеркала
-  r := random(2);
+  // Выбор зеркала, если не указана версия
+  if version = '' then
+    r := random(2)
+  else
+    r := StrToInt(version);
+
   case r of
     0: BaseUrl := GetURLBase;
-    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088', 'maps.melda.ru');
+    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'http://91.237.82.95:8088', 'https://maps.melda.ru');
   end;
 
   // Проверяем наличие масштаба

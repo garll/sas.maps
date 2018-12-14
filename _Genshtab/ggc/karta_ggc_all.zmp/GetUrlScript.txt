@@ -2,15 +2,15 @@ var
  r: integer;
  BaseUrl: string;
 begin
-  // Выбор зеркала , если не указана версия
-  if version = '' then 
+  // Выбор зеркала, если не указана версия
+  if version = '' then
     r := random(2)
-  else 
+  else
     r := StrToInt(version);
 
   case r of
    0: BaseUrl := GetURLBase;
-   1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, '91.237.82.95:8088', 'maps.melda.ru');
+   1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'http://91.237.82.95:8088', 'https://maps.melda.ru');
   end;
 
  if GetZ < 13 then
