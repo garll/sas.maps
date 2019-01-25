@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=144
+GUID={AF077DC2-E749-4963-9C7D-DEAA705A18F6}
+name_ru=Генштаб 2km (new)
+name=Genshtab 2 km (new)
+name_uk=Генштаб 2 км (new)
+NameInCache=Genshtab2km_new
+DefURLBase=http://91.237.82.95:8088/pub/genshtab/2km.new/
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
+ParentSubMenu_uk=Генштаб
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+DefHotKey=50
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1
