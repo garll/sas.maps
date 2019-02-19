@@ -10,7 +10,7 @@ ParentSubMenu_ru=Яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=yatraf
-DefURLBase=http://jgo.maps.yandex.net/tiles?l=trf%2Ctrfe&x=
+DefURLBase=https://core-jams-rdr.maps.yandex.net/1.1/tiles?trf&l=trf&x=
 ContentType=image/png
 Ext=.png
 projection=2

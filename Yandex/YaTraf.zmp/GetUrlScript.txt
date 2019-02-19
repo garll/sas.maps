@@ -73,9 +73,9 @@ var
 begin
   ts := 0;
   if IsNeedUpdateTimeStamp(ADelta) then begin
-    stat_js := DownloadUrl('http://jgo.maps.yandex.net/trf/stat.js');
+    stat_js := DownloadUrl('https://api-maps.yandex.ru/services/coverage/v2/layers_stamps?l=trf');
     if stat_js <> '' then begin
-      ts_val := RegExprGetMatchSubStr(stat_js, 'timestamp:"(\d+)"', 1); 
+      ts_val := RegExprGetMatchSubStr(stat_js, '"version":"(\d+)"', 1); 
       if ts_val <> '' then begin
         ts := StrToInt(ts_val);
         SaveIntValue(ts_key, ts);
