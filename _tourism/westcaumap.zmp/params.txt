@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=17
 GUID={6AB93647-45C1-490C-AD5C-167CDDD5B5D4}
-name_ru=Схема перевалов Западного Кавказа 20.2.2014
-name=caucatalog.narod.ru westcaumap 20.2.2014
-name_uk=Схема перевалов Западного Кавказа 20.2.2014
+name_ru=Схема перевалов Западного Кавказа 02.2019
+name=caucatalog.narod.ru westcaumap 02.2019
+name_uk=Схема перевалов Западного Кавказа 02.2019
 ParentSubMenu_ru=Туристические\Кавказ
 ParentSubMenu=Tourism\Kavkaz
 DefURLBase=http://91.237.82.95:8088/pub/tourism/westcaumap/
@@ -13,7 +13,7 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=westcaumap
 Ext=.jpg
-License=© Михаила Голубев, caucatalog.narod.ru
+License=© Михаила Голубев, caucatalog.ru
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
