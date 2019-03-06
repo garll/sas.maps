@@ -1,8 +1,8 @@
 [PARAMS]
 pnum=17
 GUID={DA6A385B-F2A1-493A-BC9B-93FF43405C15}
-name_ru=Хребтовка Терскей-Алатау
-name=Terskey - Alatau
+name_ru=Хребтовка Тянь-Шаня и Джунгарии
+name=Tyan-shan + Djungary
 ParentSubMenu_ru=Туристические
 ParentSubMenu=Tourism
 DefURLBase=http://map.g-utka.ru/
@@ -13,4 +13,4 @@ NameInCache=Terskey
 Ext=.png
 UsePreloadPage=0
 ContentType=image/png
-
+License=Детско-юношеский туристский клуб "Гадкий утёнок"
