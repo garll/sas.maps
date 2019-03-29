@@ -8,6 +8,7 @@ NameInCache=Wiki
 DefURLBase=http://wikimapia.org/d?lng=1&BBOX=
 ContentType=text/xml; charset=UTF-8
 ParentSubMenu_ru=
+MainStorageContentType=application/vnd.sas.wikimapia.kml+xml
 Ext=.kml
 projection=1
 sradiusa=6378137

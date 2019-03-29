@@ -8,6 +8,7 @@ NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?all&LANG=ru_RU.utf8&BBOX=
 ContentType=application/vnd.google-earth.kml+xml; charset=utf-8
 MimeTypeSubst="""application/vnd.google-earth.kml+xml; charset=utf-8""=application/vnd.google-earth.kml+xml"
+MainStorageContentType=application/vnd.sas.wikimapia.kml+xml
 ParentSubMenu=Google
 Ext=.kml
 projection=1
