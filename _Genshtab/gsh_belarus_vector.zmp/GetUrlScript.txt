@@ -1,0 +1,6 @@
+begin
+  ResultURL := '';
+  if (GetZ >= 5) and (GetZ <= 16) then begin
+    ResultURL := GetURLBase + IntToStr(GetZ-1) + '/' + IntToStr(GetY) + '/' + IntToStr(GetX) + '.png';
+  end;
+end.

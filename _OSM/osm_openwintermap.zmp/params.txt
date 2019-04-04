@@ -1,0 +1,11 @@
+[PARAMS]
+GUID={D3465891-4553-4668-9223-DD569067900E}
+name=OpenWinterMap
+NameInCache=openwintermap
+DefURLBase=https://w3.outdooractive.com/map/v1/png/osm_winter
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu=OSM

@@ -1,0 +1,19 @@
+[PARAMS]
+pnum=42
+GUID={4A21F0A3-D083-4FBD-8A51-749640DBD117}
+asLayer=1
+name_ru=Высоты (heywhatsthat.com)
+name=Heights (heywhatsthat.com)
+ParentSubMenu_ru=Рельеф и тополинии
+ParentSubMenu=Hillshade
+ParentSubMenu_uk=Рельєф і тополинии
+NameInCache=contur
+DefURLBase=http://contour.heywhatsthat.com/api/contour_tiles_sasgis.png?src=sasgis&
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+Sleep=3333
+MaxConnectToServerCount=1
+License=(c) 2015 Michael Kosowsky

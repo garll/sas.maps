@@ -1,0 +1,21 @@
+[PARAMS]
+pnum=140
+GUID={4463DAE6-03C7-4189-80E5-29D43864F093}
+name_ru=Генштаб Беларусь векторный (globus.tut.by)
+name=Genshtab Belarus vector (globus.tut.by)
+NameInCache=vbgenshtabbelarus_vector
+ParentSubMenu_ru=Генштаб
+ParentSubMenu=Genshtab
+DefURLBase=https://globus.tut.by/.tiles/ev/Z
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=0
+Sleep=300
+BanIfLen=0

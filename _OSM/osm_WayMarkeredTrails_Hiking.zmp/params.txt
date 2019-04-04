@@ -1,0 +1,15 @@
+[PARAMS]
+GUID={1123ADB1-4561-4280-9225-D4690321117E}
+asLayer=1
+name=WayMarkeredTrails iking
+NameInCache=waymarkedtrails_hiking
+DefURLBase=https://tile.waymarkedtrails.org/hiking
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+DefHotKey=16463
+PARENTSUBMENU=Tracks
+RequestHead=Referer: http://www.openstreetmap.org/
+

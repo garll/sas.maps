@@ -1,0 +1,18 @@
+
+[PARAMS]
+pnum=17
+GUID={EC131932-0BC8-43BD-BBE6-30D0B230793F}
+name_ru=Национальный парк Таганай 2006
+name=Taganay National Park 2006
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
+DefURLBase=http://91.237.82.95:8088/pub/tourism/taganay/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=taganay
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

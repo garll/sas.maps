@@ -1,0 +1,21 @@
+﻿
+[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DB4AC37E4777}
+asLayer=1
+name_ru=Windy.com (рельеф)
+name=Windy.com (hillshade)
+name_uk=Windy.com (рельєф)
+NameInCache=OSM_windy_hillshade
+DefURLBase=https://tiles.windy.com/tiles/v8.1/darkmap/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Рельеф и тополинии
+ParentSubMenu=Hillshade
+ParentSubMenu_uk=Рельєф і тополинии
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
