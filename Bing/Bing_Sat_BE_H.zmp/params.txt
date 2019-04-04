@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=11
+GUID={9A360A5D-7A70-402D-8A11-D770BD739B6B}
+name_ru=Bing Maps - Bird's Eye Hybrid
+name=Bing Maps - Bird's Eye Hybrid
+name_uk=Bing Maps - Bird's Eye Hybrid
+ParentSubMenu=Bing
+DefURLBase=http://ak.dynamic.t{s}.tiles.virtualearth.net/comp/ch/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=vesatbird_H
+Ext=.jpg
+DefHotKey=86
+ContentType=image/jpeg; image/png
+version=0

@@ -16,3 +16,4 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 Sleep=100
+RequestHead=Referer: http://boxpis.ru/

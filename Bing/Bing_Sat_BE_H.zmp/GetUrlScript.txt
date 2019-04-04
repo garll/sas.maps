@@ -1,0 +1,42 @@
+var res:string;
+    i:byte;
+    osX,osY,prX,prY:integer;
+    processedUrlBase: string;
+begin
+   res:='';
+   osX:=round(intpower(2,GetZ-1)) div 2;
+   osY:=round(intpower(2,GetZ-1)) div 2;
+   prX:=osX; prY:=osY;
+   for i:=2 to GetZ do
+    begin
+    prX:=prX div 2;
+    prY:=prY div 2;
+    if GetX<osX
+     then begin
+           osX:=osX-prX;
+           if GetY<osY then begin
+                            osY:=osY-prY;
+                            res:=res+'0';
+                           end
+                      else begin
+                            osY:=osY+prY;
+                            res:=res+'2';
+                           end;
+          end
+     else begin
+           osX:=osX+prX;
+           if Gety<osy then begin
+                             osY:=osY-prY;
+                             res:=res+'1';
+                            end
+                     else begin
+                           osY:=osY+prY;
+                           res:=res+'3';
+                          end;
+         end;
+     end;
+
+ processedUrlBase := RegExprReplaceMatchSubStr(GetURLBase, '{s}', inttostr( Random(3)+1 ));
+
+ ResultURL:=processedUrlBase+res+'?mkt=ru-RU&it=A,G,L&shading=hill&og=8&n=z';
+end.

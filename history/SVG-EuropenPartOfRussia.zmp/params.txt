@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=36
+GUID={1B680F1C-AA42-4C17-AE06-B89273ACA59E}
+name_ru=Трехверстная военно-топографическая карта Европейской России (boxpis.ru)
+name=Europena part of Russia 3-ver. (boxpis.ru)
+name_uk=Трехверстная військово-топографічна карта Європейської Росії (boxpis.ru)
+NameInCache=SVG_EuropenRussia_boxpis
+DefURLBase=http://boxpis.ru/sas/SVG_3v_all/
+ContentType=image/jpeg
+ParentSubMenu_ru=Исторические
+ParentSubMenu=Historic
+ParentSubMenu_uk=Історичні
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+Sleep=100
+RequestHead=Referer: http://boxpis.ru/

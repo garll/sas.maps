@@ -10,10 +10,10 @@ ParentSubMenu=Other maps
 ParentSubMenu_uk=Інші карти
 NameInCache=WikiMap
 DefURLBase=http://i.wikimapia.org/?lng=1&
-ContentType=image/png,image/x-png,text/plain
+ContentType=image/png,application/octet-stream
 Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-MimeTypeSubst = "text/plain=image/png"
+MimeTypeSubst = "application/octet-stream=image/png"
