@@ -1,0 +1,15 @@
+﻿
+[PARAMS]
+pnum=999
+GUID={9a654df4-d219-4a4b-aa41-350809e30f34}
+name=Fly Maps baionline
+NameInCache=baionline
+ParentSubMenu=Fly maps
+ParentSubMenu_ru=Лётные карты
+DefURLBase=http://91.237.82.95:8088/pub/other/baionline2/
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/png"
+MaxConnectToServerCount=1
