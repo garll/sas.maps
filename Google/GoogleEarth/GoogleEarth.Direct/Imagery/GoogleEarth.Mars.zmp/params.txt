@@ -9,9 +9,10 @@ ParentSubMenu=GoogleEarth
 EPSG=4326
 CacheType=5
 NameInCache=mars
-DelAfterShow=0
 Ext=.jpg
 UseDwn=0
+IsReadOnly=1
+AllowScan=0
 ContentType=image/jpeg
 [ViewInfo]
 EPSG=3785

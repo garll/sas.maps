@@ -9,9 +9,10 @@ EPSG=4326
 CacheType=8
 NameInCache=
 separator=1
-DelAfterShow=0
 Ext=.jpg
 UseDwn=0
+IsReadOnly=1
+AllowScan=0
 ContentType=image/jpeg
 [ViewInfo]
 EPSG=3785
