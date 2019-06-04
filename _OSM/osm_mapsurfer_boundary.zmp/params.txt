@@ -5,7 +5,7 @@ name_ru=Карта границ OSM (mapsurfer.net)
 name=Map OSM Boundary (mapsurfer.net)
 name_uk=Карта границ OSM (MapSurfer.NET)
 NameInCache=OSM_mapsurfer_boundary
-DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/adminb/
+DefURLBase=https://maps.heigit.org/openmapsurfer/tiles/adminb/webmercator
 defaultContentType=image/png
 ContentType="image/pnga";"image/png"
 MimeTypeSubst="image/pnga=image/png"
@@ -14,6 +14,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 PARENTSUBMENU=OSM
-RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
 License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
+
