@@ -1,6 +1,73 @@
+
+const
+  cErrorFlag = 'e';
+  
+function _RequestVersion(out AVersion: AnsiString): Boolean;
+var 
+  VCode: Cardinal;
+  VVer, VHeader, VData: AnsiString;
+begin
+  Result := False;
+  AVersion := cErrorFlag;
+  if Assigned(Downloader) then begin
+    VCode := Downloader.DoHttpRequest(
+      'https://maps.googleapis.com/maps/api/js', '', '', VHeader, VData 
+    );
+    if VCode = 200 then begin
+      VVer := RegExprGetMatchSubStr(
+        VData, 'https://khms\d+.googleapis\.com/kh\?v=(\d+)', 1
+      );
+      Result := VVer <> '';
+      if Result then begin
+        AVersion := VVer;
+      end;
+    end else
+    if (VCode = 0) or (VCode >= 500) then begin
+      // internet connection or server error
+      AVersion := '';
+    end else begin
+      // fatal request error
+      WriteLn(IntToStr(VCode));
+    end;
+  end;
+end;
+
+function _GetVersion(out AVersion: AnsiString): Boolean;
+begin
+  if ScriptBuffer = '' then begin
+    Global.Lock;
+    try
+      if Global.Exists(0) then begin
+        ScriptBuffer := Global.GetVar(0);
+        if ScriptBuffer = '' then begin // this should never happen
+          ScriptBuffer := cErrorFlag;
+        end;
+      end else begin
+        if _RequestVersion(ScriptBuffer) then begin
+          Global.SetVar(0, ScriptBuffer);
+        end;
+      end;
+    finally
+      Global.Unlock;
+    end;
+  end;
+
+  if (ScriptBuffer <> '') and (ScriptBuffer <> cErrorFlag) then begin
+    AVersion := ScriptBuffer;
+  end else begin
+    AVersion := Version; // fallback to the Version from Params.txt
+  end;
+  
+  Result := AVersion <> '';
+end;
+
 var
-  khm: string;
-begin 
- khm := RegExprReplaceMatchSubStr(GetURLBase, 'khms\.google', 'khms'+inttostr( Random(4) )+'.google' );
- ResultURL := khm + Version + '&src=app&x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&z='+inttostr(GetZ-1)+'&s='+copy('Galileo',1, Random(8));
+  VSatVer: AnsiString;
+begin
+  if _GetVersion(VSatVer) then begin
+    ResultURL := Format( 
+      'https://khms%d.google.com/kh/v=%s&src=app&x=%d&y=%d&z=%d',
+      [Random(4), VSatVer, GetX, GetY, GetZ-1]
+    );
+  end;
 end.
