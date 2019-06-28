@@ -69,5 +69,10 @@ begin
       'https://khms%d.google.com/kh/v=%s&src=app&x=%d&y=%d&z=%d',
       [Random(4), VSatVer, GetX, GetY, GetZ-1]
     );
+  end else begin
+    ResultURL := Format(
+      'https://mt%d.google.com/vt/lyrs=s&hl=%s&x=%d&y=%d&z=%d',
+      [Random(4), Lang, GetX, GetY, GetZ-1]
+    );
   end;
 end.
