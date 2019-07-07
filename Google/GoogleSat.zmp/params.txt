@@ -6,7 +6,6 @@ name_ru=Спутник (Google)
 name=Satellite (Google maps)
 name_uk=Супутник (Google)
 ParentSubMenu=Google
-DefURLBase=http://khms.google.com/kh/v=
 projection=1
 sradiusa=6378137
 sradiusb=6378137
@@ -14,4 +13,4 @@ NameInCache=sat
 Ext=.jpg
 DefHotKey=71
 ContentType=image/jpeg
-Version=845
+IsUseDownloaderInScript=1
