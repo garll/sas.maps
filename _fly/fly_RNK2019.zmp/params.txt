@@ -1,0 +1,16 @@
+﻿
+[PARAMS]
+pnum=999
+GUID={b61d827a-d0f2-46cc-b66d-7d2f0d7548a7}
+name_ru=Лётные карты RNK2019
+name=Fly Maps RNK2019
+NameInCache=fly_RNK2019
+ParentSubMenu=Fly maps
+ParentSubMenu_ru=Лётные карты
+DefURLBase=http://91.237.82.95:8088/pub/other/rnk2019/
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
