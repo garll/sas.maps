@@ -27,7 +27,7 @@ begin
 
   // Выбор зеркала, если не указана версия
   if version = '' then
-    r := random(3)
+    r := random(2)
   else
     r := StrToInt(version);
 
