@@ -20,6 +20,7 @@ const
 
 const
   cTTL = 24*60*60; // 24 hour  
+  //cTTL = 1; 
   cNavTokenKey = 'NavToken=';
   cTimeStampKey = 'TimeStamp=';
   
@@ -50,8 +51,8 @@ begin
   
   if (Result = '') and Assigned(Downloader) then begin    
     VTimeStamp := IntToStr(GetUnixTime);    
-    VRequestUrl := 'http://backend.navionics.io/tile/get_key/Navionics_internalpurpose_00001/webapp.navionics.com?_=' + VTimeStamp;
-    VRequestHeader := 'Origin: http://webapp.navionics.com' + #13#10 + 'Referer: http://webapp.navionics.com/';
+    VRequestUrl := 'https://backend.navionics.com/tile/get_key/NAVIONICS_WEBAPP_P01/webapp.navionics.com?_=' + VTimeStamp + '123';
+    VRequestHeader := 'Origin: https://webapp.navionics.com' + #13#10 + 'Referer: https://webapp.navionics.com/';
     VResponseHeader := '';
     VResponseData := ''; 
     VResponseCode := Downloader.DoHttpRequest(VRequestUrl, VRequestHeader, '', VResponseHeader, VResponseData);
