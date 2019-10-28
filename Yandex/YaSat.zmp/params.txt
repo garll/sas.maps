@@ -8,7 +8,7 @@ name_uk=Супутник (Яндекс.Карты)
 ParentSubMenu_ru=Яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
-DefURLBase=http://sat01.maps.yandex.net/tiles?l=sat&x=
+DefURLBase=https://sat01.maps.yandex.net/tiles?l=sat&scale=1&lang=ru_RU&x=
 projection=2
 sradiusa=6378137
 sradiusb=6356752

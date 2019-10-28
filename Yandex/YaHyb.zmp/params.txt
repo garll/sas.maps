@@ -10,7 +10,7 @@ ParentSubMenu_ru=Яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
 NameInCache=yahyb
-DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&x=
+DefURLBase=https://vec01.maps.yandex.net/tiles?l=skl&scale=1&lang=ru_RU&x=
 ContentType=image/png
 Ext=.png
 projection=2
