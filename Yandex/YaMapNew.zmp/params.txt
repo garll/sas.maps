@@ -8,7 +8,7 @@ name_uk=Карта (Яндекс.Карты)
 ParentSubMenu_ru=Яндекс
 ParentSubMenu=Yandex
 ParentSubMenu_uk=Яндекс
-DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&x=
+DefURLBase=https://vec01.maps.yandex.net/tiles?l=map&scale=1&lang=ru_RU
 projection=2
 sradiusa=6378137
 sradiusb=6356752
