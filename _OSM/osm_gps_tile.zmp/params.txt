@@ -1,9 +1,12 @@
 [PARAMS]
 GUID={1123ADB1-4561-4280-9222-D4690321117E}
-asLayer=1
+ParentSubMenu_ru=Маршруты и GPS-Треки
+ParentSubMenu_uk=Маршруты и GPS-Треки
+ParentSubMenu=Ways and GPS-Tracks
 name_ru=Карта GPS-треков OSM
 name=Map GPS-track OSM
 name_uk=Карта GPS-треков OSM
+asLayer=1
 NameInCache=osm_gps_tile
 DefURLBase=http://b.gps-tile.openstreetmap.org/lines
 ContentType=image/png
@@ -12,7 +15,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6356752
 DefHotKey=16463
-PARENTSUBMENU=Tracks
 IteratorSubRectSize=8,8
 RequestHead=Referer: http://www.openstreetmap.org/
 License=(c) OpenStreetMap contributors, CC-BY-SA

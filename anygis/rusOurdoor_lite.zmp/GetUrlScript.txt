@@ -1,3 +1,0 @@
-begin 
-  ResultURL:= GetUrlBase + inttostr(GetX) + '/' + inttostr(GetY) + '/' + inttostr(GetZ - 1);
-end.

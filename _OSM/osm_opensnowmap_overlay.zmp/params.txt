@@ -1,7 +1,10 @@
 [PARAMS]
 GUID={1123ADB1-4562-4280-9222-D4690321117E}
-asLayer=1
+ParentSubMenu_ru=Маршруты и GPS-Треки
+ParentSubMenu_uk=Маршруты и GPS-Треки
+ParentSubMenu=Ways and GPS-Tracks
 name=OpenSnowMap (pistes layer)
+asLayer=1
 NameInCache=opensnowmap_overlay
 DefURLBase=http://www.opensnowmap.org/pistes
 ContentType=image/png
@@ -10,7 +13,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 DefHotKey=16463
-PARENTSUBMENU=Tracks
 IteratorSubRectSize=8,8
 RequestHead=Referer: http://www.opensnowmap.org/
 
