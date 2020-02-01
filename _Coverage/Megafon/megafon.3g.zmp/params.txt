@@ -2,8 +2,8 @@
 GUID={0b122210-866b-466e-b8d7-7b43297400c3}
 name_ru=Мегафон 3G
 name=Megafon 3G
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu=Mobile coverage area
+ParentSubMenu_ru=Сломанные карты\Cотовые сети
+ParentSubMenu=Not working\Mobile coverage area
 asLayer=1
 DefURLBase=http://yamap.megafon.ru/g3/
 projection=2

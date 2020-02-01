@@ -2,8 +2,8 @@
 GUID={0b144440-866b-466e-b8d7-7b43297400c3}
 name_ru=Мегафон 4G+
 name=Megafon 4G+
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu=Mobile coverage area
+ParentSubMenu_ru=Сломанные карты\Cотовые сети
+ParentSubMenu=Not working\Mobile coverage area
 asLayer=1
 DefURLBase=http://yamap.megafon.ru/lte_plus/
 projection=2

@@ -1,0 +1,18 @@
+﻿
+[PARAMS]
+GUID={8D5C7041-474A-468E-A37E-63BE5194E759}
+ParentSubMenu_ru=OSM
+ParentSubMenu_uk=OSM
+ParentSubMenu=OSM
+name_ru=OpenTopoMap.RU
+name_uk=OpenTopoMap.RU
+name=OpenTopoMap.RU
+NameInCache=OpenTopoMapRU
+asLayer=0
+EPSG=3785
+DefURLBase=https://tile-{s}.opentopomap.ru/{z}/{x}/{y}.png
+ServerNames=a,b,c
+RequestHead=Referer:http://www.sasgis.org/
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © OpenStreetMap, OpenTopoMap.ru
