@@ -6,9 +6,9 @@ name_ru=Гибрид Here.com
 name_uk=Гибрид Here.com
 ParentSubMenu=Nokia
 ContentType=image/png
-DefURLBase=https://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg={ver}&ppi=72&pview={ver}
+DefURLBase=https://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg={ver}&ppi=72&pview=DEF
 ServerNames=1,2,3,4
 NameInCache=here.com.hybrid.jpg
 EPSG=3785
 Ext=.jpg
-Version=RUS
+Version=rus
