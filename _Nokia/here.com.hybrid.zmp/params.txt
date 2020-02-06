@@ -1,14 +1,14 @@
+Ôªø
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4003-8A12-D670BD739B7B}
-name_ru=√Ë·Ë‰ Here.com
-name=Here.com Hybrid
-name_uk=√Ë·Ë‰ Here.com
+name=Here.com Hybrid (.png)
+name_ru=–ì–∏–±—Ä–∏–¥ Here.com (.png)
+name_uk=–ì–∏–±—Ä–∏–¥ Here.com (.png)
 ParentSubMenu=Nokia
 ContentType=image/png
-DefURLBase=http://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/
+DefURLBase=https://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/
 NameInCache=here.com.hybrid
 EPSG=3785
 Ext=.png
 Version=RUS
-

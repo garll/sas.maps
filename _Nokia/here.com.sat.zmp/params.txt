@@ -1,21 +1,14 @@
+п»ї
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4004-8A12-D670BD739B7B}
-name=Спутник Here.com
-name_en=Here.com Sat
-name_uk=Спутник Here.com
+name=Here.com Sat (.png)
+name_ru=РЎРїСѓС‚РЅРёРє Here.com (.png)
+name_uk=РЎРїСѓС‚РЅРёРє Here.com (.png)
 ParentSubMenu=Nokia
-ParentSubMenu_en=Nokia
-ParentSubMenu_uk=Nokia
 ContentType=image/png
-asLayer=0
 DefURLBase=https://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/
 NameInCache=here.com.satellite
 EPSG=3785
-separator=0
 Ext=.png
-UseDwn=1
-Sleep=0
-DefHotKey=
 Version=RUS
-
