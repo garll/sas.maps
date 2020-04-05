@@ -3,11 +3,15 @@
 pnum=45
 GUID={91692EBA-428D-44D6-BA3C-0BB2A1DF457B}
 asLayer=1
-name=WikiMapia
+name_ru=Wikimapia - интерактивная
+name=Wikimapia - interactive
+name_uk=WikiMapia - інтерактивна
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu=Labels and borders
+ParentSubMenu_uk=Підписи та межі
 NameInCache=Wiki
 DefURLBase=http://wikimapia.org/d?lng=1&BBOX=
 ContentType=text/xml; charset=UTF-8
-ParentSubMenu_ru=
 MainStorageContentType=application/vnd.sas.wikimapia.kml+xml
 Ext=.kml
 projection=1

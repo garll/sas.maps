@@ -6,10 +6,11 @@ asLayer=1
 name_ru=Гибрид (Yahoo!)
 name=Hybrid (Yahoo!)
 name_uk=Гібрид (Yahoo!)
+ParentSubMenu_ru=Сломанные карты
+ParentSubMenu=Not working
 NameInCache=yhhyb
 DefURLBase=http://aerial.maps.yimg.com/ximg?v=4.3&t=p&s=256&r=1 
 ContentType=image/png
-ParentSubMenu_ru=
 Ext=.png
 projection=1
 sradiusa=6378137
