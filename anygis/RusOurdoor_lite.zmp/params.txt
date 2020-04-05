@@ -14,4 +14,3 @@ DefURLBase=https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{x}/{y}/{z}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.jpg
-

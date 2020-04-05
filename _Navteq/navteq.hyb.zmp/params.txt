@@ -1,8 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=7
 GUID={9A360A5D-7A74-402D-8A11-D670BD739B7B}
-name_ru=������ Navteq (navteq.com)
+name_ru=Гибрид Navteq (navteq.com)
 name=Navteq Hybrid (navteq.com)
+ParentSubMenu_ru=Сломанные карты
+ParentSubMenu=Not working
 ContentType=image/png
 asLayer=1
 DefURLBase=http://02.tl.maptp42.map24.com/lbsp/webservices1.5?cgi=Map24MGI&appkey=CJX2b227e1ef3fc2c0e596eb29921a0aX47&mrc=true&prop:ProjectionStyle=mercator&prop:tile=1&prop:TransparentAreas=true&prop:vmpp=9.537506103515625&requestid=MTPStreetOverlayTileProvider_STREETOVERLAY_12031010101102_1&quadkey=

@@ -1,7 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=51
 GUID={de875863-0a3b-4593-9488-2b00ad9ca05a}
 name=VESatHybLines
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu=Labels and borders
+ParentSubMenu_uk=Підписи та межі
 asLayer=1
 DefURLBase=http://ak.dynamic.t2.tiles.virtualearth.net/comp/ch/
 projection=1

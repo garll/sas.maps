@@ -1,8 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-BC5DBBB8F552}
 asLayer=1
 name=ArcGIS.Hybrid
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu=Labels and borders
+ParentSubMenu_uk=Підписи та межі
 NameInCache=ArcGIS.Hybrid
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/
 ContentType=image/png

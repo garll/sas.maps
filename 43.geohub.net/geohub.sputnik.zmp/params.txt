@@ -1,10 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=7
 GUID={8238C84A-D37E-45E1-A737-FBCFBCD4168C}
-name_ru=C������ (geohub.net)
+name_ru=Cпутник (geohub.net)
 name=Satellite (geohub.net)
-name_uk=C������ (geohub.net)
-ParentSubMenu=GeoHub
+name_uk=Cпутник (geohub.net)
+ParentSubMenu_ru=Сломанные карты\GeoHub
+ParentSubMenu=Not working\GeoHub
+ParentSubMenu_uk=Сломанные карты\GeoHub
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/sat/
 projection=1
 sradiusa=6378137

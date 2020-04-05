@@ -1,10 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=7
 GUID={8238C84A-D37E-45E1-A73B-FBCFBCD4168C}
-name_ru=������ (geohub.net)
+name_ru=Рельеф (geohub.net)
 name=Relief (geohub.net)
-name_uk=������ (geohub.net)
-ParentSubMenu=GeoHub
+name_uk=Рельеф (geohub.net)
+ParentSubMenu_ru=Сломанные карты\GeoHub
+ParentSubMenu=Not working\GeoHub
+ParentSubMenu_uk=Сломанные карты\GeoHub
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/srtm/
 projection=1
 sradiusa=6378137

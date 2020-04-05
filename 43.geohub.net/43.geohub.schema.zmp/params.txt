@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=
 GUID={8238C84A-D37E-45E1-A736-FBCFBCD4168C}
-name_ru=Кировская область - карта (43.geohub.net)
+name_ru=РљРёСЂРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ - РєР°СЂС‚Р° (43.geohub.net)
 name=Kirov Map (43.geohub.net)
-name_uk=Кировская область - карта (43.geohub.net)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+name_uk=РљРёСЂРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ - РєР°СЂС‚Р° (43.geohub.net)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_full/
 projection=1
 sradiusa=6378137

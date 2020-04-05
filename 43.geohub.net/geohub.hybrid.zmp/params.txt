@@ -1,9 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=7
 GUID={8238C84A-D37E-45E1-A74A-FBCFBCD4168C}
-name_ru=������ (geohub.net)
+name_ru=Гибрид (geohub.net)
 name=Hybrid (geohub.net)
-name_uk=������ (geohub.net)
+name_uk=Гибрид (geohub.net)
+ParentSubMenu_ru=Сломанные карты
+ParentSubMenu=Not working
 asLayer=1
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/geobase_tr/
 projection=1
