@@ -1,14 +1,13 @@
 ﻿
 [PARAMS]
-pnum=47
 GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
 asLayer=1
-name_ru=Пробки (Яндекс.Карты)
-name=Traffic (Yandex.Maps)
-name_uk=Пробки (Яндекс.Карты)
-ParentSubMenu_ru=Яндекс
-ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+ParentSubMenu_ru=Пробки
+ParentSubMenu_uk=Пробки
+ParentSubMenu=Traffic
+name_ru=Яндекс - Пробки
+name=Yandex - Traffic
+name_uk=Яндекс - Пробки
 NameInCache=yatraf
 DefURLBase=https://core-jams-rdr.maps.yandex.net/1.1/tiles?trf&l=trf&scale=1&lang=ru&x=
 ContentType=image/png

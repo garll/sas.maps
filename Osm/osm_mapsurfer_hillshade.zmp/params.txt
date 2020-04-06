@@ -3,9 +3,9 @@
 pnum=118
 GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
 asLayer=1
-name_ru=OpenMapSurfer (рельеф)
-name=OpenMapSurfer (hillshade)
-name_uk=OpenMapSurfer (рельєф)
+name_ru=OpenMapSurfer
+name=OpenMapSurfer
+name_uk=OpenMapSurfer
 ParentSubMenu_ru=Рельеф и тополинии
 ParentSubMenu=Hillshade
 ParentSubMenu_uk=Рельєф і тополинии

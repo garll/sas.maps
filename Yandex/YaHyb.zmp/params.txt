@@ -3,12 +3,12 @@
 pnum=5
 GUID={02D3A3D6-870D-4549-933C-172CB11EA71B}
 asLayer=1
-name_ru=Гибрид (Яндекс.Карты)
-name=Hybrid (Yandex.Maps)
-name_uk=Гібрид (Яндекс.Карты)
-ParentSubMenu_ru=Яндекс
-ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu_uk=Підписи та межі
+ParentSubMenu=Labels and borders
+name_ru=Яндекс.Карты - Гибрид
+name=Yandex.Maps - Hybrid
+name_uk=Яндекс.Карты - Гібрид
 NameInCache=yahyb
 DefURLBase=https://vec01.maps.yandex.net/tiles?l=skl&scale=1&lang=ru_RU&x=
 ContentType=image/png

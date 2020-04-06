@@ -3,13 +3,14 @@
 pnum=44
 GUID={3C6C8E9B-D455-425F-9652-11F8CB3D3613}
 asLayer=1
+ParentSubMenu_ru=Сломанные карты\Google
+ParentSubMenu=Not working\Google
 name=Panoramio KML
 NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?all&LANG=ru_RU.utf8&BBOX=
 ContentType=application/vnd.google-earth.kml+xml; charset=utf-8
 MimeTypeSubst="""application/vnd.google-earth.kml+xml; charset=utf-8""=application/vnd.google-earth.kml+xml"
 MainStorageContentType=application/vnd.sas.wikimapia.kml+xml
-ParentSubMenu=Google
 Ext=.kml
 projection=1
 sradiusa=6378137

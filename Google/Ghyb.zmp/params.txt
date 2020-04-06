@@ -3,10 +3,12 @@
 pnum=1
 GUID={F25E37ED-923B-41E7-8BA6-CC0CC3213B93}
 asLayer=1
-name_ru=Гибрид (Google)
-name=Hybrid (Google)
-name_uk=Гібрид (Google)
-ParentSubMenu=Google
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu=Labels and borders
+ParentSubMenu_uk=Підписи та межі
+name_ru=Google - Гибрид
+name=Google - Hybrid 
+name_uk=Google - Гібрид
 NameInCache=Both
 DefURLBase=http://mt.google.com/vt/lyrs=h@169000000&hl=ru
 ContentType=image/png
