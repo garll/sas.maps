@@ -1,8 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=117
 GUID={CDA67F8D-C7D3-4B4C-A6EE-7B187794F762}
 asLayer=1
-name_ru=������� OSM (toolserver.org)
+ParentSubMenu_ru=Сломанные карты\OSM
+ParentSubMenu=Not working\OSM
+name_ru=Надписи OSM (toolserver.org)
 name=Hybrid OSM (toolserver.org)
 NameInCache=OSM_toolserver_org
 DefURLBase=http://c.www.toolserver.org/tiles/osm-labels-ru
@@ -11,4 +13,3 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=OSM

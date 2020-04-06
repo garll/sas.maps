@@ -1,13 +1,13 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=5
 GUID={9AFFE8A1-431D-48F4-8515-54A7D42F0E6C}
 asLayer=1
-name_ru=Слой Яндекс Фотки (Яндекс.Карты)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\РЇРЅРґРµРєСЃ
+ParentSubMenu=Not working\Yandex
+ParentSubMenu_uk=РЇРЅРґРµРєСЃ\Р РµР»СЊС”С„ С– С‚РѕРїРѕР»РёРЅРёРё
+name_ru=РЎР»РѕР№ РЇРЅРґРµРєСЃ Р¤РѕС‚РєРё (РЇРЅРґРµРєСЃ.РљР°СЂС‚С‹)
 name=Yandex Photo (Yandex.Maps)
-name_uk=Слой Яндекс Фотки (Яндекс.Карты)
-ParentSubMenu_ru=Яндекс
-ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+name_uk=РЎР»РѕР№ РЇРЅРґРµРєСЃ Р¤РѕС‚РєРё (РЇРЅРґРµРєСЃ.РљР°СЂС‚С‹)
 NameInCache=yaphoto
 DefURLBase=http://lrs.maps.yandex.net/tiles?l=pht&tm=0.22.1-0.0.25.10-0.2012.12.06.23&lang=ru_RU&x=
 ContentType=image/png

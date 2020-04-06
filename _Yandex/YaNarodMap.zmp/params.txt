@@ -1,13 +1,13 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63A}
 asLayer=1
-name_ru=Старая Народная Карта Яндекс
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\РЇРЅРґРµРєСЃ
+ParentSubMenu=Not working\Yandex
+ParentSubMenu_uk=РЇРЅРґРµРєСЃ\Р РµР»СЊС”С„ С– С‚РѕРїРѕР»РёРЅРёРё
+name_ru=РЎС‚Р°СЂР°СЏ РќР°СЂРѕРґРЅР°СЏ РљР°СЂС‚Р° РЇРЅРґРµРєСЃ
 name=Old Yandex Narod Map
-name_uk=Старая Народная Карта Яндекс
-ParentSubMenu_ru=Яндекс
-ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+name_uk=РЎС‚Р°СЂР°СЏ РќР°СЂРѕРґРЅР°СЏ РљР°СЂС‚Р° РЇРЅРґРµРєСЃ
 NameInCache=yanarodmap
 DefURLBase=http://wvec.maps.yandex.net/?x=
 ContentType=image/png

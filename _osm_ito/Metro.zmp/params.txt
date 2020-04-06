@@ -1,8 +1,8 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=117
 GUID={35949def-a9df-4413-bca4-3cc2c7cb593b}
 asLayer=1
-name_ru=����� (ITO Map)
+name_ru=Метро (ITO Map)
 name=Metro (ITO Map)
 NameInCache=osm_ito_Metro
 DefURLBase=http://t.beta.itoworld.com/18/136bdef4afc8d6e92586bc38e7b843c1/
@@ -11,4 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=ITO Map (OSM)
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Сломанные карты\ITO Map (OSM)

@@ -1,8 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=93
 GUID={abd6a08b-084c-4168-b403-bd1ad504fb0b}
-name=Here.com Traffic Tile2
-ParentSubMenu=Here
+name=Here - Traffic
+ParentSubMenu_ru=Пробки
+ParentSubMenu_uk=Пробки
+ParentSubMenu=Traffic
 ContentType=image/png,image/jpeg,image/pjpeg,image/x-png
 DetectContentType=1
 asLayer=1

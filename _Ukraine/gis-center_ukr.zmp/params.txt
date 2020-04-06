@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=108
 GUID={95D8062B-9122-4CCE-B4BE-2C8ABE80968A}
-name_ru=Гибрид Украины (gis-center.com)
+name_ru=Р“РёР±СЂРёРґ РЈРєСЂР°РёРЅС‹ (gis-center.com)
 name=Ukraine Hybrid (gis-center.com)
-ParentSubMenu_ru=Локальные карты\Украина
-ParentSubMenu=Local maps\Ukraine
-ParentSubMenu_uk=Локальні карти\Україна
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹\РЈРєСЂР°РёРЅР°
+ParentSubMenu=Not working\Local maps\Ukraine
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё\РЈРєСЂР°С—РЅР°
 asLayer=1
 DefURLBase=http://www.gis-center.com/cgi-bin2/mapserv.exe?map=e:%5Cinetpub%5Cwwwroot%5Cukr_google%5Cukr.map&layers=kvart_city%20houses_obl%20houses_ukr%20houses_zap&mode=tile&tilemode=gmap&tile=
 projection=1

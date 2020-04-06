@@ -1,8 +1,8 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=117
 GUID={4f94e833-dcae-4395-940e-bdf471845e27}
 asLayer=1
-name_ru=������ �������� (ITO Map)
+name_ru=Уровни объектов (ITO Map)
 name=Layers (ITO Map)
 NameInCache=osm_ito_Layers
 DefURLBase=http://t.beta.itoworld.com/22/136bdef4afc8d6e92586bc38e7b843c1/
@@ -11,4 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=ITO Map (OSM)
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Сломанные карты\ITO Map (OSM)

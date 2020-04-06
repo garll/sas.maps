@@ -1,14 +1,14 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=6
 GUID={380820C2-BB78-4203-896B-D4353C1EEAE5}
 asLayer=1
-ParentSubMenu_ru=Росреестр
-ParentSubMenu=Rosreestr
-ParentSubMenu_uk=Росреестр
-name_ru=Надписи (rosreestr.ru)
-name=Names (rosreestr.ru)
+ParentSubMenu_ru=РЎРїСЂР°РІРѕС‡РЅС‹Рµ\Р РѕСЃСЃРёСЏ
+ParentSubMenu_uk=РЎРїСЂР°РІРѕС‡РЅС‹Рµ\Р РѕСЃСЃРёСЏ
+ParentSubMenu=Info\Russia
+name_ru=RosReestr.ru - РџРѕРґРїРёСЃРё
+name=RosReestr.ru - Labels
 NameInCache=Rosreestr_hyb
-DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/
+DefURLBase=https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/
 ContentType=image/png
 Ext=.png
 projection=1

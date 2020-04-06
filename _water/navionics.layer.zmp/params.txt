@@ -1,8 +1,8 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={1F1D2343-8575-4BEE-8C33-DBFEF8D53BE5}
+ParentSubMenu_ru=Р’РѕРґРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu=Water maps
 name=Navionics Marine Charts
-ParentSubMenu_ru=Морские карты
-ParentSubMenu=Marine maps
 asLayer=1
 DefURLBase=https://backend.navionics.com/tile/
 NameInCache=navionics_layer

@@ -1,9 +1,9 @@
-[PARAMS]
+﻿[PARAMS]
 GUID={A23D8EB1-0C9B-445C-9891-31416668C199}
 name=Openstreetmap2016 (rosreestr.ru)
-ParentSubMenu_ru=������ �����
-ParentSubMenu_uk=���� �����
-ParentSubMenu=Other maps
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Сломанные карты\Інші карти
 NameInCache=rosrr_osm2016
 DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/OSM_2016/MapServer/tile/
 ContentType="image/jpeg"

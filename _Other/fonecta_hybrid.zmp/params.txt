@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={793A257F-0489-43AA-9BB6-943DE5F28004}
 asLayer=1
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р†РЅС€С– РєР°СЂС‚Рё
 name=Finland hybrid (fonecta.fi)
-name_ru=Финляндия наложение (fonecta.fi)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_ru=Р¤РёРЅР»СЏРЅРґРёСЏ РЅР°Р»РѕР¶РµРЅРёРµ (fonecta.fi)
 NameInCache=fonecta_hybrid
 DefURLBase=http://kartta.fonecta.fi/oym?f=m&ft=png_hyb_256&key=FO1349G5NGDTJ52H913SFRK63928
 RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.09582494617275&z=8&l=NAU

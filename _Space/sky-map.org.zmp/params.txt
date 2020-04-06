@@ -1,14 +1,14 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=30
 GUID={09B58203-8F81-4643-98AD-17AF0593A1AD}
-name_ru=����� (sky-map.org)
+name_ru=Звёзды (sky-map.org)
 name=Stars (sky-map.org)
 NameInCache=sky_map_org
 DefURLBase=http://server5.wikisky.org/imgcut?survey=DSS2&img_id=all&ra=1.33333333333333&de=40&angle=
 ContentType=image/jpeg
-ParentSubMenu_ru=������
-ParentSubMenu=Space
-ParentSubMenu_uk=������
+ParentSubMenu_ru=Сломанные карты\Космос
+ParentSubMenu=Not working\Space
+ParentSubMenu_uk=Сломанные карты\Космос
 Ext=.jpg
 projection=1
 sradiusa=6378137

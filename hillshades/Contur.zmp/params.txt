@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=42
 GUID={4A21F0A3-D083-4FBD-8A51-749640DBD117}
 asLayer=1
-name_ru=Высоты (heywhatsthat.com)
-name=Heights (heywhatsthat.com)
-ParentSubMenu_ru=Рельеф и тополинии
+name_ru=Heywhatsthat.com (С‚РѕРїРѕР»РёРЅРёРё)
+name=Heywhatsthat.com (heights)
+ParentSubMenu_ru=Р РµР»СЊРµС„ Рё С‚РѕРїРѕР»РёРЅРёРё
 ParentSubMenu=Hillshade
-ParentSubMenu_uk=Рельєф і тополинии
+ParentSubMenu_uk=Р РµР»СЊС”С„ С– С‚РѕРїРѕР»РёРЅРёРё
 NameInCache=contur
 DefURLBase=http://contour.heywhatsthat.com/api/contour_tiles_sasgis.png?src=sasgis&
 ContentType=image/png

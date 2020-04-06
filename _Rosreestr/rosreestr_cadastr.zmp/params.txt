@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=6
 GUID={87428D6B-7DFA-4C98-9993-A8F3AA456608}
 asLayer=1
-ParentSubMenu_ru=Росреестр
-ParentSubMenu=Rosreestr
-ParentSubMenu_uk=Росреестр
-name_ru=Кадастровые границы (rosreestr.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЂРµРµСЃС‚СЂ
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЂРµРµСЃС‚СЂ
+name_ru=РљР°РґР°СЃС‚СЂРѕРІС‹Рµ РіСЂР°РЅРёС†С‹ (rosreestr.ru)
 name=Cadastre map (rosreestr.ru)
 NameInCache=rosreestr_cadastr
 DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/Cadastre/CadastreWMS/MapServer/export?bboxSR=102100&size=256%2C256&imageSR=102100&format=png32&transparent=true&dpi=96&f=image&bbox=
