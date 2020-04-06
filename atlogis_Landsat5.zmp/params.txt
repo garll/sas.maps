@@ -1,7 +1,7 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=114
 GUID={30E01D12-8E3F-4477-B272-7AB274E66F50}
-name_ru=����� (atlogis_Landsat5)
+name_ru=Карта (atlogis_Landsat5)
 name=Map (atlogis_Landsat5)
 NameInCache=atlogis_Landsat5
 DefURLBase=http://78.46.61.141/cgi-bin/tilecache-2.10/tilecache.py/1.0.0/Landsat5_GEO84
@@ -14,5 +14,6 @@ TILERLEFT=0
 TILERRIGHT=512
 TILERTOP=0
 TILERBOTTOM=512
-ParentSubMenu_ru=������ �����
-ParentSubMenu=Other maps
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Сломанные карты\Інші карти

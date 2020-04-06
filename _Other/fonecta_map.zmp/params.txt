@@ -1,10 +1,10 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={783A7DAF-067E-47BE-95C6-943DE5F28004}
 name=Finland map (fonecta.fi)
-name_ru=Финляндия карта (fonecta.fi)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_ru=Р¤РёРЅР»СЏРЅРґРёСЏ РєР°СЂС‚Р° (fonecta.fi)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=fonecta
 DefURLBase=http://kartta.fonecta.fi/oym?f=m&ft=png_nauti_256&key=FO1349G5NGDTJ52H913SFRK63928
 RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.09582494617275&z=8&l=NAU

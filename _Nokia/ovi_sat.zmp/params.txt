@@ -1,14 +1,15 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=6
 GUID={D8C293B0-63AE-4902-A0D4-83A26BCE01D7}
-name_ru=������� DG (maps.ovi.com)
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu=Not working\Nokia
+name_ru=Спутник DG (maps.ovi.com)
 name=DG Sat (maps.ovi.com)
-name_uk=�������� DG (maps.ovi.com)
+name_uk=Супутник DG (maps.ovi.com)
 DefURLBase=http://maptile.lbs.ovi.com/maptiler/v2/maptile/newest/satellite.day/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=Nokia
 NameInCache=ovi_com_Sat
 Ext=.png
 Sleep=10

@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=12
 GUID={DEE2AC2F-7649-415F-AFB3-E337CDAF3A5D}
-name_ru=Карта Gurtam (maps.cnord.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р†РЅС€С– РєР°СЂС‚Рё
+name_ru=РљР°СЂС‚Р° Gurtam (maps.cnord.ru)
 name=Map Gurtam (maps.cnord.ru)
-name_uk=Карта Gurtam (maps.cnord.ru)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_uk=РљР°СЂС‚Р° Gurtam (maps.cnord.ru)
 NameInCache=gumap
 DefURLBase=http://maps.cnord.ru/map_gmaps?
 ContentType=image/png

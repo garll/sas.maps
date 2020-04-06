@@ -1,7 +1,7 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=100
 GUID={A115BC54-5F9A-414B-B4AF-0C6EC62673C8}
-name_ru=˸���� �����  (runwayfinder.com)
+name_ru=Лётные карты  (runwayfinder.com)
 name=Fly maps (runwayfinder.com)
 DefURLBase=http://www.runwayfinder.com/media/charts/?x=
 projection=1
@@ -11,5 +11,6 @@ NameInCache=runwayfinder_com
 Ext=.jpg
 Sleep=100
 ContentType=image/jpeg
-ParentSubMenu_ru=������ �����
-ParentSubMenu=Other maps
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Сломанные карты\Інші карти

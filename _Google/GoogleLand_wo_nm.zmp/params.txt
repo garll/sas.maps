@@ -1,10 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=3
 GUID={D8A2B03A-18B8-4127-936A-2D6A7AE0D89B}
-name_ru=Ландшафт без названий (Google)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Google
+ParentSubMenu=Not working\Google
+name_ru=Р›Р°РЅРґС€Р°С„С‚ Р±РµР· РЅР°Р·РІР°РЅРёР№ (Google)
 name=Landscape w\o names (Google)
-name_uk=Ландшафт без назв (Google)
-ParentSubMenu=Google
+name_uk=Р›Р°РЅРґС€Р°С„С‚ Р±РµР· РЅР°Р·РІ (Google)
 DefURLBase=http://mt0.google.com/vt/lyrs=t@159000000&hl=ru&
 projection=1
 sradiusa=6378137

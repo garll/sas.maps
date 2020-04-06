@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=
 GUID={E580797F-3C56-4796-98A8-52D579A1F6A5}
-name_ru=МТС Поиск (wap.mpoisk.ru)
+name_ru=РњРўРЎ РџРѕРёСЃРє (wap.mpoisk.ru)
 name=MTS Locate (wap.mpoisk.ru)
-name_uk=МТС Поиск (wap.mpoisk.ru)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_uk=РњРўРЎ РџРѕРёСЃРє (wap.mpoisk.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=mpoisk_ru
 DefURLBase=http://wap.mpoisk.ru/city/map.ashx/lon/
 ContentType=image/gif

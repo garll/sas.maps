@@ -2,10 +2,11 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4004-8A12-D670BD739B7B}
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu=Not working\Nokia
 name=Here.com Sat (.png)
 name_ru=Спутник Here.com (.png)
 name_uk=Спутник Here.com (.png)
-ParentSubMenu=Nokia
 ContentType=image/png
 DefURLBase=https://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/
 NameInCache=here.com.satellite

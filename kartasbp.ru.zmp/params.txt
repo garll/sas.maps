@@ -1,13 +1,13 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=130
 GUID={685E9146-DEC0-44EE-859F-123DEF70C6E2}
 name= Kartaspb (zoomify)
 NameInCache=zoomify_kartaspb
 DefURLBase=http://www.kartaspb.ru/m/s2/TileGroup
 ContentType=image/jpeg
-ParentSubMenu_ru=Другие карты
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 Ext=.jpg
 projection=1
 sradiusa=6378137

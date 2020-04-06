@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=118
 GUID={DB6FCDE8-43A6-4DB5-89E0-1F5625CC2BE0}
-name_ru=Карта (rambler.ru)
+name_ru=РљР°СЂС‚Р° (rambler.ru)
 name=Map (rambler.ru)
-name_uk=Карта (rambler.ru)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_uk=РљР°СЂС‚Р° (rambler.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р†РЅС€С– РєР°СЂС‚Рё
 DefURLBase=http://tiles.maps.rambler.ru/lv
 projection=2
 sradiusa=6378137

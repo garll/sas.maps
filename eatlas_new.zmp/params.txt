@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=15
 GUID={A8B5CADE-FA15-492D-9BC2-BCBA7DCE888F}
 name=E_Atlas
-ParentSubMenu_ru=Другие карты
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=Eatlas_New
-DefURLBase=http://www.eatlas.ru/IMAGES/
+DefURLBase=http://rumap.eatlas.ru/scripts/tiling_serv.dll/RMTIL/
 ContentType=image/png
 Ext=.png
 projection=2

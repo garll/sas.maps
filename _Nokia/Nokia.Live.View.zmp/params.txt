@@ -1,10 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=6
 GUID={9A360A51-7A74-402D-8A12-D670BD739B7B}
-name_ru=����� Nokia (Live View)
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu=Not working\Nokia
+name_ru=Карта Nokia (Live View)
 name=Nokia Map (Live View)
-name_uk=����� Nokia (Live View)
-ParentSubMenu=Nokia
+name_uk=Карта Nokia (Live View)
 ContentType=image/png
 DefURLBase=http://tst.cmd.navteq.com/tilehub/live/map/png/
 projection=1

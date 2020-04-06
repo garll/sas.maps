@@ -2,10 +2,11 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4003-8A12-D670BD739B7B}
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu=Not working\Nokia
 name=Here.com Hybrid (.png)
 name_ru=Гибрид Here.com (.png)
 name_uk=Гибрид Here.com (.png)
-ParentSubMenu=Nokia
 ContentType=image/png
 DefURLBase=https://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/
 NameInCache=here.com.hybrid

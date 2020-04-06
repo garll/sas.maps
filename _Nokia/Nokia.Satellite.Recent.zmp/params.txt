@@ -1,10 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=6
 GUID={9A360A51-7A72-402D-8A12-D670BD739B7B}
-name_ru=������� DG (Nokia Satellite Recent) 
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu=Not working\Nokia
+name_ru=Спутник DG (Nokia Satellite Recent) 
 name=DG Sat (Nokia Satellite Recent)
-name_uk=�������� DG (Nokia Satellite Recent)
-ParentSubMenu=Nokia
+name_uk=Супутник DG (Nokia Satellite Recent)
 ContentType=image/jpeg
 DefURLBase=http://stg.lbsp.navteq.com/satellite/6.0/images/?token=LBSP_DEV_ALL&profile=Recency&quadkey=
 projection=1

@@ -1,10 +1,10 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=7
 GUID={5E04039A-331E-4D2C-B051-D00F8871BB39}
-name_ru=Генплан - дороги
+name_ru=Р“РµРЅРїР»Р°РЅ - РґРѕСЂРѕРіРё
 name=Genplan - Roads
-ParentSubMenu_ru=Генплан Москвы (Яблоко)
-ParentSubMenu=Genplan of Moscow (Yabloko)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р“РµРЅРїР»Р°РЅ РњРѕСЃРєРІС‹ (РЇР±Р»РѕРєРѕ)
+ParentSubMenu=Not working\Genplan of Moscow (Yabloko)
 DefURLBase=http://genplan.yabloko.ru/map_tiles/446-530/
 projection=2
 sradiusa=6378137
