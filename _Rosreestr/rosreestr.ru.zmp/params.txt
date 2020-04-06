@@ -1,14 +1,14 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=114
 GUID={A83BAFB0-0CDB-445C-9891-31416668C199}
-name_ru=Карта (rosreestr.ru)
-name=Map (rosreestr.ru)
-name_uk=Карта (rosreestr.ru)
-ParentSubMenu_ru=Другие карты
+name_ru=Rosreestr.ru - Р¤РѕРЅРѕРІР°СЏ РєР°СЂС‚Р°
+name=Rosreestr.ru
+name_uk=Rosreestr.ru - Р¤РѕРЅРѕРІР°СЏ РєР°СЂС‚Р°
+ParentSubMenu_ru=Р”СЂСѓРіРёРµ РєР°СЂС‚С‹
 ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_uk=Р†РЅС€С– РєР°СЂС‚Рё
 NameInCache=rosreestr
-DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer/tile/
+DefURLBase=https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer/tile/
 ContentType="image/jpeg"
 Ext=.jpg
 projection=1

@@ -1,4 +1,4 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=117
 GUID={60157c49-6ed0-47ce-8a83-a42ddc16dcd6}
 asLayer=1
@@ -10,4 +10,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=ITO Map (OSM)
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Сломанные карты\ITO Map (OSM)

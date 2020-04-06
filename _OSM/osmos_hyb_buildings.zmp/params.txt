@@ -1,10 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=1
 GUID={ff477668-c0cb-4b15-8c14-b176e14166ba}
-name_ru=Трёхмерные здания
+name_ru=РўСЂС‘С…РјРµСЂРЅС‹Рµ Р·РґР°РЅРёСЏ
 name=3d-buildings
-name_uk=Трёхмерные здания
-ParentSubMenu=OSM
+name_uk=РўСЂС‘С…РјРµСЂРЅС‹Рµ Р·РґР°РЅРёСЏ
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\OSM
+ParentSubMenu=Not working\OSM
 asLayer=1
 DefURLBase= http://e.tile.osmosnimki.ru/buildings
 projection=1

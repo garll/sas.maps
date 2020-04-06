@@ -1,7 +1,7 @@
 ﻿[PARAMS]
 pnum=51
 GUID={9b2016b0-60e5-4106-8e13-a4465fcea1fa}
-name=VESatHybLabels
+name=Bing - VESatHybLabels
 ParentSubMenu_ru=Подписи и границы
 ParentSubMenu=Labels and borders
 ParentSubMenu_uk=Підписи та межі

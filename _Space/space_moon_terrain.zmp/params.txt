@@ -1,14 +1,14 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=110
 GUID={82F76321-6574-4EE2-8DCD-654557134AD7}
-name_ru=���� ������ (Google)
+name_ru=Луна Высоты (Google)
 name=Moon Terrain (Google)
 NameInCache=Moon_terrain
 DefURLBase=http://mw1.google.com/mw-planetary/lunar/lunarmaps_v1/terrain/
 ContentType=image/jpeg
-ParentSubMenu_ru=������
-ParentSubMenu=Space
-ParentSubMenu_uk=������
+ParentSubMenu_ru=Сломанные карты\Космос
+ParentSubMenu=Not working\Space
+ParentSubMenu_uk=Сломанные карты\Космос
 Ext=.jpg
 projection=1
 sradiusa=1737400

@@ -1,9 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={3B7A67AC-E3DB-43A1-A81A-78886E9190C8}
 asLayer=1
-name_ru=Контуры Высот (OpenMapSurfer)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РµР»СЊРµС„ Рё С‚РѕРїРѕР»РёРЅРёРё
+ParentSubMenu=Not working\Hillshade
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РµР»СЊС”С„ С– С‚РѕРїРѕР»РёРЅРёРё
+name_ru=РљРѕРЅС‚СѓСЂС‹ Р’С‹СЃРѕС‚ (OpenMapSurfer)
 name=Altitude contour (OpenMapSurfer)
-name_uk=Контуры Высот (OpenMapSurfer)
+name_uk=РљРѕРЅС‚СѓСЂС‹ Р’С‹СЃРѕС‚ (OpenMapSurfer)
 NameInCache=mapsurfer_altitude_contour
 DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/asterc/
 ContentType=image/png
@@ -11,9 +14,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu_ru=Рельеф и тополинии
-ParentSubMenu=Hillshade
-ParentSubMenu_uk=Рельєф і тополинии
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
 License=ASTER Global Digital Elevation Map, rendering GIScience Research Group @ University of Heidelberg

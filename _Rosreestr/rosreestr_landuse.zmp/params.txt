@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=6
 GUID={05DA2DD7-5277-496D-B428-F8B1DD8BE16A}
 asLayer=1
-ParentSubMenu_ru=Росреестр
-ParentSubMenu=Rosreestr
-ParentSubMenu_uk=Росреестр
-name_ru=Кадастровое землепользование (rosreestr.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЂРµРµСЃС‚СЂ
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЂРµРµСЃС‚СЂ
+name_ru=РљР°РґР°СЃС‚СЂРѕРІРѕРµ Р·РµРјР»РµРїРѕР»СЊР·РѕРІР°РЅРёРµ (rosreestr.ru)
 name=Cadastre Landuse (rosreestr.ru)
 NameInCache=rosreestr_zone
 DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/Cadastre/Thematic/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=1024%2C1024&layers=show%3A2%2C4&f=image&bbox=

@@ -1,13 +1,13 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=127
 GUID={19E78762-D559-4AE5-9A90-F00196B05FF9}
 asLayer=1
-name_ru=Кадастровая карта Молдавии (geoportal.md)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
+name_ru=РљР°РґР°СЃС‚СЂРѕРІР°СЏ РєР°СЂС‚Р° РњРѕР»РґР°РІРёРё (geoportal.md)
 name=Moldova Cadastre (geoportal.md)
-name_uk=Кадастровая карта Молдавии (geoportal.md)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+name_uk=РљР°РґР°СЃС‚СЂРѕРІР°СЏ РєР°СЂС‚Р° РњРѕР»РґР°РІРёРё (geoportal.md)
 NameInCache=geoportal_md_cadastre
 DefURLBase=http://geoportal.md/tiles/_base6/
 ContentType=image/png

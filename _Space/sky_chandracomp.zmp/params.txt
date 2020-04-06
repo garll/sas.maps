@@ -1,12 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={D0439E79-1D2D-4364-A61E-41757BD819AF}
 asLayer=1
-name_ru=����� Chandracomp (Google)
+name_ru=Звёзды Chandracomp (Google)
 name=chandracomp (Google)
-ParentSubMenu_ru=������
-ParentSubMenu=Space
-ParentSubMenu_uk=������
+ParentSubMenu_ru=Сломанные карты\Космос
+ParentSubMenu=Not working\Space
+ParentSubMenu_uk=Сломанные карты\Космос
 NameInCache=sky_chandracomp
 DefURLBase=http://mw1.google.com/mw-planetary/sky/mapscontent_v1/overlayTiles/chandracomp/zoom
 ContentType=image/png
