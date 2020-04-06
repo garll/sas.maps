@@ -1,3 +1,0 @@
-begin
-  ResultURL:=GetUrlBase+'&z='+inttostr(GetZ)+'&x='+inttostr(GetX)+'&y='+inttostr(GetY);
-end.
