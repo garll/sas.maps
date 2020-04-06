@@ -2,7 +2,7 @@
 GUID={0bffa4e0-852b-4bee-b8d7-7b43297400c3}
 name_ru=МТС 2G
 name=MTS 2G
-ParentSubMenu_ru=Сломанные карты\Cотовые сети
+ParentSubMenu_ru=Сломанные карты\Сотовые сети
 ParentSubMenu=Not working\Mobile coverage area
 asLayer=1
 DefURLBase=http://tiles.mts.ru/G2_New/

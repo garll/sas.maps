@@ -2,7 +2,7 @@
 GUID={ce276b7a-a0e3-47a4-bb66-af84b817801d}
 name_ru=МТС 3G
 name=MTS 3G
-ParentSubMenu_ru=Сломанные карты\Cотовые сети
+ParentSubMenu_ru=Сломанные карты\Сотовые сети
 ParentSubMenu=Not working\Mobile coverage area
 asLayer=1
 DefURLBase=http://tiles.mts.ru/G3_New/

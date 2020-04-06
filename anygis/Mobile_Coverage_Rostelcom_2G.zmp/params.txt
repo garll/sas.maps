@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={305D0EF5-D884-42B9-B5B6-F6AE9D57FFBB}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Ростелком - 2G
 name_uk=Ростелком - 2G
