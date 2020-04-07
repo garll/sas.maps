@@ -1,14 +1,13 @@
 ﻿[PARAMS]
-pnum=
 GUID={FB91E1F8-B9F4-4871-83A2-7AF3F1C76559}
 asLayer=1
-name_ru=Слой созвездий (Google)
-name=Sozvezdiya (Google)
-ParentSubMenu_ru=Сломанные карты\Космос
-ParentSubMenu=Not working\Space
-ParentSubMenu_uk=Сломанные карты\Космос
+name_ru=Созвездия (Google)
+name=Constellations (Google)
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
+ParentSubMenu_uk=Космос
 NameInCache=sky_sozv
-DefURLBase=http://mt1.google.com/mapslt?lyrs=kml:cO3EGLN6FQYFEW7oRNPQIjRVuo4gH_FrckaqT9rW4I1UnwdxsZ8h80UGcIdINAg|kv:3|kp:&w=256&h=256&source=maps_api&hl=ru
+DefURLBase=https://mt1.google.com/mapslt?lyrs=kml:cO3EGLN6FQYFEW7oRNPQIjRVuo4gH_FrckaqT9rW4I1UnwdxsZ8h80UGcIdINAg|kv:3|kp:&w=256&h=256&source=maps_api&hl=ru
 ContentType=image/png
 Ext=.png
 projection=1
