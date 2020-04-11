@@ -14,6 +14,5 @@ sradiusa=6378137
 sradiusb=6356752
 NameInCache=ksland
 Ext=.png
-DefHotKey=32843
 ContentType=image/png
 RequestHead=Referer: http://kosmosnimki.ru/

@@ -11,5 +11,5 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-DefHotKey=16463
+DefHotKey=79
 License=(c) OpenStreetMap contributors, CC-BY-SA

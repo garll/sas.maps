@@ -11,7 +11,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-DefHotKey=48
 PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8

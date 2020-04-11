@@ -18,4 +18,3 @@ sradiusb=6378137
 separator=1
 #UsePreloadPage=1
 #PreloadPage=http://wialonb3.gurtam.com/login_action.html?user=wialon_test&passw=test&action=login&skip_auto=1&lang=ru
-DefHotKey=85

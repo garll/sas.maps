@@ -2,7 +2,7 @@
 [PARAMS]
 pnum=144
 GUID={F84F5959-7D8C-442D-9660-85511634C656}
-name_ru=Генштаб 2km
+name_ru=Генштаб 2 км
 name=Genshtab 2 km
 name_uk=Генштаб 2 км
 NameInCache=Genshtab2km
@@ -14,7 +14,6 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-DefHotKey=50
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
 IsUseDownloaderInScript=1
