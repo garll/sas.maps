@@ -6,7 +6,7 @@ name_ru=Карта (Google)
 name=Map (Google)
 name_uk=Карта (Google)
 ParentSubMenu=Google
-DefURLBase=http://mt.google.com/vt/lyrs=m@169000000&hl=ru
+DefURLBase=https://mt.google.com/vt/lyrs=m@169000000
 projection=1
 sradiusa=6378137
 sradiusb=6378137
