@@ -15,4 +15,3 @@ Ext=.kml
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-DefHotKey=80
