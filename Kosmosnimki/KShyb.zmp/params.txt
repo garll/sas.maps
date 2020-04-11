@@ -11,7 +11,6 @@ ParentSubMenu=Not working
 NameInCache=KSBoth
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=FFE60CFA7DAF498381F811C08A5E8CF5
 ContentType=image/png
-ParentSubMenu=
 Ext=.png
 projection=2
 sradiusa=6378137
