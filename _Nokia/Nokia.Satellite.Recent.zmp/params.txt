@@ -13,5 +13,3 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=Nokia.Satellite.Recent
 Ext=.jpg
-DefHotKey=82
-

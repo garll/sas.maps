@@ -13,7 +13,6 @@ projection=1
 sradiusa=6378137
 sradiusb=6378137
 separator=1
-DefHotKey=90
 TILERLEFT=0
 TILERRIGHT=256
 TILERTOP=0

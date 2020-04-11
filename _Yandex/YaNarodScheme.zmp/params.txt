@@ -14,4 +14,3 @@ Ext=.png
 projection=2
 sradiusa=6378137
 sradiusb=6356752
-DefHotKey=54
