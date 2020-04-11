@@ -12,5 +12,4 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=bing_roads_en
 Ext=.png
-DefHotKey=16470
 ContentType=image/jpeg;image/png

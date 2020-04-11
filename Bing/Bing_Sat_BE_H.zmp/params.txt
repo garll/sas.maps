@@ -12,6 +12,5 @@ sradiusa=6378137
 sradiusb=6378137
 NameInCache=vesatbird_H
 Ext=.jpg
-DefHotKey=86
 ContentType=image/jpeg; image/png
 version=0
