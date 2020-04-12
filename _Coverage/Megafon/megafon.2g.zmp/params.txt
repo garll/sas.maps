@@ -1,9 +1,10 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={0b111110-866b-466e-b8d7-7b43297400c3}
-name_ru=Мегафон 2G GSM
+name_ru=РњРµРіР°С„РѕРЅ 2G GSM
 name=Megafon 2G GSM
-ParentSubMenu_ru=Сломанные карты\Сотовые сети
-ParentSubMenu=Not working\Mobile coverage area
+ParentSubMenu_ru=[СЃР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹]\РЎРѕС‚РѕРІС‹Рµ СЃРµС‚Рё
+ParentSubMenu_uk=[Р·Р»Р°РјР°РЅС– РєР°СЂС‚Рё]\РЎС‚С–Р»СЊРЅРёРєРѕРІРёР№ Р·РІ'СЏР·РѕРє
+ParentSubMenu=[not working]\Mobile coverage area
 asLayer=1
 DefURLBase=http://yamap.megafon.ru/g2/
 projection=2

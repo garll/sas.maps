@@ -2,9 +2,9 @@
 pnum=117
 GUID={ef4f46af-dbbd-4783-b4af-15bc9fdde3e9}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
-ParentSubMenu=Not working\OITO Map (OSM)
-ParentSubMenu_uk=Сломанные карты\ITO Map (OSM)
+ParentSubMenu_ru=[сломанные карты]\ITO Map (OSM)
+ParentSubMenu=[not working]\OITO Map (OSM)
+ParentSubMenu_uk=[зламані карти]\ITO Map (OSM)
 name_ru=Административное деление (ITO Map)
 name=Administrative boundaries (ITO Map)
 NameInCache=osm_ito_Administrative_boundaries

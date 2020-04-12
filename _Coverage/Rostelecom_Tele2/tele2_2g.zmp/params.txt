@@ -5,6 +5,7 @@ name_ru=Ростелеком 2G
 name=Rostelecom 2G
 name_uk=Ростелеком 2G
 ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
 NameInCache=cover.rostelecom.2g
 DefURLBase=http://tele2.tilessputnik.ru/tiles/

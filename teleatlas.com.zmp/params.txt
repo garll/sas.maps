@@ -6,9 +6,9 @@ name=Map (navigation.teleatlas.com)
 NameInCache=teleatlas_com
 DefURLBase=http://wms03.lbs.tomtom.com/lbs/wms?LAYERS=basic&TRANSPARENT=false&REQUEST=GetMap&FORMAT=image%2Fpng&APIKEY=7093ecaa-c943-4a20-b1b0-c232388e708b&SERVICE=WMS&VERSION=1.1.1&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
 ContentType=image/png
-ParentSubMenu_ru=Сломанные карты\Другие карты
-ParentSubMenu=Not working\Other maps
-ParentSubMenu_uk=Сломанные карты\Інші карти
+ParentSubMenu_ru=[сломанные карты]\Другие карты
+ParentSubMenu=[not working]\Other maps
+ParentSubMenu_uk=[зламані карти]\Інші карти
 Ext=.png
 projection=1
 sradiusa=6378137

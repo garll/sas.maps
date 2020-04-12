@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={1A674180-FD5B-43C4-A3FB-93B36B141719}
 ParentSubMenu_ru=Водные карты
-ParentSubMenu_uk=Водные карты
+ParentSubMenu_uk=Водні карти
 ParentSubMenu=Water maps
 name_ru=OSM OpenSeaMap - Рельеф
 name_uk=OSM OpenSeaMap - Рельеф

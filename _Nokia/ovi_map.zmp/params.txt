@@ -1,8 +1,9 @@
 ﻿[PARAMS]
 pnum=6
 GUID={70AF7E17-DE9B-4BD6-86F4-70921A74B2B6}
-ParentSubMenu_ru=Сломанные карты\Nokia
-ParentSubMenu=Not working\Nokia
+ParentSubMenu_ru=[сломанные карты]\Nokia
+ParentSubMenu_uk=[зламані карти]\Nokia
+ParentSubMenu=[not working]\Nokia
 name_ru=Карта Nokia (maps.ovi.com)
 name=Nokia Map (maps.ovi.com)
 name_uk=Карта Nokia (maps.ovi.com)

@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={6501F521-FF39-42B8-BBF6-F4024B86EEA2}
 ParentSubMenu_ru=Справочные\Россия
-ParentSubMenu_uk=Справочные\Россия
+ParentSubMenu_uk=Інформаційний\Росія
 ParentSubMenu=Info\Russia
 name_ru=RosReestr.ru - Кадастровые границы
 name_uk=RosReestr.ru - Кадастровые границы

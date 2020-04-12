@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=7
 GUID={8238C84A-D37E-45E1-A756-FBCFBCD4168C}
-name_ru=Карта (geohub.net)
+name_ru=РљР°СЂС‚Р° (geohub.net)
 name=Map (geohub.net)
-name_uk=Карта (geohub.net)
-ParentSubMenu_ru=Сломанные карты\GeoHub
-ParentSubMenu=Not working\GeoHub
-ParentSubMenu_uk=Сломанные карты\GeoHub
+name_uk=РљР°СЂС‚Р° (geohub.net)
+ParentSubMenu_ru=[СЃР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹]\GeoHub
+ParentSubMenu_uk=[Р·Р»Р°РјР°РЅС– РєР°СЂС‚Рё]\GeoHub
+ParentSubMenu=[not working]\GeoHub
 DefURLBase=http://maps.geohub.net/wms-c/1.0.0/geobase_full/
 projection=1
 sradiusa=6378137

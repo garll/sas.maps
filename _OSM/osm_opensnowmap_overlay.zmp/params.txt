@@ -1,8 +1,8 @@
 ﻿[PARAMS]
 GUID={1123ADB1-4562-4280-9222-D4690321117E}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Зимние
+ParentSubMenu_uk=Зимовий
+ParentSubMenu=Winter
 name=OpenSnowMap (pistes layer)
 asLayer=1
 NameInCache=opensnowmap_overlay

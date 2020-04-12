@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={983D5EF4-AFB1-49BA-8A91-9CE2D2EE1B5D}
 ParentSubMenu_ru=Сотовые сети
-ParentSubMenu_uk=Сотовые сети
+ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
 name_ru=Мегафон - 3G
 name_uk=Мегафон - 3G

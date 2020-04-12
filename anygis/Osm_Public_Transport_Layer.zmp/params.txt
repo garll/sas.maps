@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={492DFDB6-4959-44B8-B39A-3E5CE947800C}
 ParentSubMenu_ru=Инфраструктура
-ParentSubMenu_uk=Инфраструктура
+ParentSubMenu_uk=Інфраструктура
 ParentSubMenu=Infrastucture
 name_ru=OSM OpenPTMap - Общ.транспорт
 name_uk=OSM OpenPTMap - Общ.транспорт

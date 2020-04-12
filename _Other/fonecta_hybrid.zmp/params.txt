@@ -1,9 +1,9 @@
 ﻿[PARAMS]
 GUID={793A257F-0489-43AA-9BB6-943DE5F28004}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\Другие карты
-ParentSubMenu=Not working\Other maps
-ParentSubMenu_uk=Сломанные карты\Інші карти
+ParentSubMenu_ru=[сломанные карты]\Другие карты
+ParentSubMenu=[not working]\Other maps
+ParentSubMenu_uk=[зламані карти]\Інші карти
 name=Finland hybrid (fonecta.fi)
 name_ru=Финляндия наложение (fonecta.fi)
 NameInCache=fonecta_hybrid

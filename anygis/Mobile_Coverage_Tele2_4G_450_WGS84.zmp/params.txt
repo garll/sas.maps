@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={389293D0-7958-4F78-AB74-779005735811}
 ParentSubMenu_ru=Сотовые сети
-ParentSubMenu_uk=Сотовые сети
+ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
 name_ru=Tele2 - LTE 450
 name_uk=Tele2 - LTE 450

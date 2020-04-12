@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={08710E2B-A143-4072-93E9-CEBFFACC85DD}
 ParentSubMenu_ru=Инфраструктура
-ParentSubMenu_uk=Инфраструктура
+ParentSubMenu_uk=Інфраструктура
 ParentSubMenu=Infrastucture
 name_ru=OSM OpenFireMap
 name_uk=OSM OpenFireMap

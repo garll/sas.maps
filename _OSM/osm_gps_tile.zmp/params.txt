@@ -1,8 +1,8 @@
 ﻿[PARAMS]
 GUID={1123ADB1-4561-4280-9222-D4690321117E}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
 name_ru=OSM - GPS-треки
 name=OSM - GPS-tracks
 name_uk=OSM - GPS-треки

@@ -3,9 +3,9 @@ pnum=48
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE7}
 name_ru=Navitel.ru - Пробки
 name=Navitel.ru - Probki
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
 asLayer=1
 DefURLBase=http://dmapa.navitel.ru/navitms.fcgi?j=
 projection=1

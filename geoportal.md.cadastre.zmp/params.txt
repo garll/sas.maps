@@ -2,9 +2,9 @@
 pnum=127
 GUID={19E78762-D559-4AE5-9A90-F00196B05FF9}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\Локальные карты
-ParentSubMenu=Not working\Local maps
-ParentSubMenu_uk=Сломанные карты\Локальні карти
+ParentSubMenu_ru=[сломанные карты]\Локальные карты
+ParentSubMenu=[not working]\Local maps
+ParentSubMenu_uk=[зламані карти]\Локальні карти
 name_ru=Кадастровая карта Молдавии (geoportal.md)
 name=Moldova Cadastre (geoportal.md)
 name_uk=Кадастровая карта Молдавии (geoportal.md)

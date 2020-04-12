@@ -2,8 +2,9 @@
 pnum=117
 GUID={CDA67F8D-C7D3-4B4C-A6EE-7B187794F762}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\OSM
-ParentSubMenu=Not working\OSM
+ParentSubMenu_ru=[сломанные карты]\OSM
+ParentSubMenu_uk=[зламані карти]\OSM
+ParentSubMenu=[not working]\OSM
 name_ru=Надписи OSM (toolserver.org)
 name=Hybrid OSM (toolserver.org)
 NameInCache=OSM_toolserver_org

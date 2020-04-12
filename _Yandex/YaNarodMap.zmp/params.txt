@@ -2,9 +2,9 @@
 pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63A}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\Яндекс
-ParentSubMenu=Not working\Yandex
-ParentSubMenu_uk=Яндекс\Рельєф і тополинии
+ParentSubMenu_ru=[сломанные карты]\Яндекс
+ParentSubMenu=[not working]\Yandex
+ParentSubMenu_uk=[зламані карти]\Яндекс
 name_ru=Старая Народная Карта Яндекс
 name=Old Yandex Narod Map
 name_uk=Старая Народная Карта Яндекс

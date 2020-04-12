@@ -2,9 +2,9 @@
 pnum=5
 GUID={38E29DB4-AAA4-5D08-836C-936325F0B63A}
 asLayer=1
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
 name_ru=Яндекс - Народная Карта (Треки)
 name=Yandex - Narod Map Tracks
 NameInCache=yandextracks

@@ -2,6 +2,7 @@
 GUID={2333E9D3-EB95-466D-AC14-2CFFCDB509C2}
 name=Navionics SonarChart(TM)
 ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водні карти
 ParentSubMenu=Water maps
 asLayer=1
 DefURLBase=https://backend.navionics.com/tile/

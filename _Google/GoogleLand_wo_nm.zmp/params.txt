@@ -1,8 +1,9 @@
 ﻿[PARAMS]
 pnum=3
 GUID={D8A2B03A-18B8-4127-936A-2D6A7AE0D89B}
-ParentSubMenu_ru=Сломанные карты\Google
-ParentSubMenu=Not working\Google
+ParentSubMenu_ru=[сломанные карты]\Google
+ParentSubMenu_uk=[зламані карти]\Google
+ParentSubMenu=[not working]\Google
 name_ru=Ландшафт без названий (Google)
 name=Landscape w\o names (Google)
 name_uk=Ландшафт без назв (Google)

@@ -2,9 +2,9 @@
 pnum=6
 GUID={05DA2DD7-5277-496D-B428-F8B1DD8BE16A}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\Росреестр
-ParentSubMenu=Not working\Rosreestr
-ParentSubMenu_uk=Сломанные карты\Росреестр
+ParentSubMenu_ru=[сломанные карты]\Росреестр
+ParentSubMenu=[not working]\Rosreestr
+ParentSubMenu_uk=[зламані карти]\Росреестр
 name_ru=Кадастровое землепользование (rosreestr.ru)
 name=Cadastre Landuse (rosreestr.ru)
 NameInCache=rosreestr_zone

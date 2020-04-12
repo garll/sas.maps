@@ -1,9 +1,9 @@
 ﻿[PARAMS]
 pnum=12
 GUID={DEE2AC2F-7649-415F-AFB3-E337CDAF3A5D}
-ParentSubMenu_ru=Сломанные карты\Другие карты
-ParentSubMenu=Not working\Other maps
-ParentSubMenu_uk=Сломанные карты\Інші карти
+ParentSubMenu_ru=[сломанные карты]\Другие карты
+ParentSubMenu=[not working]\Other maps
+ParentSubMenu_uk=[зламані карти]\Інші карти
 name_ru=Карта Gurtam (maps.cnord.ru)
 name=Map Gurtam (maps.cnord.ru)
 name_uk=Карта Gurtam (maps.cnord.ru)

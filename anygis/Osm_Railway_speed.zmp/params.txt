@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={994DD1F8-D6CC-4CC9-B175-52D913E5F37E}
 ParentSubMenu_ru=Инфраструктура
-ParentSubMenu_uk=Инфраструктура
+ParentSubMenu_uk=Інфраструктура
 ParentSubMenu=Infrastucture
 name_ru=OSM OpenRailWay - Скорость
 name_uk=OSM OpenRailWay - Скорость

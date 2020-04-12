@@ -2,9 +2,9 @@
 pnum=5
 GUID={9AFFE8A1-431D-48F4-8515-54A7D42F0E6C}
 asLayer=1
-ParentSubMenu_ru=Сломанные карты\Яндекс
-ParentSubMenu=Not working\Yandex
-ParentSubMenu_uk=Яндекс\Рельєф і тополинии
+ParentSubMenu_ru=[сломанные карты]\Яндекс
+ParentSubMenu=[not working]\Yandex
+ParentSubMenu_uk=[зламані карти]\Яндекс
 name_ru=Слой Яндекс Фотки (Яндекс.Карты)
 name=Yandex Photo (Yandex.Maps)
 name_uk=Слой Яндекс Фотки (Яндекс.Карты)
