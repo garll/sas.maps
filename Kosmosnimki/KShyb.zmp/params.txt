@@ -6,8 +6,9 @@ asLayer=1
 name_ru=Гибрид (Космоснимки)
 name=Hybrid (kosmosnimki.ru)
 name_uk=Гібрид (Космоснимки)
-ParentSubMenu_ru=Сломанные карты
-ParentSubMenu=Not working
+ParentSubMenu_ru=[сломанные карты]
+ParentSubMenu_uk=[зламані карти]
+ParentSubMenu=[not working]
 NameInCache=KSBoth
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=FFE60CFA7DAF498381F811C08A5E8CF5
 ContentType=image/png

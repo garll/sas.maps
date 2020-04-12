@@ -3,9 +3,9 @@
 pnum=48
 GUID={D61F9933-CE83-46CE-96AD-AEC88E0E7E05}
 asLayer=1
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
 name_ru=Google Maps - Пробки
 name=Google Maps - Traffic
 name_uk=Google Maps - Пробки

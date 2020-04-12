@@ -4,6 +4,7 @@ pnum=43
 GUID={BF0F5E1C-4E9B-43DE-990F-2F26618A6274}
 asLayer=1
 ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водні карти
 ParentSubMenu=Water maps
 name_ru=Водные ресурсы (maps-for-free)
 name=Water resource (maps-for-free)

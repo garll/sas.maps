@@ -5,9 +5,9 @@ GUID={63862E5D-09DB-4732-9D22-6350998802CB}
 name_ru=Карта (eAtlas)
 name=Map (eAtlas)
 name_uk=Карта (eAtlas)
-ParentSubMenu_ru=Сломанные карты\Другие карты
-ParentSubMenu=Not working\Other maps
-ParentSubMenu_uk=Сломанные карты\Інші карти
+ParentSubMenu_ru=[сломанные карты]\Другие карты
+ParentSubMenu=[not working]\Other maps
+ParentSubMenu_uk=[зламані карти]\Інші карти
 NameInCache=eatlas
 DefURLBase=http://maps.eatlas.ru/getpict/map.aspx?ms=&sml=&ssl=&sst=&smx=0&smy=0&ssi=0&ssv=False&CP=ONL&cat=
 ContentType=image/gif
