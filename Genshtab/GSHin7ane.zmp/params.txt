@@ -2,15 +2,15 @@
 [PARAMS]
 pnum=140
 GUID={E2C415B7-C27B-4403-8345-13C21BC1030B}
-name_ru=Генштаб (in7ane.com)
-name=Genshtab (in7ane.com)
-name_uk=Генштаб (in7ane.com)
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
+name_ru=in7ane.com - Генштаб 1км (фрагменты)
+name=in7ane.com
+name_uk=in7ane.com - Генштаб 1км (фрагменты)
 NameInCache=GSHin7ane
 DefURLBase=http://www.in7ane.com/topomaps/tiles
 ContentType=image/jpeg
-ParentSubMenu_ru=Генштаб
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137

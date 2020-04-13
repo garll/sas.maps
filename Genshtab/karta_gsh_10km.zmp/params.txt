@@ -2,14 +2,14 @@
 [PARAMS]
 pnum=142
 GUID={3E2164BF-A302-4071-B212-8BE3B0C0E9FA}
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
 name_ru=Генштаб 10 км
 name=Genshtab 10 km
 name_uk=Генштаб 10 км
 NameInCache=Genshtab10km
 DefURLBase=http://91.237.82.95:8088/pub/genshtab/10km/
-ParentSubMenu_ru=Генштаб
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137

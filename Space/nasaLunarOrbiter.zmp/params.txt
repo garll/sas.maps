@@ -6,9 +6,9 @@ name=Lunar Orbiter (NASA)
 NameInCache=nasaMoonO
 DefURLBase=http://OnMoon.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=LO&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
-ParentSubMenu_ru=[сломанные карты]\Космос
-ParentSubMenu=[not working]\Space
-ParentSubMenu_uk=[зламані карти]\Космос
+ParentSubMenu_ru=Сломанные карты\Космос
+ParentSubMenu=Not working\Space
+ParentSubMenu_uk=Зламані карти\Космос
 Ext=.jpg
 projection=1
 sradiusa=1737400

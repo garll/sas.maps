@@ -2,6 +2,9 @@
 [PARAMS]
 pnum=146
 GUID={1E76357C-2316-430A-A1B1-84ECCF0FB735}
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
 name_ru=Генштаб 250 м
 name=Genshtab 250 m
 name_uk=Генштаб 250 м
@@ -9,9 +12,6 @@ NameInCache=genshtab.250m
 DefURLBase=http://91.237.82.95:8088/pub/genshtab/250m/
 defaultContentType=image/jpeg
 IgnoreContentType=1
-ParentSubMenu_ru=Генштаб
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137

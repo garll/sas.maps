@@ -8,9 +8,9 @@ name_uk=Інфра-червоний композит Марса (THEMIS, NASA)
 NameInCache=nasaMarsTHEMIS
 DefURLBase=http://OnMars.jpl.nasa.gov/wms.cgi?request=GetMap&width=256&height=256&layers=themis&styles=&srs=EPSG:4326&format=image/jpeg&bbox=
 ContentType=image/jpeg
-ParentSubMenu_ru=[сломанные карты]\Космос
-ParentSubMenu=[not working]\Space
-ParentSubMenu_uk=[зламані карти]\Космос
+ParentSubMenu_ru=Сломанные карты\Космос
+ParentSubMenu=Not working\Space
+ParentSubMenu_uk=Зламані карти\Космос
 Ext=.jpg
 projection=3
 sradiusa=3396190

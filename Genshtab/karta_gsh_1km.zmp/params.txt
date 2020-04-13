@@ -2,6 +2,9 @@
 [PARAMS]
 pnum=145
 GUID={866D8DC1-8D36-4A80-891C-2FBCA7D03E93}
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
 name_ru=Генштаб 1 км
 name=Genshtab 1 km
 name_uk=Генштаб 1 км
@@ -9,9 +12,6 @@ NameInCache=genshtab1km
 DefURLBase=http://91.237.82.95:8088/pub/genshtab/1km/
 defaultContentType=image/jpeg
 IgnoreContentType=1
-ParentSubMenu_ru=Генштаб
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137

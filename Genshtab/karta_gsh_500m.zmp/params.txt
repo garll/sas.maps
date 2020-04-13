@@ -2,15 +2,15 @@
 [PARAMS]
 pnum=146
 GUID={4463DAE6-03C7-4189-80E5-12C9530CE857}
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
 name_ru=Генштаб 500 м
 name=Genshtab 500 m
 name_uk=Генштаб 500 м
 NameInCache=genshtab500m
 DefURLBase=http://91.237.82.95:8088/pub/genshtab/500m/
 defaultContentType=image/jpeg
-ParentSubMenu_ru=Генштаб
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=Генштаб
 Ext=.jpg
 projection=1
 sradiusa=6378137

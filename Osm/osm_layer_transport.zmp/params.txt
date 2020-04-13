@@ -3,9 +3,9 @@
 pnum=115
 GUID={36e3746e-20f7-4861-82f9-911195f9de9b}
 asLayer=1
-ParentSubMenu_ru=[сломанные карты]\OSM
-ParentSubMenu_uk=[зламані карти]\OSM
-ParentSubMenu=[not working]\OSM
+ParentSubMenu_ru=Сломанные карты\OSM
+ParentSubMenu_uk=Зламані карти\OSM
+ParentSubMenu=Not working\OSM
 name_ru=Транспорт OSM (osmosnimki.ru)
 name=Transport OSM (osmosnimki.ru)
 name_uk=Транспорт OSM (osmosnimki.ru)

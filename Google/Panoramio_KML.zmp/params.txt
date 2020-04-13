@@ -3,9 +3,9 @@
 pnum=44
 GUID={3C6C8E9B-D455-425F-9652-11F8CB3D3613}
 asLayer=1
-ParentSubMenu_ru=[сломанные карты]\Google
-ParentSubMenu_uk=[зламані карти]\Google
-ParentSubMenu=[not working]\Google
+ParentSubMenu_ru=Сломанные карты\Google
+ParentSubMenu_uk=Зламані карти\Google
+ParentSubMenu=Not working\Google
 name=Panoramio KML
 NameInCache=Pano_KML
 DefURLBase=http://www.panoramio.com/panoramio.kml?all&LANG=ru_RU.utf8&BBOX=

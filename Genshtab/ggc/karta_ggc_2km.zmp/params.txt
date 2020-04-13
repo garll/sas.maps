@@ -2,15 +2,15 @@
 [PARAMS]
 pnum=245
 GUID={32D32D41-5533-4D96-9273-48FBE63B1E0E}
+ParentSubMenu_ru=Топокарты\ГГЦ
+ParentSubMenu_uk=Топокарти\ГГЦ
+ParentSubMenu=Topomaps\GGC
 name_ru=ГосГисЦентр 2 Км
 name=GosGisCentr 2 Km
 name_uk=GosGisCentr 2 Kм
 NameInCache=ggc2km
 DefURLBase=http://91.237.82.95:8088/pub/ggc/2km.png/
 defaultContentType=image/png
-ParentSubMenu_ru=Генштаб\ГГЦ
-ParentSubMenu=Genshtab\GGC
-ParentSubMenu_uk=Генштаб\GGC
 Ext=.png
 projection=1
 sradiusa=6378137
