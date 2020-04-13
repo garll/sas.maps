@@ -1,0 +1,11 @@
+﻿[PARAMS]
+GUID={e9db8d76-6ddf-44c6-8c58-f3b02f67c519}
+ParentSubMenu_ru=Туристические\Непал
+ParentSubMenu_uk=Туристичний\Непал
+ParentSubMenu=Hike\Nepal
+name_ru=Непал
+name=Nepal
+NameInCache=nepal
+DefURLBase=https://maps.melda.ru/pub/tourism/nepal/{z}/{x}/{y}.jpg
+ContentType=image/jpeg
+EPSG=3785

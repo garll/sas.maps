@@ -2,10 +2,11 @@
 [PARAMS]
 pnum=17
 GUID={671CDF7B-BF4C-4679-B2B2-77AE1914A7D0}
+ParentSubMenu_ru=Туристические\Россия\Карелия
+ParentSubMenu_uk=Туристичний\Росія\Карелія
+ParentSubMenu=Hike\Russia\Karelia
 name_ru=Хибинские и Ловоозерские тундры 2008
 name=Hibins tundra 2008
-ParentSubMenu_ru=Туристические\Карелия
-ParentSubMenu=Tourism\Karelia
 DefURLBase=http://91.237.82.95:8088/pub/tourism/karelia/hibin4ae/
 projection=1
 sradiusa=6378137

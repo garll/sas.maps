@@ -1,18 +1,19 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={10B2CE3B-78F2-44A8-8396-F94160291754}
-name_ru= Абишира-Ахуба (В.Ляпин)
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљР°РІРєР°Р·
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РљР°РІРєР°Р·
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru= РђР±РёС€РёСЂР°-РђС…СѓР±Р° (Р’.Р›СЏРїРёРЅ)
 name=Abishira-Ahuba (V.Lyapin)
-ParentSubMenu_ru=Туристические\Кавказ
-ParentSubMenu=Tourism\Kavkaz
 DefURLBase=http://91.237.82.95:8088/pub/tourism/lcarta/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=lcarta
 Ext=.jpg
-License=© Ляпин В.Г. 2013
+License=В© Р›СЏРїРёРЅ Р’.Р“. 2013
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1

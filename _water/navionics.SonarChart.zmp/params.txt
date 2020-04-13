@@ -1,8 +1,9 @@
-[PARAMS]
+п»ї[PARAMS]
 GUID={247A02DC-5204-46FC-8D23-828AFC83A434}
 name=Navionics SonarChart(TM)
-ParentSubMenu_ru=Морские карты
-ParentSubMenu=Marine maps
+ParentSubMenu_ru=Р’РѕРґРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu_uk=Р’РѕРґРЅС– РєР°СЂС‚Рё
+ParentSubMenu=Water maps
 DefURLBase=https://backend.navionics.com/tile/
 NameInCache=navionics_sonarchart
 Ext=.png

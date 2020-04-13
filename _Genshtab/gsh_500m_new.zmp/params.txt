@@ -1,16 +1,16 @@
-
+Ôªø
 [PARAMS]
 pnum=139
 GUID={7D47D2E6-9410-4181-B2F1-224A4880E698}
-name_ru=√ÂÌ¯Ú‡· 500Ï (1999-2010)
+ParentSubMenu_ru=–¢–æ–ø–æ–∫–∞—Ä—Ç—ã\–ì–µ–Ω—à—Ç–∞–±
+ParentSubMenu_uk=–¢–æ–ø–æ–∫–∞—Ä—Ç–∏\–ì–µ–Ω—à—Ç–∞–±
+ParentSubMenu=Topomaps\Soviet military maps
+name_ru=–ì–µ–Ω—à—Ç–∞–± 500–º (1999-2010)
 name=Genshtab 500m (1999-2010)
-name_uk=√ÂÌ¯Ú‡· 500Ï (1999-2010)
+name_uk=–ì–µ–Ω—à—Ç–∞–± 500–º (1999-2010)
 NameInCache=genshtab500m_new
 DefURLBase=http://91.237.82.95:8088/pub/genshtab/500m.new/
 defaultContentType=image/jpeg
-ParentSubMenu_ru=√ÂÌ¯Ú‡·
-ParentSubMenu=Genshtab
-ParentSubMenu_uk=√ÂÌ¯Ú‡·
 Ext=.jpg
 projection=1
 sradiusa=6378137

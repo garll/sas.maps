@@ -2,14 +2,14 @@
 [PARAMS]
 pnum=245
 GUID={A5818433-0C11-4C67-B025-D51CE1076000}
+ParentSubMenu_ru=Топокарты\ГГЦ
+ParentSubMenu_uk=Топокарти\ГГЦ
+ParentSubMenu=Topomaps\GGC
 name_ru=ГосГисЦентр (все масштабы)
 name=GosGisCentr 
 NameInCache=ggc_all
 DefURLBase=http://91.237.82.95:8088/pub/ggc/
 defaultContentType=image/png
-ParentSubMenu_ru=Генштаб\ГГЦ
-ParentSubMenu=Genshtab\GGC
-ParentSubMenu_uk=Генштаб\GGC
 Ext=.png
 projection=1
 sradiusa=6378137

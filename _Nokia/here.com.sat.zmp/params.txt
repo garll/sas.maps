@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=6
 GUID={9A360A51-7A74-4004-8A12-D670BD739B7B}
-ParentSubMenu_ru=[сломанные карты]\Nokia
-ParentSubMenu_uk=[зламані карти]\Nokia
-ParentSubMenu=[not working]\Nokia
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu_uk=Зламані карти\Nokia
+ParentSubMenu=Not working\Nokia
 name=Here.com Sat (.png)
 name_ru=Спутник Here.com (.png)
 name_uk=Спутник Here.com (.png)

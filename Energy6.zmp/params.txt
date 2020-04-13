@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=45
+GUID={91691EBA-428D-34D6-BA4C-9BB2A1DF436B}
+asLayer=1
+ParentSubMenu_ru=Инфраструктура\Россия
+ParentSubMenu_uk=Інфраструктура\Росія
+ParentSubMenu=Infrastucture\Russia
+name_ru=OSM Линии Электро Передач для ЦФО и СЗО
+name=OSM Electric Transmission Lines for CFR and NWO
+NameInCache=Energy
+DefURLBase=http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox=
+ContentType=image/png
+LayerZOrder=0
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+License=(c) Сальвар Смоленск
+

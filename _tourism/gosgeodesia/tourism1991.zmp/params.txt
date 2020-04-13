@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
-name_ru=Сводная (с) Госгеодезия СССР 1991г.
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљР°РІРєР°Р·
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РљР°РІРєР°Р·
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=РЎРІРѕРґРЅР°СЏ (СЃ) Р“РѕСЃРіРµРѕРґРµР·РёСЏ РЎРЎРЎР  1991Рі.
 name=All Gosgeodeziya
-ParentSubMenu_ru=Туристические\Кавказ
-ParentSubMenu=Tourism\Kavkaz
 DefURLBase=http://91.237.82.95:8088/pub/tourism/gosgeodeziya/
 projection=1
 sradiusa=6378137

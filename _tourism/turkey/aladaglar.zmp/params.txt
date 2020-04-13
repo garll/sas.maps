@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={7883C9C4-C669-43CE-83B7-FCCE92F6DD4E}
-name_ru=хребет Аладаглар
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\РўСѓСЂС†РёСЏ
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\РўСѓСЂРµС‡С‡РёРЅР°
+ParentSubMenu=Hike\Turkey
+name_ru=С…СЂРµР±РµС‚ РђР»Р°РґР°РіР»Р°СЂ
 name=Aladaglar ridge
-ParentSubMenu_ru=Туристические\Турция
-ParentSubMenu=Tourism\Turkey
 DefURLBase=http://91.237.82.95:8088/pub/tourism/aladaglar/
 projection=1
 sradiusa=6378137

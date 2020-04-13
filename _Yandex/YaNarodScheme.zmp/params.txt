@@ -1,8 +1,8 @@
 ﻿[PARAMS]
 pnum=5
 GUID={38E29DB4-A654-4D08-836C-936325F0B63B}
-ParentSubMenu_ru=[сломанные карты]\Яндекс
-ParentSubMenu=[not working]\Yandex
+ParentSubMenu_ru=Сломанные карты\Яндекс
+ParentSubMenu=Not working\Yandex
 ParentSubMenu_uk=Not working\Яндекс
 name_ru=Старая Народная Карта Яндекс (Cхема)
 name=Old Yandex Narod Map (Scheme)

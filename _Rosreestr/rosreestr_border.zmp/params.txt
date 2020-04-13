@@ -2,9 +2,9 @@
 pnum=6
 GUID={3C8D2BEF-D555-404C-8032-A831B00790B0}
 asLayer=1
-ParentSubMenu_ru=[сломанные карты]\Росреестр
-ParentSubMenu=[not working]\Rosreestr
-ParentSubMenu_uk=[зламані карти]\Росреестр
+ParentSubMenu_ru=Сломанные карты\Росреестр
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=Зламані карти\Росреестр
 name_ru=Росреестр Границы
 name=Rosreestr BordersGKN
 NameInCache=rosreestr_BordersGKN

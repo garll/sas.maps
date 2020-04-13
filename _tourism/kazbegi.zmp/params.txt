@@ -1,11 +1,12 @@
-
+﻿
 [PARAMS]
 pnum=17
 GUID={3AC8353B-CD0A-48A6-A727-A373D3A763CE}
-name_ru=������ (�) Geoland
-name=Kazbegi (�) Geoland
-ParentSubMenu_ru=�������������\������
-ParentSubMenu=Tourism\Kavkaz
+ParentSubMenu_ru=Туристические\Россия\Кавказ
+ParentSubMenu_uk=Туристичний\Росія\Кавказ
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=Казбек (с) Geoland
+name=Kazbegi (с) Geoland
 DefURLBase=http://91.237.82.95:8088/pub/tourism/kazbegi/
 projection=1
 sradiusa=6378137

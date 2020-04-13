@@ -2,9 +2,9 @@
 GUID={ADCF010A-359E-4C00-9610-2F19A12C08C7}
 pnum=
 asLayer=1
-ParentSubMenu_ru=[сломанные карты]\Локальные карты
-ParentSubMenu=[not working]\Local maps
-ParentSubMenu_uk=[зламані карти]\Локальні карти
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
 name_ru=Административные границы (gis-gid.ru)
 name=Borders (gis-gid.ru)
 name_ua=Административные границы (gis-gid.ru)

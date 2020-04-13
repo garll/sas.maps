@@ -2,9 +2,9 @@
 GUID={6B05E307-B1EF-4368-9080-83C6B1F437EA}
 asLayer=1
 pnum=44
-ParentSubMenu_ru=[сломанные карты]\Google
-ParentSubMenu_uk=[зламані карти]\Google
-ParentSubMenu=[not working]\Google
+ParentSubMenu_ru=Сломанные карты\Google
+ParentSubMenu_uk=Зламані карти\Google
+ParentSubMenu=Not working\Google
 name_ru=Panoramio Картинки
 name=Panoramio pictures
 NameInCache=Pano

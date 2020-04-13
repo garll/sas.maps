@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={F923688D-2C5B-4B30-A080-941AB3253EFA}
-name_ru=Ергаки - Арадан
-name=Ergaki Aradan
-ParentSubMenu_ru=Туристические\Саяны
-ParentSubMenu=Tourism\Sayan
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РЎРёР±РёСЂСЊ
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РЎРёР±С–СЂ
+ParentSubMenu=Hike\Russia\Siberia
+name_ru=РЎР°СЏРЅС‹. Р•СЂРіР°РєРё - РђСЂР°РґР°РЅ
+name=Sayan mountains. Ergaki - Aradan
 DefURLBase=http://91.237.82.95:8088/pub/tourism/ergaki_aradan/
 projection=1
 sradiusa=6378137
@@ -15,5 +16,5 @@ Ext=.jpg
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
-License=(c) Шишкин Сергей. shandl.ru
+License=(c) РЁРёС€РєРёРЅ РЎРµСЂРіРµР№. shandl.ru
 IsUseDownloaderInScript=1

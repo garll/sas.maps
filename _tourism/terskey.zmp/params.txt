@@ -1,10 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={DA6A385B-F2A1-493A-BC9B-93FF43405C15}
-name_ru=Хребтовка Тянь-Шаня и Джунгарии
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\РљРёСЂРіРёР·РёСЏ
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\РљРёСЂРіРёР·С–СЏ
+ParentSubMenu=Hike\Kyrgyzstan
+name_ru=РҐСЂРµР±С‚РѕРІРєР° РўСЏРЅСЊ-РЁР°РЅСЏ Рё Р”Р¶СѓРЅРіР°СЂРёРё
 name=Tyan-shan + Djungary
-ParentSubMenu_ru=Туристические
-ParentSubMenu=Tourism
 DefURLBase=http://map.g-utka.ru/
 projection=1
 sradiusa=6378137
@@ -13,4 +14,4 @@ NameInCache=Terskey
 Ext=.png
 UsePreloadPage=0
 ContentType=image/png
-License=Детско-юношеский туристский клуб "Гадкий утёнок"
+License=Р”РµС‚СЃРєРѕ-СЋРЅРѕС€РµСЃРєРёР№ С‚СѓСЂРёСЃС‚СЃРєРёР№ РєР»СѓР± "Р“Р°РґРєРёР№ СѓС‚С‘РЅРѕРє"

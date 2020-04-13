@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={598f5703-671d-4528-9c82-30aaf58f238c}
-name_ru=Карпаты
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\РЈРєСЂР°РёРЅР°
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\РЈРєСЂР°С—РЅР°
+ParentSubMenu=Hike\Ukraine
+name_ru=РљР°СЂРїР°С‚С‹
 name=Karpaty
-ParentSubMenu_ru=Туристические\Украина
-ParentSubMenu=Tourism\Ukraine
 DefURLBase=http://91.237.82.95:8088/pub/tourism/ukraine/karpaty/
 projection=1
 sradiusa=6378137

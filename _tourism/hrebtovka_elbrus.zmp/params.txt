@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={C9B37420-DA1D-432D-B80C-816BD8116571}
-name_ru=Хребтовка Приэльбрусье (Ляпин В.Г.)
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљР°РІРєР°Р·
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РљР°РІРєР°Р·
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=РҐСЂРµР±С‚РѕРІРєР° РџСЂРёСЌР»СЊР±СЂСѓСЃСЊРµ (Р›СЏРїРёРЅ Р’.Р“.)
 name=Around Elbrus
-ParentSubMenu_ru=Туристические\Кавказ
-ParentSubMenu=Tourism\Kavkaz
 DefURLBase=http://91.237.82.95:8088/pub/tourism/hr_elbrus/
 projection=1
 sradiusa=6378137
@@ -15,5 +16,5 @@ Ext=.jpg
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
-License=© Ляпин В.Г.
+License=В© Р›СЏРїРёРЅ Р’.Р“.
 IsUseDownloaderInScript=1

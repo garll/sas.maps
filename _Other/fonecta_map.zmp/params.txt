@@ -2,9 +2,9 @@
 GUID={783A7DAF-067E-47BE-95C6-943DE5F28004}
 name=Finland map (fonecta.fi)
 name_ru=Финляндия карта (fonecta.fi)
-ParentSubMenu_ru=[сломанные карты]\Другие карты
-ParentSubMenu=[not working]\Other maps
-ParentSubMenu_uk=[зламані карти]\Інші карти
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти
 NameInCache=fonecta
 DefURLBase=http://kartta.fonecta.fi/oym?f=m&ft=png_nauti_256&key=FO1349G5NGDTJ52H913SFRK63928
 RequestHead=Referer: https://www.fonecta.fi/kartat?lon=25.58129239320995&lat=61.09582494617275&z=8&l=NAU

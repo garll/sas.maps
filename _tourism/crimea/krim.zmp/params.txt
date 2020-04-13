@@ -1,12 +1,13 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={A85C68EA-4C12-4072-A4AB-1353A489F304}
-name_ru=Горный Крым
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСЂС‹Рј
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\РЈРєСЂР°С—РЅР°
+ParentSubMenu=Hike\Ukraine
+name_ru=Р“РѕСЂРЅС‹Р№ РљСЂС‹Рј
 name=Krim's Mountain
-name_uk=Горный Крым
-ParentSubMenu_ru=Туристические\Крым
-ParentSubMenu=Tourism\Crimea
+name_uk=Р“РѕСЂРЅС‹Р№ РљСЂС‹Рј
 DefURLBase=http://91.237.82.95:8088/pub/tourism/krim/
 projection=1
 sradiusa=6378137

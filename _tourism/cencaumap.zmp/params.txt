@@ -1,19 +1,20 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={3601390A-9421-4C60-B4D6-109E2F190FC5}
-name_ru=Схема перевалов Центрального Кавказа 30.8.2014
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљР°РІРєР°Р·
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РљР°РІРєР°Р·
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=РЎС…РµРјР° РїРµСЂРµРІР°Р»РѕРІ Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРіРѕ РљР°РІРєР°Р·Р° 30.8.2014
 name=caucatalog.narod.ru cencaumap 30.8.2014
-name_uk=Схема перевалов Центрального Кавказа 30.8.2014
-ParentSubMenu_ru=Туристические\Кавказ
-ParentSubMenu=Tourism\Kavkaz
+name_uk=РЎС…РµРјР° РїРµСЂРµРІР°Р»РѕРІ Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРіРѕ РљР°РІРєР°Р·Р° 30.8.2014
 DefURLBase=http://91.237.82.95:8088/pub/tourism/cencaumap/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=cencaumap
 Ext=.jpg
-License=© Михаила Голубев, caucatalog.narod.ru
+License=В© РњРёС…Р°РёР»Р° Р“РѕР»СѓР±РµРІ, caucatalog.narod.ru
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1

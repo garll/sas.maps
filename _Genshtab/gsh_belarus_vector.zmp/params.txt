@@ -1,11 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=140
 GUID={4463DAE6-03C7-4189-80E5-29D43864F093}
-name_ru=������� �������� ��������� (globus.tut.by)
+ParentSubMenu_ru=Сломанные карты\Генштаб
+ParentSubMenu_uk=Зламані карти\Генштаб
+ParentSubMenu=Not working\Genshtab
+name_ru=Генштаб Беларусь векторный (globus.tut.by)
 name=Genshtab Belarus vector (globus.tut.by)
 NameInCache=vbgenshtabbelarus_vector
-ParentSubMenu_ru=�������
-ParentSubMenu=Genshtab
 DefURLBase=https://globus.tut.by/.tiles/ev/Z
 ContentType=image/png
 Ext=.png

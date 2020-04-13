@@ -1,10 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={FC871820-243C-4A04-88BD-3032AB7FCBA6}
-name_ru=Речная лоция Волги и Камы.
+name_ru=Р РµС‡РЅР°СЏ Р»РѕС†РёСЏ Р’РѕР»РіРё Рё РљР°РјС‹.
 name=Volga + Kama river
-ParentSubMenu_ru=Морские карты
-ParentSubMenu=Marine maps
+ParentSubMenu_ru=Р’РѕРґРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЃРёСЏ
+ParentSubMenu_uk=Р’РѕРґРЅС– РєР°СЂС‚Рё\Р РѕСЃС–СЏ
+ParentSubMenu=Water maps\Russia
 DefURLBase=http://gmap.camapka.ru/lotsia/
 projection=1
 sradiusa=6378137

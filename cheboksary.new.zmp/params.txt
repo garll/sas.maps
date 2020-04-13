@@ -1,11 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 GUID={C5566E47-0B5E-4CB1-A557-CE1C6C21B0D8}
-name_ru=��������� (cheboksary.ws)
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
+name_ru=Чебоксары (cheboksary.ws)
 name=Cheboksary (cheboksary.ws)
 DefURLBase=http://www.cheboksary.ws/gug/
 projection=1
-ParentSubMenu_ru=��������� �����
-ParentSubMenu=Local maps
 sradiusa=6378137
 sradiusb=6356752
 NameInCache=cheboksary.new

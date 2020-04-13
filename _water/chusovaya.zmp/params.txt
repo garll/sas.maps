@@ -1,10 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={FCE179C1-95D6-43F2-9E26-6E89C5E2F7C3}
-name_ru=схема р.Чусовой
+name_ru=СЃС…РµРјР° СЂ.Р§СѓСЃРѕРІРѕР№
 name=Chusovaya River
-ParentSubMenu_ru=Морские карты
-ParentSubMenu=Marine maps
+ParentSubMenu_ru=Р’РѕРґРЅС‹Рµ РєР°СЂС‚С‹\Р РѕСЃСЃРёСЏ
+ParentSubMenu_uk=Р’РѕРґРЅС– РєР°СЂС‚Рё\Р РѕСЃС–СЏ
+ParentSubMenu=Water maps\Russia
 DefURLBase=http://91.237.82.95:8088/pub/water/chusovaya/
 projection=1
 sradiusa=6378137

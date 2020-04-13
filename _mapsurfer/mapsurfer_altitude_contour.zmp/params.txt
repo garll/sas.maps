@@ -1,9 +1,9 @@
 ﻿[PARAMS]
 GUID={3B7A67AC-E3DB-43A1-A81A-78886E9190C8}
 asLayer=1
-ParentSubMenu_ru=[сломанные карты]\Рельеф и тополинии
-ParentSubMenu=[not working]\Hillshade
-ParentSubMenu_uk=[зламані карти]\Рельєф і тополинии
+ParentSubMenu_ru=Сломанные карты\Рельеф и тополинии
+ParentSubMenu=Not working\Hillshade
+ParentSubMenu_uk=Зламані карти\Рельєф і тополинии
 name_ru=Контуры Высот (OpenMapSurfer)
 name=Altitude contour (OpenMapSurfer)
 name_uk=Контуры Высот (OpenMapSurfer)

@@ -3,9 +3,9 @@ pnum=108
 GUID={95D8062B-9122-4CCE-B4BE-2C8ABE80968A}
 name_ru=Гибрид Украины (gis-center.com)
 name=Ukraine Hybrid (gis-center.com)
-ParentSubMenu_ru=[сломанные карты]\Локальные карты\Украина
-ParentSubMenu=[not working]\Local maps\Ukraine
-ParentSubMenu_uk=[зламані карти]\Локальні карти\Україна
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu=Not working\Local maps\Ukraine
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
 asLayer=1
 DefURLBase=http://www.gis-center.com/cgi-bin2/mapserv.exe?map=e:%5Cinetpub%5Cwwwroot%5Cukr_google%5Cukr.map&layers=kvart_city%20houses_obl%20houses_ukr%20houses_zap&mode=tile&tilemode=gmap&tile=
 projection=1

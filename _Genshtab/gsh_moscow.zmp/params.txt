@@ -1,13 +1,14 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=140
 GUID={DE1F2034-CE45-4FD8-A6FF-7307687B308E}
-name_ru=������ + �� ������� (school2.ru)
-name=Moscow Genshtab (school2.ru)
+ParentSubMenu_ru=Туристические\Россия\Московская область
+ParentSubMenu_uk=Туристичний\Росія\Московська область
+ParentSubMenu=Hike\Russia\Moscow region
+name_ru=Атлас Московской Области (Арбалет 2007)
+name=Moscow Region 2007
 NameInCache=Gsh_moscow
-DefURLBase=http://dw.school2.ru/map/t
+DefURLBase=https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{-y}
 ContentType=image/png; binary/octet-stream
-ParentSubMenu_ru=�������
-ParentSubMenu=Genshtab
 Ext=.png
 projection=1
 sradiusa=6378137

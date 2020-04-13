@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={C753CB21-ED72-4A38-B191-19723DB684E8}
-name_ru=Западный Кавказ (КОТ ОРИЕНТ)
+ParentSubMenu_ru=РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљР°РІРєР°Р·
+ParentSubMenu_uk=РўСѓСЂРёСЃС‚РёС‡РЅРёР№\Р РѕСЃС–СЏ\РљР°РІРєР°Р·
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=Р—Р°РїР°РґРЅС‹Р№ РљР°РІРєР°Р· (РљРћРў РћР РР•РќРў)
 name=West Kaucas (KOT ORIENT)
-ParentSubMenu_ru=Туристические\Кавказ
-ParentSubMenu=Tourism\Kavkaz
 DefURLBase=http://91.237.82.95:8088/pub/tourism/wkavkaz_kot/
 projection=1
 sradiusa=6378137

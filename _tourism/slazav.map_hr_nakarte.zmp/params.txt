@@ -1,11 +1,12 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={8834EDB4-532C-469D-B156-C811E0A93FB8}
-name_ru=Карты Владислава Завьялова Nakarte.me
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\РўСѓСЂРёСЃС‚РёС‡РµСЃРєРёРµ
+ParentSubMenu_uk=Р—Р»Р°РјР°РЅС– РєР°СЂС‚Рё\РўСѓСЂРёСЃС‚РёС‡РЅРёР№
+ParentSubMenu=Not working\Hike
+name_ru=РљР°СЂС‚С‹ Р’Р»Р°РґРёСЃР»Р°РІР° Р—Р°РІСЊСЏР»РѕРІР° Nakarte.me
 name=Vladislav Zavjalov map Nakarte.me
-ParentSubMenu_ru=Туристические
-ParentSubMenu=Tourism
 DefURLBase=https://tiles.nakarte.me/map_hr
 projection=1
 sradiusa=6378137
@@ -14,6 +15,6 @@ NameInCache=slazav.map_hr
 Ext=.png
 defaultContentType=image/png
 ContentType="image/png"
-License=© Владислав Завьялов, slazav.livejournal.com
+License=В© Р’Р»Р°РґРёСЃР»Р°РІ Р—Р°РІСЊСЏР»РѕРІ, slazav.livejournal.com
 MaxConnectToServerCount=1
 IsUseDownloaderInScript=1
