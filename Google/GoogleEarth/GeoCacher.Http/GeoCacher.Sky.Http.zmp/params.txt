@@ -2,9 +2,11 @@
 [PARAMS]
 pnum=3005
 GUID={10999B94-B2D3-4EFF-A1CD-0A26DF7467F6}
+ParentSubMenu_ru=Для просмотра кэша\GoogleEarth
+ParentSubMenu=Cache view\GoogleEarth
+ParentSubMenu_uk=Для просмотра кэша\GoogleEarth
 name_ru=Небо (GeoCacher via http)
 name=Sky (GeoCacher via http)
-ParentSubMenu=GoogleEarth
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=sky&ver=0&date=0&
 EPSG=4326
 NameInCache=GE.Sky

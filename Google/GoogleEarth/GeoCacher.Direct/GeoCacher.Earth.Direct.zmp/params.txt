@@ -2,9 +2,11 @@
 [PARAMS]
 pnum=2001
 GUID={B26D8F5D-EE09-4A6F-9566-10313004B559}
+ParentSubMenu_ru=Для просмотра кэша\GoogleEarth
+ParentSubMenu=Cache view\GoogleEarth
+ParentSubMenu_uk=Для просмотра кэша\GoogleEarth
 name_ru=Земля (GeoCacher direct)
 name=Earth (GeoCacher direct)
-ParentSubMenu=GoogleEarth
 EPSG=4326
 CacheType=8
 NameInCache=

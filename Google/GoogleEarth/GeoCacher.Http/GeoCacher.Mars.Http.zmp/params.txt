@@ -2,9 +2,11 @@
 [PARAMS]
 pnum=3003
 GUID={10999BAF-B2D3-4E10-AACD-0A26DF7467F6}
+ParentSubMenu_ru=Для просмотра кэша\GoogleEarth
+ParentSubMenu=Cache view\GoogleEarth
+ParentSubMenu_uk=Для просмотра кэша\GoogleEarth
 name_ru=Марс (GeoCacher via http)
 name=Mars (GeoCacher via http)
-ParentSubMenu=GoogleEarth
 DefURLBase=http://127.0.0.1:8081/jpegfile?db=mars&ver=0&date=0&
 EPSG=4326
 NameInCache=GE.Mars
