@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={FD0F19A9-6A16-48A9-A139-FFD89B5689AB}
-ParentSubMenu_ru=Справочные\Украина
-ParentSubMenu_uk=Інформаційний\Україна
-ParentSubMenu=Info\Ukraine
+ParentSubMenu_ru=Подписи и границы\Украина
+ParentSubMenu_uk=Підписи та межі\Україна
+ParentSubMenu=Labels and borders\Ukraine
 name_ru=Gov.ua - Кадастровые границы
 name_uk=Gov.ua - Кадастровые границы
 name=Gov.ua - Cadaster map borders

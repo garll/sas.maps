@@ -6,11 +6,9 @@ ParentSubMenu_uk=Туристичний\Росія\Московська обла
 ParentSubMenu=Hike\Russia\Moscow region
 name_ru=Атлас Московской Области (Арбалет 2007)
 name=Moscow Region 2007
+asLayer=0
 NameInCache=Gsh_moscow
-DefURLBase=https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{-y}
-ContentType=image/png; binary/octet-stream
+DefURLBase=http://s3.amazonaws.com/arbalet/z{z}/{y}_{x}.png
+ContentType=image/jpeg,image/png
 Ext=.png
-projection=1
-sradiusa=6378137
-sradiusb=6356752
-MimeTypeSubst = "binary/octet-stream=image/png"
+EPSG=3785
