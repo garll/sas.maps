@@ -2,6 +2,9 @@
 [PARAMS]
 pnum=115
 GUID={734671BA-A8BE-4793-AB57-9A981B1A9EE4}
+ParentSubMenu_ru=Сломанные карты\OSM
+ParentSubMenu_uk=Зламані карти\OSM
+ParentSubMenu=Not working\OSM
 name=osmosnimki.ru
 NameInCache=osmosnimki_ru
 DefURLBase=http://a.tile.osmosnimki.ru/kosmo
@@ -11,7 +14,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
 License=Map data © OpenStreetMap contributors, CC-BY-SA; rendering by kosmosnimki.ru

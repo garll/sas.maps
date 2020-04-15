@@ -2,19 +2,18 @@
 [PARAMS]
 pnum=117
 GUID={538FC216-7B97-4744-BBE1-D7E27C3A26D6}
-name_ru=Карта OSM (mapsurfer.net)
-name=Map OSM (mapsurfer.net)
-name_uk=Карта OSM (MapSurfer.NET)
+ParentSubMenu_ru=Туристические
+ParentSubMenu_uk=Туристичний
+ParentSubMenu=Hike
+name=OSM Mapsurfer.net
 NameInCache=OSM_mapsurfer
-DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/roads/
-defaultContentType=image/png
+DefURLBase=https://api.openrouteservice.org/pmapsurfer/{z}/{x}/{y}.png?api_key=5b3ce3597851110001cf6248627df4b739c442ee9b4816036f979b8a
 ContentType="image/pnga";"image/png"
 MimeTypeSubst="image/pnga=image/png"
 Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
 License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

@@ -2,8 +2,10 @@
 [PARAMS]
 pnum=115
 GUID={D64B56B5-4B72-4EB1-8552-3D211A7A3580}
-name=OpenStreetMap Cycle Map
-name_uk=Вело-карта (OpenStreetMap)
+ParentSubMenu_ru=Велосипедные
+ParentSubMenu_uk=Велосипедний
+ParentSubMenu=Cycle
+name=OSM Thunderforest Cycle Map
 NameInCache=osm_CycleMap
 DefURLBase=http://a.tile.thunderforest.com/cycle
 ContentType=image/png

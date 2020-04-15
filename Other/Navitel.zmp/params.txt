@@ -2,12 +2,12 @@
 [PARAMS]
 pnum=103
 GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE6}
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
 name_ru=Карта Navitel
 name=Navitel Map
 name_uk=Карта Navitel
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
 DefURLBase=http://m01.navitel.su/navitms.fcgi?t=
 projection=1
 sradiusa=6378137

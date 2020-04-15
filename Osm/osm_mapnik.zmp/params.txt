@@ -2,8 +2,10 @@
 [PARAMS]
 pnum=116
 GUID={D643C5A1-4331-4387-9BE2-DDDF185C117E}
-Name=MAPNIK (OpenStreetMap)
-ParentSubMenu=OSM
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+Name=OSM OpenStreetMap.org - MAPNIK
 NameInCache=osmmapMapnik
 DefURLBase=
 ContentType=image/png

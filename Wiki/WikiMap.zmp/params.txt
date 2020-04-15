@@ -2,12 +2,12 @@
 [PARAMS]
 pnum=14
 GUID={43696AD8-09A5-4555-9DFC-C7D4E6D8D790}
-name_ru=Карта (WikiMapia)
-name=Map (WikiMapia)
-name_uk=Карта (WikiMapia)
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_ru=Справочные
+ParentSubMenu_uk=Інформаційний
+ParentSubMenu=Info
+name_ru=WikiMapia.org - фоновый слой
+name_uk=WikiMapia.org - фоновий шар
+name=WikiMapia - background layer
 NameInCache=WikiMap
 DefURLBase=http://i.wikimapia.org/?lng=1&
 ContentType=image/png,application/octet-stream

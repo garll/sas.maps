@@ -2,6 +2,9 @@
 [PARAMS]
 pnum=180
 GUID={8731EA1E-3D3F-4EBB-9422-9C3D642E32D5}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Эстония
+ParentSubMenu_uk=Зламані карти\Локальні карти\Эстония
+ParentSubMenu=Not working\Local maps\Estonian
 name_ru=Эстония (Maaamet aero)
 name=Eesti (Maaamet aero)
 name_uk=Естонія (Maaamet aero)
@@ -12,9 +15,6 @@ TileRLeft=0
 TileRTop=0
 TileRRight=256
 TileRBottom=256
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
 Ext=.jpg
 projection=1
 sradiusa=6378137

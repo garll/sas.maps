@@ -2,15 +2,15 @@
 [PARAMS]
 pnum=172
 GUID={4DD430E5-30CE-4184-B18F-0AFD82686007}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+ParentSubMenu=Not working\Local maps\Ukraine
 name_ru=Карта Украины (mapia.com.ua)
 name=Ukraine map (mapia.com.ua)
 name_uk=Карта України (Mapia.ua)
 NameInCache=mapiaua
 DefURLBase=http://mapia.com.ua/1.0.0/ru/
 ContentType=image/png
-ParentSubMenu_ru=Локальные карты\Украина
-ParentSubMenu=Local maps\Ukraine
-ParentSubMenu_uk=Локальні карти\Україна
 Ext=.png
 projection=1
 sradiusa=6378137

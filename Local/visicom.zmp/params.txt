@@ -2,12 +2,12 @@
 [PARAMS]
 pnum=174
 GUID={63862E5D-09F2-4732-9D21-6350124302CB}
-name_ru=Карта Украины и Белоруссии (maps.visicom.ua)
-name=Map of Ukraine and Belarus (maps.visicom.ua)
-name_uk=Карта України та Білорусії (Візіком)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+ParentSubMenu_ru=Городские и универсальные\Россия и сосединие страны
+ParentSubMenu_uk=Міські та універсальні\Росія і сусідні країни
+ParentSubMenu=City\Russia and neighboring countries
+name_ru=Visicom.ua - Карта Украины и Белоруссии
+name_uk=Visicom.ua - Карта України та Білорусії
+name=Visicom.ua - Map of Ukraine and Belarus
 NameInCache=visicom_world_ru
 DefURLBase=https://tms0.visicom.ua/2.0.0/planet3/base_ru
 ContentType=image/png

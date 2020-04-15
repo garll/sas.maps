@@ -2,9 +2,10 @@
 [PARAMS]
 pnum=120
 GUID={C84FEB26-1EA9-4BEB-87E5-DC3B29C70B31}
-name_ru=Карта OSM (opnvkarte.de)
-name=Map OSM (opnvkarte.de)
-name_uk=Карта OSM (OPNV-Karte)
+ParentSubMenu_ru=Инфраструктура
+ParentSubMenu_uk=Інфраструктура
+ParentSubMenu=Infrastucture
+name=OSM Opnvkarte.de - OpenBusMap
 NameInCache=OSM_opnvkarte
 DefURLBase=http://tile.memomaps.de/tilegen
 ContentType=image/png
