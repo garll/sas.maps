@@ -1,18 +1,17 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=171
 GUID={A24025E7-1E3D-4B15-83DF-DF4F6EAEDF72}
-name_ru=Кадастровая Карта Украины 
-name=Cadacstre Ukraine Map 
-name_ua=Cadacstre Ukraine Map
+ParentSubMenu_ru=РЎРїСѓС‚РЅРёРєРѕРІС‹Рµ\РЈРєСЂР°РёРЅР°
+ParentSubMenu=Satellite\Ukraine
+ParentSubMenu_uk=РЎСѓРїСѓС‚РЅРёРєРѕРІРёР№\РЈРєСЂР°С—РЅР°
+name_ru=Gov.ua - РћСЂС‚РѕС„РѕС‚Рѕ 
+name_ua=Gov.ua - РћСЂС‚РѕС„РѕС‚Рѕ 
+name=Gov.ua - Orthophoto 
 NameInCache=cadastre_ortofoto
-DefURLBase=http://212.26.144.110/tile2/orto_10000/
+DefURLBase=https://m1.land.gov.ua/map/ortho10k_all/{z}/{x}/{-y}.jpg
 ContentType=image/jpeg
-ParentSubMenu_ru=Локальные карты\Украина
-ParentSubMenu=Local maps\Ukraine
-ParentSubMenu_uk=Локальні карти\Україна
 Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 RequestHead=User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
-

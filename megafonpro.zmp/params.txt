@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=104
 GUID={A8B5CADF-FA15-492D-9BC2-BCBA7DCE888F}
-name_ru=Мегафон Навигатор
+ParentSubMenu_ru=Р“РѕСЂРѕРґСЃРєРёРµ Рё СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Рµ\Р РѕСЃСЃРёСЏ
+ParentSubMenu_uk=РњС–СЃСЊРєС– С‚Р° СѓРЅС–РІРµСЂСЃР°Р»СЊРЅС–\Р РѕСЃС–СЏ
+ParentSubMenu=City\Russia
+name_ru=РњРµРіР°С„РѕРЅ РќР°РІРёРіР°С‚РѕСЂ
 name=Megafon Navigator
-name_uk=Мегафон Навигатор
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+name_uk=РњРµРіР°С„РѕРЅ РќР°РІРёРіР°С‚РѕСЂ
 NameInCache=megafonpro
 DefURLBase=http://193.201.231.106/
 ContentType=image/png

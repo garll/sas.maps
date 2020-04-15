@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=148
 GUID={E1BB4A20-4D08-4A4F-B97D-AE77317652DA}
-name_ru=Карта Карелии (navici.com)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu_uk=Р—Р»Р°РјР°РЅС– РєР°СЂС‚Рё\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
+ParentSubMenu=Not working\Local maps
+name_ru=РљР°СЂС‚Р° РљР°СЂРµР»РёРё (navici.com)
 name=Karelia map (navici.com)
-name_ua=Карта Карелії (navici.com)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local Maps
-ParentSubMenu_ua=Локальні карти
+name_ua=РљР°СЂС‚Р° РљР°СЂРµР»С–С— (navici.com)
 NameInCache=navici_com
 DefURLBase=http://ntile1.navici.com/karjala/?LAYERS=topo20k_group&BBOX=
 ContentType=image/jpeg,image/png

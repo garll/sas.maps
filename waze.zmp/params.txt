@@ -1,13 +1,14 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=114
 GUID={67507C37-FEF8-4268-BC3C-474809EBD3E7}
-name_ru=Waze live map (world.waze.com/livemap/)
-name=Wase live map (world.waze.com/livemap/)
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
+name_ru=Waze - фоновый слой
+name=Waze - background layer
 NameInCache=waze
 DefURLBase=https://worldtiles1.waze.com/tiles
 ContentType=image/png
-ParentSubMenu_ru=������ �����
-ParentSubMenu=Other maps
 Ext=.png
 projection=1
 sradiusa=6378137

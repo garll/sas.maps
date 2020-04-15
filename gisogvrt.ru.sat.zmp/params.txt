@@ -1,7 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=114
 GUID={4E31FC44-D30D-495F-B0A5-18B00BF9C399}
-name_ru=��������� ������ (gisogvrt.ru)
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Татарстан снимок (gisogvrt.ru)
 name=Tatarstan sat (gisogvrt.ru)
 NameInCache=gisogvrt_ru_sat
 DefURLBase=http://geo.gisogvrt.ru/tms/?FORMAT=image%2Fjpeg&LAYERS=kosmosnimok&VERSION=1%2E1%2E1&SERVICE=WMS&WIDTH=256&SRS=EPSG%3A900913&REQUEST=GetMap&HEIGHT=256&BBOX=
@@ -10,5 +13,3 @@ Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu_ru=��������� �����
-ParentSubMenu=Local maps

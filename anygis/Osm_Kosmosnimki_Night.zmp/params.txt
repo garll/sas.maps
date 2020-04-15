@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={D61521B1-C16C-4844-95C2-49C4F93AD1B2}
-ParentSubMenu_ru=OSM
-ParentSubMenu_uk=OSM
-ParentSubMenu=OSM
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
 name_ru=OSM Kosmosnimki (ночь)
 name_uk=OSM Kosmosnimki (ночь)
 name=OSM Kosmosnimki (night)

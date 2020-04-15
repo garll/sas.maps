@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={689A806C-BD86-4239-B276-27930B0B50EF}
 ParentSubMenu_ru=Спутниковые\Казахстан
-ParentSubMenu_uk=Спутниковые\Казахстан
+ParentSubMenu_uk=Супутниковий\Казахстан
 ParentSubMenu=Satellite\Kazakhstan
 name_ru=Атырау 2019
 name_uk=Атырау 2019

@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=114
 GUID={63833E5D-09F2-4732-9D21-6350124302CB}
-name_ru=Татарстан - Спутник (karta.tatar.ru)
-name=Tatarstan Sat (karta.tatar.ru)
-name_uk=Татарстан - Спутник (karta.tatar.ru)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+ParentSubMenu_ru=РЎРїСѓС‚РЅРёРєРѕРІС‹Рµ\Р РѕСЃСЃРёСЏ
+ParentSubMenu=Satellite\Russia
+ParentSubMenu_uk=РЎСѓРїСѓС‚РЅРёРєРѕРІРёР№\Р РѕСЃС–СЏ
+name_ru=РўР°С‚Р°СЂСЃС‚Р°РЅ (karta.tatar.ru)
+name=Tatarstan (karta.tatar.ru)
+name_uk=РўР°С‚Р°СЂСЃС‚Р°РЅ (karta.tatar.ru)
 NameInCache=karta.tatar.ru
 DefURLBase=http://karta.tatar.ru/tilecache/satellite/
 ContentType=image/png

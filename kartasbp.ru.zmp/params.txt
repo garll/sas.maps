@@ -1,13 +1,14 @@
 ﻿[PARAMS]
 pnum=130
 GUID={685E9146-DEC0-44EE-859F-123DEF70C6E2}
-name= Kartaspb (zoomify)
+ParentSubMenu_ru=Для просмотра кэша\Zoomify
+ParentSubMenu_uk=Для просмотра кэша\Zoomify
+ParentSubMenu=Cache view\Zoomify
+name_ru=Санкт-Петербург
+name=Saint Petersburg
 NameInCache=zoomify_kartaspb
 DefURLBase=http://www.kartaspb.ru/m/s2/TileGroup
 ContentType=image/jpeg
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
 Ext=.jpg
 projection=1
 sradiusa=6378137

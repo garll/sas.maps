@@ -1,15 +1,16 @@
-[PARAMS]
+﻿[PARAMS]
 active=0
 pnum=110
 GUID={F208EADF-63F1-41A8-ABE1-B1A265BBFF10}
-name_ru=����� (Eniro.com)
+ParentSubMenu_ru=Городские и универсальные\Европа Северная
+ParentSubMenu_uk=Міські та універсальні\Європа Північна
+ParentSubMenu=City\Europe Northern
+name_ru=Карта (Eniro.com)
 name=Map (Eniro.com)
 DefURLBase=http://map01.eniro.com/geowebcache/service/tms1.0.0/map/
 projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=Eniro
-ParentSubMenu_ru=��������� �����
-ParentSubMenu=Local maps
 Ext=.png
 ContentType=image/png

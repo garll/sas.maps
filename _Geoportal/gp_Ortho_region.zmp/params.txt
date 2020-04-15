@@ -1,6 +1,9 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=9
 GUID={9A360A54-7A70-402C-8A11-D570BD759B01}
+ParentSubMenu_ru=Сломанные карты\Геопортал
+ParentSubMenu_uk=Зламані карти\Геопортал
+ParentSubMenu=Not working\Geoportal
 name=Geoportal-Alos
 DefURLBase=http://geoportal.ntsomz.ru/coverages/images_ortho_region/
 projection=1
@@ -9,5 +12,3 @@ sradiusb=6378137
 NameInCache=gp_ortho_region
 Ext=.jpg
 ContentType=image/jpeg
-ParentSubMenu_ru=���������
-ParentSubMenu=Geoportal

@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={16BBE393-814C-4A37-BF28-F7362EC5FB9F}
 ParentSubMenu_ru=Спутниковые
-ParentSubMenu_uk=Спутниковые
+ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
 name_ru=Mapbox satellite v4
 name_uk=Mapbox satellite v4

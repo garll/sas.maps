@@ -1,12 +1,12 @@
 ﻿[PARAMS]
 pnum=114
 GUID={A83BAFB0-0CDB-445C-9891-31416668C199}
-name_ru=Rosreestr.ru - Фоновая карта
-name=Rosreestr.ru
-name_uk=Rosreestr.ru - Фоновая карта
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти
+ParentSubMenu_ru=Городские и универсальные\Россия
+ParentSubMenu_uk=Міські та універсальні\
+ParentSubMenu=City\Russia
+name_ru=Rosreestr.ru - фоновый слой
+name_uk=Rosreestr.ru - фоновый слой
+name=Rosreestr.ru - background layer
 NameInCache=rosreestr
 DefURLBase=https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer/tile/
 ContentType="image/jpeg"

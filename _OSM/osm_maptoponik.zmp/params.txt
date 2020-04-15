@@ -1,7 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=116
 GUID={D643C5A1-4331-4387-9BE2-DEDF187C117E}
-name=OpenTopoMap.org
+ParentSubMenu_ru=Сломанные карты\Туристические
+ParentSubMenu_uk=Зламані карти\Туристичний
+ParentSubMenu=Not working\Hike
+name=OSM OpenTopoMap.org
 NameInCache=osmmaptoponik
 DefURLBase=http://a.tile.opentopomap.org
 ContentType=image/png
@@ -14,7 +17,6 @@ Usedel=1
 Usesave=1
 UseAntiBan=0
 BanIfLen=0
-PARENTSUBMENU=OSM
 IteratorSubRectSize=8,8
 RequestHead=User-Agent: Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.02
-License=� OpenStreetMap contributors, CC-BY-SA; rendering opentopomap.org
+License=© OpenStreetMap contributors, CC-BY-SA; rendering opentopomap.org

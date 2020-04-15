@@ -1,8 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=117
 GUID={84020C09-ACE1-402A-8B59-07EF81D772FA}
-name_ru=Карта Уфы (ufakarta.ru)
-name_uk=Карта Уфы (ufakarta.ru)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹
+ParentSubMenu_uk=Р—Р»Р°РјР°РЅС– РєР°СЂС‚Рё\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё
+ParentSubMenu=Not working\Local maps
+name_ru=РљР°СЂС‚Р° РЈС„С‹ (ufakarta.ru)
+name_uk=РљР°СЂС‚Р° РЈС„С‹ (ufakarta.ru)
 name=Map Ufa (ufakarta.ru)
 NameInCache=ufakarta_ru
 DefURLBase=http://ufakarta.ru/images/tiles/c1/
@@ -11,6 +14,3 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти

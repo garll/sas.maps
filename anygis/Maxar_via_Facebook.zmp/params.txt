@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={F224BE12-F871-4F9A-8109-9FFDD6592261}
 ParentSubMenu_ru=Спутниковые
-ParentSubMenu_uk=Спутниковые
+ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
 name_ru=Maxar (via Facebook RapID) zoom 11-18
 name_uk=Maxar (via Facebook RapID) zoom 11-18

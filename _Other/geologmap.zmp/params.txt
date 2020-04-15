@@ -1,8 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=16
 GUID={FD39994C-3D2E-450C-8290-C48DD081E39B}
-name_ru=Геологическая карта СССР
-name= Geologic map of USSR
+ParentSubMenu_ru=Р“РµРѕР»РѕРіРёС‡РµСЃРєРёРµ
+ParentSubMenu_uk=Р“РµРѕР»РѕРіС–С‡РЅРёР№
+ParentSubMenu=Geology
+name_ru=Р“РµРѕР»РѕРіРёС‡РµСЃРєР°СЏ РєР°СЂС‚Р° РЎРЎРЎР 
+name=Geologic map of USSR
 DefURLBase=http://91.237.82.95:8088/pub/other/geologmap/
 projection=1
 sradiusa=6378137
@@ -17,6 +20,3 @@ BanIfLen=0
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1
-ParentSubMenu_ru=Другие карты
-ParentSubMenu=Other maps
-ParentSubMenu_uk=Інші карти

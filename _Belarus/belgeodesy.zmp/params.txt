@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=173
 GUID={63862E5D-09F2-4732-9D21-635012437777}
-name_ru=Карта Белоруссии (belgeodesy.by)
+ParentSubMenu_ru=РЎР»РѕРјР°РЅРЅС‹Рµ РєР°СЂС‚С‹\Р›РѕРєР°Р»СЊРЅС‹Рµ РєР°СЂС‚С‹\Р‘РµР»Р°СЂСѓСЃСЊ
+ParentSubMenu_uk=Р—Р»Р°РјР°РЅС– РєР°СЂС‚Рё\Р›РѕРєР°Р»СЊРЅС– РєР°СЂС‚Рё\Р‘РµР»Р°СЂСѓСЃСЊ
+ParentSubMenu=Not working\Local maps\Belarus
+name_ru=РљР°СЂС‚Р° Р‘РµР»РѕСЂСѓСЃСЃРёРё (belgeodesy.by)
 name=Map of Belarus (belgeodesy.by)
-name_uk=Карта Білорусії (belgeodesy.by)
-ParentSubMenu_ru=Локальные карты\Беларусь
-ParentSubMenu=Local maps\Belarus
-ParentSubMenu_uk=Локальні карти\Беларусь
+name_uk=РљР°СЂС‚Р° Р‘С–Р»РѕСЂСѓСЃС–С— (belgeodesy.by)
 NameInCache=belgeodesy
 DefURLBase=http://belgeodesy.by/map/map/
 ContentType=image/png

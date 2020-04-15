@@ -1,10 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={CBA03063-23D9-4FA4-931A-9182B98644F1}
-name_ru=����� ��������
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта Иркутска
 name=Map of Irkutsk
-ParentSubMenu_ru=��������� �����
-ParentSubMenu=Local Maps
 DefURLBase=http://www.irk.ru/map/img/map/tiles/
 projection=1
 sradiusa=6378137

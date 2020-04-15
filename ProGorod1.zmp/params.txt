@@ -1,10 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=119
 GUID={714D22FC-40A0-41ED-A6E3-4DFFA1589CBA}
-name_ru=����� (pro-gorod.ru)
+ParentSubMenu_ru=Сломанные карты\Работают плохо
+ParentSubMenu_uk=Зламані карти\Работают плохо
+ParentSubMenu=Not working\Working with bugs
+name_ru=Карта (pro-gorod.ru)
 name=Map (pro-gorod.ru)
-ParentSubMenu_ru=������ �����
-ParentSubMenu=Other maps
 DefURLBase=http://tiles.tmcrussia.com/lv
 projection=2
 sradiusa=6378137

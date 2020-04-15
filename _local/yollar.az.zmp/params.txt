@@ -1,12 +1,12 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=118
 GUID={D91BFF26-915A-4575-BB46-24675CBA7B4E}
-name_ru=Азербайджан (Yollar.az)
-name=Azerbaijan (Yollar.az)
-name_uk=Азербайджан (Yollar.az)
-ParentSubMenu_ru=Локальные карты
-ParentSubMenu=Local maps
-ParentSubMenu_uk=Локальні карти
+ParentSubMenu_ru=Р“РѕСЂРѕРґСЃРєРёРµ Рё СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Рµ\РђР·РµСЂР±Р°Р№РґР¶Р°РЅ Рё Р“СЂСѓР·РёСЏ
+ParentSubMenu_uk=РњС–СЃСЊРєС– С‚Р° СѓРЅС–РІРµСЂСЃР°Р»СЊРЅС–\РђР·РµСЂР±Р°Р№РґР¶Р°РЅ С– Р“СЂСѓР·С–СЏ
+ParentSubMenu=City\Azerbaijan and Georgia
+name_ru=Yollar.az
+name_uk=Yollar.az
+name=Yollar.az
 DefURLBase=http://wm.yollar.az/map_gmaps/
 projection=1
 sradiusa=6378137

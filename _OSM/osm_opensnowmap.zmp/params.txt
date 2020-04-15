@@ -1,6 +1,10 @@
-[PARAMS]
+﻿[PARAMS]
 GUID={D3465891-4552-4668-9232-DD569067900E}
-name=OpenSnowMap (background layer)
+ParentSubMenu_ru=Зимние
+ParentSubMenu_uk=Зимовий
+ParentSubMenu=Winter
+name_ru=OSM OpenSnowMap - фоновый слой
+name=OSM OpenSnowMap - background layer
 NameInCache=opensnowmap
 DefURLBase=http://www.opensnowmap.org/base_snow_map
 ContentType=image/png
@@ -8,5 +12,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu=OSM
 RequestHead=Referer: http://www.opensnowmap.org/

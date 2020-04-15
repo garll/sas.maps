@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={C45DEEF8-E62D-4415-AB3A-25CA54DF8EF8}
-ParentSubMenu_ru=OSM
-ParentSubMenu_uk=OSM
-ParentSubMenu=OSM
+ParentSubMenu_ru=Городские с рельефом\Россия
+ParentSubMenu_uk=Міські з рельєфом\Росія
+ParentSubMenu=City with relief\Russia
 name_ru=OSM Kosmosnimki.ru - рельеф
 name_uk=OSM Kosmosnimki.ru - рельеф
 name=OSM Kosmosnimki.ru - relief
