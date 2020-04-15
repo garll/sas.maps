@@ -2,12 +2,12 @@
 [PARAMS]
 pnum=6
 GUID={9945fafe-1ab4-499c-9568-1efdfb7fc30a}
+ParentSubMenu_ru=Городские и универсальные\Россия
+ParentSubMenu_uk=Міські та універсальні\Росія
+ParentSubMenu=City\Russia
 name_ru=Kosmosnimki.ru - рельеф
 name=Kosmosnimki.ru - land
 name_uk=Kosmosnimki.ru - рельеф
-ParentSubMenu_ru=Городские с рельефом\Россия
-ParentSubMenu=City with relief\Russia
-ParentSubMenu_uk=Міські з рельєфом\Росія
 DefURLBase=http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=4F9F7CCCCBBC4BD08469F58C02F17AE4
 projection=2
 sradiusa=6378137

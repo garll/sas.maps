@@ -2,10 +2,12 @@
 [PARAMS]
 pnum=3
 GUID={103FFB94-B2D3-4E10-A1CD-0A26DF7467D9}
-name_ru=Ландшафт (Google)
-name=Landscape (Google)
-name_uk=Ландшафт (Google)
-ParentSubMenu=Google
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name_ru=Google - Ландшафт
+name_uk=Google - Ландшафт
+name=Google - Terrain
 DefURLBase=http://mt.google.com/vt/lyrs=t@130,r@206000000&hl=ru
 projection=1
 sradiusa=6378137

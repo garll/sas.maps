@@ -2,10 +2,12 @@
 [PARAMS]
 pnum=1
 GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
-name_ru=Спутник (Google)
-name=Satellite (Google maps)
-name_uk=Супутник (Google)
-ParentSubMenu=Google
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name_ru=Google - Спутник
+name_uk=Google - Супутник
+name=Google - Satellite
 projection=1
 sradiusa=6378137
 sradiusb=6378137

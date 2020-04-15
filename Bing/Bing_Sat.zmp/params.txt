@@ -2,9 +2,12 @@
 [PARAMS]
 pnum=10
 GUID={9A360A54-7A70-402D-8A11-D570BD759B5B}
-name_ru=Bing Maps - спутник
-name=Bing Maps - satellite
-name_uk=Bing Maps - супутник
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name_ru=Bing - Спутник
+name_uk=Bing - Спутник
+name=Bing - Satellite
 ParentSubMenu=Bing
 DefURLBase=http://ecn.t0.tiles.virtualearth.net/tiles/a
 projection=1

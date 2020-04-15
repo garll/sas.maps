@@ -2,12 +2,12 @@
 [PARAMS]
 pnum=5
 GUID={5E04039A-331E-4D2C-B051-B00F8871BB39}
-name_ru=Спутник (Яндекс.Карты)
-name=Satellite (Yandex.Maps)
-name_uk=Супутник (Яндекс.Карты)
-ParentSubMenu_ru=Яндекс
-ParentSubMenu=Yandex
-ParentSubMenu_uk=Яндекс
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name_ru=Yandex - Спутник
+name_uk=Yandex - Спутник
+name=Yandex - Satellite
 DefURLBase=https://sat01.maps.yandex.net/tiles?l=sat&scale=1&lang=ru_RU&x=
 projection=2
 sradiusa=6378137
