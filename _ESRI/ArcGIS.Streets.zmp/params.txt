@@ -1,9 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-CC5DBBB8F552}
-name=ArcGIS.Streets
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name=ESRI ArcGIS.Streets
 NameInCache=ArcGIS.Streets
-ParentSubMenu=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/
 ContentType=image/jpeg;image/jpg
 Ext=.jpg

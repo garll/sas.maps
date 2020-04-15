@@ -1,12 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=5
 GUID={38E29DB4-0051-4D08-836C-936325F0B63B}
-name_ru=maps.yandex.com (�����)
-name=maps.yandex.com (Map)
-name_uk=maps.yandex.com (�����)
-ParentSubMenu_ru=������
-ParentSubMenu=Yandex
-ParentSubMenu_uk=������
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name_ru=Yandex - Карта (English)
+name_uk=Yandex - Карта (English)
+name=Yandex - Map (English)
 NameInCache=maps.yandex.com.Map
 DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&lang=en_US
 ContentType=image/png

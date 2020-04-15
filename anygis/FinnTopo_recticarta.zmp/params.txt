@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={674C3560-6FBA-411A-BBEB-E55B322DFD0D}
-ParentSubMenu_ru=Туристические\Финляндия
-ParentSubMenu_uk=Туристичний\Фінляндія
-ParentSubMenu=Hike\Finland
+ParentSubMenu_ru=Туристические\Европа Северная
+ParentSubMenu_uk=Туристичний\Європа Північна
+ParentSubMenu=Hike\Europe Northern
 name_ru=Retkikartta.fi Topo 
 name_uk=Retkikartta.fi Topo 
 name=Retkikartta.fi Topo 

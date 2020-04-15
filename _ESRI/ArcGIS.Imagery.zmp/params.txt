@@ -1,9 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-AC5DBBB8F552}
-name=ArcGIS.Imagery
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name=ESRI ArcGIS.Imagery
 NameInCache=ArcGIS.Imagery
-ParentSubMenu=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/
 ContentType=image/jpeg;image/jpg
 Ext=.jpg

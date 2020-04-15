@@ -1,9 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-FC5DBBB8F552}
-name=ArcGIS.LightGrayCanvas
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name=ESRI ArcGIS.LightGrayCanvas
 NameInCache=ArcGIS.LightGrayCanvas
-ParentSubMenu=ESRI
 DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/
 ContentType=image/jpeg;image/jpg
 Ext=.jpg

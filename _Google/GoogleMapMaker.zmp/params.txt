@@ -1,9 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=2
 GUID={D735B149-CD17-49BB-B246-678977A618FD}
-name_ru=����� (GoogleMapMaker)
-name=Map (GoogleMapMaker)
-name_uk=����� (GoogleMapMaker)
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)\Google
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)\Google
+ParentSubMenu=Not working\Low quality\Google
+name_ru=Google - MapMaker
+name=Google - MapMaker
+name_uk=Google - MapMaker
 ParentSubMenu=Google
 DefURLBase=http://mt0.google.com/vt/style=mapmaker&lyrs=m@999999&v=gwm.1518
 projection=1
