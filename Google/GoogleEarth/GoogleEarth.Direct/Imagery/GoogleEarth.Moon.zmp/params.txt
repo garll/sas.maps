@@ -1,16 +1,13 @@
-﻿
-[PARAMS]
+﻿[PARAMS]
 pnum=1004
 GUID={F48E461B-8670-4C6A-B43E-E51C96AE79D2}
-ParentSubMenu_ru=Для просмотра кэша\GoogleEarth
-ParentSubMenu=Cache view\GoogleEarth
-ParentSubMenu_uk=Для просмотра кэша\GoogleEarth
-name_ru=Луна (GoogleEarth)
-name=Moon (GoogleEarth)
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
+name_ru=Луна - кэш GoogleEarth
+name=Moon - GoogleEarth Cache
 EPSG=4326
 CacheType=5
 NameInCache=moon
-separator=1
 Ext=.jpg
 UseDwn=0
 IsReadOnly=1

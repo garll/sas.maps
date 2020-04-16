@@ -1,13 +1,11 @@
-﻿
-[PARAMS]
+﻿[PARAMS]
 pnum=1001
 GUID={FD6877DE-9885-4B92-9D01-F3746F2DD239}
-ParentSubMenu_ru=Для просмотра кэша\GoogleEarth
-ParentSubMenu=Cache view\GoogleEarth
-ParentSubMenu_uk=Для просмотра кэша\GoogleEarth
-name_ru=Земля (GoogleEarth)
-name=Earth (GoogleEarth)
-name_uk=Земля (GoogleEarth)
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name_ru=Земля - кэш GoogleEarth
+name=Earth - GoogleEarth Cache
 EPSG=4326
 CacheType=5
 NameInCache=
