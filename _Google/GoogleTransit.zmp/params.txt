@@ -4,7 +4,7 @@ GUID={04634AEA-A897-483D-8D56-4F5D703BDBB7}
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
-name_ru=Google - Транспорт
+name_ru=Google - Транзит
 name=Google - Transit
 DefURLBase=http://mt.google.com/vt/lyrs=m@159000000,transit:comp|vm:1&hl=ru&opts=r
 projection=1

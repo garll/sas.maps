@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={482917F0-6A7F-43F6-958E-948C3F2364F1}
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РљР°СЂС‚С‹ Р РљРљРђ 1Km (1940)
 name=RKKA Maps 1Km (1940)
-name_ru=Карты РККА 1Km (1940)
-ParentSubMenu=Historic\RKKA
-ParentSubMenu_ru=Исторические\РККА
-ParentSubMenu_uk=Історичні\РККА
 DefURLBase=http://91.237.82.95:8088/pub/historic/rkka/
 projection=1
 sradiusa=6378137

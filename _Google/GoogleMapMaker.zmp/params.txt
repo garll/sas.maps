@@ -7,7 +7,6 @@ ParentSubMenu=Not working\Low quality\Google
 name_ru=Google - MapMaker
 name=Google - MapMaker
 name_uk=Google - MapMaker
-ParentSubMenu=Google
 DefURLBase=http://mt0.google.com/vt/style=mapmaker&lyrs=m@999999&v=gwm.1518
 projection=1
 sradiusa=6378137

@@ -1,7 +1,7 @@
 ﻿[PARAMS]
 pnum=100
 GUID={F6579B06-E632-4D5F-BC75-C8FA658B57DF}
-name=Garmin
+name=Garmin.ru
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu=Transport
 ParentSubMenu_uk=Автомобільний

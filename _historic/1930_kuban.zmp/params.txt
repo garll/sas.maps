@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={C095B837-863B-4BD7-900A-F30644201D27}
-name_ru=Карта Кубанского округа 1930г.
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РљСѓР±Р°РЅСЃРєРѕРіРѕ РѕРєСЂСѓРі 1930Рі.
 name=Kuban 1930
-ParentSubMenu_ru=Исторические\Кавказ
-ParentSubMenu=Historic\Kavkaz
-ParentSubMenu_uk=Історичні\Кавказ
 DefURLBase=http://91.237.82.95:8088/pub/historic/1930_kuban/
 projection=1
 sradiusa=6378137

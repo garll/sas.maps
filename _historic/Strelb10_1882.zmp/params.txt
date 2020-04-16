@@ -1,11 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=16
 GUID={8C44A85A-00EC-4435-805C-EF0A8B85545B}
-name_ru=10�. ������������� 1882�.
+ParentSubMenu_ru=Исторические\Россия и соседние страны
+ParentSubMenu_uk=Історичні\Росія і сусідні країни
+ParentSubMenu=Historic\Russia and neighboring countries
+name_ru=10в. Стрельбицкого 1882г.
 name=10v Strelbitskiy
-ParentSubMenu_ru=������������
-ParentSubMenu=Historic
-ParentSubMenu_uk=���������
 DefURLBase=http://91.237.82.95:8088/pub/historic/strelb_10_1882/
 projection=1
 sradiusa=6378137

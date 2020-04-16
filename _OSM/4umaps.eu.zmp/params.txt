@@ -12,5 +12,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-PARENTSUBMENU=OSM
 License=(c) OpenStreetMap contributors, CC-BY-SA

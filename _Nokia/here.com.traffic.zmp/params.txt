@@ -7,7 +7,6 @@ ParentSubMenu=Transport
 name_ru=Here.com - Пробки
 name_uk=Here.com - Пробки
 name=Here.com - Traffic
-ParentSubMenu=Nokia
 ContentType=image/png
 DefURLBase=https://{s}.traffic.maps.api.here.com/maptile/2.1/traffictile/newest/normal.day/
 NameInCache=here.com.traffic

@@ -2,8 +2,8 @@
 pnum=
 GUID={7B743985-BC5F-4AB6-8915-AC5DBBB8F553}
 ParentSubMenu_ru=Сломанные карты\ESRI
+ParentSubMenu_uk=Зламані карти\ESRI
 ParentSubMenu=Not working\ESRI
-ParentSubMenu_uk=Not working\ESRI
 name=ArcGIS.Landsat
 NameInCache=ArcGIS.Landsat
 DefURLBase=http://imagery.arcgisonline.com/arcgis/rest/services/LandsatGLS/GLS2010_Enhanced/ImageServer/

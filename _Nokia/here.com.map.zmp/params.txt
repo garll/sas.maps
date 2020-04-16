@@ -7,7 +7,6 @@ ParentSubMenu=City
 name_ru=Here.com - Карта 
 name=Here.com - Map
 name_uk=Here.com - Карта 
-ParentSubMenu=Nokia
 ContentType=image/png
 DefURLBase=https://1.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/
 NameInCache=here.com.map

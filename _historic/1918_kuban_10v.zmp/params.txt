@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={21401231-6169-493D-B718-3083387AD6D9}
-name_ru= 10-верстка Кубани (1918 г. Стрельбицкого)
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РљСѓР±Р°РЅСЊ 10-РІРµСЂСЃС‚РєР° (1918 Рі. РЎС‚СЂРµР»СЊР±РёС†РєРѕРіРѕ)
 name=Kuban 10-v (1918)
-ParentSubMenu_ru=Исторические\Кавказ
-ParentSubMenu=Historic\Kavkaz
-ParentSubMenu_uk=Історичні\Кавказ
 DefURLBase=http://91.237.82.95:8088/pub/historic/1918_kuban_10v/
 projection=1
 sradiusa=6378137

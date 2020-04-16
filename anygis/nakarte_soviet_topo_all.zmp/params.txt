@@ -14,3 +14,4 @@ DefURLBase=https://anygis.ru/api/v1/Combo_Best_Topo/{x}/{y}/{z}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.jpg
+DetectContentType=1

@@ -1,17 +1,17 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=114
 GUID={BCE4BD85-11CE-48ED-B966-0BBB21BEF2C7}
-name_ru=1942 (1:30000)
-name=1942 (1:30000)
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РќРµРјРµС†РєРёР№ Р“РµРЅС€С‚Р°Р± 1942 (1:30000)
+name=German Genshtab 1942 (1:30000)
 NameInCache=1942_osteuropa
 DefURLBase=http://91.237.82.95:8088/pub/historic/1942_osteuropa/
 Ext=.jpg
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-ParentSubMenu_ru=Исторические\Немецкий Генштаб
-ParentSubMenu=Historic\German Genshtab 
-ParentSubMenu_uk=Історичні\Немецкий Генштаб
 defaultContentType=image/jpeg
 ContentType="image/jpeg"
 MaxConnectToServerCount=1

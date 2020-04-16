@@ -14,4 +14,5 @@ DefURLBase=http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.png
+DetectContentType=1
 License= © OpenStreetMap

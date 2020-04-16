@@ -1,12 +1,12 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=
 GUID={9A360A5D-7A71-402D-1964-D670BD739B7B}
-name_ru=����� ������ 1964 (mosday.ru)
+ParentSubMenu_ru=Исторические\Россия\Москва и МосОбласть
+ParentSubMenu_uk=Історичні\Росія\Москва і МосОбласть
+ParentSubMenu=Historic\Russia\Moscow region
+name_ru=Карта Москвы 1964 (mosday.ru)
 name=Moscow Map 1964 (mosday.ru)
-name_uk=����� ������ 1964 (mosday.ru)
-ParentSubMenu_ru=������������
-ParentSubMenu=Historic
-ParentSubMenu_uk=���������
+name_uk=Карта Москвы 1964 (mosday.ru)
 ContentType=image/jpeg
 DefURLBase=http://mosday.ru/map/tiles/mw1964/
 projection=1

@@ -14,6 +14,7 @@ DefURLBase=https://anygis.ru/api/v1/RainWiewer_Precipit/{x}/{y}/{z}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.png
+DetectContentType=1
 CacheType=9
 UseMemCache=1
 MemCacheCapacity=100

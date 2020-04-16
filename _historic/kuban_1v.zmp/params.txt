@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=16
 GUID={2BB46ACD-DB8C-4F79-927C-C6FE975A649E}
-name_ru=1в.Геологическая карта Кубанского района 1908-1916 гг.
-name=1v Geologic map of Kuban (1908-1912)
-ParentSubMenu_ru=Исторические\Кавказ
-ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РљСѓР±Р°РЅСЃРєРёР№ СЂР°Р№РѕРЅ 1РІ.Р“РµРѕР»РѕРіРёС‡РµСЃРєР°СЏ РєР°СЂС‚Р° 1908-1916 РіРі.
+name=Kuban 1v Geologic map (1908-1912)
 DefURLBase=http://91.237.82.95:8088/pub/historic/kuban_1v/
 projection=1
 sradiusa=6378137

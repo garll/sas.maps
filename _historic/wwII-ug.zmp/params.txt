@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=17
 GUID={0AE20160-D02A-4D21-B289-CEF29300CE2A}
-name_ru=Немецкая Аэро-Фото съёмка (Краснодар)
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\Р Р°Р·РЅС‹Рµ
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\Р С–Р·РЅРµ
+ParentSubMenu=Historic\Russia\Other
+name_ru=РќРµРјРµС†РєР°СЏ РђСЌСЂРѕ-Р¤РѕС‚Рѕ СЃСЉС‘РјРєР°
 name=German Aero-Foto
-ParentSubMenu_ru=Исторические
-ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
 DefURLBase=http://91.237.82.95:8088/pub/historic/wwii-ug/
 projection=1
 sradiusa=6378137

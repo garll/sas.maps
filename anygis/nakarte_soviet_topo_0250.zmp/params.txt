@@ -14,3 +14,4 @@ DefURLBase=https://tiles.nakarte.me/topo250/{z}/{x}/{-y}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.jpg
+DetectContentType=1

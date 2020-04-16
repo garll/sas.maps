@@ -1,11 +1,11 @@
-[PARAMS]
+﻿[PARAMS]
 pnum=17
 GUID={06FE7567-BB4B-4A78-9C82-6E5BC8CC39AC}
-name_ru=1 �������� ����� �����
-name=1v Krim
-ParentSubMenu_ru=������������
-ParentSubMenu=Historic
-ParentSubMenu_uk=���������
+ParentSubMenu_ru=Исторические\Россия\Кубань, Кавказ, Крым
+ParentSubMenu_uk=Історичні\Росія\Кубань, Кавказ, Крим
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=Крым 1 верстная карта
+name=Crimea 1v
 DefURLBase=http://91.237.82.95:8088/pub/historic/1v_krim/
 projection=1
 sradiusa=6378137

@@ -1,11 +1,11 @@
-[PARAMS]
+п»ї[PARAMS]
 pnum=16
 GUID={1B23D30F-AC02-473F-919A-432E0C540281}
-name_ru=5 верстовка Кавказа 1877г
-name=5v map of Kavkaz (1877)
-ParentSubMenu_ru=Исторические\Кавказ
-ParentSubMenu=Historic\Kavkaz
-ParentSubMenu_uk=Історичні\Кавказ
+ParentSubMenu_ru=РСЃС‚РѕСЂРёС‡РµСЃРєРёРµ\Р РѕСЃСЃРёСЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂС‹Рј
+ParentSubMenu_uk=Р†СЃС‚РѕСЂРёС‡РЅС–\Р РѕСЃС–СЏ\РљСѓР±Р°РЅСЊ, РљР°РІРєР°Р·, РљСЂРёРј
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=РљР°РІРєР°Р· 5 РІРµСЂСЃС‚РѕРІРєР° 1877Рі
+name=Caucasus 5v map (1877)
 DefURLBase=http://91.237.82.95:8088/pub/historic/5v_kavk_1877/
 projection=1
 sradiusa=6378137

@@ -15,4 +15,5 @@ ServerNames=a,b,c
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.png
+DetectContentType=1
 License= © OpenStreetMap, OpenTopoMap.ru

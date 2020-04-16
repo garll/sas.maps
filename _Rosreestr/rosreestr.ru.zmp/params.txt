@@ -1,9 +1,9 @@
 ﻿[PARAMS]
 pnum=114
 GUID={A83BAFB0-0CDB-445C-9891-31416668C199}
-ParentSubMenu_ru=Городские и универсальные\Россия
-ParentSubMenu_uk=Міські та універсальні\
-ParentSubMenu=City\Russia
+ParentSubMenu_ru=Справочные\Россия
+ParentSubMenu_uk=Інформаційний\Росія
+ParentSubMenu=Info\Russia
 name_ru=Rosreestr.ru - фоновый слой
 name_uk=Rosreestr.ru - фоновый слой
 name=Rosreestr.ru - background layer
