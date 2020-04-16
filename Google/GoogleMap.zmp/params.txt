@@ -8,7 +8,6 @@ ParentSubMenu=City
 name_ru=Google - Карта
 name=Google - Map
 name_uk=Google - Карта
-ParentSubMenu=Google
 DefURLBase=https://mt.google.com/vt/lyrs=m@169000000
 projection=1
 sradiusa=6378137

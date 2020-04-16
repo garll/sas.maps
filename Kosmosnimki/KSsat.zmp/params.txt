@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=6
 GUID={FDBEC245-CE8D-4072-BDDB-5489CC535D00}
-name_ru=Спутник (Kosmosnimki.ru)
-name=Satellite (Kosmosnimki.ru)
-name_uk=Супутник (Космоснимки)
+name_ru=Kosmosnimki.ru - Спутник
+name=Kosmosnimki.ru - Satellite
+name_uk=Kosmosnimki.ru - Спутник
 ParentSubMenu_ru=Спутниковые\Россия
 ParentSubMenu=Satellite\Russia
 ParentSubMenu_uk=Супутниковий\Росія

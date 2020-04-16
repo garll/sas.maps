@@ -3,8 +3,8 @@
 pnum=245
 GUID={8042ADA1-3B7F-4805-9145-34C4DDABC9A7}
 ParentSubMenu_ru=Сломанные карты\Топокарты\ГГЦ
-ParentSubMenu_uk=Not working\Топокарти\ГГЦ
-ParentSubMenu=Зламані карти\Topomaps\GGC
+ParentSubMenu_uk=Зламані карти\Topomaps\GGC
+ParentSubMenu=Not working\Топокарти\ГГЦ
 name_ru=ГосГисЦентр 250 м (.jpg)
 name=GosGisCentr 250 m (.jpg)
 NameInCache=genshtab250m_jpg

@@ -15,5 +15,4 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-separator=1
 MimeTypeSubst = "application/octet-stream=image/png"

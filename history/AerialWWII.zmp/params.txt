@@ -2,15 +2,15 @@
 [PARAMS]
 pnum=36
 GUID={ACFE8DA0-BAF5-42FE-B8C1-9BFD4C54BF0A}
+ParentSubMenu_ru=Исторические\Россия\Разные
+ParentSubMenu_uk=Історичні\Росія\Різне
+ParentSubMenu=Historic\Russia\Other
 name_ru=Аэрофотосъемка ВОВ (sasgis.ru)
-name=Aerial WWII (sasgis.ru)
 name_uk=Аерофотозйомка Другої світової війни (sasgis.ru)
+name=Aerial WWII (sasgis.ru)
 NameInCache=AerialWWII
 DefURLBase=http://17200.selcdn.ru/AerialWWII/
 ContentType=image/jpeg
-ParentSubMenu_ru=Исторические
-ParentSubMenu=Historic
-ParentSubMenu_uk=Історичні
 Ext=.jpg
 projection=1
 sradiusa=6378137

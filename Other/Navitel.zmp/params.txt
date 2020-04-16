@@ -9,11 +9,9 @@ name_ru=Navitel.su
 name=Navitel.su
 name_uk=Navitel.su
 DefURLBase=http://m01.navitel.su/navitms.fcgi?t=
-projection=1
 sradiusa=6378137
 sradiusb=6378137
 NameInCache=Navitel
-separator=1
 Ext=.png
 Sleep=10
 DefHotKey=16462

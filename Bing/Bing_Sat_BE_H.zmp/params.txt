@@ -8,7 +8,6 @@ ParentSubMenu=Satellite
 name_ru=Bing - Гибрид
 name_uk=Bing - Гибрид
 name=Bing - Hybrid
-ParentSubMenu=Bing
 DefURLBase=http://ak.dynamic.t{s}.tiles.virtualearth.net/comp/ch/
 projection=1
 sradiusa=6378137

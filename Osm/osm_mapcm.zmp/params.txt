@@ -13,7 +13,6 @@ Ext=.png
 projection=1
 sradiusa=6378137
 sradiusb=6356752
-PARENTSUBMENU=OSM
 RequestHead=User-Agent: SAS.Planet
 IteratorSubRectSize=8,8
 License=© OpenStreetMap contributors, CC-BY-SA. Tiles courtesy of Andy Allan.
