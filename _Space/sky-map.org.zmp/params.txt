@@ -6,9 +6,9 @@ name=Stars (sky-map.org)
 NameInCache=sky_map_org
 DefURLBase=http://server5.wikisky.org/imgcut?survey=DSS2&img_id=all&ra=1.33333333333333&de=40&angle=
 ContentType=image/jpeg
-ParentSubMenu_ru=Для просмотра кэша\Космос
-ParentSubMenu=Cache view\Space
-ParentSubMenu_uk=Для просмотра кэша\Космос
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
+ParentSubMenu_uk=Космос
 Ext=.jpg
 projection=1
 sradiusa=6378137

@@ -1,10 +1,10 @@
 ﻿[PARAMS]
 pnum=130
 GUID={685E9146-DEC0-44EE-859F-111DEF70C6E2}
-ParentSubMenu_ru=Для просмотра кэша\Zoomify
-ParentSubMenu_uk=Для просмотра кэша\Zoomify
-ParentSubMenu=Cache view\Zoomify
-name_ru=Takovo
+ParentSubMenu_ru=Исторические\Румыния
+ParentSubMenu_uk=Історичні\Румунія
+ParentSubMenu=Historic\Romania
+name_ru=Takovo (без геопривязки)
 name=Takovo
 NameInCache=zoomify
 DefURLBase=http://oldmaps.geolab.cz/3vm/75/4771/zoomify/TileGroup
