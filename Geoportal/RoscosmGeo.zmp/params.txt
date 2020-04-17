@@ -2,11 +2,11 @@
 [PARAMS]
 pnum=17
 GUID={5A1A7E89-112D-406F-855D-5B1D1E323422}
+ParentSubMenu_ru=Сломанные карты\Геопортал
+ParentSubMenu_uk=Зламані карти\Геопортал
+ParentSubMenu=Not working\Geoportal
 name_ru=Спутник (Геопортал Роскосмоса)
 name=Satellite (Geoportal Roscosmos)
-ParentSubMenu_ru=Для просмотра кэша\Геопортал
-ParentSubMenu=Cache view\Geoportal
-ParentSubMenu_uk=Для просмотра кэша\Геопортал
 DefURLBase=http://geoportal.ntsomz.ru/coverages/&src=images&date=&type=jpg
 projection=1
 sradiusa=6378137
