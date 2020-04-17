@@ -1,11 +1,11 @@
-
+п»ї
 [PARAMS]
 pnum=17
 GUID={8834EDB4-532C-469D-B156-C811E0A93FB9}
-ParentSubMenu_ru=Туристические
-ParentSubMenu_uk=Туристичний
-ParentSubMenu=Hike
-name_ru=Хребтовки Владислава Завьялова
+ParentSubMenu_ru=Р“РѕСЂРЅС‹Рµ
+ParentSubMenu_uk=Р“С–СЂСЃСЊРєРёР№
+ParentSubMenu=Mountain
+name_ru=РҐСЂРµР±С‚РѕРІРєРё Р’Р»Р°РґРёСЃР»Р°РІР° Р—Р°РІСЊСЏР»РѕРІР°
 name=Vladislav Zavjalov mountain maps
 DefURLBase=http://91.237.82.95:8088/pub/tourism/slazav.map_hr/
 projection=1
@@ -15,6 +15,6 @@ NameInCache=slazav.map_hr
 Ext=.png
 defaultContentType=image/png
 ContentType="image/png"
-License=© Владислав Завьялов, slazav.livejournal.com
+License=В© Р’Р»Р°РґРёСЃР»Р°РІ Р—Р°РІСЊСЏР»РѕРІ, slazav.livejournal.com
 MaxConnectToServerCount=1
 IsUseDownloaderInScript=1

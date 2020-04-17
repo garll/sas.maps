@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=17
 GUID={9EEAAEC9-C54E-4E34-8ADC-756A7E58EE34}
-ParentSubMenu_ru=Туристические\Киргизия
-ParentSubMenu_uk=Туристичний\Киргизія
-ParentSubMenu=Hike\Kyrgyzstan
+ParentSubMenu_ru=Горные\Киргизия
+ParentSubMenu_uk=Гірський\Киргизія
+ParentSubMenu=Mountain\Kyrgyzstan
 name_ru=Тянь-Шань + Памир
 name=Tyan-Shan & Pamir
 DefURLBase=http://91.237.82.95:8088/pub/tourism/tyan_shan/

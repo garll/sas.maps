@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=17
 GUID={C9B37420-DA1D-432D-B80C-816BD8116571}
-ParentSubMenu_ru=Туристические\Россия\Кавказ
-ParentSubMenu_uk=Туристичний\Росія\Кавказ
-ParentSubMenu=Hike\Russia\Caucasus
+ParentSubMenu_ru=Горные\Россия\Кавказ
+ParentSubMenu_uk=Гірський\Росія\Кавказ
+ParentSubMenu=Mountain\Russia\Caucasus
 name_ru=Хребтовка Приэльбрусье (Ляпин В.Г.)
 name=Around Elbrus
 DefURLBase=http://91.237.82.95:8088/pub/tourism/hr_elbrus/

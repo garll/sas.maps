@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=17
 GUID={75F48FFC-0895-4218-968B-9B248DEC4C2C}
-ParentSubMenu_ru=Туристические\Россия\Алтай
-ParentSubMenu_uk=Туристичний\Росія\Алтай
-ParentSubMenu=Hike\Russia\Altay
+ParentSubMenu_ru=Горные\Россия\Алтай
+ParentSubMenu_uk=Гірський\Росія\Алтай
+ParentSubMenu=Mountain\Russia\Altay
 name_ru=Хребтовка Катунского, Чуйских хребтов
 name=Altay ridge maps
 DefURLBase=http://91.237.82.95:8088/pub/tourism/altay_katun_chui/

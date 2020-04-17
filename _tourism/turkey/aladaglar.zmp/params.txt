@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=17
 GUID={7883C9C4-C669-43CE-83B7-FCCE92F6DD4E}
-ParentSubMenu_ru=Туристические\Турция
-ParentSubMenu_uk=Туристичний\Туреччина
-ParentSubMenu=Hike\Turkey
+ParentSubMenu_ru=Горные\Турция
+ParentSubMenu_uk=Гірський\Туреччина
+ParentSubMenu=Mountain\Turkey
 name_ru=хребет Аладаглар
 name=Aladaglar ridge
 DefURLBase=http://91.237.82.95:8088/pub/tourism/aladaglar/

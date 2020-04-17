@@ -1,20 +1,20 @@
 ﻿
 [PARAMS]
-GUID={C182248A-B1ED-4090-A8C3-3972804A93E3}
+GUID={1B4DBA95-88DC-483F-AC55-5EB5C592B280}
 
 ParentSubMenu_ru=Топокарты\Генштаб
 ParentSubMenu_uk=Топокарти\Генштаб
 ParentSubMenu=Topomaps\Soviet military maps
 
-name_ru=Генштаб 1 км (Nakarte.me)
-name_uk=Генштаб 1 км (Nakarte.me)
-name=Genshtab 1 km (Nakarte.me)
+name_ru=Генштаб (Все масштабы)
+name_uk=Генштаб (Все масштабы)
+name=Genshtab Compilation
 
-NameInCache=nakarte_soviet_topo_1000
+NameInCache=Combo_Best_Genshtab
 asLayer=0
 EPSG=3785
 
-DefURLBase=https://tiles.nakarte.me/topo1000/{z}/{x}/{-y}
+DefURLBase=https://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}
 
 RequestHead=Referer:http://www.sasgis.org/
 
