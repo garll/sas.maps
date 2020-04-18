@@ -8,9 +8,9 @@ ParentSubMenu=Cycle\Russia
 
 name_ru=OSM Чепецк.net
 name_uk=OSM Чепецк.net
-name=OSM Chepezk.Net cycle map
+name=OSM Chepetsk
 
-NameInCache=OSMChepezkNet
+NameInCache=chepetsk
 asLayer=0
 EPSG=3785
 
