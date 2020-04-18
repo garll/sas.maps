@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={E5417E0B-FD3D-4F4E-85C3-CE6AC7154337}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name_ru=OSM Серая (WMFLabs)
+name=OSM Grayscale (WMFLabs)
+name_uk=OSM Серая (WMFLabs)
+NameInCache=wmflabs_osm_grayscale
+DefURLBase=https://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png 
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+License=Wikimedia Labs | Map data © OpenStreetMap contributors
