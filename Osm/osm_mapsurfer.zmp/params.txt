@@ -7,7 +7,7 @@ ParentSubMenu_uk=Туристичний
 ParentSubMenu=Hike
 name=OSM Mapsurfer.net
 NameInCache=OSM_mapsurfer
-DefURLBase=https://api.openrouteservice.org/pmapsurfer/{z}/{x}/{y}.png?api_key=5b3ce3597851110001cf6248627df4b739c442ee9b4816036f979b8a
+DefURLBase=https://maps.heigit.org/openmapsurfer/tiles/roads/webmercator/{z}/{x}/{y}.png
 ContentType="image/pnga";"image/png"
 MimeTypeSubst="image/pnga=image/png"
 Ext=.png
