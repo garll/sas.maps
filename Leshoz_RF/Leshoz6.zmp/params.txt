@@ -3,7 +3,7 @@
 pnum=45
 GUID={91692EBA-422D-44D6-BA3C-0BB2A1DF4A6B}
 asLayer=1
-arentSubMenu_ru=Инфраструктура\Россия
+ParentSubMenu_ru=Инфраструктура\Россия
 ParentSubMenu_uk=Інфраструктура\Росія
 ParentSubMenu=Infrastucture\Russia
 
