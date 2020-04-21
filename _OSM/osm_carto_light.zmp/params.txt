@@ -1,0 +1,15 @@
+﻿[PARAMS]
+GUID={5A8F6AC1-A0E0-43D2-B8E5-444FD1C0693D}
+name=OSM Carto Light "Positron"
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+NameInCache=osm_carto_light
+DefURLBase=https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
+ServerNames=a,b,c
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+License=Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.
