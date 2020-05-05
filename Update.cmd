@@ -1,50 +1,55 @@
 @echo off
-hg incoming "https://bitbucket.org/sas_team/sas.maps/"
-::echo %ERRORLEVEL%
-IF ERRORLEVEL 9009 goto NoHg
-IF ERRORLEVEL 255 goto CloneRepo
-IF ERRORLEVEL 2 goto err
-IF ERRORLEVEL 1 goto noupdates
-IF ERRORLEVEL 0 goto ok
-IF ERRORLEVEL -1 goto CloneRepo
+
+set maps_dir=sas.maps
+set maps_url="https://github.com/sasgis/sas.maps"
+
+git fetch --verbose %maps_url%
+
+echo %ERRORLEVEL%
+
+if ERRORLEVEL 9009 goto NoGit
+if ERRORLEVEL 128 goto CloneRepo
+if ERRORLEVEL 0 goto UpdateRepo
+if ERRORLEVEL -1 goto CloneRepo
 
 goto err
 
-:ok
-        echo Забираем изменения из репозитория
-        hg pull "https://bitbucket.org/sas_team/sas.maps/" -u -f
-        IF ERRORLEVEL 1 goto err
-        IF NOT ERRORLEVEL 0 goto err
-	for /R /D %%d in (*.zmp) do rd /q %%d 2> nul
-        goto end
-:CloneRepo
-	rd /s /q sas.maps
-	echo Делаем клон репозитория с сервера
-	hg clone "https://bitbucket.org/sas_team/sas.maps/" sas.maps
-        IF NOT ERRORLEVEL 0 goto err
-	echo Копируем папку с репозиторием из подпапки в текущую папку
-	move /Y sas.maps\.hg .\.hg
-        IF NOT ERRORLEVEL 0 goto errMoveHg
-	echo Удаляем временно созданную подпапку
-	rd /s /q sas.maps
-        IF NOT ERRORLEVEL 0 goto errRemoveTemp
-	echo Обновляем файлы до последней версии
-	hg update -c
-        goto end
-:noupdates
-        echo Нет новых изменений
-        goto end
+:CloneRepo    
+    echo Делаем клон репозитория с сервера
+    rd /s /q %maps_dir%
+    git clone %maps_url% %maps_dir%
+    if not ERRORLEVEL 0 goto err
+    
+    echo Копируем папку с репозиторием из подпапки в текущую папку
+    xcopy /i /s /h /e /y %maps_dir%\.git .\.git
+    if not ERRORLEVEL 0 goto ErrorCopyGit
+    
+    echo Удаляем временно созданную подпапку
+    rd /s /q %maps_dir%
+    if not ERRORLEVEL 0 goto ErrorRemoveTemp
+    goto UpdateRepo
+ 
+:UpdateRepo
+    echo Обновляем файлы до последней версии
+    git clean -d --force
+    git reset --hard
+    goto end
+    
 :err
-        echo Ошибка связи с сервером
-        goto end
-:errMoveHg
-        echo Ошибка перемещения папки .hg 
-        goto end
-:errRemoveTemp
-        echo Ошибка удаления временной папки sas.maps 
-        goto end
-:NoHg
-        echo Не установлен Mercurial
-        goto end
+    echo Ошибка связи с сервером
+    goto end
+    
+:ErrorCopyGit
+    echo Ошибка копирования папки .git 
+    goto end
+    
+:ErrorRemoveTemp
+    echo Ошибка удаления временной папки sas.maps 
+    goto end
+    
+:NoGit
+    echo Ошибка: Не установлен Git
+    goto end
+    
 :end
-pause
+    pause
