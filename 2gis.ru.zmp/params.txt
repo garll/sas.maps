@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=170
+GUID={01BDC3A9-D0C0-4B84-BFB5-13AAF9D100F7}
+ParentSubMenu_ru=Городские и универсальные\Россия и сосединие страны
+ParentSubMenu_uk=Міські та універсальні\Росія і сусідні країни
+ParentSubMenu=City\Russia and neighboring countries
+name=2Gis.ru
+NameInCache=2Gis
+DefURLBase=http://tile.maps.2gis.com/tiles?v=1.3&x=
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

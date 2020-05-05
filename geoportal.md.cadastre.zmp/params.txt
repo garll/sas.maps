@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=127
+GUID={19E78762-D559-4AE5-9A90-F00196B05FF9}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
+name_ru=Кадастровая карта Молдавии (geoportal.md)
+name=Moldova Cadastre (geoportal.md)
+name_uk=Кадастровая карта Молдавии (geoportal.md)
+NameInCache=geoportal_md_cadastre
+DefURLBase=http://geoportal.md/tiles/_base6/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

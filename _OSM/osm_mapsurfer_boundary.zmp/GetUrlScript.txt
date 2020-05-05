@@ -1,0 +1,8 @@
+begin
+  ResultURL:=GetURLBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
+  RequestHead:=
+'Host: maps.heigit.org'+ #13#10 +
+'Accept: image/png, image/svg+xml, image/jxr, image/*; q=0.8, */*; q=0.5'+ #13#10 +
+'Referer: https://qms.nextgis.com/geoservices/2573/'+ #13#10 +
+'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.109' + #13#10;
+end.

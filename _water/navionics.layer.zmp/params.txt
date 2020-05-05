@@ -1,0 +1,16 @@
+﻿[PARAMS]
+GUID={1F1D2343-8575-4BEE-8C33-DBFEF8D53BE5}
+ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водні карти
+ParentSubMenu=Water maps
+name=Navionics Marine Charts
+asLayer=1
+DefURLBase=https://backend.navionics.com/tile/
+NameInCache=navionics_layer
+Ext=.png
+ContentType=image/png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+IsUseDownloaderInScript=1
+RequestHead=Referer: http://webapp.navionics.com/

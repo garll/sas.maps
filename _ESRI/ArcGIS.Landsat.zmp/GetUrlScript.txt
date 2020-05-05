@@ -1,0 +1,3 @@
+begin
+ResultURL:=GetURLBase+'exportImage?f=image&bandIds=0%2C1%2C2&bbox='+RoundEx(GetLLon,15)+'%2c'+RoundEx(GetBLat,15)+'%2c'+RoundEx(GetRLon,15)+'%2c'+RoundEx(GetTLat,15);
+end.

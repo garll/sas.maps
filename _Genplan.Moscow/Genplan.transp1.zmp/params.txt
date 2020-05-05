@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=7
+GUID={5E04039A-331E-4D2C-B051-D30F8871BB39}
+name_ru=Генплан - внеуличный транспорт - первоочередные мероприятия
+name=Genplan - Transport - first priority
+ParentSubMenu_ru=Сломанные карты\Генплан Москвы (Яблоко)
+ParentSubMenu_uk=Зламані карти\Генплан Москвы (Яблоко)
+ParentSubMenu=Not working\Genplan of Moscow (Yabloko)
+DefURLBase=http://genplan.yabloko.ru/map_tiles/410-439/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=gptrans1
+Ext=.gif
+ContentType=image/gif

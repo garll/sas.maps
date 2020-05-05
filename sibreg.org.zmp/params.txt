@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=100
+GUID={CBA03063-23D9-4FA4-931A-9182000644F1}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карты по Сибирскому региону
+name=Siberia region local maps
+DefURLBase=http://tiles.innd.ru/tiles/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=sibreg_org
+Ext=.png
+ContentType=image/png

@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=120
+GUID={BB61287E-8DF9-11E0-8E58-AA6B4824019B}
+name_ru=Ижевск (igis.ru)
+name=Izhevsk (igis.ru)
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+NameInCache=igis_izhevsk
+DefURLBase=http://rastr.igis.ru/izh/igis/
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=4624384
+sradiusb=4624384

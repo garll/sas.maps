@@ -1,0 +1,4 @@
+begin 
+if ((GetZ <= 19) and (GetZ >= 6)) then
+ ResultURL:=GetURLBase+'&x='+inttostr(GetX-(round(intpower(2, Getz-1))/2))+'&y='+inttostr((round(intpower(2, Getz-1))/2)-1-GetY)+'&z='+inttostr(19-GetZ);
+end.

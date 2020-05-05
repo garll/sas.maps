@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={ef4f46af-dbbd-4783-b4af-15bc9fdde3e9}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)
+name_ru=Административное деление (ITO Map)
+name=Administrative boundaries (ITO Map)
+NameInCache=osm_ito_Administrative_boundaries
+DefURLBase=http://t.beta.itoworld.com/2/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

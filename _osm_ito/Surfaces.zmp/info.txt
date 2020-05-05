@@ -1,0 +1,9 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+ITO Map overlay showing tracktype=*. Blue is for paved surfaces tracktype=grade1. Black is for paths with an unspecified tracktype.
+<img src="018.png">
+ITO Map overlay showing <tt style="background-color: rgb(224, 224, 240); white-space: pre;" dir="ltr"><a href="/wiki/Key:tracktype" title="Key:tracktype">tracktype</a>=*</tt>. Blue is for paved surfaces <tt style="background-color: rgb(224, 224, 240); white-space: pre;" dir="ltr"><a href="/wiki/Key:tracktype" title="Key:tracktype">tracktype</a>=<a href="/wiki/Tag:tracktype%3Dgrade1" title="Tag:tracktype=grade1" class="mw-redirect">grade1</a></tt>. Black is for paths with an unspecified tracktype.

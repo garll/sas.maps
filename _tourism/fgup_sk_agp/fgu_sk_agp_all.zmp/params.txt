@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={4A3A2F8B-DC7D-494B-819C-C0BBDAF80CEA}
+ParentSubMenu_ru=Туристические\Россия\Кавказ
+ParentSubMenu_uk=Туристичний\Росія\Кавказ
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=Сводная ФГУ СК АГП
+name=All tourist FGU SK AGP
+DefURLBase=http://91.237.82.95:8088/pub/tourism/arkhiz_dombay/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=arkhiz_dombay
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

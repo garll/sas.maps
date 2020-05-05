@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=130
+GUID={685E9146-DEC0-44EE-859F-123DEF70C6E2}
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)
+ParentSubMenu=Not working\Low quality
+name_ru=Санкт-Петербург 2011 (без геопривязки)
+name=Saint Petersburg 2011
+NameInCache=zoomify_kartaspb
+DefURLBase=http://www.kartaspb.ru/m/s2/TileGroup
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1

@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={9A360A51-7A73-402D-8A12-D670BD739B7B}
+ParentSubMenu_ru=Сломанные карты\Nokia
+ParentSubMenu_uk=Зламані карти\Nokia
+ParentSubMenu=Not working\Nokia
+name_ru=Спутник DG (Nokia Satellite Standard) 
+name=DG Sat (Nokia Satellite Standard)
+name_uk=Супутник DG (Nokia Satellite Standard)
+ContentType=image/jpeg
+DefURLBase=http://stg.lbsp.navteq.com/satellite/6.0/images/?token=LBSP_DEV_ALL&profile=ColorOnly&quadkey=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Nokia.Satellite.Standard
+Ext=.jpg

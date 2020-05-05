@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/spitzer_'+inttostr(GetX)+'_'+inttostr(GetY)+'.png';
+end.

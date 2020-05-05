@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={84020C09-ACE1-402A-8B59-07EF81D772FA}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта Уфы (ufakarta.ru)
+name_uk=Карта Уфы (ufakarta.ru)
+name=Map Ufa (ufakarta.ru)
+NameInCache=ufakarta_ru
+DefURLBase=http://ufakarta.ru/images/tiles/c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

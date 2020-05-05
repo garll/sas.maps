@@ -1,0 +1,10 @@
+begin
+ ResultURL:=GetURLBase+'x='+inttostr(GetX)+'&y='+inttostr(GetY)+'&zoom='+inttostr(GetZ-1)+'&interval='+inttostr(round(IntPower(1.31,24-GetZ+1)))+'&color=e29526';
+ RequestHead:='User-Agent: Opera/9.80 (Windows NT 6.1; U; MRA 5.9 (build 4876); ru) Presto/2.10.289 Version/12.01' + #13#10 +
+  'Host: contour.heywhatsthat.com' + #13#10 +
+  'Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1' + #13#10 +
+  'Accept-Language: ru-RU,ru;q=0.9,en;q=0.8' + #13#10 +
+  'Accept-Encoding: gzip, deflate' + #13#10 +
+  'Referer: http://www.sasgis.org/' + #13#10 +
+  'Connection: Keep-Alive'
+end.

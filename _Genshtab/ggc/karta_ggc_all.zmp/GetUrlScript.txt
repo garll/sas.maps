@@ -1,0 +1,24 @@
+var
+ r: integer;
+ BaseUrl: string;
+begin
+  // Выбор зеркала, если не указана версия
+  if version = '' then
+    r := random(2)
+  else
+    r := StrToInt(version);
+
+  case r of
+   0: BaseUrl := GetURLBase;
+   1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'http://91.237.82.95:8088', 'https://maps.melda.ru');
+  end;
+
+ if GetZ < 13 then
+   ResultURL := BaseUrl+'2km.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
+ else if getz <14 then
+   ResultURL := BaseUrl+'1km.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
+ else if getz <15 then
+   ResultURL := BaseUrl+'500m.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
+ else
+   ResultURL := BaseUrl+'250m.png'+'/z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png'
+end.

@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={33bf0d9c-0475-4f19-93e6-0909c206adb4}
+asLayer=1
+name_ru=Водная навигация (ITO Map)
+name=Navigable waterways (ITO Map)
+NameInCache=osm_ito_Navigable_waterways
+DefURLBase=http://t.beta.itoworld.com/24/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

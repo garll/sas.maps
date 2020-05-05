@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={EC131932-0BC8-43BD-BBE6-30D0B230794F}
+ParentSubMenu_ru=Горные\Россия\Кавказ
+ParentSubMenu_uk=Гірський\Росія\Кавказ
+ParentSubMenu=Mountain\Russia\Caucasus
+name_ru=Сводная (с) Госгеодезия СССР 1991г.
+name=All Gosgeodeziya
+DefURLBase=http://91.237.82.95:8088/pub/tourism/gosgeodeziya/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=tourism1991
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

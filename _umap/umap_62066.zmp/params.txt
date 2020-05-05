@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=195
+GUID={AEA75D7E-E487-4131-B534-761BF1EEEFF0}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Umap
+ParentSubMenu_uk=Зламані карти\Локальні карти\Umap
+ParentSubMenu=Not working\Local maps\Umap
+name_ru=Серов (Umap.ru)
+name=Serov (Umap.ru)
+NameInCache=Umap_62066
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=62066
+ContentType=text/html , image/gif
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+

@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={3a7e8644-5fc1-4742-88a7-7d8bc91fa87c}
+asLayer=1
+name_ru=Водные каналы (ITO Map)
+name=Canals (ITO Map)
+NameInCache=osm_ito_Canals
+DefURLBase=http://t.beta.itoworld.com/145/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

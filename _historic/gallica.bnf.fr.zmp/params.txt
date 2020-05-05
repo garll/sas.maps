@@ -1,0 +1,22 @@
+﻿[PARAMS]
+GUID={854B7D18-AE0C-4A9D-8FDA-A638C1ECDA63}
+ParentSubMenu_ru=Исторические\Россия\Разные
+ParentSubMenu_uk=Історичні\Росія\Різне
+ParentSubMenu=Historic\Russia\Other
+name=gallica.bnf.fr
+NameInCache=gallica_bnf_fr
+DefURLBase=http://gallica.bnf.fr/proxy?method=R&ark=
+ContentType=image/jpeg;charset=ISO-8859-1
+MimeTypeSubst = """image/jpeg;charset=ISO-8859-1""=image/jpeg"
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+UsePreloadPage=0
+
+TILERLEFT=0
+TILERRIGHT=256
+TILERTOP=0
+TILERBOTTOM=256
+
+version=btv1b55003119j.f2

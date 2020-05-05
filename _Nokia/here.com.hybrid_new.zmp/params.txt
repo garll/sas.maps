@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={BFAD08F4-32B3-4EF8-836A-E10F74D6D03E}
+ParentSubMenu_ru=Спутниковые
+ParentSubMenu_uk=Супутниковий
+ParentSubMenu=Satellite
+name=Here.com - Hybrid
+name_ru=Here.com - Гибрид 
+name_uk=Here.com - Гибрид 
+ContentType=image/png
+DefURLBase=https://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg={ver}&ppi=72&pview=DEF
+ServerNames=1,2,3,4
+NameInCache=here.com.hybrid.jpg
+EPSG=3785
+Ext=.jpg
+Version=rus

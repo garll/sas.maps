@@ -1,0 +1,29 @@
+var
+  r:integer;
+  BaseUrl: string;
+begin
+  if version = '' then
+    r := random(2)
+  else
+    r := StrToInt(version);
+
+  case r of
+    0: BaseUrl := GetURLBase;
+    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'gmap.camapka.ru/lotsia/', '91.237.82.95:8088/pub/water/camapka.ru/');
+  end;
+
+  case r of
+    0: ResultURL := BaseUrl+'Z'+inttostr(getz-1)+'/'+inttostr(gety)+'/'+inttostr(getx)+'.png';
+    1: ResultURL := BaseUrl+'z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.png';
+  end;
+
+  RequestHead :=
+             'Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5' + #13#10 +
+             'Referer: http://camapka.ru/mapview/lotsia.htm' + #13#10 +
+             'Accept-Language: ru-RU' + #13#10 +
+             'User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko' + #13#10 +
+             'Accept-Encoding: gzip, deflate' + #13#10 +
+             'Connection: Keep-Alive' + #13#10 +
+             'DNT: 1' + #13#10 +
+             'Host: gmap.camapka.ru';
+end.

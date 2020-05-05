@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=
+GUID={9A360A5D-1987-402D-8A11-D670BD739B7B}
+ParentSubMenu_ru=Исторические\Россия\Москва и МосОбласть
+ParentSubMenu_uk=Історичні\Росія\Москва і МосОбласть
+ParentSubMenu=Historic\Russia\Moscow region
+name_ru=Карта Москвы 1987 (retromap.ru)
+name=Moscow Map 1987 (retromap.ru)
+name_uk=Карта Москвы 1987 (retromap.ru)
+ContentType=image/jpeg
+DefURLBase=http://www.retromap.ru/f19f53e/FFd2da_051987/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=retromap.1987
+Ext=.jpg

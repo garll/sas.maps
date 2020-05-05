@@ -1,0 +1,6 @@
+ASTER Global Digital Elevation Map
+
+Rendering by OpenMapSurfer
+
+Information
+http://openmapsurfer.uni-hd.de/contact.html

@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=171
+GUID={A24025E7-1E3D-4B15-83DF-DF4F6EAEDF72}
+ParentSubMenu_ru=Спутниковые\Украина
+ParentSubMenu=Satellite\Ukraine
+ParentSubMenu_uk=Супутниковий\Україна
+name_ru=Gov.ua - Ортофото 
+name_ua=Gov.ua - Ортофото 
+name=Gov.ua - Orthophoto 
+NameInCache=cadastre_ortofoto
+DefURLBase=https://m1.land.gov.ua/map/ortho10k_all/{z}/{x}/{-y}.jpg
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+RequestHead=User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0

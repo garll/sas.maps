@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=140
+GUID={025de135-53fd-45db-b90e-fafbb7fb3bf4}
+ParentSubMenu_ru=Топокарты\Многослойные
+ParentSubMenu_uk=Топокарти\Багатошаровий
+ParentSubMenu=Topomaps\Multilayer
+name_ru=Топокарта Маршруты.ру
+name=TopoMap Marshruty.ru
+NameInCache=topo_marshruty
+DefURLBase=http://maps.marshruty.ru/ml.ashx?al=1&i=1&x=
+DetectContentType=1
+ContentType=image/png,image/x-png,image/jpeg,image/pjpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+RequestHead=Referer: http://maps.marshruty.ru/

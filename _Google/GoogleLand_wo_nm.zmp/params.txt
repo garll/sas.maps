@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=3
+GUID={D8A2B03A-18B8-4127-936A-2D6A7AE0D89B}
+ParentSubMenu_ru=Сломанные карты\Google
+ParentSubMenu_uk=Зламані карти\Google
+ParentSubMenu=Not working\Google
+name_ru=Ландшафт без названий (Google)
+name=Landscape w\o names (Google)
+name_uk=Ландшафт без назв (Google)
+DefURLBase=http://mt0.google.com/vt/lyrs=t@159000000&hl=ru&
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Google_land
+Ext=.jpg
+Sleep=1000
+ContentType=image/jpeg

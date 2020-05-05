@@ -1,0 +1,20 @@
+﻿[PARAMS]
+pnum=130
+GUID={685E9146-DEC0-44EE-859F-111DEF70C6E2}
+ParentSubMenu_ru=Исторические\Румыния
+ParentSubMenu_uk=Історичні\Румунія
+ParentSubMenu=Historic\Romania
+name_ru=Takovo (без геопривязки)
+name=Takovo
+NameInCache=zoomify
+DefURLBase=http://oldmaps.geolab.cz/3vm/75/4771/zoomify/TileGroup
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+TILERLEFT=0
+TILERRIGHT=256
+TILERTOP=0
+TILERBOTTOM=256

@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={EDCF010A-359E-4C00-9610-2F19A12C08C7}
+pnum=128
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта городов России (gis-gid.ru)
+name=Russian map (gis-gid.ru)
+NameInCache=gis-gid_ru
+DefURLBase=http://gis-gid.v.shared.ru/cgi-bin/chita2?TRANSPARENT=true&LAYERS=blank%2Carea%2Cparea%2Czastroyka%2Casfalt3%2Cveget%2Cvoda%2ClinesW%2Casfalt%2CStreet%2Clines%2CorZ%2Chaus%2Cpoi%2Cpoibig%2ClabelsZ%2CzastroykaK%2Casfalt3K%2CvegetK%2CvodaK%2ClinesWK%2CStreetK%2ClinesK%2CasfaltK%2ChausK%2CpoiK%2CpoibigK%2Casfalt3DV%2CvegetDV%2CvodaDV%2CzastroykaDV%2ClinesWDV%2CStreetDV%2ClinesDV%2CorDV%2CasfaltDV%2ChausDV%2CpoiDV%2CpoibigDV%2CzastroykaV%2Casfalt3V%2CvegetV%2CvodaV%2ClinesWV%2CStreetV%2ClinesV%2CorV%2CasfaltV%2ChausV%2CpoiV%2CpoibigV%2CzastroykaKG%2Casfalt3KG%2CvegetKG%2CvodaKG%2ClinesWKG%2CStreetKG%2ClinesKG%2CorKG%2ClabelKG%2ChausKG%2Carea2%2CpoiKG%2CpoibigKG%2CzastroykaB%2Casfalt3B%2CvegetB%2CvodaB%2ClinesWB%2CasfaltB%2CStreetB%2ClinesB%2ChausB%2CpoiB%2CpoibigB%2ClabelsB%2Czastroyka2MO%2CzastroykaMO%2Casfalt3MO%2CvegetMO%2CvodaMO%2ClinesWMO%2CasfaltMO%2CStreetMO%2ClinesMO%2CorMO%2ChausMO%2CpoiMO%2CpoibigMO%2ClabelsMO%2Czastroyka2LEN%2CzastroykaLEN%2Casfalt3LEN%2CvegetLEN%2CvodaLEN%2ClinesWLEN%2CasfaltLEN%2CStreetLEN%2ClinesLEN%2CorLEN%2ChausLEN%2CpoiLEN%2CpoibigLEN%2ClabelsLEN&FORMAT=png&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+
+

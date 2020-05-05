@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={398e8378-e8ea-4747-93c7-847d73ee9df9}
+asLayer=1
+name_ru=Шлагбаумы, заборы (ITO Map)
+name=Barriers (ITO Map)
+NameInCache=osm_ito_Barriers
+DefURLBase=http://t.beta.itoworld.com/49/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

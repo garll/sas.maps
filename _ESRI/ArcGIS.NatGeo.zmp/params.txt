@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=
+GUID={7B743985-BC5F-4AB6-8915-ED5DBBB8F552}
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)\ESRI
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)\ESRI
+ParentSubMenu=Not working\Low quality\ESRI
+name=ArcGIS.NatGeo
+NameInCache=ArcGIS.NatGeo
+DefURLBase=http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/
+ContentType=image/jpeg;image/jpg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752

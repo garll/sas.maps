@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={10B2CE3B-78F2-44A8-8396-F94160291754}
+ParentSubMenu_ru=Горные\Россия\Кавказ
+ParentSubMenu_uk=Гірський\Росія\Кавказ
+ParentSubMenu=Mountain\Russia\Caucasus
+name_ru= Абишира-Ахуба (В.Ляпин)
+name=Abishira-Ahuba (V.Lyapin)
+DefURLBase=http://91.237.82.95:8088/pub/tourism/lcarta/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=lcarta
+Ext=.jpg
+License=© Ляпин В.Г. 2013
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

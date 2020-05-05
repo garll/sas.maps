@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=2
+GUID={04634AEA-A897-483D-8D56-4F5D703BDBB7}
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
+name_ru=Google - Транзит
+name=Google - Transit
+DefURLBase=http://mt.google.com/vt/lyrs=m@159000000,transit:comp|vm:1&hl=ru&opts=r
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=GoogleTransit
+Ext=.png
+Sleep=1000
+ContentType=image/png

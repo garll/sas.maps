@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={4b0465a1-6b1c-4aeb-9b98-25bd4842fa6e}
+asLayer=1
+name=Railway freight (ITO Map)
+NameInCache=osm_ito_Railway_freight
+DefURLBase=http://t.beta.itoworld.com/71/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

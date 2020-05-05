@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=114
+GUID={8F990424-C62A-4CFD-97C5-9B402078A4F4}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Новокузнецк (rugis.ru)
+name=Novokuznetsk (rugis.ru)
+NameInCache=rugis_ru
+DefURLBase=http://rugis.ru/new/map/?mode=map&DocWidth=256&DocHeight=256&zoom=
+ContentType="image/gif"
+defaultContentType=image/gif
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137

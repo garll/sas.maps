@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=118
+GUID={B56F472D-3278-4DC8-8DB9-890FE7F44801}
+ParentSubMenu_ru=Городские и универсальные\Азербайджан и Грузия
+ParentSubMenu_uk=Міські та універсальні\Азербайджан і Грузія
+ParentSubMenu=City\Azerbaijan and Georgia
+name_ru=GoMap.az
+name_uk=GoMap.az
+name=GoMap.az
+DefURLBase=http://gomap.az/info/bwp_map/hpages/xyz.do?lng=ru&
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=GoMap_map
+Ext=.jpg
+Sleep=
+ContentType=image/jpeg

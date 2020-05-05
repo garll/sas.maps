@@ -1,0 +1,22 @@
+﻿[PARAMS]
+pnum=16
+GUID={2BB46ACD-DB8C-4F79-927C-C6FE975A649E}
+ParentSubMenu_ru=Исторические\Россия\Кубань, Кавказ, Крым
+ParentSubMenu_uk=Історичні\Росія\Кубань, Кавказ, Крим
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=Кубанский район 1в.Геологическая карта 1908-1916 гг.
+name=Kuban 1v Geologic map (1908-1912)
+DefURLBase=http://91.237.82.95:8088/pub/historic/kuban_1v/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=kuban_1v
+Ext=.jpg
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+BanIfLen=0
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

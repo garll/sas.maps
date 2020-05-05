@@ -1,0 +1,8 @@
+var
+serverPart: string;
+
+begin 
+serverPart := RegExprReplaceMatchSubStr(GetURLBase, '//4', '//'+inttostr( Random(3) + 1 ) );
+ResultURL:=serverPart+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS';
+end.
+

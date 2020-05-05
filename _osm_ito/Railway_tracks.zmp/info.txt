@@ -1,0 +1,8 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+Highlighting the number of tracks in railway=tracks. Note that it is generally considered preferable to create a way for each track in which case a twin track line will be shown as two parallel way with tracks=1 rather than one way with tracks=2.
+<img src="003.png">

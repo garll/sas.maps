@@ -1,0 +1,18 @@
+﻿[PARAMS]
+pnum=7
+GUID={8238C84A-D37E-45E1-A74A-FBCFBCD4168C}
+name_ru=Гибрид (geohub.net)
+name=Hybrid (geohub.net)
+name_uk=Гибрид (geohub.net)
+ParentSubMenu_ru=Сломанные карты
+ParentSubMenu_uk=Зламані карти
+ParentSubMenu=Not working
+asLayer=1
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/geobase_tr/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=geohub.hybrid
+Ext=.png
+ContentType=image/png8bit
+MimeTypeSubst="image/png8bit=image/png"

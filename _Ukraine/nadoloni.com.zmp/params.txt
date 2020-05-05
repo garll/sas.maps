@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=170
+GUID={DDD471FB-1B5A-451C-93DD-E07C6D7A643C}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+ParentSubMenu=Not working\Local maps\Ukraine
+name_ru=Дрогобыч и Трускавец (nadoloni.com)
+name=Drogobych && Truskavets (nadoloni.com)
+NameInCache=nadoloni_com
+DefURLBase=http://nadoloni.com/test
+DefaultContentType=image/png
+ContentType="image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

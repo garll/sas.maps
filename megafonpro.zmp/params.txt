@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=104
+GUID={A8B5CADF-FA15-492D-9BC2-BCBA7DCE888F}
+ParentSubMenu_ru=Городские и универсальные\Россия
+ParentSubMenu_uk=Міські та універсальні\Росія
+ParentSubMenu=City\Russia
+name_ru=Мегафон Навигатор
+name=Megafon Navigator
+name_uk=Мегафон Навигатор
+NameInCache=megafonpro
+DefURLBase=http://193.201.231.106/
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752

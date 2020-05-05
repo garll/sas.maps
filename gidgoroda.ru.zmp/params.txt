@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=115
+GUID={2BF2C60C-C412-48A9-B940-12FA24E55AB0}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Кемеровская область
+name=Kemerovo
+NameInCache=Kemerovo
+DefURLBase=http://tiles.grad-nk.ru/z{z}/{x/1024}/x{x}/{y/1024}/y{y}.png
+ContentType=image/png
+defaultContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

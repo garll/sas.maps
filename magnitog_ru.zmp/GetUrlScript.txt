@@ -1,0 +1,22 @@
+var
+z:integer;
+
+begin
+
+ case getZ of
+ 0:z:=120000;
+ 1:z:=120000;
+ 2:z:=120000;
+ 3:z:=120000;
+ 4:z:=90000;
+ 5:z:=60000;
+ 6:z:=30000;
+ 7:z:=15000;
+ 8:z:=10000;
+ 9:z:=5000;
+ 10:z:=2000;
+ end;
+
+ ResultURL:=GetURLBase+inttostr(z)+'/MainLayer/'+inttostr(GetX)+'_'+inttostr(round(intpower(2,GetZ-1)-GetY-1))+'.png';
+
+end.

@@ -1,0 +1,3 @@
+begin 
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'/tile-'+inttostr(GetX)+'-'+inttostr(GetY)+'.gif'; 
+end.

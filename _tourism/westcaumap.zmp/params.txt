@@ -1,0 +1,21 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={6AB93647-45C1-490C-AD5C-167CDDD5B5D4}
+ParentSubMenu_ru=Туристические\Россия\Кавказ
+ParentSubMenu_uk=Туристичний\Росія\Кавказ
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=Схема перевалов Западного Кавказа 02.2019
+name=caucatalog.narod.ru westcaumap 02.2019
+name_uk=Схема перевалов Западного Кавказа 02.2019
+DefURLBase=http://91.237.82.95:8088/pub/tourism/westcaumap/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=westcaumap
+Ext=.jpg
+License=© Михаила Голубев, caucatalog.ru
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

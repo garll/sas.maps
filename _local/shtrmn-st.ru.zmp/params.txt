@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=114
+GUID={A9A8519B-C2C0-4148-B991-E76632737512}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта Shturmann
+name=Map Shturmann
+name_uk=Карта Shturmann
+NameInCache=shtrmn-st_ru
+DefURLBase=http://m1.shtrmn-st.ru
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

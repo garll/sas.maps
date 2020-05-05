@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={0bffa4e0-852b-4bee-b8d7-7b43297400c3}
+name_ru=МТС 2G
+name=MTS 2G
+ParentSubMenu_ru=Сломанные карты\Сотовые сети
+ParentSubMenu_uk=Зламані карти\Стільниковий зв'язок
+ParentSubMenu=Not working\Mobile coverage area
+asLayer=1
+DefURLBase=http://tiles.mts.ru/G2_New/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.mts.2g
+Ext=.png
+ContentType=image/png
+
+

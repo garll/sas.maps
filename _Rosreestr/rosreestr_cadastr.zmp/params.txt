@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={87428D6B-7DFA-4C98-9993-A8F3AA456608}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Росреестр
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=Зламані карти\Росреестр
+name_ru=Кадастровые границы (rosreestr.ru)
+name=Cadastre map (rosreestr.ru)
+NameInCache=rosreestr_cadastr
+DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/Cadastre/CadastreWMS/MapServer/export?bboxSR=102100&size=256%2C256&imageSR=102100&format=png32&transparent=true&dpi=96&f=image&bbox=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

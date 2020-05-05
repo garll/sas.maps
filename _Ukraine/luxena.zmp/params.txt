@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=171
+GUID={7D05AF05-42F3-44C9-ACAA-8AACC3A12FF2}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+ParentSubMenu=Not working\Local maps\Ukraine
+name_ru=Украина (luxena.com)
+name=Ukraine (luxena.com)
+name_uk=Україна (luxena.com)
+DefURLBase=http://tiles.luxena.com/navlux/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=luxena
+Ext=.png
+ContentType=image/png

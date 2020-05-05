@@ -1,0 +1,48 @@
+var 
+  X, Y, X1, X2, Y1, Y2, Z: integer;
+  SX1, SX2, SY1, SY2, SZ: string;
+
+begin
+  Z := GetZ - 1;
+  Y := round(intpower(2,Z)) - 1 - GetY;
+  X := GetX;
+  Y1 := Y div 1000;
+  Y2 := Y mod 1000;
+  X1 := X div 1000;
+  X2 := X mod 1000;
+  
+  case Y1 of
+    0..9:     SY1 := '00'+IntToStr(Y1);
+    10..99:   SY1 := '0'+IntToStr(Y1);
+    100..999: SY1 := IntToStr(Y1);
+  end;
+
+  case Y2 of
+    0..9:     SY2 := '00'+IntToStr(Y2);
+    10..99:   SY2 := '0'+IntToStr(Y2);
+    100..999: SY2 := IntToStr(Y2);
+  end;
+
+  case X1 of
+    0..9:     SX1 := '00'+IntToStr(X1);
+    10..99:   SX1 := '0'+IntToStr(X1);
+    100..999: SX1 := IntToStr(X1);
+  end;
+
+  case X2 of
+    0..9:     SX2 := '00'+IntToStr(X2);
+    10..99:   SX2 := '0'+IntToStr(X2);
+    100..999: SX2 := IntToStr(X2);
+  end;
+
+  case Z of
+    0..9:     SZ := '0'+IntToStr(Z);
+    10..99:   SZ := IntToStr(Z);
+  end;
+
+
+  if ((Z >= 3) and (Z <= 18)) then 
+    ResultURL:=GetURLBase+SZ+'/000/'+SX1+'/'+SX2+'/000/'+SY1+'/'+SY2+'.png'; 
+end.
+
+// http://karta.tatar.ru/tilecache/satellite/13/000/005/215/000/005/631.png

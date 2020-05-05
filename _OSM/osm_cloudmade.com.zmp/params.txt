@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={53B841AD-A85D-40D0-BB36-FAA0C703CE91}
+ParentSubMenu_ru=Сломанные карты\OSM
+ParentSubMenu_uk=Зламані карти\OSM
+ParentSubMenu=Not working\OSM
+name_ru=Карта + знаки  OSM (cloudmade.com)
+name=Map OSM (cloudmade.com)
+NameInCache=OSM_cloudmade
+DefURLBase=http://a.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/1/256
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

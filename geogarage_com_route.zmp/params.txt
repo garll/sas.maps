@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=114
+GUID={3EBFF911-D074-4983-9346-2C03F68041A3}
+name_ru= marine.geogarage.com/routes (geogarage.com)
+name=marine.geogarage.com/routes (geogarage.com)
+NameInCache=geogarage_com_route
+DefURLBase=http://publish3.geogarage.com/noaa/
+ContentType=image/png,image/jpeg
+defaultContentType=image/jpeg
+MimeTypeSubst = "image/png=image/jpeg"
+Ext=.jpg
+projection=1
+sradiusa=3396190
+sradiusb=3396190
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти

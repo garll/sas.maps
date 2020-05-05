@@ -1,0 +1,13 @@
+﻿[PARAMS]
+GUID={D3465891-4551-4668-9222-DD569067900E}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name=OSM Sputnik.ru
+NameInCache=maps.sputnik.ru
+DefURLBase=http://tiles.maps.sputnik.ru/tiles/kmt2
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752

@@ -1,0 +1,173 @@
+var a:array[0..35] of char;
+max:array[0..20] of byte;
+
+x1,x2,x3:integer;
+y1,y2,y3:integer;
+px1,px2,px3:integer;
+py1,py2,py3:integer;
+ppx1,ppx2,ppx3:integer;
+ppy1,ppy2,ppy3:integer;
+dx3,dx2,dx1:integer;
+dy3,dy2,dy1:integer;
+
+sxy:string;
+strx1,strx2,strx3:string;
+stry1,stry2,stry3:string;
+
+begin
+
+a[0]:= '0';
+a[1]:= '1';
+a[2]:= '2';
+a[3]:= '3';
+a[4]:= '4';
+a[5]:= '5';
+a[6]:= '6';
+a[7]:= '7';
+a[8]:= '8';
+a[9]:= '9';
+a[10]:='A';
+a[11]:='B';
+a[12]:='C';
+a[13]:='D';
+a[14]:='E';
+a[15]:='F';
+a[16]:='G';
+a[17]:='H';
+a[18]:='I';
+a[19]:='J';
+a[20]:='K';
+a[21]:='L';
+a[22]:='M';
+a[23]:='N';
+a[24]:='O';
+a[25]:='P';
+a[26]:='Q';
+a[27]:='R';
+a[28]:='S';
+a[29]:='T';
+a[30]:='U';
+a[31]:='V';
+a[32]:='W';
+a[33]:='X';
+a[34]:='Y';
+a[35]:='Z';
+
+max[0]:= 15;
+max[1]:= 15;
+max[2]:= 15;
+max[3]:= 15;
+max[4]:= 15;
+max[5]:= 15;
+max[6]:= 16;
+max[7]:= 16;
+max[8]:= 16;
+max[9]:= 16;
+max[10]:=16;
+max[11]:=16;
+max[12]:=16;
+max[13]:=16;
+max[14]:=16;
+max[15]:=16;
+max[16]:=16;
+max[17]:=16;
+max[18]:=16;
+max[19]:=16;
+
+ sxy:='';
+ strx1:='';
+ strx2:='';
+ strx3:='';
+ stry1:='';
+ stry2:='';
+ stry3:='';
+
+ x3:=0;
+ y3:=0;
+ x2:=0;
+ y2:=0;
+ x1:=0;
+ y1:=0;
+ px3:=0;
+ py3:=0;
+ px2:=0;
+ py2:=0;
+ px1:=0;
+ py1:=0;
+
+
+ if (gety>=round(intpower(2,GetZ-1)/2)) and (getx >=round(intpower(2,GetZ-1)/2)) then sxy:='/A';
+ if (gety>=round(intpower(2,GetZ-1)/2)) and (getx < round(intpower(2,GetZ-1)/2)) then sxy:='/B';
+ if (gety< round(intpower(2,GetZ-1)/2)) and (getx >= round(intpower(2,GetZ-1)/2))then sxy:='/D';
+ if (gety< round(intpower(2,GetZ-1)/2)) and (getx <  round(intpower(2,GetZ-1)/2))then sxy:='/C';
+
+ dx3:=round(intpower(2,GetZ-1)/2)-GetX;
+ if dx3<0 then dx3:=-dx3;
+
+ dy3:=round(intpower(2,GetZ-1)/2)-GetY;
+ if dy3<0 then dy3:=-dy3;
+
+
+
+
+if GetZ>3 then
+ begin
+  dx2:=dx3 div max[getz];
+  dy2:=dy3 div max[getz];
+
+  dx1:=dx2 div max[getz];
+  dy1:=dy2 div max[getz];
+ end;
+
+  px3:=dx3 div 35;
+  py3:=dy3 div 35;
+ ppx3:=px3 div 35;
+ ppy3:=py3 div 35;
+   x3:=dx3 mod 35;
+   y3:=dy3 mod 35;
+  px3:=px3-ppx3*35;
+  py3:=py3-ppy3*35;
+
+  px2:=dx2 div 35;
+  py2:=dy2 div 35;
+ ppx2:=px2 div 35;
+ ppy2:=py2 div 35;
+   x2:=dx2 mod 35;
+   y2:=dy2 mod 35;
+  px2:=px2-ppx2*35;
+  py2:=py2-ppy2*35;
+
+  px1:=dx1 div 35;
+  py1:=dy1 div 35;
+ ppx1:=px1 div 35;
+ ppy1:=py1 div 35;
+   x1:=dx1 mod 35;
+   y1:=dy1 mod 35;
+  px1:=px1-ppx1*35;
+  py1:=py1-ppy1*35;
+
+
+ strx3:=a[x3];
+ stry3:=a[y3];
+ if ((px3>0) or (ppx3>0)) then strx3:=a[px3]+strx3;
+ if ((py3>0) or (ppy3>0)) then stry3:=a[py3]+stry3;
+ if ppx3>0 then strx3:=a[ppx3]+strx3;
+ if ppy3>0 then stry3:=a[ppy3]+stry3;
+
+ strx2:=a[x2];
+ stry2:=a[y2];
+ if px2>0 then strx2:=a[px2]+strx2;
+ if py2>0 then stry2:=a[py2]+stry2;
+ if ppx2>0 then strx2:=a[ppx2]+strx2;
+ if ppy2>0 then stry2:=a[ppy2]+stry2;
+
+ strx1:=a[x1];
+ stry1:=a[y1];
+ if px1>0 then strx1:=a[px1]+strx1;
+ if py1>0 then stry1:=a[py1]+stry1;
+ if ppx1>0 then strx1:=a[ppx1]+strx1;
+ if ppy1>0 then stry1:=a[ppy1]+stry1;
+
+ ResultURL:=GetURLBase+'Z'+inttostr(19-GetZ)+sxy+'/L1'+strx1+'Z'+stry1+'/L2'+strx2+'Z'+stry2+'/'+strx3+'Z'+stry3+'.png';
+end.
+

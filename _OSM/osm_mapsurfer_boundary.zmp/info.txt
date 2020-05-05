@@ -1,0 +1,7 @@
+OpenStreetMap - это карта всего мира,
+которую может редактировать каждый,
+которая создается практически с чистого листа
+и распространяется под свободной лицензией.
+
+Первоисточник: http://www.openstreetmap.org/
+The authors are Maxim Rylov and Vitaly Chezganov. All rights reserved (С)

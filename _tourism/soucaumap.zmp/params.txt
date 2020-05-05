@@ -1,0 +1,21 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={63F20739-EAD8-44F4-B71A-EAFD26E83055}
+ParentSubMenu_ru=Туристические\Россия\Кавказ
+ParentSubMenu_uk=Туристичний\Росія\Кавказ
+ParentSubMenu=Hike\Russia\Caucasus
+name_ru=Схема перевалов Южного Кавказа 30.8.2014
+name=caucatalog.narod.ru southcaucas 30.8.2014
+name_uk=Схема перевалов Южного Кавказа 30.8.2014
+DefURLBase=http://91.237.82.95:8088/pub/tourism/soucaumap/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=soucaumap
+Ext=.jpg
+License=© Михаила Голубев, caucatalog.narod.ru
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

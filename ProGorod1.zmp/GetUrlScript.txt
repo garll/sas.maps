@@ -1,0 +1,57 @@
+function addzero(i:integer):string;
+var rs:string;
+begin
+rs:=inttostr(i);
+while length(rs)<3 do rs:='0'+rs;
+result:=rs;
+end;
+
+var
+sx,sy,sz:string;
+dx,dy:integer;
+tx,ty:integer;
+sh_x:array[0..24] of integer;
+sh_y:array[0..24] of integer;
+
+begin
+sh_x[0]:=0; sh_y[0]:=0;
+sh_x[1]:=0; sh_y[1]:=0;
+sh_x[2]:=0; sh_y[2]:=0;
+sh_x[3]:=0; sh_y[3]:=0;
+sh_x[4]:=0; sh_y[4]:=0;
+sh_x[5]:=0; sh_y[5]:=0;
+sh_x[6]:=0; sh_y[6]:=0;
+sh_x[7]:=0; sh_y[7]:=0;
+sh_x[8]:=0; sh_y[8]:=0;
+sh_x[9]:=0; sh_y[9]:=1;
+
+sh_x[10]:=0; sh_y[10]:=1;
+sh_x[11]:=0; sh_y[11]:=3;
+sh_x[12]:=0; sh_y[12]:=6;
+
+sh_x[13]:=0; sh_y[13]:=11;
+
+sh_x[14]:=0; sh_y[14]:=22;
+sh_x[15]:=0; sh_y[15]:=44;
+sh_x[16]:=0; sh_y[16]:=88;
+sh_x[17]:=0; sh_y[17]:=175;
+sh_x[18]:=0; sh_y[18]:=350;
+sh_x[19]:=-90; sh_y[19]:=946;
+
+sh_x[20]:=0; sh_y[20]:=0;
+sh_x[21]:=0; sh_y[21]:=0;
+sh_x[22]:=0; sh_y[22]:=0;
+sh_x[23]:=0; sh_y[23]:=0;
+sh_x[24]:=0; sh_y[24]:=0;
+
+tx:=getx+sh_x[getz];
+
+dx:=(tx div 1000);
+sx:=addzero(tx-dx*1000);
+ty:=(round(intpower(2,GetZ-1))-Gety)-sh_y[getz];
+dy:=(ty div 1000);
+ty:=ty-dy*1000-1;
+sy:=addzero(ty);
+sz:=inttostr(Getz-1);
+ResultURL:=GetUrlBase+sz+'/00/000/'+addzero(dx)+'/'+sx+'/000/'+addzero(dy)+'/'+sy+'.png'+'?e16a5f67e5cc3887282038bf6bc27657';
+end.

@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=
+GUID={7B743985-BC5F-4AB6-8915-DC5DBBB8F552}
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)\ESRI
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)\ESRI
+ParentSubMenu=Not working\Low quality\ESRI
+name=ArcGIS.Terrain
+NameInCache=ArcGIS.Terrain
+DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/
+ContentType=image/jpeg;image/jpg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752

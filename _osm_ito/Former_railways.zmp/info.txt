@@ -1,0 +1,9 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+
+A view of the 'Former railways' overlay. railway=preserved is shown in green, railway=disused in red, railway=abandoned in blue and railway=dismantled in light purple (not shown in this image).
+<img src="013.png">

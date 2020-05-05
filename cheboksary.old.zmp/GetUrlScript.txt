@@ -1,0 +1,5 @@
+var Koef_Z :integer;  
+begin
+  Koef_Z:= round(intpower(2,GetZ-13));
+  ResultURL := GetURLBase + inttostr(GetZ-8) + '-' + inttostr(GetX - 2568*Koef_Z) + '-' + inttostr(GetY - 1255*Koef_Z) + '.png';
+end.

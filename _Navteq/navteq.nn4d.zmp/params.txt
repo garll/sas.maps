@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={9A360A5D-7A72-402D-8A11-D670BD739B7B}
+ParentSubMenu_ru=Сломанные карты\Navteq
+ParentSubMenu=Not working\Navteq
+ParentSubMenu_uk=Зламані карти\Navteq
+name_ru=Карта Navteq (nn4d.com)
+name=Navteq Map (nn4d.com)
+ContentType=image/png
+DefURLBase=http://21b9b46a.tl.maptp50.map24.com/map24/webservices1.5?cgi=Map24MGI&appkey=CJX87af2bb8bcb7f25f4871408ceafbbX49&mrc=true&prop:ProjectionStyle=mercator&prop:tile=1&prop:vmpp=4.7687530517578125&sid=AJAXSESS_1301983666290_0.7853571472508492&quadkey=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Navteq.nn4d
+Ext=.png
+ContentType=image/png

@@ -1,0 +1,19 @@
+﻿[PARAMS]
+GUID={BDCF010A-359E-4C00-9610-2F19A12C08C7}
+pnum=
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
+name_ru=Рельеф (gis-gid.ru)
+name=Relief (gis-gid.ru)
+name_ua=Рельеф (gis-gid.ru)
+NameInCache=gis-gid.ru.relief
+DefURLBase=http://129.206.74.245:8004/tms_hs.ashx?x=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+Version=3
+

@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={FB91E1F8-B9F4-4871-83A2-7AF3F1C76559}
+asLayer=1
+name_ru=Созвездия (Google)
+name=Constellations (Google)
+ParentSubMenu_ru=Для просмотра кэша\Космос
+ParentSubMenu=Cache view\Space
+ParentSubMenu_uk=Для просмотра кэша\Космос
+NameInCache=sky_sozv
+DefURLBase=https://mt1.google.com/mapslt?lyrs=kml:cO3EGLN6FQYFEW7oRNPQIjRVuo4gH_FrckaqT9rW4I1UnwdxsZ8h80UGcIdINAg|kv:3|kp:&w=256&h=256&source=maps_api&hl=ru
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+
+

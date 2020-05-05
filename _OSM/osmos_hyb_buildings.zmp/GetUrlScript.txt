@@ -1,0 +1,4 @@
+begin
+ ResultURL:=GetUrlBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
+ if GetZ<15 then ResultURL:='';
+end.

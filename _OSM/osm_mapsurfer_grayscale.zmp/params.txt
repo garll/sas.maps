@@ -1,0 +1,20 @@
+﻿[PARAMS]
+GUID={5AB84226-7CD7-4EF4-B451-D718421BB6D6}
+ParentSubMenu_ru=Сломанные карты\OSM
+ParentSubMenu_uk=Зламані карти\OSM
+ParentSubMenu=Not working\OSM
+name_ru=Карта OSM Серая (mapsurfer.net)
+name=Map OSM Grayscale (mapsurfer.net)
+name_uk=Карта OSM Серая (MapSurfer.NET)
+NameInCache=OSM_mapsurfer_Grayscale
+DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/roadsg/
+defaultContentType=image/png
+ContentType="image/pnga";"image/png"
+MimeTypeSubst="image/pnga=image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

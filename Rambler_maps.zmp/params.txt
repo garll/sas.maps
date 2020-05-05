@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=118
+GUID={DB6FCDE8-43A6-4DB5-89E0-1F5625CC2BE0}
+name_ru=Карта (rambler.ru)
+name=Map (rambler.ru)
+name_uk=Карта (rambler.ru)
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти
+DefURLBase=http://tiles.maps.rambler.ru/lv
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=rambler
+Ext=.png
+ContentType=image/png

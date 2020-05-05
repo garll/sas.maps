@@ -1,0 +1,23 @@
+﻿
+[PARAMS]
+pnum=45
+GUID={91692EBA-428D-44D6-BA3C-0BB2A1DF456B}
+asLayer=1
+ParentSubMenu_ru=Инфраструктура\Россия
+ParentSubMenu_uk=Інфраструктура\Росія
+ParentSubMenu=Infrastucture\Russia
+
+name_ru=ЛесФонд России - Границы кварталов
+name_uk=ЛесФонд России - Границы кварталов
+name=LesFond - Forest districts
+
+NameInCache=leshoz1
+DefURLBase=http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox=
+ContentType=image/png
+LayerZOrder=2
+Ext=.png
+
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+

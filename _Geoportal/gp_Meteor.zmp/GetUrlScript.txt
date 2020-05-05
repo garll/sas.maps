@@ -1,0 +1,44 @@
+var res,resx,resy:string;
+    i:byte;
+    osX,osY,prX,prY:integer;
+begin
+   (* 1/1-1.jpg *)
+    resx := '';
+    resy := '';
+    res := '';
+    osX := round(intpower(2,GetZ-1)) div 2;
+    osY := round(intpower(2,GetZ-1)) div 2;
+    prX := osX;
+    prY := osY;
+
+    for i:=2 to GetZ do begin
+        prX := prX div 2;
+        prY := prY div 2;
+    
+        if GetX < osX then begin
+            osX := osX - prX;
+            resx := resx + '0';
+          end
+        else begin
+            osX := osX + prX;
+            resx := resx + '1';
+          end;
+
+        if GetY < osY then begin
+            osY := osY - prY;
+            resy := resy + '0';
+          end
+        else begin
+            osY := osY + prY;
+            resy := resy + '1';
+          end;
+    end;
+
+    if GetZ > 7 then begin
+        for i:=1 to GetZ-7 do begin
+            res := res + Copy( resy, 1, i ) + '-' + Copy( resx, 1, i ) + '/';
+          end;
+      end;
+
+    ResultURL := GetURLBase + inttostr(GetZ-1) +'/' + res + resy + '-' + resx + '.jpg';
+end.

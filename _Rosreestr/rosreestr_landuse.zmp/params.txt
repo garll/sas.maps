@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={05DA2DD7-5277-496D-B428-F8B1DD8BE16A}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Росреестр
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=Зламані карти\Росреестр
+name_ru=Кадастровое землепользование (rosreestr.ru)
+name=Cadastre Landuse (rosreestr.ru)
+NameInCache=rosreestr_zone
+DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/Cadastre/Thematic/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=1024%2C1024&layers=show%3A2%2C4&f=image&bbox=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

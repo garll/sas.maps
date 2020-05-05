@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=114
+GUID={67507C37-FEF8-4268-BC3C-474809EBD3E7}
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
+name_ru=Waze - Фоновый слой
+name=Waze - Background layer
+NameInCache=waze
+DefURLBase=https://worldtiles1.waze.com/tiles
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

@@ -1,0 +1,19 @@
+﻿[PARAMS]
+pnum=148
+GUID={E1BB4A20-4D08-4A4F-B97D-AE77317652DA}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта Карелии (navici.com)
+name=Karelia map (navici.com)
+name_ua=Карта Карелії (navici.com)
+NameInCache=navici_com
+DefURLBase=http://ntile1.navici.com/karjala/?LAYERS=topo20k_group&BBOX=
+ContentType=image/jpeg,image/png
+MimeTypeSubst=image/png=image/jpeg
+DefaultContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+Proj4Args=+proj=tmerc +lat_0=0 +lon_0=30 +k=1 +x_0=4500000 +y_0=0 +ellps=intl +units=m +no_defs

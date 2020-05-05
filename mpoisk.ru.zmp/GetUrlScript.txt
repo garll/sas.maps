@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+RoundEx(getllon+(GetRlon-GetLLon)/2,13)+'/lat/'+RoundEx(GetbLat+(GetTLat-GetBlat)/2,13)+'/scale/'+inttostr(getz-1)+'/width/256/height/256/region/81';
+end.

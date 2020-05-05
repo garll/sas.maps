@@ -1,0 +1,19 @@
+﻿[PARAMS]
+GUID={3B7A67AC-E3DB-43A1-A81A-78886E9190C8}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Рельеф и тополинии
+ParentSubMenu=Not working\Hillshade
+ParentSubMenu_uk=Зламані карти\Рельєф і тополинии
+name_ru=Контуры Высот (OpenMapSurfer)
+name=Altitude contour (OpenMapSurfer)
+name_uk=Контуры Высот (OpenMapSurfer)
+NameInCache=mapsurfer_altitude_contour
+DefURLBase=http://korona.geog.uni-heidelberg.de/tiles/asterc/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=ASTER Global Digital Elevation Map, rendering GIScience Research Group @ University of Heidelberg

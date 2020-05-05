@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=9
+GUID={11772221-1ec8-42cb-bc48-8f6e1d9f6cfc}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name=Bing Maps
+DefURLBase=http://ecn.t0.tiles.virtualearth.net/tiles/r
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=bing.map
+Ext=.png
+ContentType=image/jpeg;image/png

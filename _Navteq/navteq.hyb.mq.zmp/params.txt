@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=7
+GUID={9A360A5D-7A77-402D-8A11-D670BD739B7B}
+name_ru=Гибрид Navteq (mapquest.com)
+name=Navteq Hybrid (mapquest.com)
+ParentSubMenu_ru=Сломанные карты
+ParentSubMenu_uk=Зламані карти
+ParentSubMenu=Not working
+asLayer=1
+DefURLBase=http://vtiles01.mqcdn.com/tiles/1.0.0/vy/hyb/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Navteq.hyb.mq
+Ext=.gif
+ContentType=image/gif

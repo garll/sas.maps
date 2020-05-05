@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=171
+GUID={F031E660-5D1B-48DE-B413-43E85B8DBB26}
+ParentSubMenu_ru=Городские и универсальные\Украина
+ParentSubMenu_uk=Міські та універсальні\Україна
+ParentSubMenu=City\Ukraine
+name_ru=Meta.ua
+name=Meta.ua
+NameInCache=betamap_meta_ua
+DefURLBase=http://map.meta.ua/cell.php?x=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

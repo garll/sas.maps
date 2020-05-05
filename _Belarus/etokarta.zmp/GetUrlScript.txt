@@ -1,0 +1,14 @@
+begin
+  if (GetZ = 18) then begin
+    ResultURL:=GetURLBase+inttostr(GetZ-1)+'/'+inttostr(GetZ)+'-0'+inttostr(Getx)+'-0'+inttostr(Gety)+'.jpg';
+    RequestHead:='User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4.0' + #13#10 +
+      'Accept: image/png,image/*;q=0.8,*/*;q=0.5' + #13#10 +
+      'Accept-Language: en-us,en;q=0.5' + #13#10 +
+      'Accept-Encoding: gzip, deflate' + #13#10 +
+      'Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7' + #13#10 +
+      'Keep-Alive: 115' + #13#10 +
+      'Connection: keep-alive' + #13#10 +
+      'Referer: http://etokarta.com/karta-vitebska' + #13#10 +
+      'Cookie: gc=polotsk; cc=1' + #13#10;
+  end;
+end.

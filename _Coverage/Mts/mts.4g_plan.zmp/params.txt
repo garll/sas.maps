@@ -1,0 +1,15 @@
+﻿[PARAMS]
+GUID={ffe20781-25e6-42c8-bf8e-2879789477b2}
+name_ru=МТС 4G планируемое
+name=MTS 4G planned
+ParentSubMenu_ru=Сломанные карты\Сотовые сети
+ParentSubMenu_uk=Зламані карти\Стільниковий зв'язок
+ParentSubMenu=Not working\Mobile coverage area
+asLayer=1
+DefURLBase=http://tiles.mts.ru/LTE_Plan_New/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.mts.4g.plan
+Ext=.png
+ContentType=image/png

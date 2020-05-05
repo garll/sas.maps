@@ -1,0 +1,9 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+
+This view shows electricity lines and the associated voltages. Power lines tagged using power=line are colour black unless there is a voltage=* specified. 400KV lines are coloured blue, 132KV red. low voltage lines using power=minor_line are shown as thin green lines. The voltages are currently designed to suit the UK grid. Additional voltages can be added to the script to accommodate other countries voltages.
+<img src="001.png">

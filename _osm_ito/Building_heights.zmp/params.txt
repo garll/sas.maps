@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={3d523568-fe3f-4cc0-808d-968574530d58}
+asLayer=1
+name_ru=Выстоность зданий (ITO Map)
+name=Building heights (ITO Map)
+NameInCache=osm_ito_Building_heights
+DefURLBase=http://t.beta.itoworld.com/85/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

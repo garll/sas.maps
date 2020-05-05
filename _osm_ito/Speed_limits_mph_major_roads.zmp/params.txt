@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={5ad055e8-8cb7-4a7d-87d4-a1d2dffc57e8}
+asLayer=1
+name=Speed limits mph major roads (ITO Map)
+NameInCache=osm_ito_Speed_limits_mph_major_roads
+DefURLBase=http://t.beta.itoworld.com/41/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

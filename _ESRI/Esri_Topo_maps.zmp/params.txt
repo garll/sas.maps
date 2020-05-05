@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=143
+GUID={7B743985-BC5F-4AB6-8915-EC5DBBB8F552}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name=ESRI ArcGIS.Topomaps
+NameInCache=ESRI_Topo_Maps
+DefURLBase=http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/
+ContentType=image/jpeg;image/jpg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752

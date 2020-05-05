@@ -1,0 +1,78 @@
+//******************************************************************************
+// LAYERS parameter: config_a_b_c
+//    a = 1 for depth in meters, 2 for depth in feet, 3 for fathoms
+//    b = 10.00: for 10.00 m safety depth (beginning of blue coloring) (unit equal to that set by a)
+//    c = 0 for pristine Navionics charts, 1 for Sonar Charts
+//
+// TRANSPARENT parameter: 
+//    FALSE for non-layer
+//    TRUE for layer
+//
+// UGC parameter: 
+//    FALSE for pristine Navionics charts
+//    TRUE for additinal user-generated content icons
+//******************************************************************************
+
+const
+  cReqParams = 'LAYERS=config_1_10.00_1&TRANSPARENT=FALSE&UGC=FALSE';
+
+//******************************************************************************
+
+const
+  cTTL = 24*60*60; // 24 hour  
+  cNavTokenKey = 'NavToken=';
+  cTimeStampKey = 'TimeStamp=';
+  
+function CheckTTL(const ATimeStamp: AnsiString): Boolean;
+begin
+  Result := ( (cTTL div 2) > GetUnixTime - StrToInt64Def(ATimeStamp, 0) );   
+end;
+
+function GetNavToken: AnsiString;
+var
+  VNavToken: AnsiString;
+  VTimeStamp: AnsiString;    
+  VResponseCode: Cardinal;
+  VResponseHeader, VResponseData: AnsiString;
+  VRequestUrl, VRequestHeader: AnsiString;
+begin
+  Result := '';
+  
+  if ScriptBuffer <> '' then begin
+    VNavToken := GetBetween(ScriptBuffer, cNavTokenKey, ';');
+    VTimeStamp := GetBetween(ScriptBuffer, cTimeStampKey, ';');
+    if (VNavToken <> '') and (VTimeStamp <> '') and CheckTTL(VTimeStamp) then begin
+      Result := VNavToken;      
+    end else begin
+      ScriptBuffer := '';
+    end;
+  end;
+  
+  if (Result = '') and Assigned(Downloader) then begin    
+    VTimeStamp := IntToStr(GetUnixTime);    
+    VRequestUrl := 'https://backend.navionics.com/tile/get_key/NAVIONICS_WEBAPP_P01/webapp.navionics.com?_=' + VTimeStamp + '123';
+    VRequestHeader := 'Origin: https://webapp.navionics.com' + #13#10 + 'Referer: https://webapp.navionics.com/';
+    VResponseHeader := '';
+    VResponseData := ''; 
+    VResponseCode := Downloader.DoHttpRequest(VRequestUrl, VRequestHeader, '', VResponseHeader, VResponseData);
+ 
+    if VResponseCode = 200 then begin
+      Result := VResponseData;
+      ScriptBuffer := cNavTokenKey + Result + ';' + cTimeStampKey + VTimeStamp + ';';
+    end; 
+  end;
+end;
+
+//******************************************************************************
+
+var
+  VNavToken: AnsiString;
+begin
+  VNavToken := GetNavToken;
+  if VNavToken <> '' then begin
+    ResultURL := GetURLBase + IntToStr(GetZ-1) + '/' + IntToStr(GetX) + '/' + 
+      IntToStr(GetY) + '?' + cReqParams + '&' + 'navtoken=' + VNavToken;
+  end else begin
+    ResultURL := '';
+  end;
+end.

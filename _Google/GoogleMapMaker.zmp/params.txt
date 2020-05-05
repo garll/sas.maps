@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=2
+GUID={D735B149-CD17-49BB-B246-678977A618FD}
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)\Google
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)\Google
+ParentSubMenu=Not working\Low quality\Google
+name_ru=Google - MapMaker
+name=Google - MapMaker
+name_uk=Google - MapMaker
+DefURLBase=http://mt0.google.com/vt/style=mapmaker&lyrs=m@999999&v=gwm.1518
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=mapmaker
+Ext=.png
+Sleep=1000
+ContentType=image/png

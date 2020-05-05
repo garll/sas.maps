@@ -1,0 +1,18 @@
+var
+sh_x:array[0..24] of integer;
+sh_y:array[0..24] of integer;
+
+begin
+sh_x[3]:=301; sh_y[3]:=589;
+sh_x[4]:=603; sh_y[4]:=1178;
+sh_x[5]:=1177; sh_y[5]:=2302;
+sh_x[6]:=2355; sh_y[6]:=4604;
+sh_x[7]:=4711; sh_y[7]:=9209;
+sh_x[8]:=10773; sh_y[8]:=21055;
+sh_x[9]:=18845; sh_y[9]:=36839;
+sh_x[10]:=37690; sh_y[10]:=73679;
+sh_x[11]:=75381; sh_y[11]:=147359;
+sh_x[12]:=150762; sh_y[12]:=294719;
+
+ ResultURL:=GetUrlBase+'/'+inttostr(Getz-3)+'/'+inttostr(GetY+sh_y[getz])+'/'+inttostr(GetX+sh_x[getz]);
+end.

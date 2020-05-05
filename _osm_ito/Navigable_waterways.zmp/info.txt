@@ -1,0 +1,8 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+An ITO Map overlay showing navigable waterways which are tagged with waterway=* and a value of canal, drain, stream or river. If they also have boat=yes they are shown in red and is boat=no are shown in blue; rivers without either are shown in black. The coastline is green, lakes are brown and reservoirs in purple. waterway=riverbank is not displayed to avoid obscuring the colour coding of the river itself.
+<img src="016.png">

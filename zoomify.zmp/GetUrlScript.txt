@@ -1,0 +1,79 @@
+
+{-----------------------------------------------
+Из файла ImageProperties.xml
+------------------------------------------------}
+const
+	m_nWidth = 9910;
+	m_nHeight = 7476;
+
+var
+	i, zoom, nMaxZoom, nTileGroup :Longint;
+
+{-----------------------------------------------
+Возвращает floor значение
+------------------------------------------------}
+function Floor(v :Extended) :Extended;
+begin
+	Result := Trunc(v);
+	if v < Result then Result := Result - 1.0;
+end;
+
+{-----------------------------------------------
+Возвращает ceil значение
+------------------------------------------------}
+function Ceil(v :Extended) :Extended;
+begin
+	Result := Trunc(v);
+	if v > Result then Result := Result + 1.0;
+end;
+
+{-----------------------------------------------
+Получение максимально возможного Zoom'а
+------------------------------------------------}
+procedure GetMaxZoom();
+var k, i :Longint;
+begin
+	k := m_nWidth;
+	if m_nHeight > m_nWidth then k := m_nHeight;
+
+	i := 0;
+	while k > 256 do
+	begin
+		k := Trunc(k / 2);
+		Inc(i);
+	end;
+	nMaxZoom := i;
+end;
+
+{-----------------------------------------------
+Получение количества тайлов на данном Zoom'е
+------------------------------------------------}
+function GetTilesAtZoom(zoom: Longint) :Longint;
+var k :Extended;
+begin
+	k := 256.0 * IntPower(2, nMaxZoom - zoom);
+	Result := Trunc(Ceil(m_nWidth / k) * Ceil(m_nHeight / k));
+end;
+
+{-----------------------------------------------
+Количество тайлов предшествующих данному Zoom'у
+------------------------------------------------}
+function GetTilesCount(nZoom: Longint) :Longint;
+var i: Longint;
+begin
+	Result := 0;
+	for i := 0 to nZoom - 1 do Result := Result + GetTilesAtZoom(i);
+end;
+
+
+{-----------------------------------------------
+Получение URL тайла
+------------------------------------------------}
+begin
+	zoom := GetZ - 1;
+	GetMaxZoom();
+	nTileGroup :=  (GetX + GetY * Trunc(Ceil(m_nWidth / (256.0 * IntPower(2, nMaxZoom - zoom)))) + GetTilesCount(zoom)) div 256;
+	ResultURL := GetURLBase + IntToStr(nTileGroup) + '/' + IntToStr(zoom) + '-' + IntToStr(GetX) + '-' + IntToStr(GetY) + '.jpg';
+{	RequestHead := 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' + #13#10; }
+end.
+

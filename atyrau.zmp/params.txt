@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=
+GUID={ABA03063-23D9-4FA4-931A-9182B98644B1}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Атырау
+name=Atyrau
+name_uk=Атырау
+DefURLBase=http://www.atyrau-business.com/gmap/img/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=atyrau
+Ext=.png
+UsePreloadPage=0
+ContentType=image/png

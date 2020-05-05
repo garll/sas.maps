@@ -1,0 +1,5 @@
+begin 
+ ResultURL := GetURLBase + inttostr(GetZ-1)+'/'+inttostr(GetY)+'/'+inttostr(GetX)+'.jpg'
+end.
+
+//http://orda.of.by/.tiles/1v/Z14/5306/9441.jpg

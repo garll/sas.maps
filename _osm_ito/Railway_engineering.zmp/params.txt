@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={daffd15a-7d40-4fcd-b929-fa24b2be3699}
+asLayer=1
+name=Railway engineering (ITO Map)
+NameInCache=osm_ito_Railway_engineering
+DefURLBase=http://t.beta.itoworld.com/55/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

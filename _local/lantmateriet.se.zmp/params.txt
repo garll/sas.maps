@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=
+GUID={3AC94CEE-5C84-4BD2-9AB3-16109FAE713E}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Швеция
+ParentSubMenu_uk=Зламані карти\Локальні карти\Швеція
+ParentSubMenu=Not working\Local maps\Sweden
+name=SETopowebb
+DefURLBase=http://vvv.sgu.se/lmvProxy/map?LAYERS=topowebbkartan&FORMAT=image%2Fjpeg&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&SRS=EPSG%3A4326&BBOX=
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=SETopowebb
+ContentType=image/jpeg,image/png
+MimeTypeSubst=image/png=image/jpeg
+DefaultContentType=image/jpeg
+Ext=.jpg

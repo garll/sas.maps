@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=17
+GUID={2CB2F8BB-9B4D-49C7-BA4A-1D40F24AC4B9}
+ParentSubMenu_ru=Водные карты\Россия
+ParentSubMenu_uk=Водні карти\Росія
+ParentSubMenu=Water maps\Russia
+name_ru=Карта Реки Кубань
+name=Kuban river map
+DefURLBase=http://91.237.82.95:8088/pub/water/kuban_river/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=kuban_river
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

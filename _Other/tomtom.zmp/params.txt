@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={4334AD70-75F3-47AA-8D92-43BE9426C255}
+pnum=100
+name_ru=Карта TomTom
+name=TomTom Map
+NameInCache=TomTom
+DefURLBase=http://a.api.internal.tomtom.com/lbs/map/3/basic/1/
+ContentType=image/png
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+
+

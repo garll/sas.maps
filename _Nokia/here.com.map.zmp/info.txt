@@ -1,0 +1,5 @@
+Here.com - Map<br>
+<a href="http://here.com/">http://here.com/</a>
+
+2017
+Узнать версию: https://wego.here.com

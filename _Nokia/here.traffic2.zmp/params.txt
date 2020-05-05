@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=93
+GUID={abd6a08b-084c-4168-b403-bd1ad504fb0b}
+name=Here - Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобільний
+ParentSubMenu=Transport
+ContentType=image/png,image/jpeg,image/pjpeg,image/x-png
+DetectContentType=1
+asLayer=1
+DefURLBase=https://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/
+NameInCache=here.traffic2
+EPSG=3785
+Ext=.png
+Version=RUS
+CacheType=9

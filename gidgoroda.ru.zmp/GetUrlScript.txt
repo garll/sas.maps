@@ -1,0 +1,3 @@
+begin
+ ResultURL:=GetURLBase+inttostr(GetZ-1)+'_'+inttostr(GetX)+'_'+inttostr(GetY)+'_off.png';
+end.

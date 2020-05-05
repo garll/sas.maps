@@ -1,0 +1,5 @@
+Публичная картографическая основа Российской Федерации<br>
+<br>
+http://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/OSM_2016/MapServer<br>
+<br>
+Copyright Text: Карта OSM © Участники OpenStreetMap, © Росреестр 2016

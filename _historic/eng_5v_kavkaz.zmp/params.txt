@@ -1,0 +1,18 @@
+﻿[PARAMS]
+pnum=17
+GUID={BBF17EDD-15FB-4BD6-BAE3-4986EF6C1932}
+ParentSubMenu_ru=Исторические\Россия\Кубань, Кавказ, Крым
+ParentSubMenu_uk=Історичні\Росія\Кубань, Кавказ, Крим
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=Кавказский край 5v 1941-1948 (ENG)
+name=Kavkaz 5v 1941-1948 (ENG)
+DefURLBase=http://91.237.82.95:8088/pub/historic/eng_5v_kavkaz/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=eng_5v_kavkaz
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+License=(c) Maps.SouthKlad.Ru

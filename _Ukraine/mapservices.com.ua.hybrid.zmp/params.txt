@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=108
+GUID={CBA03063-23D9-4FA4-931A-2182B98644B1}
+name_ru=Гибрид Украины (mapservices.com.ua)
+name=Ukraine Hybrid (mapservices.com.ua)
+name_uk=Гибрид Украины (mapservices.com.ua)
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu=Not working\Local maps\Ukraine
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+asLayer=1
+DefURLBase=http://spaero.ilt.kharkov.ua:81/agstiles/UA_ANNWMRU/Layers/_alllayers/L
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=mapservices.com.ua.hybrid
+Ext=.png
+ContentType=image/png

@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={9A360A51-7A74-4001-8A12-D670BD739B7B}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name_ru=Here.com - Карта 
+name=Here.com - Map
+name_uk=Here.com - Карта 
+ContentType=image/png
+DefURLBase=https://1.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/
+NameInCache=here.com.map
+EPSG=3785
+Ext=.png
+Version=RUS
+

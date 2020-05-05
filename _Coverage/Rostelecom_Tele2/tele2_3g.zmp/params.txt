@@ -1,0 +1,14 @@
+﻿[PARAMS]
+GUID={63573689-ABCD-4387-9BE2-DDDF185C117E}
+asLayer=1
+name_ru=Ростелеком 3G
+name=Rostelecom.ru 3G
+name_uk=Ростелеком 3G
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Стільниковий зв'язок
+ParentSubMenu=Mobile coverage area
+NameInCache=cover.rostelecom.3g
+DefURLBase=http://tele2.tilessputnik.ru/tiles3g/
+ContentType=image/png
+Ext=.png
+License=(c) Ростелеком, sputnik.ru, Tele2

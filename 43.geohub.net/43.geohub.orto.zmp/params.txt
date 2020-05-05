@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=
+GUID={8238C84A-D37E-45E1-A738-FBCFBCD4168C}
+name_ru=Кировская область - ортофотоплан (43.geohub.net)
+name=Kirov Orto (43.geohub.net)
+name_uk=Кировская область - ортофотоплан (43.geohub.net)
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_orto/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=43.geohub.orto
+Ext=.png
+ContentType=image/png8tr
+MimeTypeSubst="image/png8tr=image/png"

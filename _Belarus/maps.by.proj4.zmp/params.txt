@@ -1,0 +1,18 @@
+﻿[PARAMS]
+GUID={1334AD70-75F3-476B-8D92-43BE9426C255}
+pnum=173
+ParentSubMenu_ru=Городские и универсальные\Беларусь
+ParentSubMenu_uk=Міські та універсальні\Білорусь
+ParentSubMenu=City\Belarus
+name_ru=Maps.by - Карта Беларуси
+name=Maps.by - Belarus Map
+name_uk=Maps.by - Карта Беларуси
+NameInCache=maps.by
+DefURLBase=http://maps.by:8080/geoserver/gwc/service/wms?LAYERS=gkgc%3Amaps_by&STYLES=&FORMAT=image%2Fpng8&TILESORIGIN=-20037508.34%2C-20037508.34&TILED=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&BBOX=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+Proj4Args=+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +no_defs
+

@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=150
+GUID={72A1F218-0DB4-4E30-A403-862578671158}
+ParentSubMenu_ru=Туристические\Россия\Московская область
+ParentSubMenu_uk=Туристичний\Росія\Московська область
+ParentSubMenu=Hike\Russia\Moscow region
+name_ru=ММБ-карты (Завьялов)
+name=Slazav maps (MMB)
+NameInCache=slazav_MO
+DefURLBase=https://tiles.nakarte.me/map_podm
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+DefHotKey=16463
+BanIfLen=0

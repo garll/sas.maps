@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=171
+GUID={4D31E660-5D1B-48DE-B413-43E85B8DBB37}
+ParentSubMenu_ru=Спутниковые\Украина
+ParentSubMenu=Satellite\Ukraine
+ParentSubMenu_uk=Супутниковий\Україна
+name_ru=Meta.ua
+name=Meta.ua
+NameInCache=sat_meta_ua
+DefURLBase=http://i1.map.meta.ua/cell.php?map=ukr_sat&x=
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137

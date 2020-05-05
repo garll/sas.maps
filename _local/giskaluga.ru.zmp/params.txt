@@ -1,0 +1,17 @@
+﻿[PARAMS]
+GUID={70662F70-B2DA-498B-B0E4-34049002E447}
+pnum=128
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Геопортал Калужской области (giskaluga.ru)
+name=Giskaluga.ru
+NameInCache=giskaluga_ru
+DefURLBase=http://karta.giskaluga.ru:8081/geoserver/gwc/service/wms?LAYERS=WORK_GROUP&STYLES=&FORMAT=image/png&VERSION=1.1.1&SERVICE=WMS&REQUEST=GetMap&SRS=EPSG:900913&WIDTH=256&HEIGHT=256&TRANSPARENT=true&BBOX=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+
+

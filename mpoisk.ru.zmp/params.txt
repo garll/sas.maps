@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=
+GUID={E580797F-3C56-4796-98A8-52D579A1F6A5}
+name_ru=МТС Поиск (wap.mpoisk.ru)
+name=MTS Locate (wap.mpoisk.ru)
+name_uk=МТС Поиск (wap.mpoisk.ru)
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти
+NameInCache=mpoisk_ru
+DefURLBase=http://wap.mpoisk.ru/city/map.ashx/lon/
+ContentType=image/gif
+Ext=.gif
+projection=1
+sradiusa=3396190
+sradiusb=3396190

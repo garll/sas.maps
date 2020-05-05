@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=17
+GUID={DA6A385B-F2A1-493A-BC9B-93FF43405C15}
+ParentSubMenu_ru=Горные\Киргизия
+ParentSubMenu_uk=Гірський\Киргизія
+ParentSubMenu=Mountain\Kyrgyzstan
+name_ru=Хребтовка Тянь-Шаня и Джунгарии (map.g-utka.ru)
+name=Tyan-shan + Djungary (map.g-utka.ru)
+DefURLBase=https://nakartetiles.s3.eu-central-1.amazonaws.com/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Terskey
+Ext=.png
+UsePreloadPage=0
+ContentType=image/png
+License=Детско-юношеский туристский клуб "Гадкий утёнок"

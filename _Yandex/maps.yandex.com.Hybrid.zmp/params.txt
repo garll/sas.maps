@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=5
+GUID={38E29DB4-0052-4D08-836C-936325F0B63B}
+asLayer=1
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu_uk=Підписи та межі
+ParentSubMenu=Labels and borders
+name_ru=Яндекс.Карты - Гибрид (English)
+name=Yandex.Maps - Hybrid (English)
+name_uk=Яндекс.Карты - Гібрид (English)
+NameInCache=maps.yandex.com.Hybrid
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=skl&lang=en_US
+ContentType=image/png
+Ext=.png
+EPSG=3395
+Version=2.33.0

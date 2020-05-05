@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=158
+GUID={B55B2C70-7976-4A41-A6D1-FDCF35263EA6}
+ParentSubMenu_ru=Сломанные карты\Низкое качество (не подходит)
+ParentSubMenu_uk=Зламані карти\Низкое качество (не подходит)
+ParentSubMenu=Not working\Low quality
+name_ru=Карта Ви-Тел (vi-tel.ru)
+name=Map Vi-Tel (vi-tel.ru)
+name_uk=Карта Ви-Тел (vi-tel.ru)
+NameInCache=vi-tel
+DefURLBase=http://gps.vi-tel.ru/gmap/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+UsePreloadPage=0

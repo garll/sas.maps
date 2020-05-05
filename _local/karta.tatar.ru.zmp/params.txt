@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=114
+GUID={63833E5D-09F2-4732-9D21-6350124302CB}
+ParentSubMenu_ru=Спутниковые\Россия
+ParentSubMenu=Satellite\Russia
+ParentSubMenu_uk=Супутниковий\Росія
+name_ru=Tatar.ru - Татарстан
+name=Tatar.ru - Tatarstan
+name_uk=Tatar.ru - Татарстан
+NameInCache=karta.tatar.ru
+DefURLBase=http://karta.tatar.ru/tilecache/satellite/
+ContentType=image/png
+Ext=.png
+EPSG=3785

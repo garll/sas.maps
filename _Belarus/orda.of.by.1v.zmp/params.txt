@@ -1,0 +1,11 @@
+﻿[PARAMS]
+GUID={F6574B06-E632-4D5F-BC75-C8FA621B57DF}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Беларусь
+ParentSubMenu_uk=Зламані карти\Локальні карти\Беларусь
+ParentSubMenu=Not working\Local maps\Belarus
+name=orda.of.by.1v
+NameInCache=orda.of.by.1v
+DefURLBase=http://orda.of.by/.tiles/1v/Z
+Ext=.jpg
+ContentType=image/jpeg
+EPSG=3785

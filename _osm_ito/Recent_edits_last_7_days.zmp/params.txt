@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={60157c49-6ed0-47ce-8a83-a42ddc16dcd6}
+asLayer=1
+name=Recent edits last 7 days (ITO Map)
+NameInCache=osm_ito_Recent_edits_last_7_days
+DefURLBase=http://t.beta.itoworld.com/130/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

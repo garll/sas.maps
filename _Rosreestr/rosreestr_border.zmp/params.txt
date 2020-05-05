@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={3C8D2BEF-D555-404C-8032-A831B00790B0}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Росреестр
+ParentSubMenu=Not working\Rosreestr
+ParentSubMenu_uk=Зламані карти\Росреестр
+name_ru=Росреестр Границы
+name=Rosreestr BordersGKN
+NameInCache=rosreestr_BordersGKN
+DefURLBase=http://pkk5.rosreestr.ru/arcgis/rest/services/Cadastre/BordersGKN/MapServer/export?dpi=96&transparent=true&format=png32&bboxSR=102100&imageSR=102100&size=1024%2C1024&f=image&bbox=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

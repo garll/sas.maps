@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=171
+GUID={CBA03063-23D9-4FA4-931A-1182B98644B1}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+ParentSubMenu=Not working\Local maps\Ukraine
+name_ru=Карта Украины (mapservices.com.ua)
+name=Ukraine Map (mapservices.com.ua)
+name_uk=Карта Украины (mapservices.com.ua)
+DefURLBase=http://spaero.ilt.kharkov.ua:81/agstiles/UA_MAPWM/Layers/_alllayers/L
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=mapservices.com.ua.map
+Ext=.png
+ContentType=image/png

@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={324ebab9-9949-474b-bc6b-a711edd7a989}
+asLayer=1
+name=FIXME (ITO Map)
+NameInCache=osm_ito_FIXME
+DefURLBase=http://t.beta.itoworld.com/12/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

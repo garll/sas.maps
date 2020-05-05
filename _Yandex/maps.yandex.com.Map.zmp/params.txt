@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=5
+GUID={38E29DB4-0051-4D08-836C-936325F0B63B}
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Міські та універсальні
+ParentSubMenu=City
+name_ru=Yandex - Карта (English)
+name_uk=Yandex - Карта (English)
+name=Yandex - Map (English)
+NameInCache=maps.yandex.com.Map
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&lang=en_US
+ContentType=image/png
+Ext=.png
+EPSG=3395
+Version=2.33.0

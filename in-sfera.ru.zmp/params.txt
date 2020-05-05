@@ -1,0 +1,20 @@
+﻿[PARAMS]
+pnum=158
+GUID={C03EBB87-DB5D-44C1-ABA6-9E54BD5EA0F5}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu_uk=Зламані карти\Локальні карти
+ParentSubMenu=Not working\Local maps
+name_ru=Карта Краснодара (in-sfera.ru)
+name=Krasnodar Map (in-sfera.ru)
+NameInCache=in-sfera_ru
+DefURLBase=http://in-sfera.ru/mapcell/mapcell
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+UsePreloadPage=0
+TILERLEFT=0
+TILERRIGHT=250
+TILERTOP=0
+TILERBOTTOM=250

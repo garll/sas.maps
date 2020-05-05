@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=195
+GUID={1FD86D64-06B4-4664-AD1C-A84CA766DA6E}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Umap
+ParentSubMenu_uk=Зламані карти\Локальні карти\Umap
+ParentSubMenu=Not working\Local maps\Umap
+name_ru=Красноуральск (Umap.ru)
+name=Krasnouralsk (Umap.ru)
+NameInCache=Umap_40066
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=40066
+ContentType=text/html , image/gif
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137

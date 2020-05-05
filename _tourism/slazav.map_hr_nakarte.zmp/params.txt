@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={8834EDB4-532C-469D-B156-C811E0A93FB8}
+ParentSubMenu_ru=Сломанные карты\Туристические
+ParentSubMenu_uk=Зламані карти\Туристичний
+ParentSubMenu=Not working\Hike
+name_ru=Карты Владислава Завьялова Nakarte.me
+name=Vladislav Zavjalov map Nakarte.me
+DefURLBase=https://tiles.nakarte.me/map_hr
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=slazav.map_hr
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"
+License=© Владислав Завьялов, slazav.livejournal.com
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

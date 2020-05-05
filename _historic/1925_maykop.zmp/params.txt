@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=17
+GUID={93AC2357-8399-44D3-81CD-2901C1272E34}
+ParentSubMenu_ru=Исторические\Россия\Кубань, Кавказ, Крым
+ParentSubMenu_uk=Історичні\Росія\Кубань, Кавказ, Крим
+ParentSubMenu=Historic\Russia\Kuban, Caucasus, Crimea
+name_ru=Майкопский округ 1925г.
+name=Maykop 1925
+DefURLBase=http://91.237.82.95:8088/pub/historic/1925_maykop/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1925_maykop
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

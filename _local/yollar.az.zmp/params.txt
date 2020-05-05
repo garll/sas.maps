@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=118
+GUID={D91BFF26-915A-4575-BB46-24675CBA7B4E}
+ParentSubMenu_ru=Городские и универсальные\Азербайджан и Грузия
+ParentSubMenu_uk=Міські та універсальні\Азербайджан і Грузія
+ParentSubMenu=City\Azerbaijan and Georgia
+name_ru=Yollar.az
+name_uk=Yollar.az
+name=Yollar.az
+DefURLBase=http://wm.yollar.az/map_gmaps/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=yollar_az
+Ext=.png
+Sleep=
+ContentType=image/png

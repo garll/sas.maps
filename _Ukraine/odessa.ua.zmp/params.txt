@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=171
+GUID={8A7C26A9-C94B-4329-A764-02BB2EF9EA30}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Украина
+ParentSubMenu_uk=Зламані карти\Локальні карти\Україна
+ParentSubMenu=Not working\Local maps\Ukraine
+name_ru=Карта Одессы (odessa.ua)
+name=Odessa Map (odessa.ua)
+DefURLBase=http://www.citymap.odessa.ua/ArcGIS/rest/services/odessa_n/MapServer/tile
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=odessa_ua
+Ext=.jpg
+ContentType=image/jpg

@@ -1,0 +1,8 @@
+var
+ InvertedY: integer;
+
+begin 
+ InvertedY := round(intpower(2,GetZ-1)) - 1 - GetY;
+
+ ResultURL:=GetURLBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(InvertedY);
+end.

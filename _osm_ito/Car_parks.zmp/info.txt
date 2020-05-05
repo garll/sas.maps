@@ -1,0 +1,9 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+
+Show area tagged with amenity=parking as shown as blue if there is a capacity=* value and red if not. In this case none of the three cars parks have a capacity given.
+<img src="011.png">

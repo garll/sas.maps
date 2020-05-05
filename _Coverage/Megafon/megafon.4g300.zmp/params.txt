@@ -1,0 +1,15 @@
+﻿[PARAMS]
+GUID={0b144440-866b-466e-b8d7-7b43297400c3}
+name_ru=Мегафон 4G+
+name=Megafon 4G+
+ParentSubMenu_ru=Сломанные карты\Сотовые сети
+ParentSubMenu_uk=Зламані карти\Стільниковий зв'язок
+ParentSubMenu=Not working\Mobile coverage area
+asLayer=1
+DefURLBase=http://yamap.megafon.ru/lte_plus/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cover.megafon.4g300
+Ext=.png
+ContentType=image/png

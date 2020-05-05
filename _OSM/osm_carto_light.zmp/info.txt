@@ -1,0 +1,2 @@
+https://wiki.openstreetmap.org/wiki/Tile_servers
+https://carto.com/location-data-services/basemaps/

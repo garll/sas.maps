@@ -1,0 +1,6 @@
+﻿Карта землепользования  от Росреестра.
+Отображается от 13 зума.
+<br>
+Первоисточник: http://maps.rosreestr.ru/PortalOnline/
+<br><br>
+<img src="legend.gif">

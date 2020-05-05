@@ -1,0 +1,5 @@
+<a href="http://navici.com">http://navici.com</a>
+<br>
+Карта Карелии
+<br>
+Используется proj480.dll

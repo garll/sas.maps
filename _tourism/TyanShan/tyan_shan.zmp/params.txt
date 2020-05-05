@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={9EEAAEC9-C54E-4E34-8ADC-756A7E58EE34}
+ParentSubMenu_ru=Горные\Киргизия
+ParentSubMenu_uk=Гірський\Киргизія
+ParentSubMenu=Mountain\Kyrgyzstan
+name_ru=Тянь-Шань + Памир
+name=Tyan-Shan & Pamir
+DefURLBase=http://91.237.82.95:8088/pub/tourism/tyan_shan/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Tyan_Shan
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

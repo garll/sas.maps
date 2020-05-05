@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=117
+GUID={513f3cfb-949d-4997-82f4-c43872fc124d}
+asLayer=1
+name_ru=Здания и адресация (ITO Map)
+name=Buildings and addresses (ITO Map)
+NameInCache=osm_ito_Buildings_and_addresses
+DefURLBase=http://t.beta.itoworld.com/9/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

@@ -1,0 +1,18 @@
+﻿[PARAMS]
+pnum=
+GUID={8238C84A-D37E-45E1-A739-FBCFBCD4168C}
+name_ru=Кировская область - лесничества (43.geohub.net)
+name=Kirov Forestry (43.geohub.net)
+name_uk=Кировская область - лесничества (43.geohub.net)
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
+asLayer=1
+DefURLBase=http://maps.geohub.net/wms-c/1.0.0/giprozem_les/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=43.geohub.les
+Ext=.png
+ContentType=image/png8bit
+MimeTypeSubst="image/png8bit=image/png"

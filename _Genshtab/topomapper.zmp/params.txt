@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=141
+GUID={B5F81E9E-7354-45DC-8B42-5F3952C39039}
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
+name_ru=TopoMapper.com - Генштаб 1км (вся планета)
+name=TopoMapper.com
+NameInCache=topomapper.com
+DefURLBase=http://88.99.52.155/cgi-bin/tapp/tilecache.py/1.0.0/topomapper_v2/
+ContentType=image/jpeg
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=1
+RequestHead=Referer: http://www.topomapper.com/

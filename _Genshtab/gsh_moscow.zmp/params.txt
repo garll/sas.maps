@@ -1,0 +1,14 @@
+﻿[PARAMS]
+pnum=140
+GUID={DE1F2034-CE45-4FD8-A6FF-7307687B308E}
+ParentSubMenu_ru=Туристические\Россия\Московская область
+ParentSubMenu_uk=Туристичний\Росія\Московська область
+ParentSubMenu=Hike\Russia\Moscow region
+name_ru=Атлас Московской Области (Арбалет 2007)
+name=Moscow Region 2007
+asLayer=0
+NameInCache=Gsh_moscow
+DefURLBase=http://s3.amazonaws.com/arbalet/z{z}/{y}_{x}.png
+ContentType=image/jpeg,image/png
+Ext=.png
+EPSG=3785

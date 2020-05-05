@@ -1,0 +1,19 @@
+﻿[PARAMS]
+pnum=5
+GUID={38E29DB4-A654-4D08-836C-936325F0B63A}
+asLayer=1
+ParentSubMenu_ru=Сломанные карты\Яндекс
+ParentSubMenu=Not working\Yandex
+ParentSubMenu_uk=Зламані карти\Яндекс
+name_ru=Старая Народная Карта Яндекс
+name=Old Yandex Narod Map
+name_uk=Старая Народная Карта Яндекс
+NameInCache=yanarodmap
+DefURLBase=http://wvec.maps.yandex.net/?x=
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+DefHotKey=16438
+DelAfterShow=0

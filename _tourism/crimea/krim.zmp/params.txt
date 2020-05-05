@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={A85C68EA-4C12-4072-A4AB-1353A489F304}
+ParentSubMenu_ru=Туристические\Россия\Крым
+ParentSubMenu_uk=Туристичний\Україна
+ParentSubMenu=Hike\Ukraine
+name_ru=Горный Крым
+name=Krim's Mountain
+name_uk=Горный Крым
+DefURLBase=http://91.237.82.95:8088/pub/tourism/krim/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=krim
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1
+IsUseDownloaderInScript=1

@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=117
+GUID={a9a1d64a-914d-4b0c-859b-b754a163e786}
+asLayer=1
+name=Transport construction (ITO Map)
+NameInCache=osm_ito_Transport_construction
+DefURLBase=http://t.beta.itoworld.com/57/136bdef4afc8d6e92586bc38e7b843c1/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\ITO Map (OSM)
+ParentSubMenu=Not working\OITO Map (OSM)
+ParentSubMenu_uk=Зламані карти\ITO Map (OSM)

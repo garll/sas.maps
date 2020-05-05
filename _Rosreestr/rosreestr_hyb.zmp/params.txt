@@ -1,0 +1,16 @@
+﻿[PARAMS]
+pnum=6
+GUID={380820C2-BB78-4203-896B-D4353C1EEAE5}
+asLayer=1
+ParentSubMenu_ru=Подписи и границы\Россия
+ParentSubMenu_uk=Підписи та межі\Росія
+ParentSubMenu=Labels and borders\Russia
+name_ru=RosReestr.ru - Подписи
+name=RosReestr.ru - Labels
+NameInCache=Rosreestr_hyb
+DefURLBase=https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

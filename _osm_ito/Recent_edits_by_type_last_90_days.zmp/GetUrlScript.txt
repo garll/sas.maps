@@ -1,0 +1,6 @@
+var
+  ts: string;
+begin
+ ts := RegExprReplaceMatchSubStr(GetURLBase, 't\.beta\.itoworld\.com', 't'+inttostr( Random(4) )+'.beta.itoworld.com' );
+ ResultURL := ts + inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY);
+end.

@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=195
+GUID={7EB4E359-EBC9-4F55-B323-B4FAF248B9CC}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Umap
+ParentSubMenu_uk=Зламані карти\Локальні карти\Umap
+ParentSubMenu=Not working\Local maps\Umap
+name_ru=Новоуральск (Umap.ru)
+name=Novouralsk (Umap.ru)
+NameInCache=Umap_53066
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=53066
+ContentType=text/html , image/gif
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137

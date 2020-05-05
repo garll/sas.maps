@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=109
+GUID={72F36652-2D7E-4B9D-BA26-63D773FB9AE7}
+name_ru=Марс Инфракрасный (Google)
+name=Mars Infrared (Google)
+NameInCache=mars_infrared
+DefURLBase=https://mw1.google.com/mw-planetary/mars/infrared/
+ContentType=image/jpeg
+ParentSubMenu_ru=Космос
+ParentSubMenu=Space
+ParentSubMenu_uk=Космос
+Ext=.jpg
+projection=1
+sradiusa=3396190
+sradiusb=3396190

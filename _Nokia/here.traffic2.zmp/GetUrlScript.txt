@@ -1,0 +1,4 @@
+begin 
+  ResultURL:=GetUrlBase+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g';
+end.
+

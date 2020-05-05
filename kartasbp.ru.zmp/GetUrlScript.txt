@@ -1,0 +1,50 @@
+const
+width=14002;
+height=19002;
+
+var TileGroup:integer;
+z:integer;
+i:integer;
+cur_width,cur_height:integer;
+maxZoom:integer;
+
+function TilesAtZoom(z:integer):integer;
+begin
+ result:=(1+trunc(width/(256*intpower(2,(MaxZoom-z)))))*(1+trunc(height/(256*intpower(2,(MaxZoom-z)))));
+end;
+
+
+function getTileCount(zoom:integer):integer;
+var i:integer;
+begin
+Result:=0;
+for i:=1 to zoom do Result:=Result+TilesAtZoom(i);
+end;
+
+
+begin
+i:=1;cur_width:=0;
+ while cur_width<width do
+  begin
+   cur_width:=round(256*intpower(2,i));
+   i:=i+1;
+  end;
+  MaxZoom:=i;
+
+
+i:=1;cur_width:=0;
+ while cur_width<height do
+  begin
+   cur_width:=round(256*intpower(2,i));
+   i:=i+1;
+  end;
+  if i>MaxZoom then MaxZoom:=i;
+
+
+
+z:=GetZ-1;
+
+tilegroup:=(getTileCount(z) +GetX +GetY*(1+trunc(width/(256*intpower(2,(MaxZoom-z-1)))))) div 256;
+ResultURL:=GetURLBase+inttostr(tilegroup)+'/'+inttostr(z)+'-'+inttostr(GetX)+'-'+inttostr(GetY)+'.jpg';
+end.
+

@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=7
+GUID={5E04039A-331E-4D2C-B051-D10F8871BB39}
+name_ru=Генплан - дороги - первоочередные мероприятия
+name=Genplan - Roads - first priority
+ParentSubMenu_ru=Сломанные карты\Генплан Москвы (Яблоко)
+ParentSubMenu_uk=Зламані карти\Генплан Москвы (Яблоко)
+ParentSubMenu=Not working\Genplan of Moscow (Yabloko)
+DefURLBase=http://genplan.yabloko.ru/map_tiles/536-565/
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=gpdor1
+Ext=.gif
+ContentType=image/gif

@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=114
+GUID={ADFC77B1-E032-4E52-A930-A412042D74ED}
+name=geoportal.rekod.ru
+name_ru=Карта (geoportal.rekod.ru)
+NameInCache=rekod_ru
+DefURLBase=http://basemap.rekod.ru/worldmap
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Сломанные карты\Другие карты
+ParentSubMenu=Not working\Other maps
+ParentSubMenu_uk=Зламані карти\Інші карти

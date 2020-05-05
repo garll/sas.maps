@@ -1,0 +1,15 @@
+﻿[PARAMS]
+pnum=194
+GUID={35FF2B84-774C-4D3F-85DB-5DBACB1AA69A}
+ParentSubMenu_ru=Сломанные карты\Локальные карты\Umap
+ParentSubMenu_uk=Зламані карти\Локальні карти\Umap
+ParentSubMenu=Not working\Local maps\Umap
+name_ru=Троицк (Umap.ru)
+name=Troitsk (Umap.ru)
+NameInCache=Umap_47074
+DefURLBase=http://31.25.240.68/_mapnew/shard.php?t=shard&n=47074
+ContentType=text/html , image/gif
+Ext=.gif
+projection=1
+sradiusa=6378137
+sradiusb=6378137

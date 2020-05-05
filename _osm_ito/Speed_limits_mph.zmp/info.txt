@@ -1,0 +1,8 @@
+OpenStreetMap - это карта всего мира,<br>
+которую может редактировать каждый,<br>
+которая создается практически с чистого листа<br>
+и распространяется под свободной лицензией.<br>
+<br>
+Первоисточник: <a href=http://www.openstreetmap.org>http://www.openstreetmap.org</a>
+ITO Map overlay showing the value in maxspeed=* for all ways with highway=* suitable for areas that used miles per hour. yellow for maxspeed of 'none' (some states in the USA), dark blue for '70 mph' (and '70mph'), light blue for 60/65 mph, purple for 50/55 mph, red for 40/45 mph, orange for 30/35 mph and green for 5/10/15/20/25 mph. Where a maxspeed is set to another value is it shown as 'tan'. If maxspeed is not set then for road classes of tertiary and higher roads are shown in black. Note that speeds much end in 'mph' with an optional but preferred space between the number and the letter 'mph'.
+<img src="004.png">

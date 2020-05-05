@@ -1,0 +1,21 @@
+﻿[PARAMS]
+GUID={678ABC23-7DE7-4AF4-B551-D883414321D6}
+asLayer=1
+name_ru= OSM Mapsurfer - Административные границы
+name=OSM Mapsurfer - Boundary
+name_uk=OSM Mapsurfer - Адміністративні межі
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu=Labels and borders
+ParentSubMenu_uk=Підписи та межі
+NameInCache=OSM_mapsurfer_boundary
+DefURLBase=https://maps.heigit.org/openmapsurfer/tiles/adminb/webmercator
+defaultContentType=image/png
+ContentType="image/pnga";"image/png"
+MimeTypeSubst="image/pnga=image/png"
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+IteratorSubRectSize=8,8
+License=Map data В© OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg
+

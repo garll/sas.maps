@@ -1,0 +1,57 @@
+function GetCode(const url: AnsiString): Cardinal;
+var
+  VResponseCode: Cardinal;
+  VResponseHeader, VResponseData: AnsiString;
+begin
+  Result := 1;
+  if Assigned(Downloader) then begin
+    VResponseHeader := '';
+    VResponseData := '';
+    VResponseCode := Downloader.DoHttpRequest(url, '', '', VResponseHeader, VResponseData);
+    Result := VResponseCode;
+  end;
+end;
+
+var
+  BaseUrl: string;
+  code: Cardinal;
+  z_ok, z_no: integer;
+  r: integer;
+begin
+  ResultURL := '';
+  z_ok := StrToIntDef(GetBefore(';', ScriptBuffer), 1); // Максимальный масштаб, который точно есть
+  z_no := StrToIntDef(GetAfter(';', ScriptBuffer), 25); // Минимальный масштаб, которого точно нет
+
+  // Масштаба нет - говорить не о чем
+  if getz >= z_no then exit;
+
+  // Выбор зеркала, если не указана версия
+  if version = '' then
+    // r := random(2)
+    r := 0
+  else
+    r := StrToInt(version);
+
+  case r of
+    0: BaseUrl := GetURLBase;
+    1: BaseUrl := RegExprReplaceMatchSubStr(GetURLBase, 'http://91.237.82.95:8088', 'https://maps.melda.ru');
+  end;
+
+  // Проверяем наличие масштаба
+  if getz > z_ok then begin
+    code := GetCode(BaseUrl+'z'+inttostr(getz)+'/');
+
+    // Внимание! Если сервер вернёт 403 - code почему-то будет 0. Так что выбор "404 или что-то иное"
+    // Если дело дошло до проверки наличия масштаба - значит какая-то граница (z_ok / z_no) точно подвинется.
+    if code = 404 then z_no := getz else z_ok := getz;
+
+    // Сохраняем актуализированные границы для последующих вызовов
+    ScriptBuffer := inttostr(z_ok) + ';' + inttostr(z_no);
+
+    // Масштаба нет (о чём могли только что при проверке узнать) - говорить не о чем
+    if getz >= z_no then exit;
+  end;
+
+  // Ок, качаем тайлик
+  ResultURL:= BaseUrl+'z'+inttostr(getz)+'/'+inttostr(getx div 1024)+'/x'+inttostr(getx)+'/'+inttostr(gety div 1024)+'/y'+inttostr(gety)+'.jpg';
+end.

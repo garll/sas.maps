@@ -1,0 +1,14 @@
+﻿[PARAMS]
+GUID={1765996B-95B8-46FD-9209-BC6B8689E2EC}
+ParentSubMenu_ru=Сломанные карты\Локальные карты
+ParentSubMenu=Not working\Local maps
+ParentSubMenu_uk=Зламані карти\Локальні карти
+name_ru=Чебоксары-old (cheboksary.ws/2010)
+name=Cheboksary-old (cheboksary.ws/2010)
+DefURLBase=http://www.cheboksary.ws/maps/
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=cheboksary.old
+Ext=.png
+ContentType=image/png
