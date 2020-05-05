@@ -1,8 +1,0 @@
-# use glob syntax.
-syntax: glob
-.bin/*
-.tmp/*
-*.bak
-*.~*
-*.orig
-*/Thumbs.db
